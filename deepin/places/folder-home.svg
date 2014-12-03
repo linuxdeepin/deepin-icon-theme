@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2">
+  <title
+     id="title4">folder-home</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <filter
+       filterUnits="objectBoundingBox"
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       color-interpolation-filters="sRGB"
+       id="filter-1">
+      <feOffset
+         id="feOffset11"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="1"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur13"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1"
+         stdDeviation="1" />
+      <feColorMatrix
+         id="feColorMatrix15"
+         result="shadowMatrixOuter1"
+         type="matrix"
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" />
+      <feMerge
+         id="feMerge17">
+        <feMergeNode
+           id="feMergeNode19"
+           in="shadowMatrixOuter1" />
+        <feMergeNode
+           id="feMergeNode21"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="0.5002225"
+       y1="0"
+       x2="0.5002225"
+       y2="1"
+       id="linearGradient-2">
+      <stop
+         id="stop24"
+         style="stop-color:#8ec5ff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop26"
+         style="stop-color:#70bcff;stop-opacity:1"
+         offset="0.97000003" />
+      <stop
+         id="stop28"
+         style="stop-color:#0f70e6;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     style="fill:none;stroke:none">
+    <g
+       id="folder-home">
+      <g
+         transform="translate(4,5)"
+         id="Group">
+        <path
+           d="m 2.009,7 0,-5 22.172,0 2.065,-2 11.763,0 0,7 L 40,7 40,36 0,36 0,7 2.009,7 z"
+           inkscape:connector-curvature="0"
+           id="Shape-2"
+           style="fill:#31a4fc;filter:url(#filter-1)" />
+        <path
+           d="m 38.009,30 -36,0 0,-28 22.172,0 2.065,-2 11.763,0 0,30 z"
+           inkscape:connector-curvature="0"
+           id="Shape"
+           style="fill:#31a4fc" />
+        <path
+           d="m 3.008,29.164 0,-19.33 4.703,-9.49 26.223,12.995 -0.188,15.838 -30.738,-0.013 z"
+           inkscape:connector-curvature="0"
+           id="path35"
+           style="fill:#ffffff" />
+        <rect
+           width="40"
+           height="29"
+           x="0"
+           y="7"
+           id="Rectangle-path"
+           style="fill:url(#linearGradient-2)" />
+        <path
+           d="m 25.007,21.471 3.012,0.022 -8.01,-7.501 -7.99,7.495 2.98,0 0.006,5.505 10.002,0 0,-5.521 z"
+           inkscape:connector-curvature="0"
+           id="path38"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

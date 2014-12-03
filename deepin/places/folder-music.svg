@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2">
+  <title
+     id="title4">folder-music</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <filter
+       filterUnits="objectBoundingBox"
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       color-interpolation-filters="sRGB"
+       id="filter-1">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur13" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0"
+         in="shadowBlurOuter1"
+         type="matrix"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix15" />
+      <feMerge
+         id="feMerge17">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode19" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode21" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="0.5"
+       y1="0"
+       x2="0.5"
+       y2="1"
+       id="linearGradient-2">
+      <stop
+         id="stop24"
+         style="stop-color:#8ec5ff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop26"
+         style="stop-color:#70bcff;stop-opacity:1"
+         offset="0.97000003" />
+      <stop
+         id="stop28"
+         style="stop-color:#0f70e6;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     style="fill:none;stroke:none">
+    <g
+       id="folder-music">
+      <g
+         transform="translate(4,5)"
+         id="Group">
+        <path
+           d="M 2,6 2,2 24.172,2 26.237,0 38,0 38,6 40,6 40,36 0,36 0,6 2,6 z"
+           inkscape:connector-curvature="0"
+           id="Shape-2"
+           style="fill:#31a4fc;filter:url(#filter-1)" />
+        <path
+           d="M 38,30 2,30 2,2 24.172,2 26.237,0 38,0 38,30 z"
+           inkscape:connector-curvature="0"
+           id="Shape"
+           style="fill:#31a4fc" />
+        <rect
+           width="40"
+           height="30"
+           x="0"
+           y="6"
+           id="Rectangle-path"
+           style="fill:url(#linearGradient-2)" />
+      </g>
+      <path
+         d="m 28.514,18.941 -8.001,-0.872 c -0.296,-0.032 -0.554,0.199 -0.554,0.497 l 0,7.614 c -0.605,-0.235 -1.395,-0.215 -2.155,0.121 -1.272,0.562 -1.965,1.782 -1.549,2.724 0.417,0.942 1.785,1.249 3.057,0.687 1.008,-0.446 1.642,-1.304 1.659,-2.11 l 0.011,-0.004 -0.023,-6.594 7,0.845 0,6.331 c -0.605,-0.235 -1.395,-0.215 -2.155,0.121 -1.272,0.562 -1.965,1.782 -1.549,2.724 0.417,0.942 1.785,1.249 3.057,0.687 1.008,-0.446 1.642,-1.304 1.659,-2.11 l 0.011,-0.004 -0.022,-10.16 c -0.001,-0.255 -0.193,-0.469 -0.446,-0.497 l 0,0 z"
+         inkscape:connector-curvature="0"
+         id="path36"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

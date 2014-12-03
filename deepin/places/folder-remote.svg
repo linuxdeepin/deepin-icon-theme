@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2">
+  <title
+     id="title4">folder-remote</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <filter
+       filterUnits="objectBoundingBox"
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       color-interpolation-filters="sRGB"
+       id="filter-1">
+      <feOffset
+         id="feOffset11"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="1"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur13"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1"
+         stdDeviation="1" />
+      <feColorMatrix
+         id="feColorMatrix15"
+         result="shadowMatrixOuter1"
+         type="matrix"
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" />
+      <feMerge
+         id="feMerge17">
+        <feMergeNode
+           id="feMergeNode19"
+           in="shadowMatrixOuter1" />
+        <feMergeNode
+           id="feMergeNode21"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="0.5"
+       y1="0"
+       x2="0.5"
+       y2="1"
+       id="linearGradient-2">
+      <stop
+         id="stop24"
+         style="stop-color:#8ec5ff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop26"
+         style="stop-color:#70bcff;stop-opacity:1"
+         offset="0.97000003" />
+      <stop
+         id="stop28"
+         style="stop-color:#0f70e6;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     style="fill:none;stroke:none">
+    <g
+       id="folder-remote">
+      <g
+         transform="translate(4,5)"
+         id="Group">
+        <path
+           d="M 2,6 2,2 24.172,2 26.237,0 38,0 38,6 40,6 40,36 0,36 0,6 2,6 z"
+           inkscape:connector-curvature="0"
+           id="Shape-4"
+           style="fill:#31a4fc;filter:url(#filter-1)" />
+        <path
+           d="M 38,30 2,30 2,2 24.172,2 26.237,0 38,0 38,30 z"
+           inkscape:connector-curvature="0"
+           id="Shape"
+           style="fill:#31a4fc" />
+        <rect
+           width="40"
+           height="30"
+           x="0"
+           y="6"
+           id="Rectangle-path"
+           style="fill:url(#linearGradient-2)" />
+      </g>
+      <path
+         d="m 17.398,24.173 -0.729,-0.684 c 1.96,-2.088 4.563,-3.237 7.331,-3.237 2.769,0 5.372,1.149 7.33,3.237 l -0.729,0.684 c -1.768,-1.884 -4.112,-2.921 -6.602,-2.921 -2.49,0 -4.833,1.037 -6.601,2.921 l 0,0 z"
+         inkscape:connector-curvature="0"
+         id="path36"
+         style="fill:#ffffff" />
+      <path
+         d="m 19.388,26.293 -0.729,-0.684 c 1.427,-1.521 3.323,-2.357 5.341,-2.357 2.018,0 3.914,0.837 5.34,2.357 l -0.729,0.684 C 27.376,24.977 25.738,24.252 24,24.252 c -1.738,0 -3.376,0.724 -4.612,2.041 l 0,0 z"
+         inkscape:connector-curvature="0"
+         id="path38"
+         style="fill:#ffffff" />
+      <path
+         d="m 21.377,28.412 -0.729,-0.684 c 0.894,-0.952 2.084,-1.477 3.352,-1.477 1.269,0 2.458,0.524 3.351,1.477 l -0.729,0.684 c -1.403,-1.495 -3.837,-1.497 -5.245,0 l 0,0 z"
+         inkscape:connector-curvature="0"
+         id="path40"
+         style="fill:#ffffff" />
+      <path
+         d="m 22.668,29.821 1.339,1.427 1.337,-1.424 c 0,0 -0.013,-0.007 -0.021,-0.015 -0.733,-0.782 -1.991,-0.695 -2.655,0.012 l 0,0 z"
+         inkscape:connector-curvature="0"
+         id="path42"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

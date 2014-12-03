@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2">
+  <title
+     id="title4">folder-wine</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <filter
+       filterUnits="objectBoundingBox"
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       color-interpolation-filters="sRGB"
+       id="filter-1">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur13" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0"
+         in="shadowBlurOuter1"
+         type="matrix"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix15" />
+      <feMerge
+         id="feMerge17">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode19" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode21" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="0.5"
+       y1="0"
+       x2="0.5"
+       y2="1"
+       id="linearGradient-2">
+      <stop
+         id="stop24"
+         style="stop-color:#8ec5ff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop26"
+         style="stop-color:#70bcff;stop-opacity:1"
+         offset="0.97000003" />
+      <stop
+         id="stop28"
+         style="stop-color:#0f70e6;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     style="fill:none;stroke:none">
+    <g
+       id="folder-wine">
+      <g
+         transform="translate(4,5)"
+         id="Group">
+        <path
+           d="M 2,6 2,2 24.172,2 26.237,0 38,0 38,6 40,6 40,36 0,36 0,6 2,6 z"
+           inkscape:connector-curvature="0"
+           id="Shape-4"
+           style="fill:#31a4fc;filter:url(#filter-1)" />
+        <path
+           d="M 38,30 2,30 2,2 24.172,2 26.237,0 38,0 38,30 z"
+           inkscape:connector-curvature="0"
+           id="Shape"
+           style="fill:#31a4fc" />
+        <rect
+           width="40"
+           height="30"
+           x="0"
+           y="6"
+           id="Rectangle-path"
+           style="fill:url(#linearGradient-2)" />
+      </g>
+      <path
+         d="m 22.498,31.327 -5,-0.599 0,-4.734 5,0.006 0,5.327 0,0 z m 0,-6.333 -5,0 0,-4.849 5,-0.778 0,5.627 0,0 z m 7,7.169 -6,-0.669 0.078,-5.5 5.922,0 0,6.169 0,0 z m 0,-7.138 -6,-0.031 0,-5.778 6,-0.925 0,6.734 0,0 z"
+         inkscape:connector-curvature="0"
+         id="path36"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="24" y1="2" x2="24" y2="46">
+	<stop  offset="0" style="stop-color:#7FE2FF"/>
+	<stop  offset="1" style="stop-color:#20A3F7"/>
+</linearGradient>
+<path style="fill:url(#SVGID_1_);" d="M46,39.4c0,3.645-2.955,6.6-6.6,6.6H8.6C4.955,46,2,43.045,2,39.4V8.6C2,4.955,4.955,2,8.6,2
+	H39.4C43.045,2,46,4.955,46,8.6V39.4z"/>
+<g>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="29" y1="7.5898" x2="29" y2="32.4102">
+		<stop  offset="0" style="stop-color:#908A89"/>
+		<stop  offset="1" style="stop-color:#69615F"/>
+	</linearGradient>
+	<rect x="18.658" y="7.59" style="opacity:0.5;fill:url(#SVGID_2_);" width="20.684" height="24.82"/>
+	<rect x="19" y="8" style="fill:#F7F8F8;" width="20" height="24"/>
+	<rect x="20" y="10" style="fill:#8DAE3E;" width="18" height="17"/>
+	<path style="opacity:0.2;fill:#01131A;" d="M29,27h9v-7.328c0,0-0.616-2.166-1.746-0.578c0,0,0.218-4.946-2.254-2.873
+		c0,0-4.22-3.123-4.296-3.876"/>
+	<path style="opacity:0.5;fill:#01131A;" d="M27.864,27c0,0,1.839-4.109,5.067-2.08c0,0,0.83,1,2.348-0.2
+		c0,0,1.453-2.021,2.721,0.28v1.488V27H28"/>
+	<path style="opacity:0.4;fill:#01131A;" d="M31,27h1.984h4.281H38v-5.008c0,0-1.782-1.625-5.93,5.008"/>
+</g>
+<g>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="25" y1="14.6249" x2="25" y2="39.377">
+		<stop  offset="0" style="stop-color:#908A89"/>
+		<stop  offset="1" style="stop-color:#69615F"/>
+	</linearGradient>
+	<rect x="14.658" y="14.59" style="opacity:0.5;fill:url(#SVGID_3_);" width="20.684" height="24.82"/>
+	<rect x="15" y="15" style="fill:#F7F8F8;" width="20" height="24"/>
+	<rect x="16" y="17" style="fill:#C9332E;" width="18" height="17"/>
+	<circle style="fill:#FED9A0;" cx="22.303" cy="20.08" r="1.424"/>
+	<path style="fill:#4E1413;" d="M33.528,30.057c0.099-0.556-0.449-0.458-0.449-0.458c-0.318-0.523-0.107-0.229-0.107-0.229
+		c0.327-0.426-0.196-0.425-0.196-0.425c0.196-0.556-0.196-0.36-0.196-0.36c0.262-0.491-0.458-0.449-0.458-0.449
+		c0.229-0.81-0.589-0.598-0.589-0.598c-0.295-0.589-0.523,0-0.523,0c-0.131-0.688-0.556-0.458-0.556-0.458
+		c0.019-0.477-0.23-0.683-0.453-0.774v-1.369l-0.672-0.478c0.021-2.442-0.672-2.116-0.672-2.116
+		c-0.393-0.544-0.233,2.246-0.233,2.246L28,24.935v2.445l-0.253,0.15L27,27.728v-1.439l-0.95-0.698
+		c-0.305-1.46-0.493,0.066-0.493,0.066l-0.735,0.436l-0.339,1.744L24,27.728v-0.981C24,25.83,23.786,27,23.786,27H23v-0.777
+		c0-0.458-2.113-0.196-2.113-0.196c-0.086-0.37-0.867-0.218-0.867-0.218C19.911,25.241,19,25.634,19,25.634v1.602
+		c-0.098-0.151-0.251-0.121-0.251-0.121c-0.741-1.266-1.264-0.101-1.264-0.101C17.092,26.187,16.809,27,16.809,27H16v7h18v-3.321
+		C34.144,29.927,33.528,30.057,33.528,30.057z"/>
+</g>
+<g>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="19" y1="11.5898" x2="19" y2="36.4102">
+		<stop  offset="0" style="stop-color:#908A89"/>
+		<stop  offset="1" style="stop-color:#69615F"/>
+	</linearGradient>
+	<rect x="8.658" y="11.59" style="opacity:0.5;fill:url(#SVGID_4_);" width="20.684" height="24.82"/>
+	<rect x="9" y="12" style="fill:#FFFFFF;" width="20" height="24"/>
+	<rect x="10" y="14" style="fill:#099BD1;" width="18" height="17"/>
+	<path style="fill:#01131A;" d="M10,24h0.809c0,0,0.283-0.813,0.677,0.015c0,0,0.522-1.165,1.264,0.101c0,0,0.48-0.115,0.284,0.885
+		H13v-2.366c0,0,0.911-0.393,1.019,0.175c0,0,0.781-0.152,0.867,0.218c0,0,2.113-0.262,2.113,0.196V24l0,0h0.786
+		c0,0,0.214-1.17,0.214-0.254v0.981l0.482,0.108l0.339-1.744l0.735-0.436c0,0,0.188-1.526,0.493-0.066L21,23.288v2.451l0,0v-1.012
+		l1-0.263v-2.529l0.423-0.349c0,0-0.159-2.79,0.233-2.246c0,0,0.693-0.326,0.672,2.116L24,21.935v1.396v0.392v1.004v0.021v-1.418
+		l2,0.109v1.287l0.544-0.109L27,23.942v-2.007l1-0.915V31H10V24z"/>
+	<circle style="fill:#FED9A0;" cx="16.303" cy="18.08" r="1.424"/>
+</g>
+</svg>

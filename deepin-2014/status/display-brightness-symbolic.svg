@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title9167">Gnome Symbolic Icon Theme</title>
+ <g id="layer9" transform="translate(-81,-317)">
+  <g id="g4927-4-0" transform="translate(0,40)">
+   <rect id="rect4906-43-6" style="color:#bebebe;enable-background:new;fill:#bebebe" rx=".5625" ry=".5625" height="2" width="2.9723" y="284" x="81"/>
+   <rect id="rect4906-4-6-6" style="color:#bebebe;enable-background:new;fill:#bebebe" rx=".5625" ry=".5625" height="2" width="3.0165" y="284" x="93.984"/>
+  </g>
+  <g id="g33239" transform="matrix(.70711 -.70711 .70711 .70711 -175.46 186.41)">
+   <rect id="rect33241" style="color:#bebebe;enable-background:new;fill:#bebebe" rx=".5625" ry=".5625" height="2" width="2.9723" y="284" x="81"/>
+   <rect id="rect33243" style="color:#bebebe;enable-background:new;fill:#bebebe" rx=".5625" ry=".5625" height="2" width="3.0165" y="284" x="93.984"/>
+  </g>
+  <g id="g33245" transform="matrix(0,-1,1,0,-196,414)">
+   <rect id="rect33247" style="color:#bebebe;enable-background:new;fill:#bebebe" rx=".5625" ry=".5625" height="2" width="2.9723" y="284" x="81"/>
+   <rect id="rect33249" style="color:#bebebe;enable-background:new;fill:#bebebe" rx=".5625" ry=".5625" height="2" width="3.0165" y="284" x="93.984"/>
+  </g>
+  <g id="g33251" transform="matrix(-.70711 -.70711 .70711 -.70711 -49.593 589.46)">
+   <rect id="rect33253" style="color:#bebebe;enable-background:new;fill:#bebebe" rx=".5625" ry=".5625" height="2" width="2.9723" y="284" x="81"/>
+   <rect id="rect33255" style="color:#bebebe;enable-background:new;fill:#bebebe" rx=".5625" ry=".5625" height="2" width="3.0165" y="284" x="93.984"/>
+  </g>
+  <path id="path32729" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#bebebe" d="m89.035 320.99c-2.1718 0-3.9469 1.7751-3.9469 3.9469s1.7751 3.9757 3.9469 3.9757 3.9757-1.8039 3.9757-3.9757-1.8039-3.9469-3.9757-3.9469zm0 2.0166c1.0909 0 1.959 0.83931 1.959 1.9302s-0.86812 1.959-1.959 1.959-1.9302-0.86812-1.9302-1.959 0.83931-1.9302 1.9302-1.9302z"/>
+ </g>
+</svg>
