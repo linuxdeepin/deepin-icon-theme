@@ -1,0 +1,42 @@
+#!/bin/sh
+
+# 功能: 生成links文件，将Deepin图标主题中的指定图标软链到hicolor-icon-theme
+# 参数:
+#   from: Deepin图标生成目录           (build/deepin)
+#   list: 需要安装到hicolor的图标列表  (hicolor.list)
+
+set -e
+
+FROM="$1"
+LIST="$2"
+ICON_DIR=/usr/share/icons
+
+
+get_sizes()
+(
+    category="$1"
+    ls $FROM/$category
+)
+
+get_icon()
+(
+    theme="$1"
+    category="$2"
+    size="$3"
+    base="$4"
+
+    if [ "$size" = "scalable" ]; then
+        echo $ICON_DIR/$theme/$category/$size/$base.svg
+    else
+        echo $ICON_DIR/$theme/$category/$size/$base.png
+    fi
+)
+
+for i in `cat $LIST`; do
+    category=`dirname $i`
+    base=`basename $i`
+
+    for s in $(get_sizes $category); do
+        echo $(get_icon Deepin $category $s $base) $(get_icon hicolor $category $s $base)
+    done
+done
