@@ -1,5 +1,5 @@
 Source: deepin-icon-theme
-Section: universe/x11
+Section: x11
 Priority: optional
 Maintainer: Zhang Cheng <zhangcheng@linuxdeepin.com>
 Standards-Version: 3.9.2
