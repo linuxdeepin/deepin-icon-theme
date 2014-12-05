@@ -14,3 +14,6 @@ install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
 	cp -r build/deepin $(DESTDIR)$(PREFIX)/share/icons/Deepin
 	cp -r build/deepin-2014 $(DESTDIR)$(PREFIX)/share/icons/Deepin-2014
+
+debian/links:
+	sh tools/hicolor.links build/deepin hicolor.list > $@
