@@ -1,4 +1,6 @@
 places/deepin-launcher
+places/deepin-logo
+places/distributor-logo
 status/audio-volume-000-muted
 status/audio-volume-000
 status/audio-volume-010-muted
@@ -22,3 +24,4 @@ status/audio-volume-090
 status/audio-volume-100-muted
 status/audio-volume-100
 status/network-online
+status/drive-removable-dock
