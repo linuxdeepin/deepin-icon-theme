@@ -25,3 +25,14 @@ status/audio-volume-100-muted
 status/audio-volume-100
 status/network-online
 status/drive-removable-dock
+status/audio-volume-high-symbolic-osd.svg
+status/audio-volume-medium-symbolic-osd.svg
+status/audio-volume-low-symbolic-osd.svg
+status/audio-volume-muted-symbolic-osd.svg
+status/touchpad-toggled-symbolic.svg
+status/project_screen-duplicate-symbolic.svg
+status/project_screen-duplicate-symbolic-focus.svg
+status/project_screen-extend-symbolic.svg
+status/project_screen-extend-symbolic-focus.svg
+status/project_screen-onlyone-symbolic.svg
+status/project_screen-onlyone-symbolic-focus.svg
