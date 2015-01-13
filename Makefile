@@ -2,6 +2,10 @@ PREFIX = /usr
 
 all: build
 
+check-name-unique: 
+	find deepin -name "*.svg" | xargs -n1 basename | sort | uniq -d | xargs -I '{}' find -name '{}' 
+	find deepin-2014 -name "*.svg" | xargs -n1 basename | sort | uniq -d | xargs -I '{}' find -name '{}'
+
 build:
 	mkdir -p build
 	python tools/convert.py deepin build
