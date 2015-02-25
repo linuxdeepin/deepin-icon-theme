@@ -43,3 +43,11 @@ status/project_screen-extend-symbolic
 status/project_screen-extend-symbolic-focus
 status/project_screen-onlyone-symbolic
 status/project_screen-onlyone-symbolic-focus
+status/network-mobile-unknown-online-symbolic
+status/network-mobile-unknown-offline-symbolic
+status/network-mobile-2g-online-symbolic
+status/network-mobile-2g-offline-symbolic
+status/network-mobile-3g-online-symbolic
+status/network-mobile-3g-offline-symbolic
+status/network-mobile-4g-online-symbolic
+status/network-mobile-4g-offline-symbolic
