@@ -10,10 +10,16 @@ build:
 clean:
 	rm -rf build
 
-install:
+install: install-icons install-cursors
+
+install-icons:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
 	cp -r build/deepin $(DESTDIR)$(PREFIX)/share/icons/Deepin
 	cp -r build/deepin-2014 $(DESTDIR)$(PREFIX)/share/icons/Deepin-2014
+
+install-cursors:
+	cp -r deepin/cursors $(DESTDIR)$(PREFIX)/share/icons/Deepin
+	install -m644 deepin/cursor.theme $(DESTDIR)$(PREFIX)/share/icons/Deepin/cursor.theme
 
 debian/links: build hicolor.list
 	sh tools/hicolor.links build/deepin hicolor.list > $@
