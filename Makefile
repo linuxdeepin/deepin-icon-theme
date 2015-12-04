@@ -9,7 +9,12 @@ check-same-icon:
 	find deepin -type f | xargs md5sum | sort | uniq --check-chars=32 -d 
 	find deepin-2014 -type f | xargs md5sum | sort | uniq --check-chars=32 -d
 
-build:
+prepare:
+	mkdir -p build
+
+build: prepare convert debian/links
+
+convert:
 	mkdir -p build
 	python tools/convert.py deepin build
 	python tools/convert.py deepin-2014 build
@@ -22,5 +27,5 @@ install:
 	cp -r build/deepin $(DESTDIR)$(PREFIX)/share/icons/Deepin
 	cp -r build/deepin-2014 $(DESTDIR)$(PREFIX)/share/icons/Deepin-2014
 
-debian/links: build hicolor.list
+debian/links: hicolor.list
 	sh tools/hicolor.links build/deepin hicolor.list > $@
