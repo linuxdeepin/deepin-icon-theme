@@ -51,3 +51,9 @@ status/network-mobile-3g-online-symbolic
 status/network-mobile-3g-offline-symbolic
 status/network-mobile-4g-online-symbolic
 status/network-mobile-4g-offline-symbolic
+status/notification-battery_low
+status/package_download_failed
+status/package_install_failed
+status/package_install_succeed
+status/package_update_failed
+status/system_updated
