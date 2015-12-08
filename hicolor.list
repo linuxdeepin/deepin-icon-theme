@@ -57,3 +57,6 @@ status/package_install_failed
 status/package_install_succeed
 status/package_update_failed
 status/system_updated
+status/wm-effect-enabled
+status/wm-effect-disabled
+status/wm-effect-error
