@@ -22,10 +22,11 @@ clean:
 install: install-icons install-cursors
 
 install-icons:
-	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
-	cp -r build/deepin $(DESTDIR)$(PREFIX)/share/icons/Deepin
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/Deepin
+	cp -r build/deepin/* $(DESTDIR)$(PREFIX)/share/icons/Deepin
 
 install-cursors:
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/Deepin
 	cp -r deepin/cursors $(DESTDIR)$(PREFIX)/share/icons/Deepin
 	install -m644 deepin/cursor.theme $(DESTDIR)$(PREFIX)/share/icons/Deepin/cursor.theme
 
