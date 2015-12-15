@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Deepin
-Comment=Default icon theme for linux deepin
-Inherits=flattr,Faenza
+Name=deepin
+Comment=Default icon theme for deepin
+Inherits=flattr
 
 Example=x-directory-normal
 
