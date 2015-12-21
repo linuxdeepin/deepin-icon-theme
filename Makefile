@@ -22,13 +22,13 @@ clean:
 install: install-icons install-cursors
 
 install-icons:
-	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/Deepin
-	cp -r build/deepin/* $(DESTDIR)$(PREFIX)/share/icons/Deepin
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
+	cp -r build/deepin/* $(DESTDIR)$(PREFIX)/share/icons/deepin
 
 install-cursors:
-	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/Deepin
-	cp -r deepin/cursors $(DESTDIR)$(PREFIX)/share/icons/Deepin
-	install -m644 deepin/cursor.theme $(DESTDIR)$(PREFIX)/share/icons/Deepin/cursor.theme
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
+	cp -r deepin/cursors $(DESTDIR)$(PREFIX)/share/icons/deepin
+	install -m644 deepin/cursor.theme $(DESTDIR)$(PREFIX)/share/icons/deepin/cursor.theme
 
 debian/links: hicolor.list
 	sh tools/hicolor.links build/deepin hicolor.list > $@
