@@ -84,4 +84,5 @@ status/notification-bluetooth-connected
 status/notification-bluetooth-disconnected
 status/notification-bluetooth-error
 status/notification-change-language-start
+status/notification-change-language-failed
 status/notification-change-language-finished
