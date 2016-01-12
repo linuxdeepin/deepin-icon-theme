@@ -5,13 +5,13 @@ Inherits=flattr
 
 Example=x-directory-normal
 
-Directories=actions/scalable,actions/16,actions/22,actions/24,apps/16,apps/48,apps/128,apps/scalable,devices/scalable,devices/16,devices/48,places/16,places/22,places/24,places/32,places/48,places/64,places/128,places/scalable,status/scalable,status/16,status/48,mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,mimetypes/scalable
+Directories=actions/scalable,actions/16,actions/22,actions/24,apps/scalable,apps/16,apps/48,apps/128,devices/scalable,devices/16,devices/48,places/scalable,places/16,places/22,places/24,places/32,places/48,places/64,places/128,status/scalable,status/16,status/48,mimetypes/scalable,mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32
 
 [actions/scalable]
 Size=96
 Context=Actions
 Type=Scalable
-MinSize=32
+MinSize=16
 MaxSize=96
 
 [actions/16]
@@ -85,7 +85,7 @@ Type=Fixed
 Size=96
 Context=Emblems
 Type=Scalable
-MinSize=64
+MinSize=16
 MaxSize=128
 
 [devices/scalable]
@@ -134,7 +134,7 @@ Type=Fixed
 Size=512
 Context=MimeTypes
 Type=Scalable
-MinSize=48
+MinSize=16
 MaxSize=512
 
 [places/16]
@@ -178,7 +178,7 @@ Type=Fixed
 Size=256
 Context=Places
 Type=Scalable
-MinSize=32
+MinSize=16
 MaxSize=256
 
 [status/16]
