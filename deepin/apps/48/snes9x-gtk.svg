@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>snes9x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="snes9x" stroke="#272727">
+            <g id="Group" filter="url(#filter-1)" transform="translate(2.000000, 9.000000)">
+                <ellipse id="Oval-18" fill="#096F00" cx="9.01639344" cy="19.8360656" rx="9.01639344" ry="3.96721311"></ellipse>
+                <ellipse id="Oval-18" fill="#FDFA36" cx="24.8852459" cy="27.0491803" rx="9.01639344" ry="3.96721311"></ellipse>
+                <path d="M19.5079584,16.8073695 C22.8528119,15.609979 25.2459016,12.4123264 25.2459016,8.6557377 C25.2459016,3.87530577 21.3705959,0 16.5901639,0 C11.809732,0 7.93442623,3.87530577 7.93442623,8.6557377 C7.93442623,9.85860146 8.17978669,11.0041582 8.62318915,12.0450895 C9.53481561,11.7187455 10.5171404,11.5409836 11.5409836,11.5409836 C15.1185518,11.5409836 18.1891868,13.7114224 19.5079584,16.8073695 Z" id="Combined-Shape" fill="#0023F9"></path>
+                <path d="M36.0596552,25.1874403 C40.5320057,24.6981255 44,21.1970696 44,16.9508197 C44,12.3695724 39.9632232,8.6557377 34.9836066,8.6557377 C30.00399,8.6557377 25.9672131,12.3695724 25.9672131,16.9508197 C25.9672131,17.2131451 25.9804489,17.4726265 26.0063395,17.7287295 C26.7848958,17.4583712 27.6211949,17.3114754 28.4918033,17.3114754 C32.6746812,17.3114754 36.0655738,20.702368 36.0655738,24.8852459 C36.0655738,24.9864533 36.0635886,25.087197 36.0596552,25.1874403 Z" id="Combined-Shape" fill="#F90705"></path>
+            </g>
+        </g>
+    </g>
+</svg>

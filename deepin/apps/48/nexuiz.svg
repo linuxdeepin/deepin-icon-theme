@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>nexuiz</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nexuiz">
+            <g id="Group" filter="url(#filter-1)" transform="translate(3.000000, 3.000000)">
+                <circle id="Oval-16" fill="#444444" cx="21" cy="21" r="21"></circle>
+                <path d="M16.4485015,11.5475657 C16.4485015,11.5475657 17.5835159,8.52086082 16.0701634,6.25083213 C14.556811,3.98080345 18.3401921,5.4941559 18.3401921,5.4941559 C18.3401921,5.4941559 23.6369256,7.0075086 22.1235732,10.4125514 C22.1235733,10.4125515 25.9069544,9.27753705 25.9069544,9.27753705 C25.9069544,9.27753705 27.0419694,8.5208607 29.3119974,9.27753705 C31.5820255,10.0342134 33.0953786,10.7908895 33.0953786,10.7908895 C33.0953786,10.7908895 34.2303929,10.7908896 33.8520548,12.6825801 C33.4737167,14.5742705 31.5820261,21.3843567 31.5820261,21.3843567 C31.5820261,21.3843567 28.1769831,32.7344999 24.393602,35.7612048 C23.2585877,36.5178811 23.2585876,35.7612051 23.2585876,35.7612051 L21.7452351,32.7345002 C21.7452351,32.7345002 19.8535445,29.707795 23.2585876,31.5994858 C23.2585877,31.5994856 25.1502781,27.8161044 25.9069544,23.6543854 C26.6636307,19.4926664 27.0419687,14.5742707 27.0419687,14.5742707 L20.2318827,16.4659612 L17.961854,22.8977092 C17.961854,22.8977092 15.6918253,30.8428096 8.50340113,32.3561618 C8.50340113,32.3561616 7.3683868,32.7345004 9.63841547,30.0861333 C9.63841548,30.0861331 15.6918253,21.3843567 15.3134872,16.8442991 C15.3134872,16.8442989 11.530106,16.8442996 8.88173924,15.3309469 C6.23337245,13.8175942 10.3950917,13.0609182 10.3950917,13.0609182 L16.4485015,11.5475657 Z" id="Path-30" fill="#D8D8D8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

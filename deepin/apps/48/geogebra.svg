@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>geogebra</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="geogebra">
+            <g id="Group-5" filter="url(#filter-1)" transform="translate(2.121212, 5.500000)">
+                <ellipse id="Oval-18" stroke="#979797" stroke-width="3" transform="translate(21.633600, 18.901303) rotate(-15.000000) translate(-21.633600, -18.901303) " cx="21.6335999" cy="18.9013031" rx="18.0158419" ry="14.6387867"></ellipse>
+                <ellipse id="Oval-19" stroke="#434343" fill="#989CFF" cx="19.5757576" cy="4.60606061" rx="4.60606061" ry="4.60606061"></ellipse>
+                <circle id="Oval-19" stroke="#434343" fill="#989CFF" cx="38" cy="11.5151515" r="4.60606061"></circle>
+                <ellipse id="Oval-19" stroke="#434343" fill="#989CFF" cx="33.3939394" cy="28.7878788" rx="4.60606061" ry="4.60606061"></ellipse>
+                <ellipse id="Oval-19" stroke="#434343" fill="#989CFF" cx="13.8181818" cy="33.3939394" rx="4.60606061" ry="4.60606061"></ellipse>
+                <ellipse id="Oval-19" stroke="#434343" fill="#989CFF" cx="4.60606061" cy="16.1212121" rx="4.60606061" ry="4.60606061"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

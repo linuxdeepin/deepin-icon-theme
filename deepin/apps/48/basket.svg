@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>BasKet Note Pads</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#filter-1)">
+        <g id="BasKet-Note-Pads">
+            <g id="Group-3" transform="translate(4.000000, 5.000000)">
+                <g id="Group" transform="translate(26.611216, 18.343267) rotate(-345.000000) translate(-26.611216, -18.343267) translate(18.111216, 7.843267)">
+                    <rect id="Rectangle-4" fill="#EAEAEA" x="-3.55271368e-15" y="7.99360578e-15" width="17" height="21"></rect>
+                    <rect id="Rectangle-5" fill="#6498E5" x="1" y="1" width="15" height="3"></rect>
+                </g>
+                <path d="M30.5,21.5833333 L30.5,11.4654039 C30.5,5.40260296 25.5751322,0.5 19.5,0.5 C13.423532,0.5 8.5,5.40937853 8.5,11.4654039 L8.5,21.5833333 L30.5,21.5833333 L30.5,21.5833333 Z" id="Combined-Shape" stroke="#F5BA00" stroke-width="3"></path>
+                <g id="Group-2" transform="translate(14.000000, 19.500000) scale(-1, 1) rotate(-330.000000) translate(-14.000000, -19.500000) translate(6.000000, 9.000000)">
+                    <path d="M-3.55271368e-14,5 L5.5,-1.24344979e-14 L16,-1.24344979e-14 L16,21 L-3.55271368e-14,21 L-3.55271368e-14,5 Z" id="Rectangle-6" fill="#FFFFFF"></path>
+                    <path d="M0.285898387,5.13878394 L5.5,5.5 L5.50000018,0.339745966 L0.285898387,5.13878394 Z" id="Path-34" fill="#E9E9E9"></path>
+                </g>
+                <path d="M0.535087585,20.9263153 C0.239566872,19.8624407 0.891539827,19 1.99729162,19 L38.0027084,19 C39.1057821,19 39.7588396,19.8681774 39.4649124,20.9263153 L35,37 L5,37 L0.535087585,20.9263153 Z" id="Rectangle-1" fill="#F5BA00"></path>
+                <path d="M35.7142857,35 L35,38 L5,38 L4.28571429,35 L35.7142857,35 Z" id="Combined-Shape" fill="#EBEBEB"></path>
+            </g>
+        </g>
+    </g>
+</svg>

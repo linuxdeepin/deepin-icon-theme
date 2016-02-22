@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>myeclipse</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="5" y="5" width="38" height="38" rx="1"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="myeclipse">
+            <g id="Rectangle-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#082D52" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M23.7970607,22.5139232 C23.7970607,22.5139232 19.1565151,18.3153342 27.1117362,13.0118533 C35.0669574,7.70837247 37.2767412,11.023048 37.2767412,11.023048 C37.2767412,11.023048 41.6963087,15.6635934 27.7746713,22.2929448 C27.7746712,22.2929451 33.29913,32.236972 18.714558,37.5404525 C4.5719425,41.7390398 10.5383586,31.1320798 14.294991,28.2593611 C18.714558,24.7237072 23.7970607,22.5139232 23.7970607,22.5139232 L23.7970607,22.5139232 L23.7970607,22.5139232 L23.7970607,22.5139232 L23.7970607,22.5139232 L23.7970607,22.5139232 L23.7970607,22.5139232 L23.7970607,22.5139232 L23.7970607,22.5139232 L23.7970607,22.5139232 Z M25.1229309,20.0831608 C24.4599958,19.1992472 22.9131472,18.0943559 29.1005417,13.45381 C36.6138064,8.15032917 37.2767405,13.6747884 35.5089141,15.4426155 C29.3215193,21.6300094 25.785866,20.9670744 25.1229309,20.0831608 L25.1229309,20.0831608 L25.1229309,20.0831608 L25.1229309,20.0831608 L25.1229309,20.0831608 Z M24.9019526,23.8397934 C24.9019526,23.8397934 14.2949909,28.0383824 12.3061855,34.0047983 C10.3173802,39.9712143 21.1453207,35.5516469 22.0292341,34.6677334 C29.5424987,29.8062093 24.9019526,23.8397934 24.9019526,23.8397934 L24.9019526,23.8397934 L24.9019526,23.8397934 L24.9019526,23.8397934 L24.9019526,23.8397934 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

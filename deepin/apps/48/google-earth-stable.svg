@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>谷歌地球</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="谷歌地球">
+            <circle id="Oval-3" fill="#0046C5" filter="url(#filter-1)" cx="24" cy="24" r="21"></circle>
+            <path d="M17.2412744,5.84418711 C19.6580763,4.62622455 36.3250586,1.35632965 42.3760146,18.0837983 C39.9592127,20.5771182 37.2559749,16.0438631 37.2559749,16.0438631 C37.2559749,16.0438631 29.8086445,5.10958494 17.2412744,5.84418711 Z" id="Path-10" fill="#FFFFFF"></path>
+            <path d="M15.3078323,40.8782535 C15.3078323,40.8782535 7.41732092,36.9310596 6.12398539,30.2443251 C4.83064986,23.5575907 20.4815588,33.7081589 20.4815588,33.7081589 C20.4815588,33.7081589 28.8419237,37.9780911 38.1571444,34.1539412 C43.7615974,31.4792474 37.0590503,37.9780911 37.0590503,37.9780911 C37.0590503,37.9780911 28.8419237,41.3616139 19.6193351,37.7201996 C14.4459928,35.491288 15.3078323,40.8782535 15.3078323,40.8782535 Z" id="Path-9" fill="#FFFFFF"></path>
+            <path d="M5.640625,18.1587365 C5.640625,18.1587365 7.49110957,10.8862167 13.9678056,7.97720888 C20.4445016,5.0682011 30.1595456,17.1890669 30.1595456,17.1890669 C30.1595456,17.1890669 36.5756899,24.4440005 42.859375,26.3774421 C42.859375,28.3108836 41.8926542,30.7276856 41.8926542,30.7276856 C41.8926542,30.7276856 34.785757,29.309933 25.9959553,21.5525785 C12.5799422,8.46204348 5.640625,18.1587365 5.640625,18.1587365 Z" id="Path-8" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

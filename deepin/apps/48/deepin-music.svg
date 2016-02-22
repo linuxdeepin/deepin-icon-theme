@@ -1,23 +1,119 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>深度音乐-48px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="4.1304029%" y1="43.4371322%" x2="96.2750973%" y2="43.4371323%" id="linearGradient-1">
-            <stop stop-color="#3F474C" offset="0%"></stop>
-            <stop stop-color="#151E25" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="深度音乐-48px">
-            <image id="Bitmap" x="2" y="7" width="46" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAoCAYAAACB4MgqAAAABGdBTUEAA1teXP8meAAAAhZJREFUWAnVmYtOg0AQRcG3Rk1Mo///j8b3o94z5RIgSIqBujPJsAvdwtnZOwO0dVVVtRyjdT8OrLTZ6rw45na3N2N70ow9bk7yNeO7fx3KtfDhtWZNghMcyc/l7/JDGIBc095d6b1XnIgz2JFX9yD22bkK1yeAMHw3rmZaRswa23umu+GLblkBJvIhdxBpJ5lKABdja0wA7RN92H6FN7jGFGPIhXwDHgmNwpcILtawN20BH4UvGRx64EdlUzo48MjmVN5L2AzgLpFEvrUM4MA6WeGNZM0CDrzLJP2oldFJsHHUQ+uZIu6HsGDOBI4oSFTqeiqpwGvwOlvESdC0UgE8XcSRS7o6DnQkJp1sGgc8ymI2cJ5XqCzbbOBnDXgqqZCUSIWSmCriVwL2O2mqiF8LnActNJ4GHGgkQsSpKimkgq5v5K9ywMMyVJV7kfLSbJmkqOMbAaPpF3kbbfWL1viD+KjbT3KiHdpWG9Z7c/bBf27RNNDYoxyZxN2SA7bSwG8FdidHGkQa6LjhqO1ZCeAUCICpHMiBKAPeS0bt98zgkam9T9bd4S54KecPBXRM4gFLyQO4rdfqj1oXnJM9j45a9iA3EzQMIO7oAovHnVHtZDB5cGGpLuQsFfAkx1qGXoElQI4soHZ1p4EZgMWPK2qBZclYAR9Td1FzOSOq/PswTLrJCA9JupDd/nDckvueAOecBduF+AGlV3CVZfuUAQAAAABJRU5ErkJggg=="></image>
-            <path d="M29,43.001 C38.3888407,43.001 46,35.3898407 46,26.001 C46,16.6121593 38.3888407,9.001 29,9.001 C19.6111593,9.001 12,16.6121593 12,26.001 C12,35.3898407 19.6111593,43.001 29,43.001 Z" id="circle13330" fill="#478500" transform="translate(29.000000, 26.001000) rotate(-270.000000) translate(-29.000000, -26.001000) "></path>
-            <path d="M29,42 C37.836556,42 45,34.836556 45,26 C45,17.163444 37.836556,10 29,10 C20.163444,10 13,17.163444 13,26 C13,34.836556 20.163444,42 29,42 Z" id="circle13330" fill="url(#linearGradient-1)" transform="translate(29.000000, 26.000000) rotate(-270.000000) translate(-29.000000, -26.000000) "></path>
-            <circle id="circle13353" fill="#000000" transform="translate(29.000000, 26.000000) rotate(-270.000000) translate(-29.000000, -26.000000) " cx="29" cy="26" r="9"></circle>
-            <circle id="circle13353" fill="#478500" transform="translate(29.000000, 26.000000) rotate(-270.000000) translate(-29.000000, -26.000000) " cx="29" cy="26" r="6"></circle>
-            <path d="M-0.5,13.4929654 C-0.5,12.9445658 -0.0448269844,12.5 0.500419438,12.5 L34.4995806,12.5 C35.052097,12.5 35.5,12.9461086 35.5,13.4929654 L35.5,38.5070346 C35.5,39.0554342 35.044827,39.5 34.4995806,39.5 L0.500419438,39.5 C-0.0520969611,39.5 -0.5,39.0538914 -0.5,38.5070346 L-0.5,13.4929654 Z" id="Rectangle-118" fill="#92DC00" transform="translate(17.500000, 26.000000) rotate(-270.000000) translate(-17.500000, -26.000000) "></path>
-            <path d="M17.0524335,18.4596593 C17.0524335,18.4596593 17.0524335,17.9606611 17.5452085,17.9596611 C18.0379835,17.9586611 18.0490351,18.4596593 18.0490351,18.4596593 C18.0490351,18.4596593 18.0179593,19.7636576 20.5541327,21.4596594 C21.0179593,21.7636576 25.5490355,24.4596591 23.3322085,29.3806611 C23.3322085,29.3806611 23.2122085,29.6336611 22.9472085,29.5276611 C22.7382085,29.4436611 22.8092085,29.1766611 22.8092085,29.1766611 C22.8092085,29.1766611 24.5490351,23.9596591 18.0490351,22.4596591 C18.0490351,22.4596591 18.0595497,29.5397683 18.0532421,31.475845 C18.0595495,32.9596596 17.0682722,34.3176311 15.283794,34.7957806 C13.3899893,35.303224 11.5360949,34.525324 11.1430049,33.0582922 C10.749915,31.5912604 11.9664846,29.990632 13.8602892,29.4831886 C15.0611376,29.1614222 16.2459391,29.3564591 17.0524335,29.9162936 L17.0524335,18.4596593 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(17.504347, 26.455312) rotate(-360.000000) translate(-17.504347, -26.455312) "></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	
+		<image overflow="visible" opacity="0.3" width="175" height="209" xlink:href="data:image/png;base64,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
+RU5ErkJggg==" transform="matrix(0.24 0 0 0.24 3 -0.9844)">
+	</image>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<circle fill="#151E25" cx="24.016" cy="18.016" r="17"/>
+						<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8.1312" y1="18.0156" x2="39.9615" y2="18.0156">
+							<stop  offset="0" style="stop-color:#FFFFFF"/>
+							<stop  offset="0.1233" style="stop-color:#C4C4C4"/>
+							<stop  offset="0.2466" style="stop-color:#909090"/>
+							<stop  offset="0.3718" style="stop-color:#646464"/>
+							<stop  offset="0.497" style="stop-color:#404040"/>
+							<stop  offset="0.6223" style="stop-color:#242424"/>
+							<stop  offset="0.7476" style="stop-color:#101010"/>
+							<stop  offset="0.8733" style="stop-color:#040404"/>
+							<stop  offset="1" style="stop-color:#000000"/>
+						</linearGradient>
+						<circle opacity="0.1" fill="url(#SVGID_1_)" enable-background="new    " cx="24.016" cy="18.016" r="16"/>
+						<circle fill="#6DA600" cx="24.016" cy="18.016" r="7"/>
+						<g>
+							<circle fill="#151E25" cx="24.016" cy="18.016" r="3"/>
+						</g>
+					</g>
+					<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="24" y1="15.9836" x2="24" y2="44.9836">
+						<stop  offset="0" style="stop-color:#92E100"/>
+						<stop  offset="0.97" style="stop-color:#92D700"/>
+						<stop  offset="1" style="stop-color:#388200"/>
+					</linearGradient>
+					<rect x="6" y="15.984" fill="url(#SVGID_2_)" width="36" height="29"/>
+					<path fill="#FFFFFF" d="M27.293,25.057c-1.917-1.195-2.286-2.101-2.286-2.491v-0.267c0-0.52-0.356-0.939-0.754-0.938
+						c-0.398,0.002-0.739,0.424-0.739,0.944l-0.021,11.149c-1.008-0.523-2.305-0.559-3.792-0.046
+						c-2.191,0.756-3.406,2.826-2.78,4.433s2.883,2.227,5.043,1.387c1.769-0.689,2.921-2.144,2.938-3.531
+						c0.014-0.073,0.035-9.469,0.035-9.469c4.067,1.083,4.724,3.47,4.724,3.47c0.713,1.737-0.144,3.88-0.144,3.88
+						s-0.071,0.267,0.138,0.351c0.265,0.106,0.385-0.147,0.385-0.147c1.272-2.75,0.48-4.93,0.48-4.93
+						C29.809,26.409,27.293,25.057,27.293,25.057z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>

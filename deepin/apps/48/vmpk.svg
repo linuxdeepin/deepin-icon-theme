@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="47px" height="48px" viewBox="0 0 47 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>vmpk</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vmpk">
+            <g id="Group" filter="url(#filter-1)" transform="translate(5.000000, 3.000000)">
+                <path d="M37,38.9998938 C37,40.104522 36.1037214,41 34.9976004,41 L2.00239962,41 C0.896504848,41 0,40.1099416 0,38.9998938 L0,22.5 L0,11 C0,4.92486775 4.923532,0 11,0 C16.7381102,0 21.4500393,4.39241194 21.9551749,10 C22,10 22,13 28,13 L28.504272,13 C30.9309196,13 36.7292579,13.9551845 36.9908451,21 L37,38.9998938 Z" id="Combined-Shape" fill="#361904"></path>
+                <rect id="Rectangle-14" fill="#FFFFFF" x="2" y="29" width="33" height="10" rx="1"></rect>
+                <rect id="Rectangle-15" fill="#000000" x="5" y="29" width="3" height="7"></rect>
+                <rect id="Rectangle-15" fill="#000000" x="11" y="29" width="3" height="7"></rect>
+                <rect id="Rectangle-15" fill="#000000" x="17" y="29" width="3" height="7"></rect>
+                <rect id="Rectangle-15" fill="#000000" x="23" y="29" width="3" height="7"></rect>
+                <rect id="Rectangle-15" fill="#000000" x="29" y="29" width="3" height="7"></rect>
+                <rect id="Rectangle-20" fill="#000000" x="6" y="36" width="1" height="3"></rect>
+                <rect id="Rectangle-20" fill="#000000" x="12" y="36" width="1" height="3"></rect>
+                <rect id="Rectangle-20" fill="#000000" x="18" y="36" width="1" height="3"></rect>
+                <rect id="Rectangle-20" fill="#000000" x="24" y="36" width="1" height="3"></rect>
+                <rect id="Rectangle-20" fill="#000000" x="30" y="36" width="1" height="3"></rect>
+                <path d="M2,14.0068455 C2,13.4507801 2.38001846,13.2313156 2.84585945,13.514871 L24.1541405,26.485129 C24.6212958,26.7694844 24.5610822,27 23.9969294,27 L3.00307055,27 C2.44908998,27 2,26.5500512 2,25.9931545 L2,14.0068455 Z" id="Rectangle-24" fill="#512C12"></path>
+            </g>
+        </g>
+    </g>
+</svg>

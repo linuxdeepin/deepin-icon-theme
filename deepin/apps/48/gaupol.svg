@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Gaupol</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="5" y="6" width="38" height="36"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Gaupol">
+            <g id="Rectangle-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M25.0218116,34.9890942 C29.1886955,34.9039308 34.0075854,34.3487576 34.0075854,34.3487576 C35.6625114,34.1846163 37.1808124,32.7186739 37.4038558,31.084445 C37.4038558,31.084445 38,27.4152372 38,24 C38,20.719585 37.4009763,16.9357599 37.4009763,16.9357599 C37.1857487,15.2812657 35.6660178,13.8198435 34.0204674,13.6512424 C34.0204674,13.6512424 28.4033203,13 24,13 C19.7366536,13 13.9891567,13.6538723 13.9891567,13.6538723 C12.3294938,13.8174353 10.8204768,15.282935 10.5990237,16.9191486 C10.5990237,16.9191486 10,20.6675866 10,24 C10,27.3632388 10.5961442,31.0677414 10.5961442,31.0677414 C10.7499377,32.2420494 11.5667039,33.3230077 12.6184802,33.9075989 L11,42 L25.0218116,34.9890942 L25.0218116,34.9890942 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

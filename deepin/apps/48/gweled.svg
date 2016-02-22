@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Gweled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Gweled">
+            <image id="Bitmap" x="1" y="3" width="46" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAsCAYAAAAacYo8AAAABGdBTUEAA1teXP8meAAAAydJREFUWAnNmIlS3DAQREMOEgKBHMD/f2QCOYBNP7FNyaxlHdba7qrBtizNtEbtkZaTN2U4UTdb2Yi2XjsNs7V5iEZB+L3sQ9R2rFtiEIuYk3g3+fbZAY7eyv5l+vZ4/SQnjkfmk5gi7kxz/Zv00P/Fo1xmyaeIr0XaaciSHyO+Nuki8q+Jb4V0lnxMfGukJ8mb+FZJJ8lDHNJcKXlLVg+Fq4I/WPjuIAtM/Plpu3/hG1TCDTPAvsion1sF3OAY+EKcHYplYGe8lm0VcIMjXHfWuLfXUzUysz+yLeFKZOB6JwtHj6CXPUPOCYDl+C3zM21rgoPXV9lPGQkNp8eYuNpCI/KBPB23gFuRIJH3siATSMXEQ5lRGzNCMsyUAWuCTJPIX7KHmEhM3O3W+4UaWBpmuQZIHtoeSMRExojzDvKswKWM2S4NYiMR5DGQiImMEY8lg1yY+dKS+bYnSBUZSGTfPtC423yNJcNRYCnJfFQsr/RLFTEpX8cy7ndcl5YMq30jS0oEUiBHnD6QRzJkAofHxPe9c0vEq34Qs5Q4Ds5l6G1Ucwee6xs+aQiVjCqCNJOk9a4o4/SzE5cn2nrCVYRMUwheNppUkJKMeyzkOcecyXpL5od8csTISkR9AtiVSgBpJAJhyiPL2gv4wie+ieHV1W0aNRnHi50iGTYmP/OuBSSOKlIsEQepJc44yFoyBJwDJIKeiyXiYKVScX9IWzKUSPTeCsbio0oiDtaSccbyIVEJvMPVSiaWCMTxV+WjlbjizJJMLJFs6SPYa8wlTpY+y8hY6X9z6Y+x0TCmKtPqHzCHOA4ctFQySORaRkVio6mWiMYEzCWOE8jjhyNBrspA2h93k0Q0PqAHcbIGqBJMIiUZJsZmQ7azZxH1mUQP4gSIJUPW/ezgxOGDnC2R2KHv51whilkyEIxxowdWonqjiZ3E970y7p97+PY5xv9A5ajKWd4Soc9s9CJuIs48VYbsUkWQCKWPn2HNVURjByBTPYE/tnE+RB8nIEu2m2u2xh6gd8YtGTIPcUhTr1OVRq/a0DvjsMAnpOOMd5MIAcAxiI/5ZQW64j94MdUiKoZMYAAAAABJRU5ErkJggg=="></image>
+            <polygon id="Path-83" fill="#00C4FF" points="3 12.9628864 12 4 36 4 45 12.9628864 23.9999996 44"></polygon>
+            <polygon id="Path-84" fill="#A8EAFF" transform="translate(16.000000, 29.000000) scale(-1, 1) translate(-16.000000, -29.000000) " points="24 20.5 19 14 8 44"></polygon>
+            <polygon id="Path-85" fill="#0070B9" points="24 44 24 13.9824615 34 14"></polygon>
+            <polygon id="Path-86" fill="#BCEFFF" points="4.5 13 12.5 5 35.5 5 43.5 13"></polygon>
+            <polygon id="Path-87" fill="#00A2E0" points="13 14 24 14 24 44"></polygon>
+        </g>
+    </g>
+</svg>

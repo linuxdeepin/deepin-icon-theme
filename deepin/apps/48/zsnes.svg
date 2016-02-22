@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>zsnes</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="zsnes">
+            <image id="Bitmap" x="0" y="2" width="48" height="46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAuCAYAAABu3ppsAAAABGdBTUEAA1teXP8meAAAA5pJREFUaAXV2ImO2zAMBNBu76I3il7//4e97y2f6gkcx0kUNNk4BBjJMiXNkBRl5OrWceRqWCatx3E/u1wPnWmb9we3c5v0LpK5Wnp7mAjcWA3HJq0xNn+GNs/ag8SCh0rmABzQv6sPzCGS+dYzN/MTna61AqbLuIzYZ2Nzfvr5T7HmndIxkW4SvQTYUeC1v0q7NynbHrHu3dJxau3dA/N9EvBZHPhTiTTiJLj2ggdiH4F4/V7ZAi7XTy1IAG/PvSR2EQh4nv/Rs1jZHEsA7yKxjUDSJp5PhTgWwJ51xiS27r+NgDzkeRNvIm22EUKCM+EMoTVbQKeSCdpTHtjpvtueYcjBhmlNphFgwFjqfF+zPO+DLLhfupFKcxFAiqGQLUVgQWLq8ObtgIz3U3UyvpTWrQ8bp69SaRqBrYdlASxEQWasRWFMACsMj/F9U8ucRNxHMG5EwABFaAmVp2DMigjASBuJcQRyeGdnLmhQKq1wp4NN8n9BWGehpBptRACZjTo7u8R5B91PnI3AVSIAkoFLIJBq1LCHAPD65/zuqe27ZZVGQLdQDFMvIQKgwtnugxBQW794cyGSD7x2BlJ9llz/p36N41ve8/4lgUempY8OJgg42ZckDwoszNcJhe//SxIEWsVEwIl+fEHoHw1YEWgRkP/SKC+G94tslPxnpW7jdm5zGLx4USoaS/6cfjNg/Fpti0BKaA7x83ohEt9KM1bdRciTQvGw9FMpJzd8CPC+B4yoAyIaH0qXIjC+Kv1cyrkyZUWg+k0MhgRi/gUQqiUIhxJfC3J/lR05A16SRCKViXE7LO3teX6k9NNS3t/4i3NKIBDDEHNRQOgcAt/r0qROO7hjINsIsEHCPeFgC11IVfdGBLZ3pRxI11KnnpvsIpCDwuZlKRI3FQn30vtS9Z73V1Wn+muyiwBDgKlIIGGhU58JOf+2VLUZg5/NgH0Eao1GQO7lsuMdix9bUiqdO9EO+GTC7H49BEy0SEosD4kGjwjxMcTngXxH4mMpAkmbWc/X+yYm9Ag7irD7AQlqzM3o0js0tURSgfAhCWQOq1KZarMTfNk1ANpeAdh5sLlPcFe7mxspBEREegUEIATxzEGcvWd2mZPztTNlyn5NADpUMgeRMTCEKGDGvY8tTyYNEQU26hlR78ler/8z+/ebDcZjvf3M1QIbQukbjw1QIREiWhrAaWuoX7JB/4x5y6wzbafWATltp3bdz38BN0rlCbnJlZcAAAAASUVORK5CYII="></image>
+            <circle id="Oval-5" fill="#313135" cx="24" cy="24" r="21"></circle>
+            <ellipse id="Oval-6" fill="#4B99FE" cx="21.6530612" cy="16.3265306" rx="10.3265306" ry="10.3265306"></ellipse>
+            <circle id="Oval-6" fill="#FE4040" cx="35.6734694" cy="25.7142857" r="10.3265306"></circle>
+            <ellipse id="Oval-6" fill="#FF5E51" transform="translate(32.411584, 22.647004) rotate(-45.000000) translate(-32.411584, -22.647004) " cx="32.4115838" cy="22.6470038" rx="6.65490013" ry="4.9911751"></ellipse>
+            <ellipse id="Oval-6" fill="#65BEFF" transform="translate(17.756396, 13.370766) rotate(-51.000000) translate(-17.756396, -13.370766) " cx="17.7563965" cy="13.3707664" rx="6.39871747" ry="4.79903811"></ellipse>
+            <ellipse id="Oval-6" fill="#23D000" cx="12" cy="28.3636364" rx="11" ry="7"></ellipse>
+            <ellipse id="Oval-6" fill="#FFE600" cx="24" cy="35" rx="11" ry="7"></ellipse>
+            <ellipse id="Oval-6" fill="#FFFD00" transform="translate(20.488480, 32.113693) rotate(-15.000000) translate(-20.488480, -32.113693) " cx="20.4884797" cy="32.1136935" rx="6.22979087" ry="3.26666667"></ellipse>
+            <ellipse id="Oval-6" fill="#2DED07" transform="translate(8.915574, 25.262869) rotate(-15.000000) translate(-8.915574, -25.262869) " cx="8.91557352" cy="25.2628687" rx="6.85714286" ry="3"></ellipse>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>gnome-twitch</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gnome-twitch" fill="#6345A8">
+            <g id="Group-4" filter="url(#filter-1)" transform="translate(4.000000, 3.000000)">
+                <path d="M3.5,0 L40,0 L40,24 L29,35 L22,35 L14.5555569,41.9555545 L8.87223721,41.955555 L8.87223721,35 L0,35 L0,9 L3.5,0 Z M37,3 L37,20.6666667 L28.5,29 L20.5,29 L13,36 L13,29 L5,29 L5,3 L37,3 Z" id="Combined-Shape"></path>
+                <path d="M8,29.0311215 C8,29.0311215 12.6750801,23.348078 11.5875401,16.674039 C10.5,10.0000001 12.5,8.49999999 13.1820025,7.50000011 C13.8640051,6.50000022 20,2.9999999 24.5,8.0000001 C26.5,10.5000002 25.9377003,15.4781924 25.9377003,15.4781924 C25.9377003,15.4781924 25.1404686,22.6532717 29.9238559,26.2408125 C34.7072432,29.8283533 25.5390847,31.0241993 25.5390847,31.0241993 L25.1404692,29.0311215 C25.1404692,29.0311215 21,25.8065468 22,22.6532732 C23,19.4999996 20.3570824,18.2685013 20.3570824,18.2685013 C20.3570824,18.2685013 21.7972311,17.0726542 21,15.4781922 C20.2027689,14.6809613 18.5,16.0000001 19,18.0000001 C19,18.0000001 17,16.6740394 14.7764646,17.8698857 C14.7764646,17.869886 14.5,15.4781924 13.1820023,15.4781924 C11.8640046,15.4781923 12,17.4999999 13.9792334,18.6671169 C13.9792334,18.2685015 11.5875401,19.9999996 13.1820023,22.6532725 C13.1820023,22.6532727 12.0944622,29.2027685 10.5,29.9999999 C8.90553775,30.7972313 8,29.0311215 8,29.0311215 Z" id="Path-33"></path>
+            </g>
+        </g>
+    </g>
+</svg>

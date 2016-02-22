@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Google Play Music Desktop Player</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.62451172,44.7601383 C8.17503392,45.5611655 7,44.8632534 7,43.2065151 L7,5.00401126 C7,3.34494166 8.17546134,2.64959705 9.62451172,3.45038806 L44.3754883,22.6548751 C45.8249661,23.4559023 45.8245387,24.7548602 44.3754883,25.5556512 L9.62451172,44.7601383 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Google-Play-Music-Desktop-Player">
+            <g id="Triangle-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#F34A20" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M37.330804,29.4889702 C37.7653345,28.1373228 38,26.6960658 38,25.1999998 C38,17.4680133 31.7319865,11.1999998 24,11.1999998 C16.2680135,11.1999998 10,17.4680133 10,25.1999998 C10,31.7102686 14.4437088,37.1826536 20.4634499,38.7494783 L37.330804,29.4889702 L37.330804,29.4889702 Z" id="Combined-Shape" fill="#FDCC00"></path>
+            <circle id="Oval-3" fill="#FF8B00" cx="24" cy="25.2000008" r="9"></circle>
+            <g id="Group" transform="translate(17.500000, 17.700001)" stroke="#FFFFFF" stroke-width="0.5">
+                <path d="M3.9,10.8333333 C3.9,10.8333333 5.03333324,16.4 8.4999999,12.5" id="Path-14"></path>
+                <path d="M9.1,10.8333333 C9.1,10.8333333 11.8333333,5.4 7.5,1.5" id="Path-15"></path>
+                <path d="M11.5,7.5000001 C11.5,7.5000001 14.7333333,3.46666667 9.53333333,2.6" id="Path-16"></path>
+                <path d="M8,3 C8,3 1.5,3.99999997 1,9.50000003" id="Path-17"></path>
+                <path d="M4.76666667,3.03333333 C4.76666667,3.03333333 -0.999999987,1.00000004 1.00000002,6.50000008" id="Path-18"></path>
+                <path d="M2.16666667,7.8 C2.16666667,7.8 4.99999968,12.8 11.4999997,11.5" id="Path-19"></path>
+                <ellipse id="Oval-4" cx="6.93333333" cy="0.866666667" rx="0.866666667" ry="0.866666667"></ellipse>
+                <circle id="Oval-4" cx="12.1333333" cy="11.2666667" r="0.866666667"></circle>
+                <ellipse id="Oval-4" cx="0.866666667" cy="10.4" rx="0.866666667" ry="0.866666667"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>字符映射表</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="28.3985016%" y1="0%" x2="58.6087394%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E8E8E8" offset="0%"></stop>
+            <stop stop-color="#BAB7B7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="字符映射表">
+            <image id="Bitmap" x="3" y="4" width="42" height="42" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAAABGdBTUEAA1teXP8meAAAAQhJREFUWAntmbsOwkAMBAmvno7//0caHjk8R7wK/Up3hS2tzknhDEMqZzn8atmd2W+3hh0tnkyoBhQ5bvnEuUZmKJhOEXhWLqhzZCZImACECbZuEqOXyCwm4cqCCbYFo4CieNaCrYMCCOys1dnyHZ0VUlwFKhWmpoyaRGpMGZUKU1NGTSI1poxKhakpoyaRGlNGpcLUlFGTSI0po1JhasqoSaTGlFGpMDVl1CRSY8qoVJiaMmoSqTFlVCpMTRplqd9X0Ka5rjEw9Q8OgNKwK79FWEPPUrDABFtL4ldcXCP37Ry9gUbeM/KIwPb3+QZofkXfmcc5svJfBvIdWdPc/sx+JCjPBpZQ7Qt6ISKWvwDQXwAAAABJRU5ErkJggg=="></image>
+            <rect id="Rectangle-34" fill="url(#linearGradient-1)" x="5" y="5" width="38" height="38" rx="2"></rect>
+            <rect id="Rectangle-34" fill="#FFFFFF" x="12" y="12" width="24" height="24" rx="1"></rect>
+            <polygon id="Combined-Shape" fill="#868686" points="26.75 27 30 27 32 21 33.7999992 21 30.2000122 33 33 33 32.5 34 28 34 29.7999992 28 20 28 22 21 23.6000004 21 22 27 25 27 27 21 28.7000008 21"></polygon>
+            <path d="M7.99900236,11 C7.4471914,11 7.31263262,10.6872276 7.70563339,10.2942268 L11.2940871,6.70577316 C11.6838748,6.31598541 12.4473294,6 13.0005549,6 L34.9991656,6 C35.551834,6 36.3126326,6.31277239 36.7056334,6.70577316 L40.2940871,10.2942268 C40.6838748,10.6840146 40.544936,11 40.0007181,11 L7.99900236,11 Z" id="Path-92" fill="#FFFFFF" transform="translate(23.998113, 8.500000) scale(-1, -1) translate(-23.998113, -8.500000) "></path>
+            <path d="M23.500889,26.5181133 C22.9490781,26.5181133 22.8145193,26.2053409 23.2075201,25.8123401 L26.7959738,22.2238865 C27.1857615,21.8340987 27.9492161,21.5181133 28.5024415,21.5181133 L50.5010523,21.5181133 C51.0537207,21.5181133 51.8145193,21.8308857 52.2075201,22.2238865 L55.7959738,25.8123401 C56.1857615,26.2021279 56.0468227,26.5181133 55.5026048,26.5181133 L23.500889,26.5181133 Z" id="Path-92" fill="#DBDBDB" transform="translate(39.500000, 24.018113) scale(-1, -1) rotate(-270.000000) translate(-39.500000, -24.018113) "></path>
+            <path d="M-7.49911095,26.5181133 C-8.05092192,26.5181133 -8.1854807,26.2053409 -7.79247993,25.8123401 L-4.20402625,22.2238865 C-3.8142385,21.8340987 -3.05078387,21.5181133 -2.49755846,21.5181133 L19.5010523,21.5181133 C20.0537207,21.5181133 20.8145193,21.8308857 21.2075201,22.2238865 L24.7959738,25.8123401 C25.1857615,26.2021279 25.0468227,26.5181133 24.5026048,26.5181133 L-7.49911095,26.5181133 Z" id="Path-92" fill="#F6F6F6" transform="translate(8.500000, 24.018113) scale(1, -1) rotate(-270.000000) translate(-8.500000, -24.018113) "></path>
+            <path d="M8.01900234,42 C7.46719138,42 7.3326326,41.6872276 7.72563337,41.2942268 L11.314087,37.7057732 C11.7038748,37.3159854 12.4673294,37 13.0205548,37 L35.0191656,37 C35.571834,37 36.3326326,37.3127724 36.7256334,37.7057732 L40.314087,41.2942268 C40.7038748,41.6840146 40.564936,42 40.0207181,42 L8.01900234,42 Z" id="Path-92" fill="#D5D5D5" transform="translate(24.018113, 39.500000) scale(-1, -1) rotate(-180.000000) translate(-24.018113, -39.500000) "></path>
+        </g>
+    </g>
+</svg>

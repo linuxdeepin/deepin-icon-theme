@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>obs-studio</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="obs-studio">
+            <circle id="Oval-1" fill="#F1F1F1" filter="url(#filter-1)" cx="24" cy="24" r="21"></circle>
+            <circle id="Oval-1" fill="#1C1A1E" cx="24" cy="24" r="18"></circle>
+            <path d="M11.8467231,37.284875 C11.1829457,36.6697252 10.565437,36.0053517 10,35.2975573 C10.5607549,35.8052435 11.1952568,36.2329719 11.8855173,36.5627539 C12.9083744,37.0514389 14.0536692,37.3250479 15.2628689,37.3250479 C19.5950293,37.3250479 23.1069392,33.813138 23.1069392,29.4809775 C23.1069392,25.3313925 19.8848047,21.9343772 15.8060227,21.6554186 C11.1703104,17.5443492 13.4166097,6.70074945 22.758842,6 C21.9982834,6.13409158 21.2755144,6.37776305 20.607423,6.71412656 C18.044339,8.00456063 16.2860085,10.659252 16.2860085,13.7246235 C16.2860085,18.0567839 19.7979184,21.5686938 24.1300788,21.5686938 C26.7923499,21.5686938 29.1448492,20.2424026 30.5628883,18.2145085 C44.2518244,18.2145083 40.9323568,30.7604711 40.5603239,31.5692837 C40.7435078,30.9043817 40.841359,30.2041068 40.841359,29.4809775 C40.841359,25.1488171 37.3294491,21.6369072 32.9972887,21.6369072 C28.6651283,21.6369072 25.1532184,25.1488171 25.1532184,29.4809775 C25.1532184,30.6487714 25.4084102,31.7569621 25.8660701,32.7528259 C23.4479854,39.712374 15.0711065,40.2730429 11.8467231,37.284875 Z" id="Combined-Shape" fill="#F1F1F1"></path>
+        </g>
+    </g>
+</svg>
