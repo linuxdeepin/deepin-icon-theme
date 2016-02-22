@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>BricsCAD</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="5" y="5" width="38" height="38" rx="1"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BricsCAD">
+            <g id="Rectangle-8">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M22,18 L30,18 L18,36 L10,36 L22,18 L22,18 Z M18,12 L26,12 L30,18 L22,18 L18,12 L18,12 Z M26,24 L34,24 L38,30 L30,30 L26,24 L26,24 Z M26,36 L34,36 L38,30 L30,30 L26,36 L26,36 Z" id="Combined-Shape" fill="#3A8FF6"></path>
+        </g>
+    </g>
+</svg>

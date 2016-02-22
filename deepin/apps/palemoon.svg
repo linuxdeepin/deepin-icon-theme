@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>palemoon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="21"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="palemoon">
+            <g id="Oval-18">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#5480C1" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M24.5254371,44.3076172 C14.0320269,44.3076172 5.52543713,35.8010274 5.52543713,25.3076172 C5.52543713,14.8142069 14.0320269,6.30761719 24.5254371,6.30761719 C25.7629856,6.30761719 26.9728997,6.42593405 28.1444847,6.65187306 C19.3819764,8.34171412 12.7635324,16.0517554 12.7635324,25.3076172 C12.7635324,34.5634789 19.3819764,42.2735203 28.1444847,43.9633613 C26.9728997,44.1893003 25.7629856,44.3076172 24.5254371,44.3076172 Z" id="Combined-Shape" fill="#4974B3" transform="translate(16.834961, 25.307617) rotate(-11.000000) translate(-16.834961, -25.307617) "></path>
+            <ellipse id="Oval-19" fill-opacity="0.280000001" fill="#85ADEA" cx="29" cy="22" rx="14" ry="17"></ellipse>
+            <ellipse id="Oval-19" fill-opacity="0.409999996" fill="#85ADEA" transform="translate(33.788582, 14.788582) rotate(-315.000000) translate(-33.788582, -14.788582) " cx="33.7885822" cy="14.7885822" rx="12" ry="7.5"></ellipse>
+            <ellipse id="Oval-19" fill-opacity="0.550000012" fill="#85ADEA" transform="translate(34.844291, 12.844291) rotate(-315.000000) translate(-34.844291, -12.844291) " cx="34.8442911" cy="12.8442911" rx="7.69705627" ry="4.81066017"></ellipse>
+        </g>
+    </g>
+</svg>

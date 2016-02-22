@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Baka-MPlayer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Baka-MPlayer">
+            <g id="Group-2" filter="url(#filter-1)" transform="translate(3.000000, 5.000000)">
+                <path d="M2.6530612,0.0595465159 C-1.49999992,13.3589739 1.99999997,25.6666662 2.2859508,25.9403537 C4.50000007,33.8717944 12.1555837,39 21,39 C29.5458158,39 36.9999991,33.8717944 39.540795,26.6862069 C40.5000003,23.9999996 43.4999985,14.3846149 39.433624,0.0595465159 C39.433624,0.0595465159 32.3040073,-0.970322477 23.9999991,7.20512778 C23.4077251,7.15317012 18.4521924,7.17507299 17.9999991,7.20512802 C11.4551647,0.939145635 6.99999982,0.0595465147 2.6530612,0.0595465159 Z" id="Combined-Shape" stroke="#FFFFFF" fill="#000000"></path>
+                <ellipse id="Oval-5" fill="#FFFFFF" cx="12" cy="21.0512821" rx="8" ry="8.71794872"></ellipse>
+                <ellipse id="Oval-5" fill="#000000" cx="12" cy="20.8589744" rx="5" ry="5.44871795"></ellipse>
+                <ellipse id="Oval-5" fill="#FFFFFF" cx="30" cy="21.0512821" rx="8" ry="8.71794872"></ellipse>
+                <ellipse id="Oval-5" fill="#000000" cx="30" cy="20.8589744" rx="5" ry="5.44871795"></ellipse>
+                <path d="M17,32.3333333 C17,31.8205128 17.7046888,30.7948718 20.9988065,30.7948718 C24.2929241,30.7948718 25,31.8205128 25,32.3333333 C25,32.8461538 24.9999999,36.9487179 20.9988065,36.9487179 C16.9999999,36.9487179 17,32.8461538 17,32.3333333 Z" id="Path-21" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

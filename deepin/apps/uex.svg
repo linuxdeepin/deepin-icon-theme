@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>UltraEdit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="21"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UltraEdit">
+            <g id="Oval-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <circle id="Oval-1" fill="#FFDE3B" cx="24" cy="24" r="19"></circle>
+            <path d="M15.544,19.448 L16.544,9.176 L12.872,9.176 L11.872,20.168 C11.872,23.624 13.696,26.24 18.04,26.24 C21.76,26.24 24.904,24.512 24.904,19.376 L25.904,9.176 L22.232,9.176 L21.232,19.904 C21.232,22.232 19.7920002,23.0000004 18.0400002,23.0000004 C15.9999998,23.0000004 15.544,21.848 15.544,19.448 Z M35.0000003,38.9999994 L35.5000003,35.9760002 L26.52,35.976 L26.9999998,31.9679998 L35.5000003,31.9679998 L36.0000003,28.9440001 L27.52,28.944 L27.9999998,25.1999999 L36.832,25.1999999 L37.5000003,22.176 L24.872,22.176 L22.872,39 L35.0000003,38.9999994 Z" id="UE" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>bitfighter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="6.21428571" y="14.4794856" width="25.5714286" height="18.563756"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25.5714286" height="18.563756" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bitfighter">
+            <g id="Group-2" filter="url(#filter-1)" transform="translate(25.000000, 23.500000) rotate(-315.000000) translate(-25.000000, -23.500000) translate(6.000000, -2.000000)">
+                <g id="Group" transform="translate(-0.000000, 0.000000)">
+                    <polygon id="Triangle-3" stroke="#FC0D1B" fill="#FD7422" points="8.68571429 28.9772727 29.3142857 28.9772727 19 51"></polygon>
+                    <polygon id="Triangle-3" stroke="#FC0D1B" fill="#FFFD38" points="14.25 33.9034091 23.75 33.9034091 19 44.0454545"></polygon>
+                    <use id="Rectangle-2" stroke="#979797" mask="url(#mask-3)" stroke-width="2" fill="#000000" xlink:href="#path-2"></use>
+                    <polygon id="Triangle-1" stroke="#B2B2B2" fill="#000000" points="19 0.579545455 38 34.1931818 -3.8959312e-14 34.1931818"></polygon>
+                    <polygon id="Triangle-2" stroke="#669F66" points="19 3.47727273 30.9428571 31.875 7.05714286 31.875"></polygon>
+                    <path d="M17.9142857,31.875 L17.9142857,20.2840909" id="Path-11" stroke="#669F66"></path>
+                    <path d="M20.0857143,31.875 L20.0857143,20.2840909" id="Path-11" stroke="#669F66"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

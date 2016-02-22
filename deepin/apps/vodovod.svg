@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Vodovod</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vodovod">
+            <image id="Bitmap" x="3" y="4" width="42" height="42" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAAABGdBTUEAA1teXP8meAAAAORJREFUWAntmW0KwjAQBRMVEcH7H1QQEUvdyUfpAR644lt4bRphGcb9ldRSSo1QvOe6bSR4rMFANrjj2FjYTFRwIW85jMWZj0i2ggm2OkFP2Qh3PLA1UPayzeaOs7NhlPoZ0I6b+DmNJkbsaAZV/0U2aqNqA+p+nlEbVRtQ9/OM2qjagLqfZ9RG1QbU/TyjNqo2oO7nGbVRtQF1P8/o3xttB/pqC6J+jW3OKB9XUWNlG5i2WxFgL5FbhB+4ichQXDQ8IvfIkyNxAhy3D+1gf+zF62uFRfKOvCLLBI11A852lj+Bywd9zBZ8nqXF5gAAAABJRU5ErkJggg=="></image>
+            <rect id="Rectangle-31" fill="#DCF3F6" x="5" y="5" width="38" height="38" rx="1"></rect>
+            <path d="M18.3141383,11.9424148 C18.1406445,11.4219335 17.5621186,11 16.9970707,11 L13.0059191,11 C11.8980806,11 11.3102458,11.8376635 11.6952411,12.8771511 L20.6557774,37.0705989 C20.8458863,37.5838929 21.4509752,38 21.990778,38 L26.009222,38 C26.5564136,38 27.1570761,37.5758945 27.3442226,37.0705989 L36.3047589,12.8771511 C36.6887299,11.8404292 36.1134452,11 34.9940809,11 L31.0029293,11 C30.4490268,11 29.8576025,11.4271925 29.6858617,11.9424148 L24,29 L18.3141383,11.9424148 Z" id="v" fill="#004DFF"></path>
+            <polygon id="v" fill="#17FEE9" points="22 36 13.5 13 17 13 24 33 31 13 34.5 13 26 36"></polygon>
+        </g>
+    </g>
+</svg>

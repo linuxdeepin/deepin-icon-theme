@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>kshutdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="21"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kshutdown">
+            <g id="Oval-41">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#F4544D" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M24,41 C33.3888407,41 41,33.3888407 41,24 C41,14.6111593 33.3888407,7 24,7 C14.6111593,7 7,14.6111593 7,24 C7,33.3888407 14.6111593,41 24,41 Z M24,37 C31.1797017,37 37,31.1797017 37,24 C37,16.8202983 31.1797017,11 24,11 C16.8202983,11 11,16.8202983 11,24 C11,31.1797017 16.8202983,37 24,37 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <rect id="Rectangle-6" fill="#FFFFFF" x="22" y="15" width="4" height="18" rx="2"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Scilab</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="38" height="38"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Scilab">
+            <g id="Group-2" transform="translate(5.000000, 5.000000)">
+                <g id="Rectangle-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#191919" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#CBCDFF" x="1" y="1" width="36" height="36"></rect>
+                <rect id="Rectangle-2" fill="#329ACE" x="2" y="2" width="34" height="34"></rect>
+                <rect id="Rectangle-2" fill="#000000" x="4" y="4" width="30" height="30"></rect>
+                <ellipse id="Oval-1" fill="#FE3534" cx="13.2972973" cy="24.3793103" rx="2.91891892" ry="2.89655172"></ellipse>
+                <ellipse id="Oval-1" fill="#FE0605" cx="8.91891892" cy="19.3103448" rx="2.91891892" ry="2.89655172"></ellipse>
+                <ellipse id="Oval-1" fill="#FE9999" cx="22.4189189" cy="24.0172414" rx="2.55405405" ry="2.53448276"></ellipse>
+                <ellipse id="Oval-1" fill="#FE6766" cx="18.7702703" cy="18.2241379" rx="2.55405405" ry="2.53448276"></ellipse>
+                <ellipse id="Oval-1" fill="#FE3534" cx="14.3918919" cy="13.8793103" rx="2.55405405" ry="2.53448276"></ellipse>
+                <ellipse id="Oval-1" fill="#FFFFFF" cx="30.4459459" cy="25.4655172" rx="2.55405405" ry="2.53448276"></ellipse>
+                <ellipse id="Oval-1" fill="#FFCCCC" cx="28.9864865" cy="19.6724138" rx="2.55405405" ry="2.53448276"></ellipse>
+                <ellipse id="Oval-1" fill="#FE9999" cx="26.0675676" cy="14.6034483" rx="2.55405405" ry="2.53448276"></ellipse>
+                <ellipse id="Oval-1" fill="#FE6630" cx="22.4189189" cy="9.53448276" rx="2.55405405" ry="2.53448276"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

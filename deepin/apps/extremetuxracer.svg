@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>extremetuxracer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="extremetuxracer">
+            <g id="Group" filter="url(#filter-1)" transform="translate(3.000000, 3.000000)">
+                <circle id="Oval-16" fill="#FF6600" cx="21" cy="21" r="21"></circle>
+                <path d="M31.1648064,24.0824032 C28.7536275,26.1845113 24.209042,28 19,28 C11.2680135,28 5,23 5,21 C5,19 11.2680135,14 19,14 C24.209042,14 28.7536275,15.8154887 31.1648064,17.9175968 L37,15 L35.5,21 L37,27 L31.1648064,24.0824032 L31.1648064,24.0824032 Z" id="Combined-Shape" fill="#9CCCFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

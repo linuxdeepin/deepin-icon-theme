@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>California</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="California">
+            <g id="Group" filter="url(#filter-1)" transform="translate(7.000000, 3.000000)">
+                <rect id="Rectangle-13" fill="#DDAD60" x="0" y="3" width="34" height="38" rx="1"></rect>
+                <rect id="Rectangle-14" fill="#DBDBDB" x="3" y="5" width="28" height="32"></rect>
+                <polygon id="Rectangle-14" fill="#FFFFFF" points="3 5 31 5 31 28 24 35 3 35"></polygon>
+                <circle id="Oval-2" fill="#686868" cx="8" cy="8" r="2"></circle>
+                <circle id="Oval-2" fill="#686868" cx="26" cy="8" r="2"></circle>
+                <rect id="Rectangle-16" fill="#A5A5A5" x="7" y="0" width="2" height="9" rx="1"></rect>
+                <rect id="Rectangle-16" fill="#A5A5A5" x="25" y="0" width="2" height="9" rx="1"></rect>
+                <polygon id="Rectangle-18" fill="#F0F0F0" points="24 28 31 28 24 35"></polygon>
+                <text id="3" font-family="KohinoorDevanagari-Medium, Kohinoor Devanagari" font-size="20" font-weight="400" fill="#686868">
+                    <tspan x="12" y="30">3</tspan>
+                </text>
+                <text id="Friday" font-family="KohinoorDevanagari-Medium, Kohinoor Devanagari" font-size="5" font-weight="400" fill="#686868">
+                    <tspan x="10" y="14">Friday</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

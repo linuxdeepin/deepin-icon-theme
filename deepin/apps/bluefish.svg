@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>bluefish</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.0009641%" y1="0.000445275626%" x2="50.0009641%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1765" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.00278435194%" x2="50%" y2="100.002784%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1765" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bluefish">
+            <image id="Bitmap" x="1.317" y="3.859" width="46" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAArCAYAAAAHdLqEAAAABGdBTUEAA1teXP8meAAAA/5JREFUWAnN2ddyGzEMRmE7vddJef+3y1UmmfTm4Fvvz+Gu1kWyLS1mEJJgOwBBSlaOj9YvxwuIJ3cWjGsxBfjWDOif9u2ZcS1N0DR890YwTpyo7xrxRGNejusPxbBB1eZlP2apbk2AoP+UPin9XYpVm5ybKudBWVg/KOr4lGxLqj9jqnqmZC5osE9LAX8pfVzKNgRiKeImE3DtaAbLaVv1b2m8H7uGIo70NvW7pdYyZ9i4yiWxNyZOPhj102ibrD0H7z02kIfXIdaRp/bj9ASi2sTeOUngUoSjP0sflZI2z8BIoEXnrIhm7C7lr5pkY/DZq1+HTR/Yh2PH97HMyZs/yBwctIk8vgmxtugndcASJRYqaNIE5I9SwjaRgJvoQig3Bk1mXL0BSPRFN3taNa8Ip9RzQvo4HCe1Bw+VjBYyeB8CXu4CpAJof6chTZx4zyKYGBu8CRopbypFaotFAQ+YEg7lw6Z/GNgbtIFJFV7rPIQEPgHEIMJ9yurbAGfgsTw6hAjYt1KpIb+1e+hqNrv6IEkR5b7TZEQYCrDAkyZzluR9y4qkiqjPBw8r7vkfeY2pAVZdGt8vnZxCD27AocW7Db4P4rNqOw2p3BwKOMMawAvj6HNpXhSZINou8GLEgbsYaxDRzkMhtzmRaE8irsEbnq1NXFZpMok2yFwEHepJHX1rEOmLTXBbtIEF1PEYMHnkDTiwJBsm0JgS8YAfmHNje1wb0EYl4uoGrOVlwUOAL0oPbsC8vThpj0bBXEzfgBrAu3xL2yPbuVt5UTBuwAfcbOBrecvxEODSF/gEfg6+thyXCT58NrgCbgDl4aHFbym95C+lScrEE0Zp4nvxIeV1bf5uBMgfypqCiq+9Mskf4PkyU9WDiL/sX5R+LfVR/7yUSJV8eno8ONESP+DKfMHRvy8RzTelfmrLX0MA/Sj0spRT2OJA++3QIEa/GOVHmKruRQC9LbUv9W3QC+K+SRdRNgZje1kSekaR9jXSoJZLVb9JkarvS11AkQaNhWLAhCfAbPomz4xOjuwr6oEWWXndQ1dzkN6JBl09J3lVQA+eVCnq4B1TbFW9VpGzibS8Bt+DXbhZwDMwHnphPE1ud5yy8HWI18LaUkOkt4auOS131AlIzrjlosIB8Nou74fSXS+vNVxCe4hyLmKCVabLi0XmwhYH5DxHlByQRi7Sx7Gs4kIB/KpUIPJySMP2tFV9a1kCt0jscUIJ3gmAB+HGA3HcnMl9yFj/9UGB6zcWsHmgSeactrb4N4AXTYkDniYgtE8jp5Ijz3PqlZC/oJUBzrgy7S6XBc8OvQNgo3lr9QNzkUU1sHkxdo5wrTWRbcEzOfPiCHtsgesjG1vmX7n8D5gdD/oXoBXkAAAAAElFTkSuQmCC"></image>
+            <g id="program_bluefish" transform="translate(3.000000, 4.000000)">
+                <path d="M41.8,0.859 C41.8,0.859 31.949,1.679 32.391,19.648 C32.391,19.648 30.967,31.611 42.316,31.216 C42.316,31.216 33.499,25.491 39.603,14.811 C39.603,14.811 41.024,12.806 39.85,7.612 C39.852,7.611 39.77,3.557 41.8,0.859 L41.8,0.859 Z" id="Shape" fill="#558ECF"></path>
+                <path d="M41.8,0.859 C41.8,0.859 33.963,8.135 35.682,23.317 L33.346,19.985 C33.346,19.985 33.151,4.612 41.8,0.859 L41.8,0.859 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <g id="Group" transform="translate(0.000000, 5.000000)">
+                    <ellipse id="Oval" fill="#E9FAFA" cx="8.049" cy="10.373" rx="7.732" ry="10.223"></ellipse>
+                    <path d="M9.049,7.15 C11.44,7.15 13.685,7.616 15.638,8.429 C14.951,3.714 11.816,0.15 8.049,0.15 C3.999,0.15 0.682,4.269 0.35,9.51 C2.709,8.037 5.741,7.15 9.049,7.15 L9.049,7.15 Z" id="Shape" fill="#5892D2"></path>
+                    <circle id="Oval" fill="#231815" cx="3.005" cy="10.888" r="1.747"></circle>
+                </g>
+                <path d="M37.021,21.785 C37.021,27.985 26.568,39.994 17.679,39.994 C8.79,39.994 1.371,31.903 1.371,21.914 C1.371,11.925 8.464,3.829 17.354,3.829 C26.244,3.829 37.021,17.219 37.021,21.785 L37.021,21.785 Z" id="Shape" fill="#2562B2"></path>
+                <g id="Group" transform="translate(13.000000, 4.000000)">
+                    <ellipse id="Oval" fill="#5090D8" cx="7.719" cy="14.893" rx="7.395" ry="7.127"></ellipse>
+                    <ellipse id="Oval" fill="url(#linearGradient-2)" cx="7.719" cy="13.605" rx="6.693" ry="7.183"></ellipse>
+                    <ellipse id="Oval" fill="#E9FAFA" cx="7.719" cy="9.669" rx="6.405" ry="9.648"></ellipse>
+                    <path d="M7.714,8.713 C10.445,8.713 12.824,9.731 14.106,11.242 C14.648,4.426 11.135,0.021 7.719,0.021 C4.306,0.021 0.769,4.384 1.332,11.23 C2.617,9.726 4.99,8.713 7.714,8.713 L7.714,8.713 Z" id="Shape" fill="#5892D2"></path>
+                    <circle id="Oval" fill="#231815" cx="11.177" cy="12.145" r="1.877"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="11.973" cy="11.737" r="0.644"></circle>
+                </g>
+                <path d="M2.402,27.986 C2.402,27.986 7.729,33.755 19.137,29.023 C19.137,29.023 21.019,28.103 21.615,28.253 C21.615,28.253 20.533,36.356 8.522,36.839 C8.522,36.839 2.298,36.841 1.717,31.579 C1.718,31.579 0.007,29.383 2.402,27.986 L2.402,27.986 Z" id="Shape" fill="#5090D8"></path>
+                <path d="M2.402,27.986 C2.402,27.986 7.729,33.755 19.137,29.023 C19.137,29.023 21.019,28.103 21.615,28.253 C21.615,28.253 18.624,32.942 11.899,33.906 C8.898,34.336 4.014,33.724 1.717,31.579 C1.718,31.579 0.007,29.383 2.402,27.986 L2.402,27.986 Z" id="Shape" fill="#60A0E6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

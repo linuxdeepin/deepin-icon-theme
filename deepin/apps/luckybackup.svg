@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>luckybackup</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="luckybackup">
+            <circle id="Oval-14" fill="#093679" filter="url(#filter-1)" cx="24" cy="24" r="21"></circle>
+            <path d="M21.977269,40.5215924 C30.2503013,41.537393 37.8482851,36.4088087 40.1114136,28.7403637 L36.7107452,27.6008866 C34.9794091,33.7051209 28.9639535,37.8034809 22.4098216,36.9987347 C18.3482252,36.5000333 14.9428733,34.2243775 12.8918354,31.0564134 L14.4407573,30.0223916 L8.43964783,27.7010596 L8.19164694,34.1941424 L9.92278645,33.0384767 C12.5353786,37.0287112 16.8441134,39.8913201 21.977269,40.5215924 Z M39.2707568,19.6765239 L32.5132536,17.1424599 L34.5508092,15.8093601 C32.2817893,12.8266925 28.7469838,10.8207297 24.6888176,10.6080502 C18.6495001,10.291543 13.3477781,14.0460323 11.4985301,19.450676 C11.4985302,19.4506753 8.11141365,18.2849416 8.11141365,18.2849416 C10.4692702,11.4248289 17.2039968,6.6616027 24.8745743,7.06360063 C30.1007091,7.33749075 34.6441741,9.95053326 37.5240778,13.8238647 L39.2707563,12.4966764 L39.2707568,19.6765239 Z" id="Combined-Shape" fill="#659AD4"></path>
+            <text id="luckyBackup" font-family="LucidaGrande, Lucida Grande" font-size="6.30000019" font-weight="normal" fill="#FF4400">
+                <tspan x="5.4000001" y="25.3999996">luckyBackup</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
