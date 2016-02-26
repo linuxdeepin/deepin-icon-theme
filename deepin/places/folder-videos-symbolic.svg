@@ -1,24 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="100%"
-   height="100%"
-   viewBox="0 0 16 16"
-   id="图层_1"
-   xml:space="preserve"><metadata
-     id="metadata9"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs7" /><path
-     d="M 14,1 H 2 V 14 H 14 V 1 z M 10,2 V 7 H 6 V 2 h 4 z M 3,2 H 5 V 4 H 3 V 2 z M 3,5 H 5 V 7 H 3 V 5 z m 0,3 h 2 v 2 H 3 V 8 z m 0,5 v -2 h 2 v 2 H 3 z m 3,0 V 8 h 4 v 5 H 6 z m 7,0 h -2 v -2 h 2 v 2 z m 0,-3 H 11 V 8 h 2 v 2 z M 13,7 H 11 V 5 h 2 V 7 z M 11,4 V 2 h 2 v 2 h -2 z"
-     inkscape:connector-curvature="0"
-     id="path3"
-     style="fill:#9fa0a0" /></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<path style="fill:#9FA0A0;" d="M14,1H2v13h12V1z M10,2v5H6V2H10z M3,2h2v2H3V2z M3,5h2v2H3V5z M3,8h2v2H3V8z M3,13v-2h2v2H3z M6,13
+	V8h4v5H6z M13,13h-2v-2h2V13z M13,10h-2V8h2V10z M13,7h-2V5h2V7z M11,4V2h2v2H11z"/>
+</svg>

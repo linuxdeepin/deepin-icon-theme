@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,120 +7,41 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="48"
-   height="48"
-   viewBox="0 0 48 48"
-   id="svg2">
-  <title
-     id="title4">folder-recent</title>
-  <desc
-     id="desc6">Created with Sketch.</desc>
-  <metadata
-     id="metadata42">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8">
-    <filter
-       filterUnits="objectBoundingBox"
-       x="-0.5"
-       y="-0.5"
-       width="2"
-       height="2"
-       color-interpolation-filters="sRGB"
-       id="filter-1">
-      <feOffset
-         dx="0"
-         dy="1"
-         in="SourceAlpha"
-         result="shadowOffsetOuter1"
-         id="feOffset11" />
-      <feGaussianBlur
-         stdDeviation="1"
-         in="shadowOffsetOuter1"
-         result="shadowBlurOuter1"
-         id="feGaussianBlur13" />
-      <feColorMatrix
-         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0"
-         in="shadowBlurOuter1"
-         type="matrix"
-         result="shadowMatrixOuter1"
-         id="feColorMatrix15" />
-      <feMerge
-         id="feMerge17">
-        <feMergeNode
-           in="shadowMatrixOuter1"
-           id="feMergeNode19" />
-        <feMergeNode
-           in="SourceGraphic"
-           id="feMergeNode21" />
-      </feMerge>
-    </filter>
-    <linearGradient
-       x1="0.5"
-       y1="0"
-       x2="0.5"
-       y2="1"
-       id="linearGradient-2">
-      <stop
-         id="stop24"
-         style="stop-color:#8ec5ff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop26"
-         style="stop-color:#70bcff;stop-opacity:1"
-         offset="0.97000003" />
-      <stop
-         id="stop28"
-         style="stop-color:#0f70e6;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-  </defs>
-  <g
-     id="Page-1"
-     style="fill:none;stroke:none">
-    <g
-       id="folder-recent">
-      <g
-         transform="translate(4,5)"
-         id="Group">
-        <path
-           d="M 2,6 2,2 24.172,2 26.237,0 38,0 38,6 40,6 40,36 0,36 0,6 2,6 z"
-           inkscape:connector-curvature="0"
-           id="Shape-4"
-           style="fill:#31a4fc;filter:url(#filter-1)" />
-        <path
-           d="M 38,30 2,30 2,2 24.172,2 26.237,0 38,0 38,30 z"
-           inkscape:connector-curvature="0"
-           id="Shape"
-           style="fill:#31a4fc" />
-        <rect
-           width="40"
-           height="30"
-           x="0"
-           y="6"
-           id="Rectangle-path"
-           style="fill:url(#linearGradient-2)" />
-      </g>
-      <path
-         d="m 30.511,26.895 2.154,-3.447 -1.778,-0.007 c -0.394,-1.757 -1.45,-3.329 -2.994,-4.338 -3.23,-2.115 -7.582,-1.205 -9.697,2.028 -1.023,1.565 -1.376,3.437 -0.993,5.269 0.383,1.831 1.456,3.403 3.022,4.427 1.16,0.76 2.496,1.14 3.833,1.14 1.307,0 2.615,-0.363 3.762,-1.092 l 0.422,-0.268 -0.536,-0.845 -0.423,0.269 c -1.985,1.263 -4.541,1.248 -6.511,-0.041 -1.342,-0.877 -2.263,-2.225 -2.591,-3.795 -0.328,-1.57 -0.025,-3.174 0.852,-4.517 1.813,-2.771 5.542,-3.551 8.313,-1.739 1.258,0.823 2.13,2.083 2.505,3.499 l -1.479,-0.006 2.139,3.463 0,0 z"
-         inkscape:connector-curvature="0"
-         id="path36"
-         style="fill:#ffffff" />
-      <path
-         d="m 23.031,21.047 0,4.453 c 0,0.167 0.084,0.323 0.223,0.416 l 3.416,2.277 0.555,-0.832 -3.193,-2.129 0,-4.186 -1.001,0 0,0.001 z"
-         inkscape:connector-curvature="0"
-         id="path38"
-         style="fill:#ffffff" />
-    </g>
-  </g>
-</svg>
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 16 16"
+   style="enable-background:new 0 0 16 16;"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-recent.svg"><metadata
+     id="metadata13"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+     id="defs11" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="733"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3" /><g
+     id="g3"><path
+       style="fill:#9FA0A0;"
+       d="M 8.0273438 1.2148438 C 6.1363437 1.2148438 4.7993438 1.5214375 3.1523438 3.1484375 L 3.0117188 3.2871094 L 1.9375 2.2167969 L 1.2773438 5.8300781 L 4.8925781 5.1699219 L 3.8046875 4.0820312 L 3.9492188 3.9414062 C 4.9182188 2.9974063 6.5962969 2.3378906 8.0292969 2.3378906 C 11.144297 2.3378906 13.679688 4.8751406 13.679688 7.9941406 C 13.679688 11.112141 11.141437 13.650391 8.0234375 13.650391 C 5.0004375 13.650391 2.5159531 11.254672 2.3769531 8.2636719 L 1.2617188 8.4746094 C 1.5067188 12.021609 4.4434844 14.775391 8.0214844 14.775391 C 11.760484 14.775391 14.802734 11.733141 14.802734 7.9941406 C 14.802734 4.2551406 11.763344 1.2148438 8.0273438 1.2148438 z M 7 4 L 7 9 L 12 9 L 12 8 L 8 8 L 8 4 L 7 4 z "
+       id="polygon5" /></g></svg>
