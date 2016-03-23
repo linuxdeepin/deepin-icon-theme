@@ -5,7 +5,7 @@ Inherits=flattr
 
 Example=x-directory-normal
 
-Directories=actions/scalable,actions/22,actions/24,apps/48,apps/128,apps/scalable,devices/scalable,devices/48,places/22,places/24,places/32,places/48,places/64,places/128,places/scalable,status/scalable,status/48,mimetypes/22,mimetypes/24,mimetypes/32,mimetypes/scalable
+Directories=actions/scalable,actions/22,actions/24,apps/48,apps/128,apps/scalable,devices/scalable,devices/48,places/22,places/24,places/32,places/48,places/64,places/128,places/scalable,status/scalable,status/48,mimetypes/22,mimetypes/24,mimetypes/32,mimetypes/48,mimetypes/64,mimetypes/128,mimetypes/scalable
 
 [actions/scalable]
 Size=96
@@ -102,6 +102,21 @@ Type=Fixed
 
 [mimetypes/32]
 Size=32
+Context=MimeTypes
+Type=Fixed
+
+[mimetypes/48]
+Size=48
+Context=MimeTypes
+Type=Fixed
+
+[mimetypes/64]
+Size=64
+Context=MimeTypes
+Type=Fixed
+
+[mimetypes/128]
+Size=128
 Context=MimeTypes
 Type=Fixed
 
