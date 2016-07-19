@@ -23,6 +23,8 @@ status/audio-volume-090-muted
 status/audio-volume-090
 status/audio-volume-100-muted
 status/audio-volume-100
+status/battery-unknow
+status/battery-unknow-symbolic
 status/network-online
 status/drive-removable-dock
 status/audio-volume-high-symbolic-osd
