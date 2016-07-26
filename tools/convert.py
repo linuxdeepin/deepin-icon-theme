@@ -11,11 +11,12 @@ import sys
 import subprocess
 import ConfigParser
 import shutil
+import threading
 
 OPTIPNG = '/usr/bin/optipng'
-INKSCAPE = '/usr/bin/inkscape'
 CONVERT = '/usr/bin/convert'
 IDENTIFY = '/usr/bin/identify'
+SVGEXPORT = '/usr/bin/svgexport'
 
 INDEX = 'index.theme'
 
@@ -35,39 +36,16 @@ class Render(object):
     def __new__(cls, *args, **kwargs):
         if cls._instance is None:
             cls._instance = object.__new__(cls)
-            cls._instance.init(*args, **kwargs)
         return cls._instance
 
-    def init(self):
-        self.start_inkscape()
-
-    def optimize_png(self,png_file):
+    def optimize_png(self, png_file):
         if os.path.exists(OPTIPNG):
             process = subprocess.Popen([OPTIPNG, '-quiet', '-o7', png_file])
             process.wait()
 
-    def wait_for_prompt(self,process, command=None):
-        if command is not None:
-            process.stdin.write((command+'\n').encode('utf-8'))
-        output = process.stdout.read(1)
-        if output == b'>':
-            return
-        output += process.stdout.read(1)
-        while output != b'\n>':
-            output += process.stdout.read(1)
-            output = output[1:]
-
-    def start_inkscape(self):
-        process = subprocess.Popen([INKSCAPE, '--shell'], bufsize=0, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-        self.wait_for_prompt(process)
-        return process
-
-    def inkscape_render(self,icon_file, width, height, output_file):
-        global inkscape_process
-        if inkscape_process is None:
-            inkscape_process = self.start_inkscape()
-        print "[Info] Inkscape '%s -w %s -w %s -e %s'" %(icon_file, width, height, output_file)
-        self.wait_for_prompt(inkscape_process,'%s -w %s -w %s -e %s' %(icon_file, width, height, output_file))
+    def render_svg(self, icon_file, width, height, output_file):
+        process = subprocess.Popen([SVGEXPORT, icon_file, output_file, 'output', '%s:%s' % (width, height)])
+        process.wait()
         self.optimize_png(output_file)
 
     def copy_file(self, source_path, dest_path):
@@ -121,7 +99,7 @@ class Paser(object):
         for d in dirs:
             self.render_directory(d)
 
-    def render_directory(self,directory):
+    def render_directory(self, directory):
         size=self.get_info(directory,'Size')
         if directory.split('/')[0].replace('x','').isdigit:
             src_dir,flag=directory.split('/')
@@ -133,30 +111,37 @@ class Paser(object):
         else:
             out_format = "png"
 
+        threads = []
+
         for d,_,files in os.walk(os.path.join(self.src_path, src_dir)):
             for f in files:
-		if not f.endswith(".svg"):
-                    continue
-                if out_format == "png":
-                    output_file=f.replace(".svg",".png")
-                else:
-                    output_file=f
-                if not os.path.islink(os.path.join(d,f)):
-                    if output_file.endswith(".svg"):
-                        self.render.copy_file(os.path.join(d,f), os.path.join(self.result,self.theme_dir, directory, output_file))
-                    elif output_file.endswith(".png"):
-                        self.render.inkscape_render(os.path.join(d,f),size,size,os.path.join(self.result, self.theme_dir,directory, output_file))
-                    else:
-                        print "[WARNING] Not support %s" % output_file
-                        pass
+                 if not f.endswith(".svg"):
+                     continue 
+                 if out_format == "png":
+                     output_file=f.replace(".svg",".png")
+                 else:
+                     output_file=f
 
-                else:
-                    source=os.path.basename(os.path.realpath(os.path.join(d,f)))
-                    if out_format == "png":
-                        real_source=source.replace(".svg",".png")
-                    else:
-                        real_source=source
-                    self.render.copy_link(real_source, output_file, os.path.join(self.result,self.theme_dir,directory))
+                 if not os.path.islink(os.path.join(d, f)):
+                     if output_file.endswith(".svg"):
+                         self.render.copy_file(os.path.join(d,f), os.path.join(self.result, self.theme_dir, directory, output_file))
+                     elif output_file.endswith(".png"):
+                         th = threading.Thread(target=self.render.render_svg, args=(os.path.join(d,f), size, size, os.path.join(self.result, self.theme_dir, directory, output_file)))
+                         th.start()
+                         threads.append(th)
+                     else:
+                         print "[WARNING] Not support %s" % output_file
+                         pass
+
+                 else:
+                     source=os.path.basename(os.path.realpath(os.path.join(d,f)))
+                     if out_format == "png":
+                         real_source=source.replace(".svg",".png")
+                     else:
+                         real_source=source
+                     self.render.copy_link(real_source, output_file, os.path.join(self.result,self.theme_dir,directory))
+        for th in threads:
+            th.join()
 
 if __name__ == "__main__":
     src_dir = sys.argv[1]

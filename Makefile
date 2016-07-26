@@ -19,7 +19,7 @@ convert:
 clean:
 	rm -rf build
 
-install: install-icons install-cursors install-override
+install: install-icons install-cursors 
 
 install-icons:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
@@ -29,9 +29,6 @@ install-cursors:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
 	cp -r deepin/cursors $(DESTDIR)$(PREFIX)/share/icons/deepin
 	install -m644 deepin/cursor.theme $(DESTDIR)$(PREFIX)/share/icons/deepin/cursor.theme
-
-install-override:
-	cp -r override/* $(DESTDIR)$(PREFIX)/share/icons/deepin
 
 debian/links: hicolor.list
 	sh tools/hicolor.links build/deepin hicolor.list > $@
