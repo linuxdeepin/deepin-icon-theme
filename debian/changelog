@@ -1,0 +1,5 @@
+deepin-icon-theme (15.12.27.1) unstable; urgency=medium
+
+  * build with svgexport.
+
+ -- leaeasy <leaeasy@slingshot.corp.linuxdeepin.com>  Tue, 26 Jul 2016 07:00:32 +0000
