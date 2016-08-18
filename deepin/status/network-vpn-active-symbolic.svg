@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<path style="fill:#FFFFFF;" d="M12.5,6.983H11V5.285c0-1.852-1.299-3.302-3.025-3.302C6.307,1.983,5,3.433,5,5.285v1.698H3.5
-	c-0.276,0-0.5,0.224-0.5,0.5v6c0,0.276,0.224,0.5,0.5,0.5h9c0.276,0,0.5-0.224,0.5-0.5v-6C13,7.207,12.776,6.983,12.5,6.983z
-	 M6,5.285c0-1.291,0.867-2.302,2.043-2.302C9.141,2.983,10,3.994,10,5.285v1.698H6V5.285z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>network-vpn-active-symbolic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="network-vpn-active-symbolic">
+            <g id="Group-29">
+                <polygon id="Fill-38" points="0 16 16 16 16 0 0 0"></polygon>
+                <path d="M6,5.3018 C6,4.0108 6.867,2.9998 8.043,2.9998 C9.141,2.9998 10,4.0108 10,5.3018 L10,6.9998 L6,6.9998 L6,5.3018 Z M11,6.9998 L11,5.3018 C11,3.4498 9.701,1.9998 7.975,1.9998 C6.307,1.9998 5,3.4498 5,5.3018 L5,6.9998 L3.5,6.9998 C3.224,6.9998 3,7.2238 3,7.4998 L3,13.4998 C3,13.7758 3.224,13.9998 3.5,13.9998 L12.5,13.9998 C12.776,13.9998 13,13.7768 13,13.4998 L13,7.4998 C13,7.2238 12.776,6.9998 12.5,6.9998 L11,6.9998 Z" id="Fill-354" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
 </svg>
