@@ -1,0 +1,13 @@
+Source: deepin-icon-theme
+Section: x11
+Priority: optional
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 9), python, inkscape
+
+Package: deepin-icon-theme
+Architecture: all
+Depends: flattr-icon-theme
+Conflicts: deepin-cursor-theme
+Description: Deepin Icons
+ This package is DeepinIconTheme 
