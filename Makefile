@@ -14,7 +14,7 @@ build: prepare convert debian/links
 
 convert:
 	mkdir -p build
-	python tools/convert.py deepin build
+	python2 tools/convert.py deepin build
 
 clean:
 	rm -rf build

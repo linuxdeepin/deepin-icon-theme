@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>network-idle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.33376347%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFBE2B" offset="0%"></stop>
+            <stop stop-color="#FF9816" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="network-idle">
+            <g id="Group-2" transform="translate(2.000000, 5.000000)">
+                <image id="Bitmap" x="0" y="0" width="44" height="41" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAApCAYAAABOScuyAAAABGdBTUEAA1teXP8meAAAAVpJREFUWAntmNFqwzAMRZutG6Ww///QQRljaarj9ZasoLoJcuYHCdQ4jnx9cxz3wcOuHsO1hKva9VHLKiYrJwldf+/ufmsGZPLVxo2W57vxUbcvJsQc6JOuaQpr8WYFEqrVrn2OPkD2NYGaYQgj4r5xbYIFzzENnIer/oxhlmqrYK6HhrUEKuKqNiYR2NKwvmXmVrC6WuFJBikkW24sGVh61UuUfcQNAekezeLtz4bEMJT1T0BBj3HbkDK85Xe6FkjZkPok5httrWDrccWjDLeeLEw/DYehdISSsAMmrDsJh6F0hJKwAyasOwmHoXSEkrADJqw7CYehdISSsAMmrDsJh6F0hJKwAyasOwmHoXSEkrADJqxbhHWcGSbcQKh4nBs+NpgkShJvxTDnVZg+WH5Y8qC3g0GOgU+Wn5ZfGCYx+W7JObH6rPnvAVXyx/Lbcpybm7ftWVch47sL/I0qjyV5HhAAAAAASUVORK5CYII="></image>
+                <path d="M2,6.99278641 C2,6.44448561 2.44092858,6 3.00990875,6 L9.04871324,6 L9.04871357,3.0093689 C9.04871363,2.45190985 9.49914685,2 10.0501335,2 L33.9985802,2 C34.5516491,2 35,2.44335318 35,3.0093689 L35,6 L40.9970707,6 C41.5509732,6 42,6.45236206 42,6.99278641 L42,37.0072136 C42,37.5555144 41.5507812,38 40.9912248,38 L3.00877516,38 C2.45164402,38 2,37.5476379 2,37.0072136 L2,6.99278641 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <g id="Group" transform="translate(10.000000, 10.000000)">
+                    <polygon id="Rectangle-2" fill="#FFFFFF" points="11 5 13 5 13 12 11 12"></polygon>
+                    <path d="M1.00069463,20.0104576 C0.448026248,20.0104576 0,19.5656815 0,19.0092589 L0,5.00642753 C0,4.45348073 0.443716645,4.00522879 0.999807492,4.00522879 L5,4.00522879 L5,1.02160241 C5,0.465449058 5.44994876,0.0145976841 6.00684547,0.0145976841 L17.9931545,0.0145976841 C18.5492199,0.0145976841 19,0.456912428 19,1.02160241 L19,4.00522879 L23.0001925,4.00522879 C23.5523709,4.00522879 24,4.45000493 24,5.00642748 L24,19.0092581 C24,19.5622049 23.5525308,20.0104568 22.9993054,20.0104569 L1.00069463,20.0104576 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M12,20 L12,17" id="Path-3" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M17,20 L17,17" id="Path-3" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M7,20 L7,17" id="Path-3" stroke="#FFFFFF" stroke-width="2"></path>
+                    <rect id="Rectangle-4" fill="#FFFFFF" x="11" y="13" width="2" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

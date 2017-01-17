@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>关机按钮-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.0009524%" y1="99.9990476%" x2="50.0009524%" y2="-0.000952380952%" id="linearGradient-1">
+            <stop stop-color="#5F00F4" offset="0%"></stop>
+            <stop stop-color="#AF4DEB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="关机按钮-24px">
+            <image id="Bitmap" x="1" y="1" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABGdBTUEAA1teXP8meAAAASVJREFUOBG1lY0OwiAMhJ2/UeP7v6pR57yvcsvIXEgGXtJAKdzqtWC3WUanELZNI3MwJHtP5qxn2GXe1zHZUe5Zxh5IXmnEJ3aSAT5UBKQH2U3G4RLYw17O+BfNzhDwxlmwsOBEZuTTTAsci+GfmVMgArWAA64ojCWgOD2LlYhiu5XQ9lFJyHE44OogxminVoBrS9ru0xYykFx0hqVA31aAK6RoRWieMWOu5N6rDUakHZACYq5kK8AVxFHFVqziiS4jbYN5bWfQwyTaW4qnHD+Dmq4GHHCNT+nfHiFS9Jux5jHiTFxliMBUY3z0wa44QklzyC6yu4yLkUkgPwOZWxoXA918O+l5Wor68OhY05FUa8t/JynGByDwxzSNrCDhlzFmhPIDH9WPND/uiU9gAAAAAElFTkSuQmCC"></image>
+            <path d="M2,12 C2,6.48619048 6.48571429,2 12,2 C17.5138095,2 22,6.48619048 22,12 C22,17.5138095 17.5138095,22 12,22 C6.48571429,22 2,17.5138095 2,12 Z" id="path-2" fill="url(#linearGradient-1)"></path>
+            <path d="M11.3000002,11.3000002 L11.3000002,5.69999981 C11.3000002,5.69999981 11.3000002,5 12.0000002,5 C12.7000002,5 12.7000002,5.69999981 12.7000002,5.69999981 L12.7000002,11.3000002 C12.7000002,11.3000002 12.7000002,12 12.0000002,12 C11.3000002,12 11.3000002,11.3000002 11.3000002,11.3000002 Z" id="path14594" fill="#FFFFFF"></path>
+            <path d="M15.29725,7.5999999 C16.63485,8.6031999 17.5,10.2020499 17.5,12.0021999 C17.5,15.0398499 15.03765,17.5021999 12,17.5021999 C8.96235,17.5021999 6.5,15.0398499 6.5,12.0021999 C6.5,10.2031499 7.36405,8.6053999 8.7,7.6021999" id="path14596" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

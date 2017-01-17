@@ -2,7 +2,3 @@
 
 %:
 	dh $@
-
-override_dh_auto_install:
-	dh_auto_install
-	install -Dm644 debian/deepin-launcher.png debian/deepin-icon-theme/usr/share/icons/deepin/places/48/deepin-launcher.png

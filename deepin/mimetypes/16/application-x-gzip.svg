@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>application-x-gzip</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="application-x-gzip">
+            <g id="Group" transform="translate(2.000000, 1.000000)" fill="#A5B2C3">
+                <polygon id="path14361" points="0 14 0 1.77635684e-15 12 0 12 14"></polygon>
+            </g>
+            <polygon id="Path" fill="#FFFFFF" points="10 9 10 10 12 10 10 13 10 14 13 14 13 13 11 13 13 10 13 9"></polygon>
+            <path d="M4.99200051,3 L4.98393753,4 L3.98400102,4 L3.992064,3 L4.99200051,3 Z M5.98400102,4 L6,5 L5.00006349,5 L4.9840645,4 L5.98400102,4 Z M4.99993651,5 L4.99993651,6 L4,6 L4,5 L4.99993651,5 Z M5.9681895,7 L5.99993651,8 L4.01574803,8 L3.98400102,7 L5.9681895,7 Z M6,1 L6,2 L4,2 L4,1 L6,1 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <path d="M7,13 C6.44771525,13 6,12.5573397 6,12.0010434 L6,10.9989566 C6,10.4472481 6.44386482,10 7,10 C7.47379516,10 7.87063119,10.325781 7.97385677,10.7696074 L8.80764515,10.1442661 C8.48670333,9.46646704 7.79791956,9 7,9 C5.88772964,9 5,9.89761602 5,11.0048815 L5,11.9951185 C5,13.1061002 5.8954305,14 7,14 C7.36540536,14 7.70657678,13.9031232 8,13.7337624 L8,14 L9,14 L9,11 L7,11 L7,11.9951185 C7,12.0531315 8,12.0010434 8,12.0010434 L8,12.25 C8,12.6000004 7.5,13 7,13 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

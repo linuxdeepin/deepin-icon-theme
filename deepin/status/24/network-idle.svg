@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>network-idle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.33376347%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFBE2B" offset="0%"></stop>
+            <stop stop-color="#FF9816" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="network-idle">
+            <image id="Bitmap" x="1" y="2" width="22" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAABGdBTUEAA1teXP8meAAAAIVJREFUOBHtle0KgCAMRdM+oPd/2qCye4QGigSK/fPCRbf0MEZMN6VyCheZtUZBh0+ZtahV2bn45TvJHe6aSFAdSSrd5EOuFZXuMiwvhxd6K7jkHqJYDx14LyiFwXKAf9EAW1tHK0YrrAO2GX9F0gpmactwN0i2gRXnMWOz5TnKeBbGZ+oBCLcOTrkg0UcAAAAASUVORK5CYII="></image>
+            <path d="M2,5.4963932 C2,5.22224281 2.23124288,5 2.49004669,5 L5.52435662,5 L5.52435679,3.50468445 C5.52435682,3.22595492 5.74957343,3 6.0171728,3 L18.007184,3 C18.2793588,3 18.5,3.21403503 18.5,3.50468445 L18.5,5 L21.4985353,5 C21.7754866,5 22,5.22618103 22,5.4963932 L22,20.5036068 C22,20.7777572 21.7753906,21 21.5056152,21 L2.49438477,21 C2.2213436,21 2,20.773819 2,20.5036068 L2,5.4963932 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+            <polygon id="Rectangle-2" fill="#FFFFFF" points="11 9 13 9 13 13 11 13"></polygon>
+            <path d="M12.5,17.5 L12.5,16" id="Path-3" stroke="#FFFFFF"></path>
+            <path d="M14.5,17.5 L14.5,16" id="Path-3" stroke="#FFFFFF"></path>
+            <path d="M9.5,17.5 L9.5,16" id="Path-3" stroke="#FFFFFF"></path>
+            <rect id="Rectangle-4" fill="#FFFFFF" x="11" y="14" width="2" height="1"></rect>
+            <polygon id="Combined-Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="5.5 17.4979296 5.5 8.49531516 8.5 8.49531555 8.5 6.5 15.5 6.5 15.5 8.49531555 18.5 8.49531555 18.5 17.4979296"></polygon>
+        </g>
+    </g>
+</svg>

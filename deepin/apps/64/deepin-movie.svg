@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>深度影院-64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.9992343%" y1="0%" x2="49.9992341%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#43D7FF" offset="0%"></stop>
+            <stop stop-color="#1CA3FA" offset="1.53557273%"></stop>
+            <stop stop-color="#0480F7" offset="98.4601189%"></stop>
+            <stop stop-color="#0054D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="59.7278481%" y1="50.2995405%" x2="8.98818374%" y2="51.7004395%" id="linearGradient-2">
+            <stop stop-color="#3EB5FB" offset="0%"></stop>
+            <stop stop-color="#479CFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="深度影院-64px">
+            <image id="Bitmap" x="3" y="5" width="59" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAA6CAYAAAAOeSEWAAAABGdBTUEAA1teXP8meAAAAzpJREFUaAXtmttu2zAMhpOuOwDrzbY32MWw93+abc8xtDu24yf712hGAVzHiS05BGhKsirzEyk5qLXflWUfmn39yd3zZde8zqIgZPFSZaxX7gGHPvbWTKpjVy+CwVHKN8HSLjgA0VtT+v4xFbwV1y84juD8C1NgAfrdWzMHAuCrvvWvWeprFe/bk2CBpPzD1HcoQXD/jSkTtFZYfES13LB7pS6gAHzvO5ipXmCDS0F5JKKIoFXvWuu+Eln2lZem8KU1ikVoYN22JAATXYK4p+BlamQ/2SDMIsKY31Lp8LJEPwKYIitYLeipsD9twF89m3bqQ9Tdbol+gA5gcQzg1EjlmQIEOznCOMdkqX7JHyKrqGKnRpYU5t2MKFu62vC6VL/khYc7JbJDpJXWYhSmpjHjsMUjccyutbsu1S/7ACBO3Jm+y63tFD4YCj+YbjaVxoLVJjU1javIA8HibPMblIdVdJqNLrBKYdnSBGgiqrYebFOwRA1gPwFVRzI6H8E2AwsoEiega23gGsE2EVkgpU2/enyCAnyF9TNSa9mvWaKK+LaupZFrBBNwI3hDDA973aCGc1N3zUcWEqVxbK+bsvdeUEphAau9CUhBRChBx3b1r9qWoAAutVcNivMR6hrZ6kPaA8TIiqvJ38ceVimMbR5WUd3cBtVkZEsfoc6Zxp8tffwX+i9Kp2Cn9OML+9cwzqB6adgHe/qYL/RT+ukr4gDQVyIsUT2nLP7lPcKdM43P9eWdPUbLI/Lkenz1cANY1N+jvXo5lsbAsuA5Bjen8Dytrfhs/5y5+/mxc5lovjZ939t8o+JC8cu752kljVnLWpbFdambtf+wwH/OieSTs8fWzVyRZX1+NGWn1HFYxkY0mbJd6/9/DU3txzj8Leey9KpLz46wdELT+Vyzpwqzem/KD4k8w6cOOuLvYeB5etVRL55ZEixnENmwpu7IROytKb+GOOp3aVhxyOZUMl+S4CCApB+7MueHgM4nO608RpggZlVpdOnIyscU0b6Sj83rJpYOOAo4TuMoZXSsMIZPI8ajzT987Fiz9SsBCIwIo6o/56ECY7IoaymsElZgpcnQvTHWw/nymL+dvc8/ZHnrXZ2Y3T8AAAAASUVORK5CYII="></image>
+            <path d="M57.497372,55.9999988 C58.3272512,55.9999987 59.0000013,55.3319964 59.0000012,54.4956492 L59,11.5043496 C59,10.6735202 58.3376838,10 57.4915354,10 L9.5,10 L13.4477824,56 L57.497372,55.9999988 Z M54,13 L54,19 L50,19 L50,13 L54,13 L54,13 L54,13 L54,13 Z M24,13 L24,19 L20,19 L20,13 L24,13 L24,13 L24,13 L24,13 Z M44,13 L44,19 L40,19 L40,13 L44,13 L44,13 L44,13 L44,13 Z M34,13 L34,19 L30,19 L30,13 L34,13 L34,13 L34,13 L34,13 Z M53.9817249,47 L53.9817249,53 L50,53 L50,47 L53.9817249,47 L53.9817249,47 L53.9817249,47 L53.9817249,47 Z M34,47 L34,53 L30,53 L30,47 L34,47 L34,47 L34,47 L34,47 Z M44,47 L44,53 L40,53 L40,47 L44,47 L44,47 L44,47 L44,47 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <image id="Bitmap" x="6" y="5" width="25" height="56" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAA4CAYAAAAIGVPwAAAABGdBTUEAA1teXP8meAAAAiFJREFUWAntl9tywyAMRJNep/3/r+3N5RDWo9gYJONk+lDNUGQQuyyLm+R8qse5PjyPTnPmSJ5KjQVVTq8mqJ+UiEC95jb7xzQj0IeU0ywwQACzmZcyZ4nSUD+khMrW4u80/17gyKl1ByQe2YAulXrW5Y2w0BMWUMfrWZdr5EFvASQ0S2Dz5nqvEkDkgxtczBESKYEkRBQhkRJt0N1HSaTi5kpCBMiNKPn3JHRcul3yRH33lkU9EaCbQMZjqCeok/mqd5FFlAC8PDKRNXuRuHZUSKhVa4JrUiR67vXeo73CiZJwXFLhVR+6wuxuyJMreY2Huypp7GM9FfVE74l8WSNWRqIkS09c5o+QiEB9RcNlKErCKqnZBF1O7CEJ+yKSyJvM11Sie0yXstjHr9ZAAgEbdBFJiQA8/VcBZ62ImmSWpFlo2D9LbknM9Drl94nCS0I9tc+p4SW3renpXhKO7DU11EBgSVab3UuScE8cG7++7JEzrpjJRkjY/UdqkIBDA1jgzOdcA+k5D1jZjEUCrLfUIOU4UZr92pKa5sPBBnmHuBBSlUGOJAGQnaNIjbFN0/Lkjj93I2Fv8jr3Rx8XvuhWzUSWZORm2ZPlyAiRHO4J4CtfrBIKjoiuklniAJs8AeImxgPcVULRaPwNT0ZVsF7fAchv5oleSPXV92TkhrGWDzL+zaMov+BLQD3z/tD0nNJwcAFoUw3Ejtk8wpIVlAXTL33OXJ2tylE6AAAAAElFTkSuQmCC"></image>
+            <path d="M25.6215608,59 L10.9033631,59 C10.5464376,58.9866946 9.5036555,59 9.5036555,57.5576762 L6.00438656,9.66107741 C5.98059153,9.33110381 6.00438656,8.59666269 7.40409421,8.33053871 L14.402632,7 C15.8023396,7 15.7673469,7.92871604 15.8023396,8.33053873 C16.1550659,12.4392423 17.7915974,30.0847312 18.2549006,34.9624861 C18.8861687,41.6125186 22.7169628,42.9217505 24.200585,42.9217505 C25.621561,42.9217505 25.597766,43.9582401 25.621561,44.2522892 L27,57.5151224 C27.0000003,58.9028561 25.6215608,59 25.6215608,59 Z" id="path11604" fill="url(#linearGradient-2)"></path>
+            <path d="M31.1541343,41.8574566 C30.5167235,42.2238619 30,41.9205121 30,41.1940211 L30,25.8030469 C30,25.0702363 30.5222204,24.7763658 31.1541343,25.1396114 L44.5414564,32.8350985 C45.1788671,33.2015038 45.1733703,33.798724 44.5414564,34.1619695 L31.1541343,41.8574566 Z" id="Path-359" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

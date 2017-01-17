@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>battery_unknow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery_unknow">
+            <g transform="translate(1.000000, 2.000000)">
+                <image id="Bitmap" x="0" y="0" width="46" height="46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAABGdBTUEAA1teXP8meAAAA21JREFUaAXV2Alv2zAMhuF194FhB4Zh//8v7j47Pm4+zW4VV0GbxiPA6jAlvaQo2c3ZvZvL2W6KlJrzuva5PztJPWX6DyovLzA6OOOU9P5uIJi56o5NSn1/SmOnfbATJjtEYg80sL+rDuQQMfbBboCxGT/sQEBGFmU7B/45MmjA5tHOJg4MwY+Aswm08lfp0OQ7oJHCvA9383LA/KtrZLvKriuBzqSgjyWAk0Kr0ADWwBNlWwlYLh9bEm1rrsLvAw+0SP+4bpJb9gYwB1bhe+BJj0TaJKcSgeuu3wOXZxlwF+mxLygiL4gY1RepA3IuMVQe8yDO11yrY5gzNdt5xBlwRIp8bxanr0iVx6WLlLkccY4wWGxLtU8pWDDNg9xe24l2bpFTgvbWdrNhE2isDVy9ewg82IDkcLaoJ1V4waPb+v44hq/YMLaIq1BObOEmKYyuYEuqnCXiOZTdERvqbIc0HiS/N8TYRZHrWFvEObC4J7vDTt+JccqSpIoc/1/AF4eTA6f8LhndS4xYW6pMXoyOPrFdi3g42uWejg2WjTE5ntO6QdYFUrv9gHc/Yhbm22kAd4mczyPudbp1wSjQF3dilbzwHb51wThd20mVXIVbhg8b1pYqGr6+npduVbBhnIKciMsbnU9Kt3inY8KGEWuLuIbPRt68LN2aYMKGcXE4gXrgn+QXpVuKuqzAhG1KkyqX/4DqKHHl2JZvGhuQ18XgJvlaCvxKxKtvegD4aekWDioGLJhatKvejfjkUT17VWrAdG9Wedfi+ntX+rk04GHrggMEK7dsk4FtQNXvQqz9oVR6fCltKVL1SdrXVjp2JVDwnr8pjcdVPbr41Qq0wyhouQKr+k/2gbMIPO/Bm4AeU+T0+1KRnkNf2fE1cICinm2S8/JOJK5MVH03EcF5W2oNwIG2fnet68Br3ATv4jfJs1LRd89z4KZiHudIlNU/lcrppEcXup4PvWhMSDkp/1xPHBAlkflY6re9Q8Q83oZeLAIiNZwj82SH90KXzRA4OwIebBzwkuJEfgJOpOyOiCmJF5oUSymPzQMSrJ0L8N7UKJuFgDlEYh8HAgOMcop6HluRAySSNIc8zunznKxG+cLk4m8mn/eN1DNOSS8D98AvO6Ad0JQja082ARge0DHMHCmZzOvac7DUU3p+sPwFBgrZAV5sE2wAAAAASUVORK5CYII="></image>
+                <path d="M23.009,43.0023 C34.6069797,43.0023 44.009,33.6002797 44.009,22.0023 C44.009,10.4043203 34.6069797,1.0023 23.009,1.0023 C11.4110203,1.0023 2.009,10.4043203 2.009,22.0023 C2.009,33.6002797 11.4110203,43.0023 23.009,43.0023 Z" id="circle15794" fill="#FF5822"></path>
+                <circle id="circle15800" fill="#FFFFFF" cx="23.002" cy="22.0033" r="12"></circle>
+                <path d="M19.0396,18.0336 C19.1881,16.5467 20.5333,15.4926 21.8865,15.1149 C23.8118,14.5911 26.0958,15.5134 26.8454,17.4537 C27.595,19.394 26.3121,20.8435 24.876,21.7047 C23.4399,22.566 23.0562,23.7797 23.0434,24.9776" id="path15804" stroke="#FF5822" stroke-width="2"></path>
+                <circle id="circle15806" fill="#FF5822" cx="23.0315" cy="28.5189" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

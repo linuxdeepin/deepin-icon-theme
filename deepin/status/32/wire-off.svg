@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wire-off</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.33376347%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#A8A8A8" offset="0%"></stop>
+            <stop stop-color="#8B8B8B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wire-off">
+            <image id="Bitmap" x="2" y="4" width="28" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAYAAACkVDyJAAAABGdBTUEAA1teXP8meAAAAJNJREFUSA1jYMAEjEAhEKYUEG0OK6U2IenHMIsJSRLGpIbvcJqF7O3/MFU0ouEewfA2jSwEGcsKClK4zTS0CGY0I7Y4hEnShB61kOrBOhqko0FKcgiMJhqSg4yQhtEgJRRCJMuPnCBlIzlsSNcAtoMFqA/UeFIAYg4gplVzA2THDyB+ALIAhEEW08oyoNFgALL0DwChegdYV5z1XgAAAABJRU5ErkJggg=="></image>
+            <path d="M3,7.67492314 C3,7.30217338 3.30065012,7 3.66051865,7 L7,7 L7.00000023,4.66579723 C7.00000027,4.29808758 7.29740604,4 7.66197725,4 L24.338023,4 C24.7036228,4 25,4.29861927 25,4.66579723 L25,7 L28.3394814,7 C28.7042757,7 29,7.2968626 29,7.67492314 L29,27.3250769 C29,27.6978266 28.7080078,28 28.3311719,28 L3.6688281,28 C3.29944454,28 3,27.7031374 3,27.3250769 L3,7.67492314 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+            <path d="M8,23 L8,11.9999995 L11.4999999,12 C11.7761423,12 12,11.7761424 12,11.5 L12,9 L20,9 L20,11.5 C20,11.7761424 20.2238576,12 20.5,12 L24,12 L24,23 L8,23 Z M21,8.5 C21,8.22385763 20.7761424,8 20.5,8 L11.5,8 C11.2238576,8 11,8.22385763 11,8.5 L11,10.9999999 L7.50000007,10.9999995 C7.22385767,10.9999994 7,11.2238571 7,11.4999995 L7,23.5 C7,23.7761424 7.22385763,24 7.5,24 L24.5,24 C24.7761424,24 25,23.7761424 25,23.5 L25,11.5 C25,11.2238576 24.7761424,11 24.5,11 L21,11 L21,8.5 Z M12,23.5 L12,21 L11,21 L11,23.5 L12,23.5 Z M20,23.5 L20,21 L19,21 L19,23.5 L20,23.5 Z M16,23.5 L16,21 L15,21 L15,23.5 L16,23.5 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.5"></path>
+        </g>
+    </g>
+</svg>

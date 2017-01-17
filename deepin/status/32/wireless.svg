@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wireless</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.4900079%" x2="50%" y2="97.1779337%" id="linearGradient-1">
+            <stop stop-color="#15C4FF" offset="0%"></stop>
+            <stop stop-color="#218AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wireless">
+            <path d="M29.8384688,10.1891989 C26.3905734,6.38278321 21.4598733,4 15.9847155,4 C10.5312403,4 5.61791914,6.36394809 2.17199477,10.1440437 C1.95320868,10.3840468 -0.374410746,13.0040576 2.20813629,15.5545318 C5.40252809,19.1735978 10.4627683,24.6962197 13.4679273,27.8068282 C15.984716,30.369026 18.3247972,28.0433967 18.5535648,27.8068282 C21.5634645,24.694293 26.5643993,19.1776944 29.8314478,15.4843421 C32.3438422,13.0040576 30.0561621,10.4295285 29.8384688,10.1891989 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <g id="Group" transform="translate(6.500000, 9.000000)">
+                <path d="M10.5773595,12.4226405 C10.0009443,11.8462253 9.05131721,11.8612988 8.456308,12.456308 C7.86129879,13.0513172 7.84622534,14.0009443 8.42264052,14.5773595 C8.99905569,15.1537747 9.94868279,15.1387012 10.543692,14.543692 C11.1387012,13.9486828 11.1537747,12.9990557 10.5773595,12.4226405 Z" id="Path" fill="#FFFFFF"></path>
+                <path d="M18.75,3.75 C16.2088492,1.63745482 13.0981638,0.25 9.53529231,0.25 C6.00532252,0.25 2.78091462,1.67240937 0.25,3.75" id="Oval-53" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+                <path d="M16.25,6.80208907 C14.4172662,5.31720349 12.0876964,4.25 9.54515822,4.25 C7.04419948,4.25 4.56883619,5.36071647 2.75,6.80208907" id="Oval-53" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+                <path d="M13.5,9.75 C12.3806243,8.89919388 11.0304752,8.25 9.51598846,8.25 C8.01588923,8.25 6.61394347,8.91379843 5.5,9.75" id="Oval-53" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

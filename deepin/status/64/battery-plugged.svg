@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>battery_plugged</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B3ED00" offset="0%"></stop>
+            <stop stop-color="#84BD1F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.296954719%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F8FBF2" offset="0%"></stop>
+            <stop stop-color="#DFF4BB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery_plugged">
+            <g transform="translate(0.333333, 1.666667)">
+                <image id="Bitmap" x="0.666666667" y="0.333333333" width="62" height="62" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAYAAABzwahEAAAABGdBTUEAA1teXP8meAAABQhJREFUaAXlmol2ozAMANu973v//yv3ProammEVAwWT5hVcvacaHFvWSLKhaS8vziuXhfnyvvj44qroKO+Lj9ffzjlSaznb47pU7DnGVrjccp2VeYhjru9O+OniJ5jopmqHVn0Q1ygixN+4RhEhnOt45zPG8c53ji1jVomLrpock5yvszj/8GDsT7S/Q9c6ic1HodkegTAIcbnadu84RmqkBMY5FMd+Hdpobk0I6ONQWgKKnhQAAcLOYnGOpWlGfoYFy3ixscqBrPnkMAd4twJdVZWl0wdbsw3QKPMsQzKMVi0c49cIa7h9qACTUG2rBjxDsyhOfD+01QufOMEAEHwUqQr8EnCBzTTQlBmlfdeCH+5/wIWfrYQacCILNMCU9lbEg869L/yN/s2Bm21LitJmoa0Jhxx+LYa/CVxoxmCQTG8ROtzqxFLHV68PHw2bKfAMTXlzkm6pvIck1z1kHt89fCfLfgyciQifaeBH17OPH1QlvqNmXqaegBNxTOhnIi37em+Cz5lh4D9wWXKJs1fI9LnfxvL6t3lNtp8e/B+U/FjGgecUZzB7e6/iGx4sN5Z6zjaD91jiZZJggIXKlq8bU2acDxnEAbHlR1fn/IIfcgjeTxHcaDCglWwLOZp1wRkEvPd7PdCEza0ssMHYiaDc0Em29/Cigr81AhNsA3CzTalv4beuGqglY2GCrc+6F4LzCLM0lhjcyxiZel5LXXAH7AWoxk9OeMH7w+w+gJPUSfAWnt1TVTDIONlGiMZ9AIf1Mu9xAjB4mWdUIwIbjF2iBYeNjpYPN9g6aGAF7zvobFwGGYfXQLTIfsTmjXu75czL1rEKTobp4LWuVYHNBPelTQfKl4util+cdvBk3Chw6rWecZ9aV5Y68HTyq1urAhuMfcYBFZxAGAz6WxG5JsF5ZX3eCm3igAm2I3Cybcb58FloawJTBh/scT7kgGvpkJMngx/tZ7LOl/Do69BWBBa5YOwkH2SWO1/MURotnPAwwAJTv7/jerSkebWjPJjwLXTP8j6cB5i/AfonpS7rOeMA0sle4FtJ3nT8D4O43J3gOwz+Q0Nf5pBMHWJknaDwGPgaukf5EE6TZcCPsg1MmXH6iIwTCMA7Oncm+IzvGfoIYSrjDmLyi1CCsZe/sLwMX1+F8jezXOazpQ7s0aCDIY3E7WaFfwTgQAPaA43DbSBTGQdeIQjc8zzklB81FP13LTy6PocCDDjbVV/LRE4ebjGnEyaonAdvQreYeTINNL4Bzbbk6aTvcXksUxnPo4wWLZl/G0okWWQLwn7+GGqmZ6Fxegk444ycpUPZM5fo3qWwn6lCtqCZHjy6xhxcAu5+z/AEgGc8J6gRHrN/rj5Lm5cU3jOEtrxn110Cno2U8Myn9Hm9pfStiLg8i/Am9imUNcksmfb0FhofZ6UWHIMlPLCcqLw00BKARYvHuKWCXcqatzHWI8Moa3l661d0zYtlPD/y/wjncMqjOIVSdvn9+EvcU4ZkYo2QFF6e2E7YZUsBKqzAVllVsIUIe1XiPFoUJ1ECQDmq9OEgzuo49wRDhwmecw0cLbYYxzzVuWVZV0GHvc5p2rVSBiBD5GBwbYUYLOdaorQEAwUsQ3rNZ46Py/VbysUxcopoJ0MJWraOyesJI3jZ+jktYnt9t+KnDq+YOjol2xMwt0xyjK0QueU6q4s5xvvVrYuvNjAzsbRf3pfTS7Dyvhy/+v4fra1pWYxQ1MYAAAAASUVORK5CYII="></image>
+                <circle id="circle15498" fill="url(#linearGradient-1)" cx="31.6666667" cy="30.3333333" r="28"></circle>
+                <circle id="circle15498" fill="#9AD82D" cx="31.6666667" cy="30.3333333" r="27"></circle>
+            </g>
+            <g id="Group-2" transform="translate(7.000000, 12.000000)">
+                <circle id="Oval-2" fill="#B6EF53" cx="5.50161498" cy="22.501615" r="3.50161498"></circle>
+                <circle id="Oval-2" fill="#B6EF53" cx="38.501615" cy="3.50161498" r="2.50161498"></circle>
+                <ellipse id="Oval-2" fill="#B6EF53" cx="1.45900624" cy="26.4590062" rx="1.45900624" ry="1.45900624"></ellipse>
+                <ellipse id="Oval-2" fill="#B6EF53" cx="14.4590062" cy="1.45900624" rx="1.45900624" ry="1.45900624"></ellipse>
+                <ellipse id="Oval-2" fill="#B6EE53" cx="47.33441" cy="28.33441" rx="2.33440999" ry="2.33440999"></ellipse>
+                <circle id="Oval-2" fill="#B6EE53" cx="24.501615" cy="40.501615" r="3.50161498"></circle>
+                <circle id="Oval-2" fill="#B6EE53" cx="29.8754037" cy="43.8754037" r="0.875403745"></circle>
+                <circle id="Oval-2" fill="#AAE14B" cx="42.8754037" cy="7.87540375" r="0.875403745"></circle>
+            </g>
+            <g id="Group" transform="translate(14.000000, 14.000000)">
+                <circle id="circle15506" fill="#000000" opacity="0.1" cx="18" cy="19" r="18"></circle>
+                <circle id="circle15506" fill="url(#linearGradient-2)" cx="18" cy="18" r="18"></circle>
+                <circle id="circle15506" fill="#FFFFFF" cx="18" cy="18" r="17"></circle>
+            </g>
+            <path d="M21.1045,32 C21.0409442,32.4418878 21.0060423,32.887207 21,33.3333333 C21,39.2243707 25.9248678,44 32,44 C38.0751322,44 43,39.2243707 43,33.3333333 C42.9948691,32.8872629 42.9608857,32.441944 42.89825,32 L21.10505,32 L21.1045,32 Z" id="path15778" fill="#9AD82D"></path>
+            <path d="M30.0150939,49.8918046 L30.0002975,42.9663636 C29.9844701,42.4159433 30.5997321,41.6902801 31.9688952,41.6769333 C33.3705144,41.6841406 33.9996002,42.4036643 33.9795656,42.9663636 C33.9795656,42.9663636 33.9889124,47.1058488 33.9948376,49.8907124 C33.339835,49.9629284 32.6742468,50 32,50 C31.3291607,50 30.6668927,49.9633022 30.0150939,49.8918046 Z" id="Combined-Shape" fill="#9AD82D"></path>
+            <rect id="rect15782" fill="#9AD82D" x="25" y="22" width="3" height="8"></rect>
+            <rect id="rect15782" fill="#9AD82D" x="36" y="22" width="3" height="8"></rect>
+        </g>
+    </g>
+</svg>

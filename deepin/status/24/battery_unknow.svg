@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>battery_unknow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery_unknow">
+            <image id="Bitmap" x="1" y="1" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABGdBTUEAA1teXP8meAAAASVJREFUOBG1lY0OwiAMhJ2/UeP7v6pR57yvcsvIXEgGXtJAKdzqtWC3WUanELZNI3MwJHtP5qxn2GXe1zHZUe5Zxh5IXmnEJ3aSAT5UBKQH2U3G4RLYw17O+BfNzhDwxlmwsOBEZuTTTAsci+GfmVMgArWAA64ojCWgOD2LlYhiu5XQ9lFJyHE44OogxminVoBrS9ru0xYykFx0hqVA31aAK6RoRWieMWOu5N6rDUakHZACYq5kK8AVxFHFVqziiS4jbYN5bWfQwyTaW4qnHD+Dmq4GHHCNT+nfHiFS9Jux5jHiTFxliMBUY3z0wa44QklzyC6yu4yLkUkgPwOZWxoXA918O+l5Wor68OhY05FUa8t/JynGByDwxzSNrCDhlzFmhPIDH9WPND/uiU9gAAAAAElFTkSuQmCC"></image>
+            <circle id="circle15498" fill="#FF5822" cx="12" cy="12" r="10"></circle>
+            <circle id="circle15800" fill="#FFFFFF" cx="12.001" cy="12.00165" r="6"></circle>
+            <path d="M10.0198,10.1837185 C10.09405,9.36654847 10.76665,8.7872365 11.44325,8.57966025 C12.4059,8.2917904 13.5479,8.79866776 13.9227,9.86501726 C14.2975,10.9313668 13.65605,11.7279825 12.938,12.2012806 C12.21995,12.6746336 12.0281,13.3416585 12.0217,14" id="path15804" stroke="#FF5822"></path>
+            <circle id="circle15806" fill="#FF5822" cx="12.01575" cy="15.75945" r="0.75"></circle>
+        </g>
+    </g>
+</svg>

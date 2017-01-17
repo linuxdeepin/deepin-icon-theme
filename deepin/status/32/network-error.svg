@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>network-error</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F67B37" offset="0%"></stop>
+            <stop stop-color="#F1493E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="network-error">
+            <image id="Bitmap" x="2" y="4" width="28" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAYAAACkVDyJAAAABGdBTUEAA1teXP8meAAAAJNJREFUSA1jYMAEjEAhEKYUEG0OK6U2IenHMIsJSRLGpIbvcJqF7O3/MFU0ouEewfA2jSwEGcsKClK4zTS0CGY0I7Y4hEnShB61kOrBOhqko0FKcgiMJhqSg4yQhtEgJRRCJMuPnCBlIzlsSNcAtoMFqA/UeFIAYg4gplVzA2THDyB+ALIAhEEW08oyoNFgALL0DwChegdYV5z1XgAAAABJRU5ErkJggg=="></image>
+            <path d="M3,7.67492314 C3,7.30217338 3.30065012,7 3.66051865,7 L7,7 L7.00000023,4.66579723 C7.00000027,4.29808758 7.29740604,4 7.66197725,4 L24.338023,4 C24.7036228,4 25,4.29861927 25,4.66579723 L25,7 L28.3394814,7 C28.7042757,7 29,7.2968626 29,7.67492314 L29,27.3250769 C29,27.6978266 28.7080078,28 28.3311719,28 L3.6688281,28 C3.29944454,28 3,27.7031374 3,27.3250769 L3,7.67492314 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+            <path d="M13.5,14 L18.5,19" id="Path-3" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M13.5,14 L18.5,19" id="Path-3" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(16.000000, 16.500000) scale(-1, 1) translate(-16.000000, -16.500000) "></path>
+            <path d="M16,23.3333333 L16,21.3333333" id="Path-3" stroke="#FFFFFF" stroke-width="1.33333333"></path>
+            <path d="M19.3333333,23.3333333 L19.3333333,21.3333333" id="Path-3" stroke="#FFFFFF" stroke-width="1.33333333"></path>
+            <path d="M12.6666667,23.3333333 L12.6666667,21.3333333" id="Path-3" stroke="#FFFFFF" stroke-width="1.33333333"></path>
+            <polygon id="Combined-Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="7.5 23.5 7.5 11.4999995 11.5 11.5 11.5 8.5 20.5 8.5 20.5 11.5 24.5 11.5 24.5 23.5"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>network-wirelss-no-route-symbolic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="network-wirelss-no-route-symbolic">
+            <g id="Group-13">
+                <polygon id="Fill-68" points="0 16 16 16 16 0 0 0"></polygon>
+                <path d="M1.0428,6.5905 C1.9348,5.6395 2.9978,4.8705 4.1758,4.3385 C5.3548,3.8055 6.6508,3.5115 8.0088,3.5115 C9.3678,3.5115 10.6628,3.8055 11.8418,4.3385 C13.0208,4.8705 14.0828,5.6395 14.9758,6.5905 L8.0178,13.4465 L1.0428,6.5905 L1.0428,6.5905 Z" id="Stroke-270" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
