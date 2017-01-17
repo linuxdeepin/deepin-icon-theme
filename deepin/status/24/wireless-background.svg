@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wireless-background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.4900079%" x2="50%" y2="97.1779337%" id="linearGradient-1">
+            <stop stop-color="#15C4FF" offset="0%"></stop>
+            <stop stop-color="#218AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wireless-background" fill="url(#linearGradient-1)">
+            <g id="Group" transform="translate(1.000000, 3.000000)">
+                <path d="M21.1482105,4.70379119 C18.6197538,1.81091524 15.0039071,0 10.9887914,0 C6.98957624,0 3.38647403,1.79660055 0.859462833,4.66947324 C0.699019697,4.85187556 -1.00790121,6.84308381 0.885966612,8.78144418 C3.2285206,11.5319344 6.93936339,15.729127 9.14314671,18.0931895 C10.9887917,20.0404597 12.7048513,18.2729815 12.8726142,18.0931894 C15.079874,15.7276627 18.7472262,11.5350477 21.1430618,8.7281 C22.9854843,6.84308381 21.3078522,4.88644166 21.1482105,4.70379119 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

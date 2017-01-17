@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>深度音乐-32px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="4.1304029%" y1="43.4371322%" x2="96.2750973%" y2="43.4371323%" id="linearGradient-1">
+            <stop stop-color="#3F474C" offset="0%"></stop>
+            <stop stop-color="#151E25" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="深度音乐-32px">
+            <image id="Bitmap" x="1" y="5" width="30" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAaCAYAAACgoey0AAAABGdBTUEAA1teXP8meAAAAShJREFUSA3llstOwzAQRdOCQDw3SN2UHf//VSxghYSgVVXRxzmj2FKKsihJ7AUjXcWxYx/fcRK7aZpm1orLoDh7nMtBuG7nBJ9Tbbk3fECNFQcGUvt2wN4JjAk9nXyaQMpCp31KcALpXniH1blJT05wTfC87qXAetmhCxTwkmDhOg9mLfCsNFjXMuc1wPGi1QD7klVJtemuAo69oUaqr3F8+Ddg/1xGccdPQFdoXzLVtwB1vEXFHF8BW6AP5A8kwsop44bBX9A9ytvimOet08mbVl3eoXe0Rp5KIsYG+43q8AEJ/ESvKNaVaw6tm2o7fOXavxUe6bZEG/TdSqBrmp1SjhCs62fkLPMaUD4nHFjYG/pB6aD3C0hbhCDlegz9tHTmztMLoy3HEZjBLZ3IWnJxAAAAAElFTkSuQmCC"></image>
+            <path d="M19,28 C25.0751322,28 30,23.0751322 30,17 C30,10.9248678 25.0751322,6 19,6 C12.9248678,6 8,10.9248678 8,17 C8,23.0751322 12.9248678,28 19,28 Z" id="circle13330" fill="#478500" transform="translate(19.000000, 17.000000) rotate(-270.000000) translate(-19.000000, -17.000000) "></path>
+            <path d="M19,27 C24.5228475,27 29,22.5228475 29,17 C29,11.4771525 24.5228475,7 19,7 C13.4771525,7 9,11.4771525 9,17 C9,22.5228475 13.4771525,27 19,27 Z" id="circle13330" fill="url(#linearGradient-1)" transform="translate(19.000000, 17.000000) rotate(-270.000000) translate(-19.000000, -17.000000) "></path>
+            <circle id="circle13353" fill="#000000" transform="translate(19.000000, 17.000000) rotate(-270.000000) translate(-19.000000, -17.000000) " cx="19" cy="17" r="5"></circle>
+            <circle id="circle13353" fill="#478500" transform="translate(19.000000, 17.000000) rotate(-270.000000) translate(-19.000000, -17.000000) " cx="19" cy="17" r="3"></circle>
+            <path d="M-1,8.99339768 C-1,8.44475929 -0.55253078,8 0.00069463253,8 L21.9993054,8 C22.5519738,8 23,8.44494629 23,8.99339768 L23,25.0066023 C23,25.5552407 22.5525308,26 21.9993054,26 L0.00069463253,26 C-0.551973752,26 -1,25.5550537 -1,25.0066023 L-1,8.99339768 Z" id="Rectangle-118" fill="#92DC00" transform="translate(11.000000, 17.000000) rotate(-270.000000) translate(-11.000000, -17.000000) "></path>
+            <path d="M11.0591519,11.4499998 C11.0591519,11.25 11.2214835,11.0006667 11.5500002,11 C11.8785169,10.9993333 11.9532142,11.3064395 11.9532142,11.3064395 C11.9532142,11.3064395 11.932497,12.1757718 13.6232793,13.3064396 C13.932497,13.5091051 16.9532145,15.3064394 15.4753298,18.5871074 C15.4753298,18.5871074 15.3953298,18.7557741 15.2186631,18.6851074 C15.0793298,18.6291074 15.1266631,18.4511074 15.1266631,18.4511074 C15.1266631,18.4511074 16.2865475,14.9731061 11.9532142,13.9731061 C11.9532142,13.9731061 11.960224,18.6931789 11.9560189,19.9838967 C11.9602238,20.9731064 11.2993723,21.8784207 10.1097201,22.1971871 C8.84718371,22.5354827 7.61125412,22.0168827 7.34919413,21.0388615 C7.08713414,20.0608403 7.89818055,18.9937547 9.16071697,18.6554591 C9.85377759,18.469754 10.5388205,18.5422646 11.0591518,18.8072416 C11.0591519,18.4999999 11.0591519,11.6499996 11.0591519,11.4499998 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(11.590089, 16.650321) rotate(-360.000000) translate(-11.590089, -16.650321) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>battery_plugged</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery_plugged">
+            <image id="Bitmap" x="1" y="1" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABGdBTUEAA1teXP8meAAAASVJREFUOBG1lY0OwiAMhJ2/UeP7v6pR57yvcsvIXEgGXtJAKdzqtWC3WUanELZNI3MwJHtP5qxn2GXe1zHZUe5Zxh5IXmnEJ3aSAT5UBKQH2U3G4RLYw17O+BfNzhDwxlmwsOBEZuTTTAsci+GfmVMgArWAA64ojCWgOD2LlYhiu5XQ9lFJyHE44OogxminVoBrS9ru0xYykFx0hqVA31aAK6RoRWieMWOu5N6rDUakHZACYq5kK8AVxFHFVqziiS4jbYN5bWfQwyTaW4qnHD+Dmq4GHHCNT+nfHiFS9Jux5jHiTFxliMBUY3z0wa44QklzyC6yu4yLkUkgPwOZWxoXA918O+l5Wor68OhY05FUa8t/JynGByDwxzSNrCDhlzFmhPIDH9WPND/uiU9gAAAAAElFTkSuQmCC"></image>
+            <g transform="translate(1.500000, 2.000000)">
+                <circle id="circle15498" fill="#9AD82D" cx="10.5" cy="10" r="10"></circle>
+                <circle id="circle15776" fill="#FFFFFF" cx="10.50355" cy="10.00165" r="6"></circle>
+                <path d="M6.50267,10 C6.50267,12.209139 8.293531,14 10.50267,14 C12.711809,14 14.50267,12.209139 14.50267,10 L6.50267,10 Z" id="Combined-Shape" fill="#9AD82D"></path>
+                <path d="M10.4844476,12.50385 C9.79986604,12.50885 9.49223507,12.7807 9.50014873,12.9869 L9.51016602,16.4998 C9.50014873,16.7501 9.77973129,16.9969 10.4924615,16.99925 C11.1930707,17.00425 11.5091162,16.7546 11.4998001,16.4998 C11.4998001,16.3109 11.4897828,12.9869 11.4897828,12.9869 C11.4998001,12.7761 11.1852572,12.50655 10.4844476,12.50385 L10.4844476,12.50385 Z" id="path15780" fill="#9AD82D"></path>
+                <rect id="rect15782" fill="#9AD82D" x="7.5" y="6" width="1" height="3"></rect>
+                <rect id="rect15782" fill="#9AD82D" x="12.5" y="6" width="1" height="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

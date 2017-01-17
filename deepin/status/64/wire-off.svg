@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wire-off</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C2C2C2" offset="0%"></stop>
+            <stop stop-color="#7B7A7A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.33376347%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#A8A8A8" offset="0%"></stop>
+            <stop stop-color="#8B8B8B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wire-off">
+            <image id="Bitmap" x="3" y="6" width="58" height="54" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA2CAYAAACWeYpTAAAABGdBTUEAA1teXP8meAAAAdxJREFUaAXtmt1OwzAMhSk/ggve/1lBsBV/UU9nMOqiIZW4siXPnptl5/ikufJ012eTW+ZzV949nd0/+tyVL2kPaK25t5+RK6p+2W2fDFL42UX+eZPsIys6DHIP5mz2sUQL/2Y0GezgwiC9aVq4ucgesvGT+af5Zufs+R4GBrCAqetk9RBlI9bRwRFIGoxmYJGqV8n2EGVXNuLojmZgukoS0HpH/WKfs4ZmyPk+kgnXb4L50zdDVMRYTK6oOpF3QU2xdBgDE9gwESPi/laeICFyulVHuXAM2s0GJ4l4svwsyaXaEUjSHRT9divrmBLpgOS3NL3BBU6No1d0xFv1r91eb2VPlON7NINT4yWiRyMY+BTR0JLkhVI0uYABfikaWpK8UIomFzDAL0VDS5IXStHkAgb4pWhoSfJCKZpcwAC/FA0tSV4oRZMLGOCXoqElyQulaHIBA/xSNLQkeaEUTS5ggF+KhpYkL5SiyQUM8EvR0JLkBSnKBAd+pDkGuIhXG01BKwoMHr2aH4EsHOACJ7g1UhQZU3k2f1kiY2dS29JUxmgcM8Xv5m9LPDFwhMGahxgTV+t8Tqvk+tDphMc6RI2aOqooSK6oupVSGURxP/S4kvSkfJ6K4Q+wkJXNX0OkQsENlBOpAAAAAElFTkSuQmCC"></image>
+            <path d="M6,15.3263446 C6,14.5938247 6.60130024,14 7.33902013,14 L14,14 L14.0000005,9.33159447 C14.0000005,8.59617515 14.5948121,8 15.3239545,8 L48.6760461,8 C49.4072456,8 50,8.59723854 50,9.33159447 L50,14 L56.6609799,14 C57.4005003,14 58,14.5937252 58,15.3263446 L58,54.6736554 C58,55.4061753 57.3980328,56 56.6623438,56 L7.3376562,56 C6.59888908,56 6,55.4062748 6,54.6736554 L6,15.3263446 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+            <path d="M6,16.3308716 C6,15.5958515 6.60130024,15 7.33902013,15 L14,15 L14.0000005,10.3315945 C14.0000005,9.59617515 14.5948121,9 15.3239545,9 L48.6760461,9 C49.4072456,9 50,9.59723854 50,10.3315945 L50,15 L56.6609799,15 C57.4005003,15 58,15.5964869 58,16.3308716 L58,53.6691284 C58,54.4041485 57.3980328,55 56.6623438,55 L7.3376562,55 C6.59888908,55 6,54.4035131 6,53.6691284 L6,16.3308716 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+            <path d="M16,46 L16,23.9999991 L22.9999999,24 C23.5522847,24.0000001 24,23.5522848 24,23 L24,18 L40,18 L40,23 C40,23.5522847 40.4477153,24 41,24 L48,24 L48,46 L16,46 Z M42,17 C42,16.4477153 41.5522847,16 41,16 L23,16 C22.4477153,16 22,16.4477153 22,17 L22,21.9999999 L15.0000001,21.9999989 C14.4477153,21.9999989 14,22.4477141 14,22.9999989 L14,47 C14,47.5522847 14.4477153,48 15,48 L49,48 C49.5522847,48 50,47.5522847 50,47 L50,23 C50,22.4477153 49.5522847,22 49,22 L42,22 L42,17 Z M28,47 L28,42 L26,42 L26,47 L28,47 Z M23,47 L23,42 L21,42 L21,47 L23,47 Z M38,47 L38,42 L36,42 L36,47 L38,47 Z M43,47 L43,42 L41,42 L41,47 L43,47 Z M33,47 L33,42 L31,42 L31,47 L33,47 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.5"></path>
+        </g>
+    </g>
+</svg>
