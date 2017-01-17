@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wire-off</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.33376347%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#A8A8A8" offset="0%"></stop>
+            <stop stop-color="#8B8B8B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wire-off">
+            <image id="Bitmap" x="1" y="2" width="22" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAABGdBTUEAA1teXP8meAAAAIVJREFUOBHtle0KgCAMRdM+oPd/2qCye4QGigSK/fPCRbf0MEZMN6VyCheZtUZBh0+ZtahV2bn45TvJHe6aSFAdSSrd5EOuFZXuMiwvhxd6K7jkHqJYDx14LyiFwXKAf9EAW1tHK0YrrAO2GX9F0gpmactwN0i2gRXnMWOz5TnKeBbGZ+oBCLcOTrkg0UcAAAAASUVORK5CYII="></image>
+            <path d="M2,5.4963932 C2,5.22224281 2.23124288,5 2.49004669,5 L5.52435662,5 L5.52435679,3.50468445 C5.52435682,3.22595492 5.74957343,3 6.0171728,3 L18.007184,3 C18.2793588,3 18.5,3.21403503 18.5,3.50468445 L18.5,5 L21.4985353,5 C21.7754866,5 22,5.22618103 22,5.4963932 L22,20.5036068 C22,20.7777572 21.7753906,21 21.5056152,21 L2.49438477,21 C2.2213436,21 2,20.773819 2,20.5036068 L2,5.4963932 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+            <path d="M6,8.99531522 L8.49999993,8.99531555 C8.77614233,8.99531559 9,8.77145795 9,8.49531555 L9,7 L15,7 L15,8.49531555 C15,8.77145793 15.2238576,8.99531555 15.5,8.99531555 L18,8.99531555 L18,16.9979296 L6,16.9979296 L6,8.99531522 Z M16,6.5 C16,6.22385763 15.7761424,6 15.5,6 L8.5,6 C8.22385763,6 8,6.22385763 8,6.5 L8,7.99531549 L5.50000007,7.99531516 C5.22385767,7.99531512 5,8.21917276 5,8.49531516 L5,17.4979296 C5,17.7740719 5.22385763,17.9979296 5.5,17.9979296 L18.5,17.9979296 C18.7761424,17.9979296 19,17.7740719 19,17.4979296 L19,8.49531555 C19,8.21917318 18.7761424,7.99531555 18.5,7.99531555 L16,7.99531555 L16,6.5 Z M9,15.9927012 L9,17.4927012 L10,17.4927012 L10,15.9927012 L9,15.9927012 Z M14,15.9927012 L14,17.4927012 L15,17.4927012 L15,15.9927012 L14,15.9927012 Z M12,15.9927012 L12,17.4927012 L13,17.4927012 L13,15.9927012 L12,15.9927012 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.5"></path>
+        </g>
+    </g>
+</svg>

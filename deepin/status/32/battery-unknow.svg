@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>battery_unknow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery_unknow">
+            <image id="Bitmap" x="1" y="2" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAA1teXP8meAAAAdBJREFUSA29ltlOwzAQRVt2xPIASCAkxP//GbyA2ARlK/eY3GnjNJQ2iS3d2vEyp3M9jToe/a+Nq23005Yj82tte1qONqcJtiEZ3NzRnFnnTC0KAVYB1g5XZ1vPb+a7qwNkSetqmbP/jTb3mYOdJcCu0DlM0zln5k22pk+oYzm2WdGzkDsQiz0MiN2AM7HVQ/BlIWAkuK3mwZYsO9xlHUZkzWC7S7QVz8IaO2P3K8ZYa3ti8VES6m+6ARSrvz1ToIeVrAb8VQBoBKwAR6V5dcAeVhRXid+wc0ks7pjf1pBvLAPdw5oavOvZAj2sAJe2emqL3Q9d3XZ24pfHm9I/LWAzDFhRVBTYjkSpf0hDtAMFJdEXKd0xEMCP0pk0xH0Tk9gwYNUa2R5K11KfLxRiEZPYEddFpbnUXFwXenqWur7DyRTog4TFES8Ha230LmHHpTSR1r1z7vRKupewOKAaz1LnoWrYQRHsS+cSLtxIqRrVL2t72oBjJHUrvUpASSZaeB4zswFr/Fs4lk4kDj5JWIYLdoI9iAyPJM7dSWTJnhpQz6n9BWYD64i7IhMKBCcAufo/NQZAZtQFzjAHcCFU8wutZj5v/gJ5zz4D8j6PUXv+AQPKTCYy2hjvAAAAAElFTkSuQmCC"></image>
+            <path d="M16.006,30.0015333 C23.7379865,30.0015333 30.006,23.7335198 30.006,16.0015333 C30.006,8.26954684 23.7379865,2.00153333 16.006,2.00153333 C8.2740135,2.00153333 2.006,8.26954684 2.006,16.0015333 C2.006,23.7335198 8.2740135,30.0015333 16.006,30.0015333 Z" id="circle15794" fill="#FF5822"></path>
+            <circle id="circle15656" fill="#FFFFFF" cx="16" cy="16" r="9"></circle>
+            <path d="M13.3597333,14.0224 C13.4587333,13.0311333 14.3555333,12.3284 15.2576667,12.0766 C16.5412,11.7274 18.0638667,12.3422667 18.5636,13.6358 C19.0633333,14.9293333 18.2080667,15.8956667 17.2506667,16.4698 C16.2932667,17.044 16.0374667,17.8531333 16.0289333,18.6517333" id="path15804" stroke="#FF5822" stroke-width="1.8"></path>
+            <circle id="circle15806" fill="#FF5822" cx="16.021" cy="21.0126" r="1"></circle>
+        </g>
+    </g>
+</svg>

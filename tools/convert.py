@@ -66,12 +66,12 @@ class Render(object):
         global inkscape_process
         if inkscape_process is None:
             inkscape_process = self.start_inkscape()
-        print "[Info] Inkscape '%s -w %s -w %s -e %s'" %(icon_file, width, height, output_file)
+        print("[Info] Inkscape '%s -w %s -w %s -e %s'" %(icon_file, width, height, output_file))
         self.wait_for_prompt(inkscape_process,'%s -w %s -w %s -e %s' %(icon_file, width, height, output_file))
         self.optimize_png(output_file)
 
     def copy_file(self, source_path, dest_path):
-        print "[Info] Copy %s -> %s" % (source_path, dest_path)
+        print("[Info] Copy %s -> %s" % (source_path, dest_path))
         if os.path.lexists(dest_path):
             os.unlink(dest_path)
         shutil.copy2(source_path, dest_path)
@@ -98,7 +98,7 @@ class Paser(object):
 
     def install_misc(self):
         import shutil
-        print "[Info] Copy index.theme..."
+        print("[Info] Copy index.theme...")
         shutil.copy2(os.path.join(self.src_path,"index.theme"), os.path.join(self.basedir, self.theme_dir))
         if os.path.exists(os.path.join(self.src_path,"overrides")):
             copytree(os.path.join(self.src_path,"overrides"), os.path.join(self.basedir, self.theme_dir))
@@ -121,42 +121,52 @@ class Paser(object):
         for d in dirs:
             self.render_directory(d)
 
-    def render_directory(self,directory):
-        size=self.get_info(directory,'Size')
-        if directory.split('/')[0].replace('x','').isdigit:
-            src_dir,flag=directory.split('/')
-        else:
-            flag,src_dir=directory.split('/')
+    def render_directory(self, directory):
+
+        # Get size directory, like 'action/22'
+        try:
+            size = self.get_info(directory, 'Size')
+        except ConfigParser.NoSectionError as e:
+            print("Error when rending %s: %s" % (directory, e))
+            return 
+
+        # split with liks 'apps/32'
+        src_dir, flag = directory.split('/')
 
         if flag == 'scalable':
             out_format = "svg"
         else:
             out_format = "png"
 
-        for d,_,files in os.walk(os.path.join(self.src_path, src_dir)):
+        source_dir = os.path.join(self.src_path, src_dir, 'scalable')
+        if os.path.exists(os.path.join(self.src_path, src_dir, size)):
+            source_dir = os.path.join(self.src_path, src_dir, size)
+
+        for d, _, files in os.walk(source_dir):
             for f in files:
-		if not f.endswith(".svg"):
+                if not f.endswith(".svg"):
                     continue
                 if out_format == "png":
-                    output_file=f.replace(".svg",".png")
+                    output_file = f.replace(".svg",".png")
                 else:
-                    output_file=f
+                    output_file = f
+
                 if not os.path.islink(os.path.join(d,f)):
                     if output_file.endswith(".svg"):
                         self.render.copy_file(os.path.join(d,f), os.path.join(self.result,self.theme_dir, directory, output_file))
                     elif output_file.endswith(".png"):
                         self.render.inkscape_render(os.path.join(d,f),size,size,os.path.join(self.result, self.theme_dir,directory, output_file))
                     else:
-                        print "[WARNING] Not support %s" % output_file
+                        print("[WARNING] Not support %s" % output_file)
                         pass
 
                 else:
                     source=os.path.basename(os.path.realpath(os.path.join(d,f)))
                     if out_format == "png":
-                        real_source=source.replace(".svg",".png")
+                        real_source = source.replace(".svg",".png")
                     else:
-                        real_source=source
-                    self.render.copy_link(real_source, output_file, os.path.join(self.result,self.theme_dir,directory))
+                        real_source = source
+                    self.render.copy_link(real_source, output_file, os.path.join(self.result, self.theme_dir, directory))
 
 if __name__ == "__main__":
     src_dir = sys.argv[1]

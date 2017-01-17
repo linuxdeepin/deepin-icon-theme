@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>battery-000-plugged-symbolic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery-000-plugged-symbolic">
+            <g id="Group-41">
+                <polygon id="Fill-84" points="0 16 16 16 16 0 0 0"></polygon>
+                <path d="M7.9109,10.0179 C7.8329,10.0179 3.5129,6.2779 3.5089,6.1989 C3.6789,6.2439 7.2859,7.8369 7.2859,7.8369 L8.2239,5.9819 C8.3019,5.9819 12.4979,9.6789 12.4909,9.7489 C12.3429,9.7199 8.8059,8.1459 8.8059,8.1459 L7.9109,10.0179 Z" id="Fill-252" fill="#FFFFFF"></path>
+            </g>
+            <polygon id="Stroke-238" stroke="#FFFFFF" stroke-linejoin="round" points="15.5 6.5 14.5 6.5 14.5 3.5 1.5 3.5 1.5 12.5 14.5 12.5 14.5 9.5 15.5 9.5"></polygon>
+        </g>
+    </g>
+</svg>

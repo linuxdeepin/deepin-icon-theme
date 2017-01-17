@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>深度音乐-48px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="4.1304029%" y1="43.4371322%" x2="96.2750973%" y2="43.4371323%" id="linearGradient-1">
+            <stop stop-color="#3F474C" offset="0%"></stop>
+            <stop stop-color="#151E25" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="深度音乐-48px">
+            <image id="Bitmap" x="2" y="7" width="46" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAoCAYAAACB4MgqAAAABGdBTUEAA1teXP8meAAAAhZJREFUWAnVmYtOg0AQRcG3Rk1Mo///j8b3o94z5RIgSIqBujPJsAvdwtnZOwO0dVVVtRyjdT8OrLTZ6rw45na3N2N70ow9bk7yNeO7fx3KtfDhtWZNghMcyc/l7/JDGIBc095d6b1XnIgz2JFX9yD22bkK1yeAMHw3rmZaRswa23umu+GLblkBJvIhdxBpJ5lKABdja0wA7RN92H6FN7jGFGPIhXwDHgmNwpcILtawN20BH4UvGRx64EdlUzo48MjmVN5L2AzgLpFEvrUM4MA6WeGNZM0CDrzLJP2oldFJsHHUQ+uZIu6HsGDOBI4oSFTqeiqpwGvwOlvESdC0UgE8XcSRS7o6DnQkJp1sGgc8ymI2cJ5XqCzbbOBnDXgqqZCUSIWSmCriVwL2O2mqiF8LnActNJ4GHGgkQsSpKimkgq5v5K9ywMMyVJV7kfLSbJmkqOMbAaPpF3kbbfWL1viD+KjbT3KiHdpWG9Z7c/bBf27RNNDYoxyZxN2SA7bSwG8FdidHGkQa6LjhqO1ZCeAUCICpHMiBKAPeS0bt98zgkam9T9bd4S54KecPBXRM4gFLyQO4rdfqj1oXnJM9j45a9iA3EzQMIO7oAovHnVHtZDB5cGGpLuQsFfAkx1qGXoElQI4soHZ1p4EZgMWPK2qBZclYAR9Td1FzOSOq/PswTLrJCA9JupDd/nDckvueAOecBduF+AGlV3CVZfuUAQAAAABJRU5ErkJggg=="></image>
+            <path d="M29,43.001 C38.3888407,43.001 46,35.3898407 46,26.001 C46,16.6121593 38.3888407,9.001 29,9.001 C19.6111593,9.001 12,16.6121593 12,26.001 C12,35.3898407 19.6111593,43.001 29,43.001 Z" id="circle13330" fill="#478500" transform="translate(29.000000, 26.001000) rotate(-270.000000) translate(-29.000000, -26.001000) "></path>
+            <path d="M29,42 C37.836556,42 45,34.836556 45,26 C45,17.163444 37.836556,10 29,10 C20.163444,10 13,17.163444 13,26 C13,34.836556 20.163444,42 29,42 Z" id="circle13330" fill="url(#linearGradient-1)" transform="translate(29.000000, 26.000000) rotate(-270.000000) translate(-29.000000, -26.000000) "></path>
+            <circle id="circle13353" fill="#000000" transform="translate(29.000000, 26.000000) rotate(-270.000000) translate(-29.000000, -26.000000) " cx="29" cy="26" r="9"></circle>
+            <circle id="circle13353" fill="#478500" transform="translate(29.000000, 26.000000) rotate(-270.000000) translate(-29.000000, -26.000000) " cx="29" cy="26" r="6"></circle>
+            <path d="M-0.5,13.4929654 C-0.5,12.9445658 -0.0448269844,12.5 0.500419438,12.5 L34.4995806,12.5 C35.052097,12.5 35.5,12.9461086 35.5,13.4929654 L35.5,38.5070346 C35.5,39.0554342 35.044827,39.5 34.4995806,39.5 L0.500419438,39.5 C-0.0520969611,39.5 -0.5,39.0538914 -0.5,38.5070346 L-0.5,13.4929654 Z" id="Rectangle-118" fill="#92DC00" transform="translate(17.500000, 26.000000) rotate(-270.000000) translate(-17.500000, -26.000000) "></path>
+            <path d="M17.0524335,18.4596593 C17.0524335,18.4596593 17.0524335,17.9606611 17.5452085,17.9596611 C18.0379835,17.9586611 18.0490351,18.4596593 18.0490351,18.4596593 C18.0490351,18.4596593 18.0179593,19.7636576 20.5541327,21.4596594 C21.0179593,21.7636576 25.5490355,24.4596591 23.3322085,29.3806611 C23.3322085,29.3806611 23.2122085,29.6336611 22.9472085,29.5276611 C22.7382085,29.4436611 22.8092085,29.1766611 22.8092085,29.1766611 C22.8092085,29.1766611 24.5490351,23.9596591 18.0490351,22.4596591 C18.0490351,22.4596591 18.0595497,29.5397683 18.0532421,31.475845 C18.0595495,32.9596596 17.0682722,34.3176311 15.283794,34.7957806 C13.3899893,35.303224 11.5360949,34.525324 11.1430049,33.0582922 C10.749915,31.5912604 11.9664846,29.990632 13.8602892,29.4831886 C15.0611376,29.1614222 16.2459391,29.3564591 17.0524335,29.9162936 L17.0524335,18.4596593 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(17.504347, 26.455312) rotate(-360.000000) translate(-17.504347, -26.455312) "></path>
+        </g>
+    </g>
+</svg>
