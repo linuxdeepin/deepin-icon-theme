@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wireless</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.4900079%" x2="50%" y2="97.1779337%" id="linearGradient-1">
+            <stop stop-color="#67D9FF" offset="0%"></stop>
+            <stop stop-color="#0077FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="3.4900079%" x2="50%" y2="97.1779337%" id="linearGradient-2">
+            <stop stop-color="#15C4FF" offset="0%"></stop>
+            <stop stop-color="#218AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wireless">
+            <image id="Bitmap" x="0" y="5" width="64" height="57" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA5CAYAAACGRC3XAAAABGdBTUEAA1teXP8meAAABSlJREFUaAXl2YmW2zYMBdCZNF2SrmnT5v8/svuS4Mp+CkeWY1mWXMuDczCkKC54DyBIax4f1pXHwfTD58Hr/vF9X9tVhs+D1/Mfpxo0dYV2PvU8p54y8+V9C1C9VX3znHFt/7TNKmPArMH7Qe0cAfii3qkrI4z+b6/aWlAZp92YjPdMjMv4dpx3nmdLa/y5k2RsjG8Nj7H/1KQXGVjjzf+y9LNSkrlDSuZPues18W9ATOzedcsYZUArCcB0TUEGJUj4txT4EJCymk5LwJzuebifeYQy4u99WcXVBOmflyqRMIuIqQSkXzzOA4D/VXoW49V/aWHTF6VsFH3souSkbQG26374N++VFgJc/c/SLFLVmxD2fVkKdIgIASkPDE1iOXhRDQEf4PE68EcnHJvoSm0BHnuzrPZgSVtfHiMgAzKZfoCvneB6wy6oyAWiUzTAgYCjJIwRYBD1Lknmj/0kVWxCEg2x/6jRQwICnucNNhHwWxURa+vCCcuBtAQEfDwvlGT5rQsSYELEAQkhIODjeXvoHsAXjE44c5QEjcATdWEPvIR3b4KEdjuIhkceJ8n2yLhH8B3I+iOfwcjZHXZ/NISALSe8gjFJYMzp0EUAApIgbu12NwnRmZ1gFP7d9k8EePCD5rkIrJzeRQASELCFW16ZuYjkaHyRCFA+N+mwt8BFwXORHisCJASJ4avngn6PtUuGQwKcCPcuMHN2T4CKpKB8U3rvAmOP2V7g9eirff2efgcUpF6+qxrvuwx13zH7ZNB3eXj4puoi4t6Oxa8LEwJ+L+Vg+N4nAoY/E3X0m8APiHsQX4d+LOV5mi3fXYDqudsCyhBhS3xbii37Zcvi3v9zKeCc2n7C7yKg2noJAUrZEgm/laa9qpsSEf5LKdAIEPqiGp4O01gO6F9WJ+/tHSRsTUQx8ACPggdojADtJF73TweZc2skCHskHAVf70YJMChREBIQgAg5YQsi4dn72fd90hsafywCxkjIHeHWvxh9XyBfl3IWW1vwcWg17+QYAd6GBPUMdEdwKkgqtyjsy+l1EjwAnyLAeySQEKBuAQRg9pZEhLrmCnv65Lir51E5RUA7CAkUKbd2UZKf3pYGfMI+NtercZlDQEhIqP3fFyWftmR8Z3w8/+SsH4e+az2HACOAJ8pbuCixwVnP42eDrzEnc4A+Q2nDCoESz6/DTld4thXflYpA4PsfOFWPo6r6aTk3AtrZsogQdOxcmwSeJwE/Oex3w3Z/5xCQ47GNhGvfFn8q8xEP/PC42yGb+HcOAaYekoAMt8XcvvRZS36oifNRYwg+UTl57bkEWCAkZDGL2wraGbaGOH79OJt0y5tiwCUEmB9Y0m4HSdGzpLSkAO6aG/CTLjqnDLiUgHb+NvyQICktdWXOLW8IviW+tWVyfUkCLBqDRMZSV2afsyQ9CY/G81mrmubLWgQkGi69MudzlpwS8LOOu2MULU2AdeIZpUhAAuPPvTI75pz1PG78weesartY1iCAUYkAZa7M9u9UEtj1rhR441YBX/POugobN0XaSAgJUyJBX+CF+mqeD4C1IiDzKxMNgDnGePXYtwQJT9gD33p+auTUsPNkTQLs/4AHQD2ng5tcIgQxOeaSNOP5/K6vLv1c6osJg9aUzA8ksmV1vxuoJKedIAhYe52KElEQz4fIalpWYuCysz6dLWsoAQYcGcq8AxTgVgM6Zb1eXmLA8jMfzmitVpGR9YHMNlGPVnVdiQHrrvJx9na9tq5H6+m2/nH0CrUPzLGHj+UacCsAAAAASUVORK5CYII="></image>
+            <path d="M59.6769377,19.6259658 C52.7811467,11.8608777 42.9197467,7 31.9694311,7 C21.0624807,7 11.2358383,11.8224541 4.34398954,19.5338492 C3.90641735,20.0234554 -0.748821492,25.3682776 4.41627258,30.5712449 C10.8050562,37.9541396 20.9255365,49.2202882 26.9358547,55.5659296 C31.969432,60.7928129 36.6495943,56.0485292 37.1071297,55.5659295 C43.1269291,49.2163577 53.1287986,37.9624966 59.6628957,30.4280579 C64.6876845,25.3682776 60.1123243,20.1162381 59.6769377,19.6259658 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M58.7543731,20.1308299 C52.0884418,12.6702551 42.5557551,8 31.97045,8 C21.4270646,8 11.927977,12.6333383 5.26585656,20.0423257 C4.84287011,20.5127317 0.342805891,25.647953 5.33573016,30.6468824 C11.5115543,37.7402518 21.2946853,48.5645906 27.1046595,54.6613834 C31.9704509,59.6832909 36.4946079,55.1250575 36.936892,54.6613833 C42.7560314,48.5608142 52.4245053,37.748281 58.7407992,30.5093105 C63.598095,25.647953 59.1752468,20.6018759 58.7543731,20.1308299 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+            <g id="Group" transform="translate(13.000000, 18.000000)">
+                <path d="M21.154719,24.845281 C20.0018886,23.6924507 18.1026344,23.7225976 16.912616,24.912616 C15.7225976,26.1026344 15.6924507,28.0018886 16.845281,29.154719 C17.9981114,30.3075493 19.8973656,30.2774024 21.087384,29.087384 C22.2774024,27.8973656 22.3075493,25.9981114 21.154719,24.845281 Z" id="Path" fill="#FFFFFF"></path>
+                <path d="M37.5,7.5 C32.4176984,3.27490964 26.1963275,0.5 19.0705846,0.5 C12.010645,0.5 5.56182924,3.34481875 0.5,7.5" id="Oval-53" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+                <path d="M32.5,13.6041781 C28.8345325,10.634407 24.1753928,8.5 19.0903164,8.5 C14.088399,8.5 9.13767239,10.7214329 5.5,13.6041781" id="Oval-53" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+                <path d="M27,19.5 C24.7612486,17.7983878 22.0609504,16.5 19.0319769,16.5 C16.0317785,16.5 13.2278869,17.8275969 11,19.5" id="Oval-53" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

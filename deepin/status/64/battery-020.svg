@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>battery_020</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="31.6306601%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C16800" offset="0%"></stop>
+            <stop stop-color="#F0A235" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.296954719%" x2="50%" y2="97.9513345%" id="linearGradient-2">
+            <stop stop-color="#FBF7F2" offset="0%"></stop>
+            <stop stop-color="#F4EBBB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery_020">
+            <image id="Bitmap" x="1" y="2" width="62" height="62" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAYAAABzwahEAAAABGdBTUEAA1teXP8meAAABQhJREFUaAXlmol2ozAMANu973v//yv3ProammEVAwWT5hVcvacaHFvWSLKhaS8vziuXhfnyvvj44qroKO+Lj9ffzjlSaznb47pU7DnGVrjccp2VeYhjru9O+OniJ5jopmqHVn0Q1ygixN+4RhEhnOt45zPG8c53ji1jVomLrpock5yvszj/8GDsT7S/Q9c6ic1HodkegTAIcbnadu84RmqkBMY5FMd+Hdpobk0I6ONQWgKKnhQAAcLOYnGOpWlGfoYFy3ixscqBrPnkMAd4twJdVZWl0wdbsw3QKPMsQzKMVi0c49cIa7h9qACTUG2rBjxDsyhOfD+01QufOMEAEHwUqQr8EnCBzTTQlBmlfdeCH+5/wIWfrYQacCILNMCU9lbEg869L/yN/s2Bm21LitJmoa0Jhxx+LYa/CVxoxmCQTG8ROtzqxFLHV68PHw2bKfAMTXlzkm6pvIck1z1kHt89fCfLfgyciQifaeBH17OPH1QlvqNmXqaegBNxTOhnIi37em+Cz5lh4D9wWXKJs1fI9LnfxvL6t3lNtp8e/B+U/FjGgecUZzB7e6/iGx4sN5Z6zjaD91jiZZJggIXKlq8bU2acDxnEAbHlR1fn/IIfcgjeTxHcaDCglWwLOZp1wRkEvPd7PdCEza0ssMHYiaDc0Em29/Cigr81AhNsA3CzTalv4beuGqglY2GCrc+6F4LzCLM0lhjcyxiZel5LXXAH7AWoxk9OeMH7w+w+gJPUSfAWnt1TVTDIONlGiMZ9AIf1Mu9xAjB4mWdUIwIbjF2iBYeNjpYPN9g6aGAF7zvobFwGGYfXQLTIfsTmjXu75czL1rEKTobp4LWuVYHNBPelTQfKl4util+cdvBk3Chw6rWecZ9aV5Y68HTyq1urAhuMfcYBFZxAGAz6WxG5JsF5ZX3eCm3igAm2I3Cybcb58FloawJTBh/scT7kgGvpkJMngx/tZ7LOl/Do69BWBBa5YOwkH2SWO1/MURotnPAwwAJTv7/jerSkebWjPJjwLXTP8j6cB5i/AfonpS7rOeMA0sle4FtJ3nT8D4O43J3gOwz+Q0Nf5pBMHWJknaDwGPgaukf5EE6TZcCPsg1MmXH6iIwTCMA7Oncm+IzvGfoIYSrjDmLyi1CCsZe/sLwMX1+F8jezXOazpQ7s0aCDIY3E7WaFfwTgQAPaA43DbSBTGQdeIQjc8zzklB81FP13LTy6PocCDDjbVV/LRE4ebjGnEyaonAdvQreYeTINNL4Bzbbk6aTvcXksUxnPo4wWLZl/G0okWWQLwn7+GGqmZ6Fxegk444ycpUPZM5fo3qWwn6lCtqCZHjy6xhxcAu5+z/AEgGc8J6gRHrN/rj5Lm5cU3jOEtrxn110Cno2U8Myn9Hm9pfStiLg8i/Am9imUNcksmfb0FhofZ6UWHIMlPLCcqLw00BKARYvHuKWCXcqatzHWI8Moa3l661d0zYtlPD/y/wjncMqjOIVSdvn9+EvcU4ZkYo2QFF6e2E7YZUsBKqzAVllVsIUIe1XiPFoUJ1ECQDmq9OEgzuo49wRDhwmecw0cLbYYxzzVuWVZV0GHvc5p2rVSBiBD5GBwbYUYLOdaorQEAwUsQ3rNZ46Py/VbysUxcopoJ0MJWraOyesJI3jZ+jktYnt9t+KnDq+YOjol2xMwt0xyjK0QueU6q4s5xvvVrYuvNjAzsbRf3pfTS7Dyvhy/+v4fra1pWYxQ1MYAAAAASUVORK5CYII="></image>
+            <circle id="circle15498" fill="url(#linearGradient-1)" cx="32" cy="32" r="28"></circle>
+            <path d="M57.4636486,41 C53.757121,51.4867314 43.7559694,59 32,59 C20.2440306,59 10.242879,51.4867314 6.53635137,41 L57.4636486,41 L57.4636486,41 Z" id="Combined-Shape" fill="#FFB600"></path>
+            <g id="Group-2" transform="translate(28.000000, 39.000000)">
+                <ellipse id="Oval-2" fill="#FFDC4D" cx="25.33441" cy="2.33440999" rx="2.33440999" ry="2.33440999"></ellipse>
+                <circle id="Oval-2" fill="#FFDD4D" cx="3.50161498" cy="13.501615" r="3.50161498"></circle>
+                <circle id="Oval-2" fill="#FFDC4D" cx="8.87540375" cy="16.8754037" r="0.875403745"></circle>
+            </g>
+            <path d="M57.4636486,41 C58.458612,38.1849897 59,35.1557188 59,32 C59,17.0883118 46.9116882,5 32,5 C17.0883118,5 5,17.0883118 5,32 C5,35.1557188 5.54138799,38.1849897 6.53635137,41 L57.4636486,41 L57.4636486,41 Z" id="Combined-Shape" fill="#B25800"></path>
+            <g id="Group" transform="translate(14.000000, 14.000000)">
+                <circle id="circle15506" fill="#000000" opacity="0.1" cx="18" cy="19" r="18"></circle>
+                <circle id="circle15506" fill="url(#linearGradient-2)" cx="18" cy="18" r="18"></circle>
+                <circle id="circle15506" fill="#FFFFFF" cx="18" cy="18" r="17"></circle>
+                <path d="M16.0252831,5.94768867 L16.0427376,15.999136 C16.0267376,17.0003948 16.5810649,17.9876222 18.0040467,17.997075 C19.4028831,18.011845 20.0338649,17.0184142 20.0151013,15.999136 C20.0151013,15.2435024 19.9976467,5.94768867 19.9976467,5.94768867 C20.0121922,5.1044689 19.3895013,4.02625831 17.990374,4.0154762 C16.6235376,4.03024621 16.0094286,5.12278371 16.0252831,5.94768867 Z" id="path15510" fill="#F0A500"></path>
+                <path d="M11.9869252,10.0091052 C9.56546986,11.8341121 8,14.7342385 8,18 C8,23.5228475 12.4771525,28 18,28 L18,28 C23.5228475,28 28,23.5228475 28,18 C28,14.7583637 26.457574,11.8769804 24.0665986,10.0497266" id="Oval" stroke="#F0A500" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>battery_020</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery_020">
+            <image id="Bitmap" x="1" y="2" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAA1teXP8meAAAAdBJREFUSA29ltlOwzAQRVt2xPIASCAkxP//GbyA2ARlK/eY3GnjNJQ2iS3d2vEyp3M9jToe/a+Nq23005Yj82tte1qONqcJtiEZ3NzRnFnnTC0KAVYB1g5XZ1vPb+a7qwNkSetqmbP/jTb3mYOdJcCu0DlM0zln5k22pk+oYzm2WdGzkDsQiz0MiN2AM7HVQ/BlIWAkuK3mwZYsO9xlHUZkzWC7S7QVz8IaO2P3K8ZYa3ti8VES6m+6ARSrvz1ToIeVrAb8VQBoBKwAR6V5dcAeVhRXid+wc0ks7pjf1pBvLAPdw5oavOvZAj2sAJe2emqL3Q9d3XZ24pfHm9I/LWAzDFhRVBTYjkSpf0hDtAMFJdEXKd0xEMCP0pk0xH0Tk9gwYNUa2R5K11KfLxRiEZPYEddFpbnUXFwXenqWur7DyRTog4TFES8Ha230LmHHpTSR1r1z7vRKupewOKAaz1LnoWrYQRHsS+cSLtxIqRrVL2t72oBjJHUrvUpASSZaeB4zswFr/Fs4lk4kDj5JWIYLdoI9iAyPJM7dSWTJnhpQz6n9BWYD64i7IhMKBCcAufo/NQZAZtQFzjAHcCFU8wutZj5v/gJ5zz4D8j6PUXv+AQPKTCYy2hjvAAAAAElFTkSuQmCC"></image>
+            <path d="M28.127047,23.0000039 C25.7063805,27.1846113 21.1819749,30 16,30 C10.8180251,30 6.29361949,27.1846113 3.87295299,23.0000039 L28.1270493,23 L28.127047,23.0000039 Z" id="Combined-Shape" fill="#FFB600"></path>
+            <path d="M28.127047,23.0000039 C29.3182391,20.9407894 30,18.5500116 30,16 C30,8.2680135 23.7319865,2 16,2 C8.2680135,2 2,8.2680135 2,16 C2,18.5500116 2.68176086,20.9407894 3.87295299,23.0000039 L28.1270493,23 L28.127047,23.0000039 Z" id="Combined-Shape" fill="#B25800"></path>
+            <circle id="circle15606" fill="#FFFFFF" cx="16" cy="16" r="9"></circle>
+            <path d="M15.0126415,9.97384434 L15.0213688,14.999568 C15.0133688,15.5001974 15.2905325,15.9938111 16.0020234,15.9985375 C16.7014416,16.0059225 17.0169325,15.5092071 17.0075506,14.999568 C17.0075506,14.6217512 16.9988234,9.97384434 16.9988234,9.97384434 C17.0060961,9.55223445 16.6947506,9.01312915 15.995187,9.0077381 C15.3117688,9.0151231 15.0047143,9.56139186 15.0126415,9.97384434 Z" id="path15510" fill="#F0A500"></path>
+            <path d="M12.9934626,12.0045526 C11.7827349,12.9170561 11,14.3671193 11,16 C11,18.7614237 13.2385763,21 16,21 L16,21 C18.7614237,21 21,18.7614237 21,16 C21,14.3791819 20.228787,12.9384902 19.0332993,12.0248633" id="Oval" stroke="#F0A500" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

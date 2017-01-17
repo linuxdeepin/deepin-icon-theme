@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wireless-0</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.2">
+        <g id="wireless-0">
+            <g id="Group" transform="translate(20.000000, 27.000000)">
+                <path d="M30.8729586,36.1270414 C29.3358515,34.5899342 26.8035126,34.6301301 25.2168213,36.2168213 C23.6301301,37.8035126 23.5899342,40.3358515 25.1270414,41.8729586 C26.6641485,43.4100658 29.1964874,43.3698699 30.7831787,41.7831787 C32.3698699,40.1964874 32.4100658,37.6641485 30.8729586,36.1270414 Z" id="Path" fill="#FFFFFF"></path>
+                <path d="M56,10.9739432 C48.3765476,4.63630764 40,0 28,0 C16,2.92525018e-16 7.59274387,4.74117131 0,10.9739432" id="Oval-53" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M48,20 C42.5017987,15.5453433 36.5,12 28,12 C19.5,12 13.4565086,15.6758822 8,20" id="Oval-53" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M40.0911951,29.0674415 C36.733068,26.5150231 33,24 28,24 C23,24 19.346566,26.4863746 16.0047356,28.9949793" id="Oval-53" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

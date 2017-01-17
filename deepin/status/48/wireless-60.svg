@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wireless-60</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wireless-60">
+            <g id="Group" transform="translate(10.000000, 14.000000)">
+                <path d="M28.0552595,5.07443613 C24.2435333,1.90561836 19.3443072,0 14,0 C8.70504532,0 3.84698932,1.87058565 0.0506173903,4.98697159" id="Oval-53" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" opacity="0.2"></path>
+                <path d="M24.0650585,9.5616892 C21.3159579,7.33436083 17.8138073,6 14,6 C10.2485619,6 6.79867046,7.2910747 4.07041617,9.45313361" id="Oval-53" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M20.0455976,14.0337207 C18.366534,12.7575116 16.2717301,12 14,12 C11.7498512,12 9.67328301,12.7431873 8.0023678,13.9974896" id="Oval-53" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M15.4364793,17.5635207 C14.6679257,16.7949671 13.4017563,16.8150651 12.6084107,17.6084107 C11.8150651,18.4017563 11.7949671,19.6679257 12.5635207,20.4364793 C13.3320743,21.2050329 14.5982437,21.1849349 15.3915893,20.3915893 C16.1849349,19.5982437 16.2050329,18.3320743 15.4364793,17.5635207 Z" id="Path" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

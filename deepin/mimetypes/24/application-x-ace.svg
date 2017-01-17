@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>application-x-ace</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="application-x-ace">
+            <g id="Group-2" transform="translate(3.000000, 1.000000)">
+                <image id="Bitmap" x="0" y="0" width="18" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAWCAYAAADNX8xBAAAABGdBTUEAA1teXP8meAAAAHtJREFUOBHtlEsOwCAIRLG/dNP7n1bbGRMXYqOoW0lmwccnQYMTEQft0AZZzKMoQK8uPhC4dbDiP8idEBvI7Mo8m/MLGwHxugI2CipgM6AE42PJLCgyrE/O4qotUHU8MblmtGbUnkC7gv+I+7dn1Woqzwbu3d7lr0FsxH86jAe4hpwiTgAAAABJRU5ErkJggg=="></image>
+                <path d="M16,21 L2,21 C2,21 1,21 1,20 L1,2 C1,1 2,1 2,1 L12.004995,1 L17,6 L17,20 C17,21 16,21 16,21 Z" id="path14361" fill="#4D81CE"></path>
+                <path d="M13,6 C13,6 12,6 12,5 L12,1 L17,6 L13,6 Z" id="path14363" fill="#92B1E1"></path>
+            </g>
+            <path d="M7.375,20 L7,21 L6,21 L8,16 L9,16 L11,21 L10,21 L9.625,20 L7.375,20 Z M7.75,19 L8.5,17 L9.25,19 L7.75,19 Z M16,20 L16,21 L19.0000001,21 L19.0000001,20 L17,20 L17.0000001,19 L18,19 L17.9999999,18 L17,18 L17.0000001,17 L19.0000001,17 L19.0000001,16 L16.0000001,16 L16,20 Z M14.252482,17.6038316 L15,16.9382052 C14.5883883,16.366262 13.9556513,16 13.2460586,16 C12.0055947,16 11,17.1192881 11,18.5 C11,19.8807119 12.0055947,21 13.2460586,21 C13.9556513,21 14.5883883,20.633738 15,20.0617948 L15,20.0617948 L14.252482,19.3961684 C14.0245819,19.7626809 13.6603863,20 13.25,20 C12.5596441,20 12,19.3284271 12,18.5 C12,17.6715729 12.5596441,17 13.25,17 C13.6603863,17 14.0245819,17.2373191 14.252482,17.6038316 L14.252482,17.6038316 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <path d="M7,6 L8,6 L8,7 L7,7 L7,6 L7,6 L7,6 Z M8.00012698,7 L9.00012698,7 L9.00012698,8 L8.00012698,8 L8.00012698,7 L8.00012698,7 L8.00012698,7 Z M8.00012698,5 L9.00012698,5 L9.00012698,6 L8.00012698,6 L8.00012698,5 L8.00012698,5 L8.00012698,5 Z M7,8 L8,8 L8,9 L7,9 L7,8 L7,8 L7,8 Z M8.00012698,9 L9.00012698,9 L9.00012698,10 L8.00012698,10 L8.00012698,9 L8.00012698,9 L8.00012698,9 Z M7,10 L8,10 L8,11 L7,11 L7,10 L7,10 L7,10 Z M7,12 L9,12 L9,13 L7,13 L7,12 L7,12 Z M7,2.0025 L8.98412698,2.0025 L8.98412698,4.0025 L7,4.0025 L7,2.0025 L7,2.0025 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
