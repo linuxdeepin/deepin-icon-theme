@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>battery_000_plugged</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="48.9795918%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9E3A00" offset="0%"></stop>
+            <stop stop-color="#EC450D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.296954719%" x2="50%" y2="97.9513345%" id="linearGradient-2">
+            <stop stop-color="#FBF2F2" offset="0%"></stop>
+            <stop stop-color="#F4BEBB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery_000_plugged">
+            <image id="Bitmap" x="1" y="2" width="62" height="62" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAYAAABzwahEAAAABGdBTUEAA1teXP8meAAABQhJREFUaAXlmol2ozAMANu973v//yv3ProammEVAwWT5hVcvacaHFvWSLKhaS8vziuXhfnyvvj44qroKO+Lj9ffzjlSaznb47pU7DnGVrjccp2VeYhjru9O+OniJ5jopmqHVn0Q1ygixN+4RhEhnOt45zPG8c53ji1jVomLrpock5yvszj/8GDsT7S/Q9c6ic1HodkegTAIcbnadu84RmqkBMY5FMd+Hdpobk0I6ONQWgKKnhQAAcLOYnGOpWlGfoYFy3ixscqBrPnkMAd4twJdVZWl0wdbsw3QKPMsQzKMVi0c49cIa7h9qACTUG2rBjxDsyhOfD+01QufOMEAEHwUqQr8EnCBzTTQlBmlfdeCH+5/wIWfrYQacCILNMCU9lbEg869L/yN/s2Bm21LitJmoa0Jhxx+LYa/CVxoxmCQTG8ROtzqxFLHV68PHw2bKfAMTXlzkm6pvIck1z1kHt89fCfLfgyciQifaeBH17OPH1QlvqNmXqaegBNxTOhnIi37em+Cz5lh4D9wWXKJs1fI9LnfxvL6t3lNtp8e/B+U/FjGgecUZzB7e6/iGx4sN5Z6zjaD91jiZZJggIXKlq8bU2acDxnEAbHlR1fn/IIfcgjeTxHcaDCglWwLOZp1wRkEvPd7PdCEza0ssMHYiaDc0Em29/Cigr81AhNsA3CzTalv4beuGqglY2GCrc+6F4LzCLM0lhjcyxiZel5LXXAH7AWoxk9OeMH7w+w+gJPUSfAWnt1TVTDIONlGiMZ9AIf1Mu9xAjB4mWdUIwIbjF2iBYeNjpYPN9g6aGAF7zvobFwGGYfXQLTIfsTmjXu75czL1rEKTobp4LWuVYHNBPelTQfKl4util+cdvBk3Chw6rWecZ9aV5Y68HTyq1urAhuMfcYBFZxAGAz6WxG5JsF5ZX3eCm3igAm2I3Cybcb58FloawJTBh/scT7kgGvpkJMngx/tZ7LOl/Do69BWBBa5YOwkH2SWO1/MURotnPAwwAJTv7/jerSkebWjPJjwLXTP8j6cB5i/AfonpS7rOeMA0sle4FtJ3nT8D4O43J3gOwz+Q0Nf5pBMHWJknaDwGPgaukf5EE6TZcCPsg1MmXH6iIwTCMA7Oncm+IzvGfoIYSrjDmLyi1CCsZe/sLwMX1+F8jezXOazpQ7s0aCDIY3E7WaFfwTgQAPaA43DbSBTGQdeIQjc8zzklB81FP13LTy6PocCDDjbVV/LRE4ebjGnEyaonAdvQreYeTINNL4Bzbbk6aTvcXksUxnPo4wWLZl/G0okWWQLwn7+GGqmZ6Fxegk444ycpUPZM5fo3qWwn6lCtqCZHjy6xhxcAu5+z/AEgGc8J6gRHrN/rj5Lm5cU3jOEtrxn110Cno2U8Myn9Hm9pfStiLg8i/Am9imUNcksmfb0FhofZ6UWHIMlPLCcqLw00BKARYvHuKWCXcqatzHWI8Moa3l661d0zYtlPD/y/wjncMqjOIVSdvn9+EvcU4ZkYo2QFF6e2E7YZUsBKqzAVllVsIUIe1XiPFoUJ1ECQDmq9OEgzuo49wRDhwmecw0cLbYYxzzVuWVZV0GHvc5p2rVSBiBD5GBwbYUYLOdaorQEAwUsQ3rNZ46Py/VbysUxcopoJ0MJWraOyesJI3jZ+jktYnt9t+KnDq+YOjol2xMwt0xyjK0QueU6q4s5xvvVrYuvNjAzsbRf3pfTS7Dyvhy/+v4fra1pWYxQ1MYAAAAASUVORK5CYII="></image>
+            <circle id="circle15498" fill="url(#linearGradient-1)" cx="32" cy="32" r="28"></circle>
+            <path d="M52.1249586,50 C56.4003179,45.2231916 59,38.9151899 59,32 C59,17.0883118 46.9116882,5 32,5 C17.0883118,5 5,17.0883118 5,32 C5,38.9151899 7.59968212,45.2231916 11.8750414,50 L52.1249586,50 L52.1249586,50 Z" id="Combined-Shape" fill="#842000"></path>
+            <path d="M52.1249586,50 C47.1810736,55.5237442 39.9964983,59 32,59 C24.0035017,59 16.8189264,55.5237442 11.8750414,50 L52.1249586,50 Z" id="Combined-Shape" fill="#FF5822"></path>
+            <g id="Group-2" transform="translate(22.000000, 51.000000)">
+                <circle id="Oval-2" fill="#FF754B" cx="2" cy="2.00322996" r="2"></circle>
+                <circle id="Oval-2" fill="#FF754C" cx="8.87540375" cy="4.87540375" r="0.875403745"></circle>
+            </g>
+            <circle id="circle15506" fill="#000000" opacity="0.1" cx="32" cy="33" r="18"></circle>
+            <circle id="circle15506" fill="url(#linearGradient-2)" cx="32" cy="32" r="18"></circle>
+            <circle id="circle15506" fill="#FFFFFF" cx="32" cy="32" r="17"></circle>
+            <path d="M25.5,34 L32,34 L29.8204,45.9424555 C29.8070667,46.0575445 30,46 30,46 L38.5,30 L32.0104,30 L34,18 C34.0133333,17.884911 33.868,17.8381737 33.8204,17.9424555 L25.5,34 Z" id="path15658" fill="#FF5822"></path>
+        </g>
+    </g>
+</svg>

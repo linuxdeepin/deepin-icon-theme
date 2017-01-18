@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wireless</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.4900079%" x2="50%" y2="97.1779337%" id="linearGradient-1">
+            <stop stop-color="#15C4FF" offset="0%"></stop>
+            <stop stop-color="#218AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wireless">
+            <g id="Group" transform="translate(1.000000, 3.000000)" fill="url(#linearGradient-1)">
+                <path d="M21.1482105,4.70379119 C18.6197538,1.81091524 15.0039071,0 10.9887914,0 C6.98957624,0 3.38647403,1.79660055 0.859462833,4.66947324 C0.699019697,4.85187556 -1.00790121,6.84308381 0.885966612,8.78144418 C3.2285206,11.5319344 6.93936339,15.729127 9.14314671,18.0931895 C10.9887917,20.0404597 12.7048513,18.2729815 12.8726142,18.0931894 C15.079874,15.7276627 18.7472262,11.5350477 21.1430618,8.7281 C22.9854843,6.84308381 21.3078522,4.88644166 21.1482105,4.70379119 Z" id="Combined-Shape"></path>
+            </g>
+            <g id="Group" transform="translate(5.000000, 7.500000)">
+                <path d="M7.71823966,8.78176034 C7.33396287,8.39748356 6.70087814,8.40753253 6.30420533,8.80420533 C5.90753253,9.20087814 5.89748356,9.83396287 6.28176034,10.2182397 C6.66603713,10.6025164 7.29912186,10.5924675 7.69579467,10.1957947 C8.09246747,9.79912186 8.10251644,9.16603713 7.71823966,8.78176034 Z" id="Path" fill="#FFFFFF"></path>
+                <path d="M14.0276298,2.53721807 C12.1217667,0.952809181 9.67215359,0 7,0 C4.35252266,0 1.92349466,0.935292827 0.0253086952,2.4934858" id="Oval-53" stroke="#FFFFFF" stroke-linecap="round"></path>
+                <path d="M12.0325292,4.7808446 C10.6579789,3.66718042 8.90690363,3 7,3 C5.12428095,3 3.39933523,3.64553735 2.03520808,4.7265668" id="Oval-53" stroke="#FFFFFF" stroke-linecap="round"></path>
+                <path d="M10.0227988,7.01686037 C9.18326699,6.37875578 8.13586507,6 7,6 C5.87492558,6 4.8366415,6.37159365 4.0011839,6.99874482" id="Oval-53" stroke="#FFFFFF" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

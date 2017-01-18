@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wire-on</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.33376347%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#16C3FF" offset="0%"></stop>
+            <stop stop-color="#218AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wire-on">
+            <image id="Bitmap" x="1" y="2" width="22" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAABGdBTUEAA1teXP8meAAAAIVJREFUOBHtle0KgCAMRdM+oPd/2qCye4QGigSK/fPCRbf0MEZMN6VyCheZtUZBh0+ZtahV2bn45TvJHe6aSFAdSSrd5EOuFZXuMiwvhxd6K7jkHqJYDx14LyiFwXKAf9EAW1tHK0YrrAO2GX9F0gpmactwN0i2gRXnMWOz5TnKeBbGZ+oBCLcOTrkg0UcAAAAASUVORK5CYII="></image>
+            <path d="M2,5.4963932 C2,5.22224281 2.2157526,5 2.49538898,5 L5,5 L5.00000017,3.50468445 C5.0000002,3.22595492 5.21990679,3 5.49826763,3 L18.5017326,3 C18.7769181,3 19,3.21403503 19,3.50468445 L19,5 L21.504611,5 C21.7782068,5 22,5.22618103 22,5.4963932 L22,20.5036068 C22,20.7777572 21.7753906,21 21.5056152,21 L2.49438477,21 C2.2213436,21 2,20.773819 2,20.5036068 L2,5.4963932 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+            <path d="M12.5,17 L12.5,16" id="Path-3" stroke="#FFFFFF"></path>
+            <path d="M14.5,17 L14.5,16" id="Path-3" stroke="#FFFFFF"></path>
+            <path d="M9.5,17 L9.5,16" id="Path-3" stroke="#FFFFFF"></path>
+            <polyline id="Path-2" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="9 12.5 11 14.5 15 10"></polyline>
+            <polygon id="Combined-Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="5.5 17.4979296 5.5 8.49531516 8.5 8.49531555 8.5 6.5 15.5 6.5 15.5 8.49531555 18.5 8.49531555 18.5 17.4979296"></polygon>
+        </g>
+    </g>
+</svg>
