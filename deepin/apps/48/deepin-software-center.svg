@@ -1,18 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
     <title>深度商店-48px</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="深度商店-48px">
-            <g id="Group" transform="translate(4.000000, 2.000000)">
-                <image id="Bitmap" x="0" y="0" width="40" height="45" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAtCAYAAADcMyneAAAABGdBTUEAA1teXP8meAAAAcpJREFUWAntmelOxDAMhLfc4nj/BwXBciwwX9opq1LRVAY1SLY0bS4nk7G7P7zdLmbd4M7bbe/4oQbA/O57K57TTWtd7XciB7ff1TYRxpjDGGMO83zfq3h684ql4xJ8wKlgUldqXwxjeu0OwouwF0yWMQiuIrmWoA+D3JtwKVwPh5qAuuMFWP8oPAtnAmt8KTWXbQ1B1gIOgtytcC68DvDh6pbwcgnmveZBbftWK8kmNTYldyMnDkMZAEkryOGoRN9jkPR63tVhXkOQjTFyDZBf5BkksLlDIeqQ4oPR5wPivWg1BFGPDSHo0E5V++mg43DyMT0JKDp3oW/7cCgEMIex7309GWcdShFaNvbt/VOioUWzkuyB+pDkwnNEx0uZFEoy6HCpuanBB24HFKBBfrRCTlQKFzh1JugPgMlWrKSfcwgVW7PC6d8QbE29kY8VHAdaayTBaERSwVQwqkDUP3MwFYwqEPXPHEwFowpE/TMHU8GoAlH/zMFUMKpA1D9z8LcUnKvRRfeO+hdODjEdqvWtmP85KLVBSFKavROYqCkLa9mfGXVK/rq4F/aUuACkKBi6JLxVOY5IAkrDpUBvguoXolsR4/xjM9HdJzZRYIJxUgj7AAAAAElFTkSuQmCC"></image>
-                <rect id="Rectangle-124" fill="#EFEFEF" x="2" y="9" width="36" height="10" rx="1"></rect>
-                <path d="M2,40.9865767 L2,18 L38,18 L38,41 C38,42 37.0013819,42 37.0013819,42 L3.02776989,42 C2,42 2,40.9865767 2,40.9865767 Z" id="Rectangle-124" fill="#FFA737"></path>
-                <path d="M28,18 L33,18 L33,42 L28,42 L28,18 L28,18 Z M17,18 L22,18 L22,42 L17,42 L17,18 L17,18 Z M7,18 L12,18 L12,42 L7,42 L7,18 L7,18 Z" id="Combined-Shape" fill="#FF7300"></path>
-                <path d="M9.5,16 C10.3284271,16 11,15.3284271 11,14.5 C11,13.6715729 10.3284271,13 9.5,13 C8.67157288,13 8,13.6715729 8,14.5 C8,15.3284271 8.67157288,16 9.5,16 L9.5,16 Z M30.5,16 C31.3284271,16 32,15.3284271 32,14.5 C32,13.6715729 31.3284271,13 30.5,13 C29.6715729,13 29,13.6715729 29,14.5 C29,15.3284271 29.6715729,16 30.5,16 L30.5,16 Z" id="Combined-Shape" fill="#785C46"></path>
-                <path d="M30.5,14.5 C30.5,7.872583 25.7989899,1.5 20,1.5 C14.2010101,1.5 9.5,7.872583 9.5,14.5" id="Oval-27" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <image id="Bitmap" x="4" y="7" width="40" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABGdBTUEAA1teXP8meAAAAOJJREFUWAntmNEKwjAMRVsVEcH//1BBRCya061j73e4CDdwuzYj29ldnlJLKTVEcB37nthx+cS70QJ1nBONZIKAB7PaYd6cOYSyBCww1QF4ykK24oCpA5LL0nsrvokJB4n0gBNmwnU4mBBtQjKg+mvsoB1UHVDr3YN2UHVArXcP2kHVAbXePWgHVQfUevegHVQdUOvdg3ZQdUCt/5se7ONW9Ws3ru9Mw0EO141foDwOlmVGDeQldAtxg/nwnsH49xG6h54MLhFQzIT72HXOxeXngWvoHXqF2gCMfQfNMmkdoOULEasWeIZqnXEAAAAASUVORK5CYII="></image>
+            <g id="Group-6" filter="url(#filter-1)" transform="translate(6.000000, 8.000000)">
+                <path d="M0,0.995397568 C0,0.445654671 0.455173016,0 1.00041944,0 L34.9995806,0 C35.552097,0 36,0.455664396 36,0.995397568 L36,10 L0,10 L0,0.995397568 Z" id="Rectangle-124" fill="#EFEFEF"></path>
+                <path d="M0,10 L36,10 L36,34.9967004 C36,35.5508075 35.544827,36 34.9995806,36 L1.00041944,36 C0.447903039,36 0,35.5487213 0,34.9967004 L0,10 Z" id="Rectangle-124" fill="#FFA737"></path>
+                <rect id="Rectangle-124" fill="#FF7300" x="26" y="10" width="5" height="26"></rect>
+                <rect id="Rectangle-124" fill="#FF7300" x="15" y="10" width="6" height="26"></rect>
+                <rect id="Rectangle-124" fill="#FF7300" x="5" y="10" width="5" height="26"></rect>
+                <path d="M7.5,7 C8.32842712,7 9,6.32842712 9,5.5 C9,4.67157288 8.32842712,4 7.5,4 C6.67157288,4 6,4.67157288 6,5.5 C6,6.32842712 6.67157288,7 7.5,7 Z" id="Oval-25" fill="#785C46"></path>
+                <circle id="Oval-25" fill="#785C46" cx="28.5" cy="5.5" r="1.5"></circle>
+                <path d="M28.5,18.5 C28.5,11.872583 26,5.5 18,5.5 C10,5.5 7.5,11.872583 7.5,18.5" id="Oval-27" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.000000, 12.000000) scale(1, -1) translate(-18.000000, -12.000000) "></path>
             </g>
         </g>
     </g>

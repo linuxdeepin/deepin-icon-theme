@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
     <title>文件管理器-64px</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
@@ -12,9 +12,9 @@
             <rect id="Rectangle-241" fill="#FFFFFF" x="12" y="18" width="40" height="37"></rect>
             <path d="M9,22 L55,22 L55,56.9995793 C55,57.5520957 54.5447218,57.9999987 53.9964448,57.9999987 L10.0035552,57.9999987 C9.44930697,57.9999987 9,57.5448257 9,56.9995793 L9,22 Z" id="Rectangle-239" fill="#39D4FF" opacity="0.7"></path>
             <polygon id="Combined-Shape" fill="#B3EFFF" opacity="0.7" points="55 22 9 22 9 23 55 23"></polygon>
-            <path d="M28.5,42.5 L28.5,32.5 C28.5,32.5 29.3333333,35.3333333 32,35.3333333 C34.6666667,35.3333333 35.5000002,32.5 35.5000002,32.5 L35.5000002,48.5" id="Path-1387" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
-            <circle id="Oval-231" fill="#000000" opacity="0.1" cx="32" cy="33" r="5"></circle>
-            <circle id="Oval-231" fill="#FFFFFF" cx="32" cy="32" r="5"></circle>
+            <path d="M28.5,43 L28.5,32.5 C28.5,32.5 29.3333333,35.3333333 32,35.3333333 C34.6666667,35.3333333 35.5000002,32.5 35.5000002,32.5 L35.5000002,49" id="Path-1387" stroke="#FFFFFF"></path>
+            <circle id="Oval-231" fill="#000000" opacity="0.1" cx="32" cy="33" r="6"></circle>
+            <circle id="Oval-231" fill="#FFFFFF" cx="32" cy="32" r="6"></circle>
             <circle id="Oval-231" fill="#4ED8FF" cx="32" cy="32" r="2"></circle>
         </g>
     </g>

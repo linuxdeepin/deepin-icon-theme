@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
     <title>文件管理器-256px</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
@@ -12,7 +12,7 @@
             <polygon id="Rectangle-241" fill="#FFD245" transform="translate(127.727308, 139.099218) rotate(-368.000000) translate(-127.727308, -139.099218) " points="47.6754048 63.0414745 207.779212 61.5569615 207.779212 215.156961 47.6754048 216.641475"></polygon>
             <rect id="Rectangle-241" fill="#EEF6FF" x="48" y="68" width="160" height="152"></rect>
             <polygon id="Combined-Shape" fill="#FFFFFF" points="208 68 48 68 48 70 208 70"></polygon>
-            <rect id="Rectangle-239" fill="#39D4FF" opacity="0.7" x="34" y="88" width="188" height="145.999995"></rect>
+            <path d="M34,88 L222,88 L222,230.000094 C222,232.209178 220.199586,233.999995 218.008205,233.999995 L37.9917952,233.999995 C35.7871876,233.999995 34,232.206689 34,230.000094 L34,88 Z" id="Rectangle-239" fill="#39D4FF" opacity="0.7"></path>
             <polygon id="Combined-Shape" fill="#B3EFFF" opacity="0.7" points="222 88 34 88 34 90 222 90"></polygon>
             <path d="M114,172 L114,132 C114,132 117.333333,143.333333 128,143.333333 C138.666667,143.333333 142.000001,132 142.000001,132 L142.000001,196" id="Path-1387" stroke="#000000" stroke-width="5.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.1"></path>
             <path d="M114,170 L114,130 C114,130 117.333333,141.333333 128,141.333333 C138.666667,141.333333 142.000001,130 142.000001,130 L142.000001,194" id="Path-1387" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
