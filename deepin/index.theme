@@ -240,3 +240,8 @@ MaxSize=512
 Size=64
 Context=Status
 Type=fixed
+
+[status/96]
+Size=96
+Context=Status
+Type=fixed
