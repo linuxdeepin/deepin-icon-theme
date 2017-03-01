@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 #-*- coding:utf-8 -*-
 #
 
@@ -9,7 +9,10 @@
 import os
 import sys
 import subprocess
-import ConfigParser
+try:
+    from configparser import ConfigParser
+except ImportError:
+    from ConfigParser import ConfigParser
 import shutil
 
 OPTIPNG = '/usr/bin/optipng'
@@ -66,12 +69,12 @@ class Render(object):
         global inkscape_process
         if inkscape_process is None:
             inkscape_process = self.start_inkscape()
-        print "[Info] Inkscape '%s -w %s -w %s -e %s'" %(icon_file, width, height, output_file)
-        self.wait_for_prompt(inkscape_process,'%s -w %s -w %s -e %s' %(icon_file, width, height, output_file))
+        print("[Info] Inkscape '\"%s\" -w %s -w %s -e \"%s\"'" %(icon_file, width, height, output_file))
+        self.wait_for_prompt(inkscape_process,'\"%s\" -w %s -w %s -e \"%s\"' %(icon_file, width, height, output_file))
         self.optimize_png(output_file)
 
     def copy_file(self, source_path, dest_path):
-        print "[Info] Copy %s -> %s" % (source_path, dest_path)
+        print("[Info] Copy %s -> %s" % (source_path, dest_path))
         if os.path.lexists(dest_path):
             os.unlink(dest_path)
         shutil.copy2(source_path, dest_path)
@@ -90,7 +93,7 @@ class Paser(object):
     def __init__(self, src_path, result):
         self.src_path = src_path
         self.result = result
-        self.cf = ConfigParser.ConfigParser()
+        self.cf = ConfigParser()
         self.cf.read(os.path.join(src_path, INDEX))
         self.basedir=os.path.join(os.getcwd(),result)
         self.render=Render()
@@ -98,7 +101,7 @@ class Paser(object):
 
     def install_misc(self):
         import shutil
-        print "[Info] Copy index.theme..."
+        print("[Info] Copy index.theme...")
         shutil.copy2(os.path.join(self.src_path,"index.theme"), os.path.join(self.basedir, self.theme_dir))
         if os.path.exists(os.path.join(self.src_path,"overrides")):
             copytree(os.path.join(self.src_path,"overrides"), os.path.join(self.basedir, self.theme_dir))
@@ -135,7 +138,7 @@ class Paser(object):
 
         for d,_,files in os.walk(os.path.join(self.src_path, src_dir)):
             for f in files:
-		if not f.endswith(".svg"):
+                if not f.endswith(".svg"):
                     continue
                 if out_format == "png":
                     output_file=f.replace(".svg",".png")
@@ -147,7 +150,7 @@ class Paser(object):
                     elif output_file.endswith(".png"):
                         self.render.inkscape_render(os.path.join(d,f),size,size,os.path.join(self.result, self.theme_dir,directory, output_file))
                     else:
-                        print "[WARNING] Not support %s" % output_file
+                        print("[WARNING] Not support %s" % output_file)
                         pass
 
                 else:
