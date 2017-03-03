@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>LTris</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="7.30828857" width="29.5499992" height="30"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="29.5499992" height="30" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="17.9155273" y="0.177978516" width="20" height="31"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="31" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="17.9155273" y="10.8721924" width="10.6790597" height="7.12780762"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10.6790597" height="7.12780762" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LTris">
+            <image id="Bitmap" x="3" y="4.17797852" width="42" height="41" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAApCAYAAABDV7v1AAAABGdBTUEAA1teXP8meAAAAXNJREFUWAntmFFvgjAUhcc2TXzd/P9/0cQlGnXOna9yAg8YUC4ri73JTQu2h8/TSxNavcRFVUvRuj9W/SKBlFGCAKH1pvypU83oeK8Vzq+jpRoBQJdKQKMCrYWyigIFEi07oG5IoItmGKipov649WiBTS7Qzjn+DWgy0TUFdSJvtfe6zLJb4965veNToWoU2wrBW8a+9Uh8a9L2kYlD5hiULWA/ZEKuMV4ul0Aujt7nejtx2zsh1wADTvYSRP0xg0bpTaZTQKOtLY4WR6MdiNYrNVocjXYgWq/UaHE02oFovVKjz+ho+iqe+9KvtDIJNPfX51ogn8qu8wTOCXbKL+UlNygwG+UJGKWDPsn99Ftu0LNAcO2g7DpXNXB2RwEBEOAuUN2+hl8mJsw62qAca/91cDg3yCRqlIEU9YcSWJ/sqTtZ+JnUJ8veC+tzUYCB5FTPLqs7WQAG4FHJW921Pel2EwblDoDt62ZUfM8OGtDXN5/0C3oRPUMnNnsvAAAAAElFTkSuQmCC"></image>
+            <g id="Group" transform="translate(5.000000, 5.000000)">
+                <rect id="Rectangle-11" fill="#1F32EC" x="1" y="8.07519531" width="16.9155273" height="9.92480469"></rect>
+                <use id="Rectangle-12" stroke="#000000" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                <use id="Rectangle-12" stroke="#000000" mask="url(#mask-4)" stroke-width="2" fill="#D82924" xlink:href="#path-3"></use>
+                <rect id="Rectangle-11-Copy-3" fill="#1F32EC" x="9.59458705" y="18" width="19" height="9.5"></rect>
+                <rect id="Rectangle-11-Copy" fill="#E4E55A" x="1" y="18" width="8.59458705" height="9.5"></rect>
+                <rect id="Rectangle-11-Copy-2" fill="#E4E55A" x="1" y="27.5" width="27.5945871" height="8.77636719"></rect>
+                <use id="Rectangle-12" stroke="#000000" mask="url(#mask-6)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-5"></use>
+                <polygon id="Rectangle-13" fill="#00009B" points="1.82324219 9.56884766 8.82324219 9.56884766 1.82324219 16.5688477"></polygon>
+                <polygon id="Rectangle-13-Copy-2" fill="#989700" points="1.82324219 19 8.82324219 19 1.82324219 26"></polygon>
+                <polygon id="Rectangle-13-Copy-3" fill="#989700" points="1.82324219 28.4311523 8.82324219 28.4311523 1.82324219 35.4311523"></polygon>
+                <polygon id="Rectangle-13-Copy-4" fill="#989700" points="10.3129883 28.4311523 17.3129883 28.4311523 10.3129883 35.4311523"></polygon>
+                <polygon id="Rectangle-13-Copy-5" fill="#989700" points="20 28.4311523 27 28.4311523 20 35.4311523"></polygon>
+                <polygon id="Rectangle-13-Copy" fill="#00009B" points="10.3129883 9.56884766 17.3129883 9.56884766 10.3129883 16.5688477"></polygon>
+                <polygon id="Rectangle-13-Copy-6" fill="#00009B" points="10.3129883 19 17.3129883 19 10.3129883 26"></polygon>
+                <polygon id="Rectangle-13-Copy-7" fill="#00009B" points="20 19 27 19 20 26"></polygon>
+                <polygon id="Rectangle-13-Copy-8" fill="#A00000" points="20 2.56884766 27 2.56884766 20 9.56884766"></polygon>
+                <polygon id="Rectangle-13-Copy-9" fill="#A00000" points="29.1425781 2.56884766 36.1425781 2.56884766 29.1425781 9.56884766"></polygon>
+                <polygon id="Rectangle-13-Copy-10" fill="#A00000" points="29.1425781 12 36.1425781 12 29.1425781 19"></polygon>
+                <polygon id="Rectangle-13-Copy-11" fill="#A00000" points="29.1425781 21.4311523 36.1425781 21.4311523 29.1425781 28.4311523"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

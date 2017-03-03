@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>PySolf Club Edition</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PySolf-Club-Edition">
+            <image id="Bitmap" x="2" y="2.16262245" width="44" height="46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAuCAYAAABTTPsKAAAABGdBTUEAA1teXP8meAAAA/tJREFUWAm91wmPIzUQBeBdruVmJSQkkOD//zqQOJdjGOpz8iJvppO23bOUVClf9eq5fHVevngeeXmGYVMO8mMVKIk91RZ+31/w6V1C8L1qhKUegiGXvvhdTyjtQ/aIc8gi+m/pw05E45A3LpPacXnavZphZAX/sPSfUoT3JBnnk/Kez5P+FcLJrMB/l46QTeBklu+MX/xbli6VicIH54ArQflQGNNiWWckW0Ew2V0VvjDEhzkss4QBJ7vDQW4MXMryLGHZsO8dtKMCA9Y7zXAIr+zd6wnCeOeEBZ3KyDXLq/o01uyWSLyV6zC+sUsYK4TdpR8n6gELY/oBmSUsgKf11QGicYWRZzptu/be5Z39xfZlpE30k9I/SleEL4xgBV+dkthT7fy7tY9CEGB/ip1qICz9ovRN6SZwtd8SmK9Lfy39qzS44iZmFZtkIqk/sXHy1t/LfhyNm5URH7GNM4GbpHWYvb1l4Khkknvj7wbfcDYel36VW8VYQalZzX6BlUvD+a6szPT+6pb/69LfSi3/qNhqFKeLX59J4DounVUeFc/sj6WIOVARZW36Vp7z8MGtSdKN+Eelf56al35lFoZM9v8+xPipdFWQtjVaIkM4B2ElCz0RE+9vDktqqx1JBHw8YT+kIDP93qvqkshsn12EJYE9KpL6gLUMIL6yd8vtLbF01/IczzhubTcgTJB+DukPXPA+TeGgbRxDGJYZHJXLae6Attq67qHihVsI22PPsXRD0RcGXb7sEEbWQdnafzPYDu7vGw6uOX1HBDccH3vC9sjWHpwJ9PPGYG1HzghO/C+ExXD1uD89o5f9UuVR4ZO7fMvHPl7FxQm39kYkw64Nn3r0m9IZcGO/L3WP3xJ9P5TO4uISXjg+BkDK7WWNsmFWZnSPRHW/cGV9q1Die+GWWM4vS78qhTmCi6xxzgDbHp8QrnoThIGbANKflxqjnWp3gHy8+6jRLwO/lO49vwJaUb4juA4wsvDFboQR6EUdqCwj5jpxQtW16zch2UcQmDb/HtoeK3tLTBxZgWHfw7VnYcO8kK1yC8b2kkkIQEMWYZJsh6B+mRiRz2pQ7wdzC1dSKGmZPRW3CV/3mUAmkb6AyJQJyMaIGI9gxm/hBjt2BHd3jECyL2OzwofvNdkhnCzH0OCrQYJm2a667lb58P3fJNl1pS1lqfz4LmV5ZaZWpX1Ml13JcLk1EfutG+DcftfMbgkZ5cPuXf73AvPtse6NXe5LAHez8lGBASsJGMJzh84IcCoQX0FnybuuqPuYL7zhrTVLuLBbEE+rO3WWLH+CsLt49MHh02SWcB4Jdmopz/FiEIaRpzftu3YlQ/GJ3Q1yYwDSJPZU2/n9D9ZA0Ig0gssIAAAAAElFTkSuQmCC"></image>
+            <g id="Group" transform="translate(4.000000, 3.000000)" stroke="#696969" fill="#000000">
+                <path d="M20,12.0727787 C21.5102539,12.0727787 20,29.4992924 29,41.3373775 C29,41.3373775 11,41.3373775 11,41.3373775 C20,29.6372318 18.4897461,12.0727787 20,12.0727787 Z" id="Triangle" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" cx="20" cy="9.16262245" r="8.5"></circle>
+                <circle id="Oval" cx="9" cy="23.1909428" r="8.5"></circle>
+                <circle id="Oval" cx="31" cy="23.1909428" r="8.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

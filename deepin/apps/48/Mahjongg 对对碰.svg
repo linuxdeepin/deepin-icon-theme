@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Mahjongg 对对碰</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="4" y="16.5581395" width="13.9534884" height="26.0465116" rx="3"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="13.9534884" height="26.0465116" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0.294558503" width="13.9534884" height="26.0465116" rx="3"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="13.9534884" height="26.0465116" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0.294558503" width="13.9534884" height="26.0465116" rx="3"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="13.9534884" height="26.0465116" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="10.4980015" y="4.46511628" width="13.9534884" height="26.0465116" rx="3"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="13.9534884" height="26.0465116" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="23.5348837" y="4.46511628" width="13.9534884" height="26.0465116" rx="3"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="13.9534884" height="26.0465116" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mahjongg-对对碰">
+            <use id="Rectangle-8" stroke="#C6A303" mask="url(#mask-2)" stroke-width="2" fill="#FAE729" xlink:href="#path-1"></use>
+            <ellipse id="Oval-8" stroke="#E27300" cx="8.65116279" cy="27.7209302" rx="1.86046512" ry="1.86046512"></ellipse>
+            <g id="Group-8" transform="translate(17.023256, 16.558140)">
+                <use id="Rectangle-8" stroke="#C6A303" mask="url(#mask-4)" stroke-width="2" fill="#FAE729" xlink:href="#path-3"></use>
+                <circle id="Oval-8" stroke="#E27300" cx="4.65116279" cy="11.4573492" r="1.86046512"></circle>
+                <ellipse id="Oval-8" stroke="#E27300" cx="4.65116279" cy="16.7537246" rx="1.86046512" ry="1.86046512"></ellipse>
+                <ellipse id="Oval-8-Copy" stroke="#E27300" cx="9.75381541" cy="16.7537246" rx="1.86046512" ry="1.86046512"></ellipse>
+            </g>
+            <g id="Group-8-Copy" transform="translate(30.046512, 16.558140)">
+                <use id="Rectangle-8" stroke="#C6A303" mask="url(#mask-6)" stroke-width="2" fill="#FAE729" xlink:href="#path-5"></use>
+                <ellipse id="Oval-8" stroke="#E27300" cx="7.26800963" cy="11.4573492" rx="1.86046512" ry="1.86046512"></ellipse>
+                <ellipse id="Oval-8" stroke="#E27300" cx="4.65116279" cy="16.7537246" rx="1.86046512" ry="1.86046512"></ellipse>
+                <ellipse id="Oval-8-Copy" stroke="#E27300" cx="9.75381541" cy="16.7537246" rx="1.86046512" ry="1.86046512"></ellipse>
+            </g>
+            <use id="Rectangle-8" stroke="#C6A303" mask="url(#mask-8)" stroke-width="2" fill="#FAE729" xlink:href="#path-7"></use>
+            <use id="Rectangle-8" stroke="#C6A303" mask="url(#mask-10)" stroke-width="2" fill="#FAE729" xlink:href="#path-9"></use>
+            <circle id="Oval-8" stroke="#E27300" cx="30.4902798" cy="16.852698" r="1.86046512"></circle>
+            <ellipse id="Oval-8" stroke="#E27300" cx="17.4747456" cy="14.181686" rx="1.86046512" ry="1.86046512"></ellipse>
+            <ellipse id="Oval-8" stroke="#E27300" cx="8.65116279" cy="33.0173056" rx="1.86046512" ry="1.86046512"></ellipse>
+            <ellipse id="Oval-8-Copy" stroke="#E27300" cx="13.7538154" cy="33.0173056" rx="1.86046512" ry="1.86046512"></ellipse>
+            <ellipse id="Oval-8" stroke="#E27300" cx="17.4747456" cy="20.2790698" rx="1.86046512" ry="1.86046512"></ellipse>
+            <image id="Bitmap" x="2" y="3.46511628" width="44" height="42" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAqCAYAAADI3bkcAAAABGdBTUEAA1teXP8meAAAAfdJREFUWAntmOtOhDAQhcW7Rk18AxPf//H8oavifCOHNA1tge0SNukkx7Z0LqeHClu6i7J1gwut+rmo3iYBtiZGsf8Zor8lAip4ZXG/A3IJ8b804I/9GIibE0Mc/vjm/G162lT8zqZLC4szUBwsMfypRZusV0rKPFi6Yt0NC51txKheMqhEmFtb8kkmXzFBLW2nyfAcGW2JnM9k0iMuUgus3hJH1D5N6JbqVVlBI1xFxkySpnBGnCpT10EWHiV6nKiffcQEsbW61FVN3X29tLwNCfLAZsz7PDbeQlvYrRWBQ/z7Q+ORNErjvEdjAXBzQSU/hKeU3cMCUBWFffuK8M2OCSMaYsKx08ZWy+QeDZVdXBHVP98eyYqTcxRhXdxze3aEXcxzUrgR3mT/ty1xapmbwk3hSIG2JSJBqg+bwtUljRI2hSNBqg/PVmGOINnvstWlWpaQH+9+xJfCnEofl+Vw762OVvchYZhzKoXws2EOCRb6ang3cJqda3xfeDMs+QbC8f7FAMcecoCLD4Yng5KliLNA5r4N+l5AH2BxnN9Ku04NEManYszN/RCGrfox4EBygQnUArn9TEGIUox+GKNcdnk0fAAKHYZWtWhTMTblNb6s/TQQ6wpbO6pCsPY1/SkTAVoMf4FxHCc/FgkYq06uFn6KUVz/B87eU0seXwAAAAAAAElFTkSuQmCC"></image>
+        </g>
+    </g>
+</svg>
