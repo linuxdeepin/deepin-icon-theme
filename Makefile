@@ -24,6 +24,8 @@ install: install-icons install-cursors
 install-icons:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
 	cp -r deepin/* $(DESTDIR)$(PREFIX)/share/icons/deepin
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/Sea
+	cp -r Sea/* $(DESTDIR)$(PREFIX)/share/icons/Sea
 
 install-cursors:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
