@@ -4,10 +4,9 @@
     <title>folder</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="folder" stroke="#303030">
-            <rect id="Rectangle-79" x="1.5" y="4.5" width="13" height="9"></rect>
-            <polygon id="Rectangle-80" points="2.5 2.5 9 2.5 11 1.5 13.5 1.5 13.5 4.5 2.5 4.5"></polygon>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="folder" fill-rule="nonzero" fill="#303030">
+            <path d="M2,14 L14,14 L14,6 L2,6 L2,14 Z M2,5 L2,3 L8.88196601,3 L10.881966,2 L14,2 L14,5 L15,5 L15,15 L1,15 L1,5 L2,5 Z M3,4 L3,5 L13,5 L13,3 L11.118034,3 L9.11803399,4 L3,4 Z" id="Combined-Shape"></path>
         </g>
     </g>
 </svg>
