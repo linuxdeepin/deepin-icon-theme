@@ -41,7 +41,7 @@ Type=Fixed
 Size=48
 Context=Applications
 Type=Scalable
-MinSize=48
+MinSize=16
 MaxSize=512
 
 [apps/64]
