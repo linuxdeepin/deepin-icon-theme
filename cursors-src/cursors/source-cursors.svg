@@ -13,7 +13,7 @@
    viewBox="0 0 699 381"
    version="1.1"
    id="svg2014"
-   sodipodi:docname="source-cursors2.svg"
+   sodipodi:docname="source-cursors.svg"
    inkscape:version="0.92.0 r15299">
   <metadata
      id="metadata2018">
@@ -39,13 +39,13 @@
      inkscape:window-height="998"
      id="namedview2016"
      showgrid="false"
-     inkscape:zoom="2.5896901"
-     inkscape:cx="34.294045"
-     inkscape:cy="240.22628"
+     inkscape:zoom="5.1875"
+     inkscape:cx="130.40342"
+     inkscape:cy="229.34982"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Group-3" />
+     inkscape:current-layer="layer1" />
   <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title2">Artboard</title>
@@ -6104,46 +6104,6 @@
          inkscape:connector-curvature="0"
          id="path1463"
          d="M 7.7840909,1.5106263 C 4.2542964,1.8688178 1.5,4.8836932 1.5,8.5053131 1.5,12.368377 4.6340018,15.5 8.5,15.5 c 3.865998,0 7,-3.131623 7,-6.9946869 0,-3.8630638 -3.134002,-6.9946868 -7,-6.9946868 -0.2416273,0 -0.4805945,-0.023909 -0.7159091,0 z" />
-      <rect
-         style="fill:#ffffff"
-         height="1"
-         width="10"
-         y="24.485163"
-         x="-14.724419"
-         transform="rotate(-30)"
-         id="Rectangle" />
-      <rect
-         style="fill:#ffffff"
-         height="1"
-         width="10"
-         y="24.485163"
-         x="-14.724419"
-         transform="rotate(-30)"
-         id="Rectangle-Copy" />
-      <rect
-         style="fill:#ffffff"
-         height="1"
-         width="10"
-         y="24.485163"
-         x="-14.724419"
-         transform="rotate(-30)"
-         id="Rectangle-Copy-2" />
-      <rect
-         style="fill:#ffffff"
-         height="1"
-         width="10"
-         y="24.485163"
-         x="-14.724419"
-         transform="rotate(-30)"
-         id="Rectangle-Copy-3" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.26464117"
-         id="rect9451-6"
-         width="8.6679792"
-         height="1.7704976"
-         x="-4.478889"
-         y="11.288687"
-         transform="rotate(-45)" />
     </g>
     <g
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
@@ -7728,7 +7688,7 @@
        d="m 126,46 v 7 c -0.19238,0.04685 -0.2519,0.27075 -0.29535,0 l -1.71549,-6.769998 c -0.10348,-0.74224 -2.55032,-0.289162 -2.41457,0.525058 l 2.44462,9 c 0.005,0.12697 0.0249,0.25332 0.0602,0.375 -0.0565,0.23789 -0.0902,0.40625 -0.0902,0.40625 -4.8154,-5 -5.98916,-1.40625 -5.98916,-1.40625 3.27227,2.294 5.25711,9.45632 7.70465,9.872389 h 7.6353 c 1.10209,0 1.95139,-0.886905 1.90749,-1.98872 0,0 -0.34698,-5.532549 0.26855,-8.102369 l 1.44462,-6.03125 c 0.23118,-0.9194 -2.6883,-1.34395 -2.82905,-0.71875 l -1.23395,5.09375 c -0.0669,0.27644 -0.13122,0.16559 -0.12038,-0.0625 l 0.36115,-7.59375 c 0.0528,-0.84823 -2.86104,-0.89029 -2.88924,-0.15625 l -0.33106,6.9375 C 129.90123,52.73263 128.66764,52.73954 129,52 v -6 c -0.44303,-1.747772 -3,-1.536316 -3,0 z" />
     <g
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-       transform="translate(87,44)"
+       transform="translate(88,46)"
        id="g2009">
       <g
          style="fill-rule:nonzero"
@@ -7752,28 +7712,36 @@
       </g>
       <polygon
          style="fill:url(#linearGradient6998)"
-         points="12,14.179923 1,3 1,19 8.3328786,19 "
+         points="8.3328786,19 12,14.179923 1,3 1,19 "
          id="polygon2007" />
     </g>
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.26464117"
+       id="rect9451-6"
+       width="8.6679792"
+       height="1.7704976"
+       x="-1.8042312"
+       y="224.98871"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect9451"
        width="6.8541021"
        height="1.4"
-       x="-25.915115"
-       y="205.34383"
+       x="-26.068888"
+       y="205.4976"
        transform="rotate(-45)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="slices"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="455"
        id="zoom-out"
        inkscape:label="#rect1873" />
@@ -7781,7 +7749,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="421"
        id="zoom-in"
        inkscape:label="#rect1875" />
@@ -7789,7 +7757,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="387"
        id="X_cursor"
        inkscape:label="#rect1877" />
@@ -7797,7 +7765,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="353"
        id="vertical-text"
        inkscape:label="#rect1879" />
@@ -7805,7 +7773,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="319"
        id="xterm"
        inkscape:label="#rect1881" />
@@ -7813,7 +7781,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="285"
        id="pencil"
        inkscape:label="#rect1883" />
@@ -7821,7 +7789,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="251"
        id="hand2"
        inkscape:label="#rect1885" />
@@ -7829,7 +7797,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="217"
        id="right_ptr"
        inkscape:label="#rect1887" />
@@ -7837,7 +7805,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="183"
        id="plus"
        inkscape:label="#rect1889" />
@@ -7845,7 +7813,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="149"
        id="grabbing"
        inkscape:label="#rect1891" />
@@ -7853,7 +7821,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="115"
        id="hand1"
        inkscape:label="#rect1893" />
@@ -7861,7 +7829,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="42.782555"
+       y="43.000023"
        x="81"
        id="left_ptr"
        inkscape:label="#rect1895" />
@@ -7869,7 +7837,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="261.78253"
+       y="262"
        x="321"
        id="left_ptr_watch_0008"
        inkscape:label="#Rectangle-2" />
@@ -7877,7 +7845,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="261.78253"
+       y="262"
        x="287"
        id="left_ptr_watch_0007"
        inkscape:label="#rect1745" />
@@ -7885,7 +7853,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="261.78253"
+       y="262"
        x="253"
        id="left_ptr_watch_0006"
        inkscape:label="#rect1747" />
@@ -7893,7 +7861,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="261.78253"
+       y="262"
        x="219"
        id="left_ptr_watch_0005"
        inkscape:label="#rect1749" />
@@ -7901,7 +7869,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="261.78253"
+       y="262"
        x="185"
        id="left_ptr_watch_0004"
        inkscape:label="#rect1751" />
@@ -7909,7 +7877,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="261.78253"
+       y="262"
        x="151"
        id="left_ptr_watch_0003"
        inkscape:label="#rect1753" />
@@ -7917,7 +7885,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="261.78253"
+       y="262"
        x="117"
        id="left_ptr_watch_0002"
        inkscape:label="#rect1755" />
@@ -7925,7 +7893,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="261.78253"
+       y="262"
        x="83"
        id="left_ptr_watch_0001"
        inkscape:label="#rect1757" />
@@ -7933,14 +7901,14 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="593"
        id="watch_0016" />
     <rect
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="559"
        id="watch_0015"
        inkscape:label="#rect1761" />
@@ -7948,7 +7916,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="525"
        id="watch_0014"
        inkscape:label="#rect1763" />
@@ -7956,7 +7924,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="491"
        id="watch_0013"
        inkscape:label="#rect1765" />
@@ -7964,7 +7932,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="455"
        id="watch_0012"
        inkscape:label="#rect1767" />
@@ -7972,7 +7940,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="421"
        id="watch_0011"
        inkscape:label="#rect1769" />
@@ -7980,7 +7948,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="387"
        id="watch_0010"
        inkscape:label="#rect1771" />
@@ -7988,7 +7956,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="353"
        id="watch_0009"
        inkscape:label="#rect1773" />
@@ -7996,7 +7964,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="319"
        id="watch_0008"
        inkscape:label="#rect1775" />
@@ -8004,7 +7972,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="285"
        id="watch_0007"
        inkscape:label="#rect1777" />
@@ -8012,7 +7980,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="251"
        id="watch_0006"
        inkscape:label="#rect1779" />
@@ -8020,7 +7988,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="217"
        id="watch_0005"
        inkscape:label="#rect1781" />
@@ -8028,7 +7996,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="183"
        id="watch_0004"
        inkscape:label="#rect1783" />
@@ -8036,7 +8004,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="149"
        id="watch_0003"
        inkscape:label="#rect1785" />
@@ -8044,7 +8012,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="115"
        id="watch_0002"
        inkscape:label="#rect1787" />
@@ -8052,7 +8020,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="212.78255"
+       y="213.00002"
        x="81"
        id="watch_0001"
        inkscape:label="#rect1789" />
@@ -8060,7 +8028,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="387"
        id="dotbox"
        inkscape:label="#rect1791" />
@@ -8068,7 +8036,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="353"
        id="tcross"
        inkscape:label="#rect1793" />
@@ -8076,7 +8044,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="319"
        id="sb_down_arrow"
        inkscape:label="#rect1795" />
@@ -8084,7 +8052,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="285"
        id="sb_up_arrow"
        inkscape:label="#rect1797" />
@@ -8092,7 +8060,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="251"
        id="sb_left_arrow"
        inkscape:label="#rect1799" />
@@ -8100,7 +8068,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="217"
        id="sb_right_arrow"
        inkscape:label="#rect1801" />
@@ -8108,7 +8076,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="183"
        id="sb_h_double_arrow"
        inkscape:label="#rect1803" />
@@ -8116,7 +8084,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="149"
        id="sb_v_double_arrow"
        inkscape:label="#rect1805" />
@@ -8124,7 +8092,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="115"
        id="bd_double_arrow"
        inkscape:label="#rect1807" />
@@ -8132,7 +8100,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="178.78255"
+       y="179.00002"
        x="81"
        id="fd_double_arrow"
        inkscape:label="#rect1809" />
@@ -8140,7 +8108,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="387"
        id="dnd-move"
        inkscape:label="#rect1811" />
@@ -8148,7 +8116,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="353"
        id="dnd-link"
        inkscape:label="#rect1813" />
@@ -8156,7 +8124,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="319"
        id="dnd-copy"
        inkscape:label="#rect1815" />
@@ -8164,7 +8132,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="285"
        id="dnd-ask"
        inkscape:label="#rect1817" />
@@ -8172,7 +8140,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="251"
        id="dnd-none"
        inkscape:label="#rect1819" />
@@ -8180,7 +8148,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="217"
        id="crosshair"
        inkscape:label="#rect1821" />
@@ -8188,7 +8156,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="183"
        id="cross"
        inkscape:label="#rect1823" />
@@ -8196,7 +8164,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="149"
        id="crossed_circle"
        inkscape:label="#rect1825" />
@@ -8204,7 +8172,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="115"
        id="circle"
        inkscape:label="#rect1827" />
@@ -8212,7 +8180,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="144.78255"
+       y="145.00002"
        x="81"
        id="link"
        inkscape:label="#rect1829" />
@@ -8220,7 +8188,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="387"
        id="pointer-move"
        inkscape:label="#rect1831" />
@@ -8228,7 +8196,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="353"
        id="copy"
        inkscape:label="#rect1833" />
@@ -8236,7 +8204,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="319"
        id="right_tee"
        inkscape:label="#rect1835" />
@@ -8244,7 +8212,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="285"
        id="left_tee"
        inkscape:label="#rect1837" />
@@ -8252,7 +8220,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="251"
        id="bottom_tee"
        inkscape:label="#rect1839" />
@@ -8260,7 +8228,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="217"
        id="top_tee"
        inkscape:label="#rect1841" />
@@ -8268,7 +8236,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="183"
        id="ur_angle"
        inkscape:label="#rect1843" />
@@ -8276,7 +8244,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="149"
        id="ul_angle"
        inkscape:label="#rect1845" />
@@ -8284,7 +8252,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="115"
        id="lr_angle"
        inkscape:label="#rect1847" />
@@ -8292,7 +8260,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="110.78255"
+       y="111.00002"
        x="81"
        id="ll_angle"
        inkscape:label="#rect1849" />
@@ -8300,7 +8268,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="421"
        id="all-scroll"
        inkscape:label="#rect1851" />
@@ -8308,7 +8276,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="387"
        id="top_right_corner"
        inkscape:label="#rect1853" />
@@ -8316,7 +8284,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="353"
        id="top_left_corner"
        inkscape:label="#rect1855" />
@@ -8324,7 +8292,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="319"
        id="bottom_right_corner"
        inkscape:label="#rect1857" />
@@ -8332,7 +8300,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="285"
        id="bottom_left_corner"
        inkscape:label="#rect1859" />
@@ -8340,7 +8308,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="251"
        id="left_side"
        inkscape:label="#rect1861" />
@@ -8348,7 +8316,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="217"
        id="right_side"
        inkscape:label="#rect1863" />
@@ -8356,7 +8324,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="183"
        id="top_side"
        inkscape:label="#rect1865" />
@@ -8364,7 +8332,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="149"
        id="bottom_side"
        inkscape:label="#rect1867" />
@@ -8372,7 +8340,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="115"
        id="move"
        inkscape:label="#rect1869" />
@@ -8380,7 +8348,7 @@
        style="display:inline;fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1"
        height="24"
        width="24"
-       y="76.782555"
+       y="77.000023"
        x="81"
        id="question_arrow"
        inkscape:label="#rect1871" />
