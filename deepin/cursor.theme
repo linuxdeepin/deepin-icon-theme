@@ -1,3 +1,4 @@
 [Icon Theme]
 Name=deepin
-Comment=deepin cursor theme based Vanilla-DMZ
+Comment=deepin default cursor theme
+Inherits=DMZ-Black
