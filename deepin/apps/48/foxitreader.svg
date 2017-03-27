@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>福昕阅读器</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="福昕阅读器">
+            <image id="Bitmap" x="3" y="4" width="42" height="42" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAAABGdBTUEAA1teXP8meAAAAVFJREFUWAntmNFOwkAQRVtFQ0xM+AP///uMpqgF7hkcaAguPky7bZhJ7rZLl+H0dncbpm2appUIjn5uH4zY7JUbEX489gotcCvpsTBmjEtPSvog/cscH/isL/Rj0BRyrn8hnaEw9HxHODp1AIo5gPL7RWcZRBQHHYeEtzxF4lu6CVsTdLgmtrdgHZQ7mzoun2IRtiboNWP+hJ0bKPBXYWuCljZ6YAn4bIrU2JaMQM1OepNY/W4Y8GxZnfQhfUqnG2L1baS5Bm+w1u9krpBw4fgiQO2ttQRHbTEtAdSmZYKaDYFNOhpoZs7RaDPT0XR0FAeik+Y+mo5GOxCdL+doOhrtQHS+nKN37+ipbBLtREA+Y/M5SuclIGl0CpgMlD/3wFJPf5W4MKwEq1stKJZRJHuXOkARcNR4vOhv1Qn1awUuoh/pS+odVOcGXBsQjmE4cHMAEHwixl/aiHcAAAAASUVORK5CYII="></image>
+            <path d="M33,5 L33,15 L43,15 L43,42.0034652 C43,42.5538362 42.5467697,43 42.0031246,43 L5.9968754,43 C5.44631632,43 5,42.5467697 5,42.0031246 L5,5.9968754 C5,5.44631632 5.43981314,5 5.99653482,5 L33,5 Z M34,6 L42,14 L34,14 L34,6 Z" id="Combined-Shape" fill="#F68A0D"></path>
+            <g id="Group" transform="translate(7.000000, 8.000000)" fill="#F79B38">
+                <path d="M14.0625,30 C14.0625,30 19.2708333,24.3 25,23.35 L8.85416667,11 L0,18.125 L14.0625,30 Z" id="Path-6"></path>
+                <path d="M24.6744186,22 L11,9.56521739 L19.3023256,0 L32,12.9130435 C32,12.9130435 26.627907,16.2608696 24.6744186,22 Z" id="Path-7"></path>
+            </g>
+            <path d="M27,26.5 C26.5,27 18,30 19.5,21.5 C21,15.5 25.5,16.5 26.5,16.5 C27.5,16.5 30,18 30,18 C30,18 29.5,14.5 26,14 C26,14 29.5,13 33.5,18.5 C33.5,18.5 33,11.5 26.5,11 C18.5,10.5 15,17 15,17 C15,17 9,26.5 18.5,30.5 C27,33 30,27.5 30,27.5 C30,27.5 32.5,24 30,19.5 C30,19.5 30,21 29,21.5 C29,21.5 29,20 27.5,19.5 C27.5,19.5 28,24.5 22.5,24 C22.5,24 24,26.5 27,26.5 Z" id="Path-5" fill="#FFFFFF"></path>
+            <g id="Group-2" transform="translate(16.000000, 33.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-15" x="0" y="0" width="1" height="7"></rect>
+                <path d="M3.0005027,3 C3.55459266,3 4,2.55390953 4,2 C4,1.44288416 3.55670019,1 3.00344729,1 L1.03308748,1 L1.03308748,3 L3.0005027,3 Z M0.0134277344,0 L3.00344729,0 C4.10611291,0 5,0.887729645 5,2 C5,3.1045695 4.10850081,4 3.0005027,4 L0.0134277344,4 L0.0134277344,0 Z" id="Rectangle" fill-rule="nonzero"></path>
+                <path d="M8.00671387,6 C9.10587211,6 10,5.10786451 10,4.0110655 L10,2.9889345 C10,1.89740087 9.10496392,1 8.01103376,1 L7.08024465,1 L7.02461546,6 L8.00671387,6 Z M6.09130859,0 L8.01103376,0 C9.66179423,0 11,1.34967041 11,2.9889345 L11,4.0110655 C11,5.66180844 9.65649633,7 8.00671387,7 L6.01342773,7 L6.09130859,0 Z" id="Rectangle" fill-rule="nonzero"></path>
+                <path d="M12,0 L13,0 L13,7 L12,7 L12,0 Z M13,0 L17,0 L17,1 L13,1 L13,0 Z M13,3 L16,3 L16,4 L13,4 L13,3 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
