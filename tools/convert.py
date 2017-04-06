@@ -3,7 +3,7 @@
 #
 
 # Depends on imagemagick inkscape
-# Useage:
+# Usage:
 #   tools/convert.py sourcedir resultdir
 
 import os
