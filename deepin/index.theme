@@ -211,7 +211,7 @@ Type=Fixed
 Size=256
 Context=Places
 Type=Scalable
-MinSize=256
+MinSize=16
 MaxSize=512
 
 [status/16]
