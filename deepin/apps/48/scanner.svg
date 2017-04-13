@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>扫描易</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="扫描易">
+            <image id="Bitmap" x="5" y="6" width="38" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAoCAYAAACSN4jeAAAABGdBTUEAA1teXP8meAAAAjRJREFUWAnFmGtPwzAMRRlvgZCAT/v/P5I3Kz5eb+Q6m/gUx5KbxC26p46TjuwujrYLrfprqKxZTAnHlutj69crAua/IVbZRf9S+gzIEC2Q3+azjKTcruILhJgAj6N5VyXJUwcGgYe1ZTzDNgzK2GEleZpBFLSZTmcRGAX/af5orph1ywxNtL/MffFRW9EY35u/x2BB/8U0AEKXthW/9T3wYe2dedxGuDfS0EITbc8WYjljxEgrC+GNQYG9mgbblMB8k831BDEP6C2sO9Q0O4JqYhEMUhx65vrZfLShgRaa0nfNCEaAmyxXVoe2EOsOs6iFdrMMxg3BsX2MNjSA20AhegqMOLvwD53BhgZanZ0C40FWa8UHHQ20OrhzYMSrwND6F4wHeLCbc4uNMrQ6OALZiFWsSOmi1XHkgOqrovAFhlZXZ+fAKupLYCcXQAQjWzhzXl1j6Enfuv3cktJKKIdYNdFuljPGuLK+BIIm2mTNLYNBzXey2tDcLACBaX5VY9VgscY8awIDhH7l/pVffrOfCQxKUtl+2ua/Khij3aZTYOjOqi+9s+rMx4CRLbWzp7KxKGO0M/Yvz064wOBMyhTtzPoSGwzO5HQ2oL4qv48Cya2+m622AJux42ew9ktDGfNNLT81aewsAoOh8ljg3Ds3BsBYCRQdBxs35rMMbR2u+BksYBQd/67vzTlurJ5aGNhgOS+BZQEAJ3OkEer2WbB+lWnWgGIBHJSZ2KpfBSUd4HBs+QN10HWjGAL3tAAAAABJRU5ErkJggg=="></image>
+            <path d="M41,39 L41,41 C41,42.1045695 40.1080589,43 39.0000796,43 L8.9999204,43 C7.89539486,43 7,42.1122704 7,41 L7,39 L41,39 Z" id="Rectangle-3" fill="#0075C2"></path>
+            <path d="M12,18 L36,18 L41,39 L41,39 C41,39.5522847 40.5450757,40 40.0008579,40 L7.99914214,40 C7.44733117,40 7,39.546814 7,39 L7,39 L12,18 Z" id="Rectangle-3" fill="#C0E2FA"></path>
+            <path d="M13,19 L35,19 L38.7933656,37.0184868 C38.9074866,37.5605616 38.5526348,38 38.0018463,38 L9.99815369,38 C9.44688863,38 9.09106112,37.5674597 9.20663437,37.0184868 L13,19 Z" id="Rectangle-3" fill="#005DBB"></path>
+            <path d="M14,20 L34,20 L37.787488,36.5095568 C37.8496275,36.7804211 37.676227,37 37.3937492,37 L10.6062527,37 C10.3266573,37 10.1493108,36.7850572 10.2125138,36.5095568 L14,20 Z" id="Rectangle-3" fill="#23BCFF"></path>
+            <path d="M40.2804428,34.0636528 L8,34.0636528 L40.2804428,34.0636528 Z" id="Rectangle-3-Copy" fill="#0046BA" opacity="0.3"></path>
+            <path d="M12.5,28.5 L35.5,28.5" id="Path-18" stroke="#00F6FF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval-2" fill="#85FF00" cx="36.5" cy="41.5" r="0.5"></circle>
+            <path d="M7.35000038,7 L40.6500015,7 L40.313577,8.24217958 C40.1403932,8.88162593 39.4712787,9.39999962 38.803965,9.39999962 L9.19603497,9.39999962 C8.53548309,9.39999962 7.8621518,8.89102143 7.68642387,8.24217958 L7.35000038,7 Z" id="Rectangle-5" fill="#BFE2FA" transform="translate(24.000001, 8.200000) scale(1, -1) translate(-24.000001, -8.200000) "></path>
+            <path d="M7.48852481,9.87934466 C7.21872001,9.39369601 7.45492426,9 7.99914214,9 L40.0008579,9 C40.5526688,9 40.7851563,9.38671875 40.5114752,9.87934466 L36,18 L12,18 L7.48852481,9.87934466 Z" id="Rectangle-5" fill="#317FCD"></path>
+            <path d="M10.3921976,10.9151278 C10.1755929,10.4097167 10.4398131,10 10.9965348,10 L37.0034652,10 C37.5538362,10 37.8213205,10.4169188 37.6078024,10.9151278 L35,17 L13,17 L10.3921976,10.9151278 Z" id="Rectangle-5" fill="#00376F"></path>
+            <polygon id="Path-16" fill="#EEEEEE" points="16.5 21 31.5 21 35 35 14 35"></polygon>
+            <polygon id="Rectangle-3" fill="#0046BA" opacity="0.197576993" points="12 18 36 18 38 27 10 27"></polygon>
+            <rect id="Rectangle-6" fill="#00376F" x="21" y="9" width="6" height="1"></rect>
+            <path d="M17.5,26.5 L30.5,26.5" id="Path-17" stroke="#979797"></path>
+            <path d="M17,29.5 L31,29.5" id="Path-17" stroke="#979797" opacity="0.494848279"></path>
+            <path d="M16,32.5 L32,32.5" id="Path-17" stroke="#979797" opacity="0.494848279"></path>
+        </g>
+        <path d="M18,23.5 L30,23.5" id="Path-17" stroke="#979797"></path>
+    </g>
+</svg>
