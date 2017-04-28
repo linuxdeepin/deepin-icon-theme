@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
     <title>application-vnd.ms-powerpoint</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-vnd.ms-powerpoint">
-            <polygon id="path14361" fill="#D14727" points="2 15 2 1 14 1 14 15"></polygon>
-            <polygon id="Combined-Shape" fill="#FFFFFF" points="4 11 4 5.51923077 9.03846154 3 11 4 11 11.5 9.03846154 13 4 11 9.03846154 11.5 9.03846154 5.09935897 6 6 6 9.5"></polygon>
+            <polygon id="path14361" fill="#E59F00" points="2 15 2 1 14 1 14 15"></polygon>
+            <polygon id="Rectangle-28" stroke="#FFFFFF" points="4.5 3.5 11.5 3.5 11.5 12.5 4.5 12.5"></polygon>
+            <rect id="Rectangle" fill="#FFFFFF" x="6" y="10" width="4" height="1"></rect>
+            <g id="Group-2" transform="translate(6.000000, 5.000000)" fill="#FFFFFF">
+                <path d="M3,0 C3.5,0 4,0.5 4,1 L3,1 L3,0 Z" id="Combined-Shape"></path>
+                <path d="M2,0 C0.8954305,0 0,0.8954305 0,2 C0,3.1045695 0.8954305,4 2,4 C3.1045695,4 4,3.1045695 4,2 L2,2 L2,0 Z" id="Combined-Shape"></path>
+            </g>
         </g>
     </g>
 </svg>
