@@ -1,6 +1,12 @@
 PREFIX = /usr
 
-all: 
+all: check
+
+check:
+	gtk-update-icon-cache deepin || exit 101
+	gtk-update-icon-cache Sea || exit 101
+	-rm -f deepin/icon-theme.cache
+	-rm -f Sea/icon-theme.cache
 
 check-name-unique:
 	find deepin -name "*.svg" | xargs -n1 basename | sort | uniq -d | xargs -I '{}' find -name '{}'
