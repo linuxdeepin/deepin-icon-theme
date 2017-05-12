@@ -4,11 +4,4 @@ set -e
 update-alternatives --install /usr/share/icons/default/index.theme \
     x-cursor-theme /usr/share/icons/deepin/cursor.theme 99
 
-if [ $(uname -m) = 'sw_64' ]; then
-	if [ -f /usr/share/icons/deepin/icon-theme.cache ]; then
-		rm -f /usr/share/icons/deepin/icon-theme.cache
-	fi
-	gtk-update-icon-cache  /usr/share/icons/deepin/
-fi
-
 #DEBHELPER#
