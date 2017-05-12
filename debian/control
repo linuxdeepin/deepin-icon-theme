@@ -3,7 +3,7 @@ Section: x11
 Priority: optional
 Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Standards-Version: 3.9.5
-Build-Depends: debhelper (>= 9), python, inkscape
+Build-Depends: debhelper (>= 9), gtk-update-icon-cache 
 
 Package: deepin-icon-theme
 Architecture: all
