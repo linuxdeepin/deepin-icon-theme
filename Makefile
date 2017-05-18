@@ -1,6 +1,6 @@
 PREFIX = /usr
 
-all: check
+all: build
 
 check:
 	gtk-update-icon-cache deepin || exit 101
