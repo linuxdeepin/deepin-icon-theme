@@ -32,6 +32,8 @@ install-icons:
 	cp -r deepin/* $(DESTDIR)$(PREFIX)/share/icons/deepin
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/Sea
 	cp -r Sea/* $(DESTDIR)$(PREFIX)/share/icons/Sea
+	@echo "Fix icon files permission"
+	find $(DESTDIR)${PREFIX}/share/icons -type f -exec chmod 644 {} \;
 
 install-cursors:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
