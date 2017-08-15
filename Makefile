@@ -26,6 +26,8 @@ clean:
 	rm -rf build
 
 install: install-icons install-cursors 
+	@echo "Fix icon files permission"
+	find $(DESTDIR)${PREFIX}/share/icons -type f -exec chmod 644 {} \;
 
 install-icons:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
