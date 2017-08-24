@@ -21,9 +21,9 @@
             <stop stop-color="#DD61FA" offset="0%"></stop>
             <stop stop-color="#FFDC5A" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="96.3590841%" y1="20.6323961%" x2="4.12782105%" y2="92.3036652%" id="linearGradient-5">
+        <linearGradient x1="96.3590841%" y1="20.6323961%" x2="0%" y2="84.8116024%" id="linearGradient-5">
             <stop stop-color="#FA6196" offset="0%"></stop>
-            <stop stop-color="#F6C614" offset="100%"></stop>
+            <stop stop-color="#FFD849" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="95.7922523%" y1="15.9616874%" x2="0%" y2="67.9801117%" id="linearGradient-6">
             <stop stop-color="#FF9532" offset="0%"></stop>
