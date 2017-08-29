@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ISO镜像定制工具-32px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ISO镜像定制工具-32px">
+            <image id="Bitmap" x="1" y="2" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAA1teXP8meAAAAdBJREFUSA29ltlOwzAQRVt2xPIASCAkxP//GbyA2ARlK/eY3GnjNJQ2iS3d2vEyp3M9jToe/a+Nq23005Yj82tte1qONqcJtiEZ3NzRnFnnTC0KAVYB1g5XZ1vPb+a7qwNkSetqmbP/jTb3mYOdJcCu0DlM0zln5k22pk+oYzm2WdGzkDsQiz0MiN2AM7HVQ/BlIWAkuK3mwZYsO9xlHUZkzWC7S7QVz8IaO2P3K8ZYa3ti8VES6m+6ARSrvz1ToIeVrAb8VQBoBKwAR6V5dcAeVhRXid+wc0ks7pjf1pBvLAPdw5oavOvZAj2sAJe2emqL3Q9d3XZ24pfHm9I/LWAzDFhRVBTYjkSpf0hDtAMFJdEXKd0xEMCP0pk0xH0Tk9gwYNUa2R5K11KfLxRiEZPYEddFpbnUXFwXenqWur7DyRTog4TFES8Ha230LmHHpTSR1r1z7vRKupewOKAaz1LnoWrYQRHsS+cSLtxIqRrVL2t72oBjJHUrvUpASSZaeB4zswFr/Fs4lk4kDj5JWIYLdoI9iAyPJM7dSWTJnhpQz6n9BWYD64i7IhMKBCcAufo/NQZAZtQFzjAHcCFU8wutZj5v/gJ5zz4D8j6PUXv+AQPKTCYy2hjvAAAAAElFTkSuQmCC"></image>
+            <circle id="Oval" fill="#26C7A3" cx="16" cy="16" r="14"></circle>
+            <g id="Group" transform="translate(15.166667, 15.833333) rotate(-270.000000) translate(-15.166667, -15.833333) translate(5.666667, 6.333333)" fill="#FFFFFF">
+                <g id="Group-3" transform="translate(-0.000000, 0.000000)">
+                    <path d="M9.66666667,17.6666667 C4.69610392,17.6666667 0.666666667,13.6372294 0.666666667,8.66666667 C0.666666667,3.69610392 4.69610392,-0.333333333 9.66666667,-0.333333333 C14.6372294,-0.333333333 18.6666667,3.69610392 18.6666667,8.66666667 C18.6666667,13.6372294 14.6372294,17.6666667 9.66666667,17.6666667 Z M9.66666667,16.6666667 C14.0849447,16.6666667 17.6666667,13.0849447 17.6666667,8.66666667 C17.6666667,4.24838867 14.0849447,0.666666667 9.66666667,0.666666667 C5.24838867,0.666666667 1.66666667,4.24838867 1.66666667,8.66666667 C1.66666667,13.0849447 5.24838867,16.6666667 9.66666667,16.6666667 Z" id="Combined-Shape"></path>
+                    <path d="M9.66666667,15.6666667 C5.80067342,15.6666667 2.66666667,12.5326599 2.66666667,8.66666667 C2.66666667,4.80067342 5.80067342,1.66666667 9.66666667,1.66666667 C13.5326599,1.66666667 16.6666667,4.80067342 16.6666667,8.66666667 C16.6666667,12.5326599 13.5326599,15.6666667 9.66666667,15.6666667 Z M9.66666667,11.6666667 C11.3235209,11.6666667 12.6666667,10.3235209 12.6666667,8.66666667 C12.6666667,7.00981242 11.3235209,5.66666667 9.66666667,5.66666667 C8.00981242,5.66666667 6.66666667,7.00981242 6.66666667,8.66666667 C6.66666667,10.3235209 8.00981242,11.6666667 9.66666667,11.6666667 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+            <g id="Group-2" transform="translate(10.333333, 15.833333) rotate(-270.000000) translate(-10.333333, -15.833333) translate(-1.166667, 10.833333)">
+                <polygon id="Rectangle-2" fill="#26C7A3" points="0.666666667 0.333333333 22.6666667 0.333333333 22.6666667 7.33333333 20.6666667 7.33333333 20.6666667 9.33333333 3.66666667 9.33333333 3.66666667 7.33333333 0.666666667 7.33333333"></polygon>
+                <polygon id="Rectangle" fill="#FFFFFF" points="1.66666667 1.33333333 21.6666667 1.33333333 21.6666667 6.33333333 1.66666667 6.33333333"></polygon>
+                <path d="M3.16666667,6.33333333 L3.16666667,3.33333333" id="Path-4" stroke="#26C7A3"></path>
+                <path d="M13.1666667,6.33333333 L13.1666667,3.33333333" id="Path-4" stroke="#26C7A3"></path>
+                <path d="M5.16666667,6.33333333 L5.16666667,4.33333333" id="Path-4" stroke="#26C7A3"></path>
+                <path d="M7.16666667,6.33333333 L7.16666667,4.33333333" id="Path-4" stroke="#26C7A3"></path>
+                <path d="M9.16666667,6.33333333 L9.16666667,4.33333333" id="Path-4" stroke="#26C7A3"></path>
+                <path d="M11.1666667,6.33333333 L11.1666667,4.33333333" id="Path-4" stroke="#26C7A3"></path>
+                <path d="M19.1666667,6.33333333 L19.1666667,4.33333333" id="Path-4" stroke="#26C7A3"></path>
+                <path d="M15.1666667,6.33333333 L15.1666667,4.33333333" id="Path-4" stroke="#26C7A3"></path>
+                <path d="M17.1666667,6.33333333 L17.1666667,4.33333333" id="Path-4" stroke="#26C7A3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

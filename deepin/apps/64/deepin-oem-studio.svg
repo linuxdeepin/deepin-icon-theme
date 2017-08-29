@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ISO镜像定制工具-64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2AFFD0" offset="0%"></stop>
+            <stop stop-color="#1AB18F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#23E6BA" offset="0%"></stop>
+            <stop stop-color="#26C7A3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#23E6BA" offset="0%"></stop>
+            <stop stop-color="#26C7A3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ISO镜像定制工具-64px">
+            <image id="Bitmap" x="1" y="2" width="62" height="62" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAYAAABzwahEAAAABGdBTUEAA1teXP8meAAABQhJREFUaAXlmol2ozAMANu973v//yv3ProammEVAwWT5hVcvacaHFvWSLKhaS8vziuXhfnyvvj44qroKO+Lj9ffzjlSaznb47pU7DnGVrjccp2VeYhjru9O+OniJ5jopmqHVn0Q1ygixN+4RhEhnOt45zPG8c53ji1jVomLrpock5yvszj/8GDsT7S/Q9c6ic1HodkegTAIcbnadu84RmqkBMY5FMd+Hdpobk0I6ONQWgKKnhQAAcLOYnGOpWlGfoYFy3ixscqBrPnkMAd4twJdVZWl0wdbsw3QKPMsQzKMVi0c49cIa7h9qACTUG2rBjxDsyhOfD+01QufOMEAEHwUqQr8EnCBzTTQlBmlfdeCH+5/wIWfrYQacCILNMCU9lbEg869L/yN/s2Bm21LitJmoa0Jhxx+LYa/CVxoxmCQTG8ROtzqxFLHV68PHw2bKfAMTXlzkm6pvIck1z1kHt89fCfLfgyciQifaeBH17OPH1QlvqNmXqaegBNxTOhnIi37em+Cz5lh4D9wWXKJs1fI9LnfxvL6t3lNtp8e/B+U/FjGgecUZzB7e6/iGx4sN5Z6zjaD91jiZZJggIXKlq8bU2acDxnEAbHlR1fn/IIfcgjeTxHcaDCglWwLOZp1wRkEvPd7PdCEza0ssMHYiaDc0Em29/Cigr81AhNsA3CzTalv4beuGqglY2GCrc+6F4LzCLM0lhjcyxiZel5LXXAH7AWoxk9OeMH7w+w+gJPUSfAWnt1TVTDIONlGiMZ9AIf1Mu9xAjB4mWdUIwIbjF2iBYeNjpYPN9g6aGAF7zvobFwGGYfXQLTIfsTmjXu75czL1rEKTobp4LWuVYHNBPelTQfKl4util+cdvBk3Chw6rWecZ9aV5Y68HTyq1urAhuMfcYBFZxAGAz6WxG5JsF5ZX3eCm3igAm2I3Cybcb58FloawJTBh/scT7kgGvpkJMngx/tZ7LOl/Do69BWBBa5YOwkH2SWO1/MURotnPAwwAJTv7/jerSkebWjPJjwLXTP8j6cB5i/AfonpS7rOeMA0sle4FtJ3nT8D4O43J3gOwz+Q0Nf5pBMHWJknaDwGPgaukf5EE6TZcCPsg1MmXH6iIwTCMA7Oncm+IzvGfoIYSrjDmLyi1CCsZe/sLwMX1+F8jezXOazpQ7s0aCDIY3E7WaFfwTgQAPaA43DbSBTGQdeIQjc8zzklB81FP13LTy6PocCDDjbVV/LRE4ebjGnEyaonAdvQreYeTINNL4Bzbbk6aTvcXksUxnPo4wWLZl/G0okWWQLwn7+GGqmZ6Fxegk444ycpUPZM5fo3qWwn6lCtqCZHjy6xhxcAu5+z/AEgGc8J6gRHrN/rj5Lm5cU3jOEtrxn110Cno2U8Myn9Hm9pfStiLg8i/Am9imUNcksmfb0FhofZ6UWHIMlPLCcqLw00BKARYvHuKWCXcqatzHWI8Moa3l661d0zYtlPD/y/wjncMqjOIVSdvn9+EvcU4ZkYo2QFF6e2E7YZUsBKqzAVllVsIUIe1XiPFoUJ1ECQDmq9OEgzuo49wRDhwmecw0cLbYYxzzVuWVZV0GHvc5p2rVSBiBD5GBwbYUYLOdaorQEAwUsQ3rNZ46Py/VbysUxcopoJ0MJWraOyesJI3jZ+jktYnt9t+KnDq+YOjol2xMwt0xyjK0QueU6q4s5xvvVrYuvNjAzsbRf3pfTS7Dyvhy/+v4fra1pWYxQ1MYAAAAASUVORK5CYII="></image>
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="32" cy="32" r="28"></circle>
+            <circle id="Oval" fill="url(#linearGradient-2)" cx="32" cy="32" r="27"></circle>
+            <g id="Group-4" transform="translate(31.833333, 32.166667) rotate(-270.000000) translate(-31.833333, -32.166667) translate(10.333333, 14.666667)">
+                <g id="Group" transform="translate(4.000000, 0.000000)" fill="#FFFFFF">
+                    <g id="Group-3">
+                        <path d="M17.3333333,34.3333333 C7.94449259,34.3333333 0.333333333,26.7221741 0.333333333,17.3333333 C0.333333333,7.94449259 7.94449259,0.333333333 17.3333333,0.333333333 C26.7221741,0.333333333 34.3333333,7.94449259 34.3333333,17.3333333 C34.3333333,26.7221741 26.7221741,34.3333333 17.3333333,34.3333333 Z M17.3333333,33.3333333 C26.1698893,33.3333333 33.3333333,26.1698893 33.3333333,17.3333333 C33.3333333,8.49677734 26.1698893,1.33333333 17.3333333,1.33333333 C8.49677734,1.33333333 1.33333333,8.49677734 1.33333333,17.3333333 C1.33333333,26.1698893 8.49677734,33.3333333 17.3333333,33.3333333 Z" id="Combined-Shape"></path>
+                        <path d="M17.3333333,32.3333333 C9.04906209,32.3333333 2.33333333,25.6176046 2.33333333,17.3333333 C2.33333333,9.04906209 9.04906209,2.33333333 17.3333333,2.33333333 C25.6176046,2.33333333 32.3333333,9.04906209 32.3333333,17.3333333 C32.3333333,25.6176046 25.6176046,32.3333333 17.3333333,32.3333333 Z M17.3333333,24.3333333 C21.1993266,24.3333333 24.3333333,21.1993266 24.3333333,17.3333333 C24.3333333,13.4673401 21.1993266,10.3333333 17.3333333,10.3333333 C13.4673401,10.3333333 10.3333333,13.4673401 10.3333333,17.3333333 C10.3333333,21.1993266 13.4673401,24.3333333 17.3333333,24.3333333 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(0.000000, 17.666667)">
+                    <polygon id="Rectangle-2" fill="url(#linearGradient-3)" points="0.333333333 0.666666667 42.3333333 0.666666667 42.3333333 16.6666667 0.333333333 16.6666667"></polygon>
+                    <polygon id="Rectangle" fill="#FFFFFF" points="3.33333333 1.66666667 39.3333333 1.66666667 39.3333333 11.6666667 3.33333333 11.6666667"></polygon>
+                    <path d="M5.83333333,11.6666667 L5.83333333,5.66666667" id="Path-4" stroke="#26C7A3"></path>
+                    <path d="M25.8333333,11.6666667 L25.8333333,5.66666667" id="Path-4" stroke="#26C7A3"></path>
+                    <path d="M9.83333333,11.6666667 L9.83333333,8.66666667" id="Path-4" stroke="#26C7A3"></path>
+                    <path d="M13.8333333,11.6666667 L13.8333333,8.66666667" id="Path-4" stroke="#26C7A3"></path>
+                    <path d="M21.8333333,11.6666667 L21.8333333,8.66666667" id="Path-4" stroke="#26C7A3"></path>
+                    <path d="M17.8333333,11.6666667 L17.8333333,8.66666667" id="Path-4" stroke="#26C7A3"></path>
+                    <path d="M37.8333333,11.6666667 L37.8333333,8.66666667" id="Path-4" stroke="#26C7A3"></path>
+                    <path d="M29.8333333,11.6666667 L29.8333333,8.66666667" id="Path-4" stroke="#26C7A3"></path>
+                    <path d="M33.8333333,11.6666667 L33.8333333,8.66666667" id="Path-4" stroke="#26C7A3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
