@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-note-24</title>
+    <title>deepin-note</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="50%" x2="50%" y2="100%" id="linearGradient-1">
@@ -18,7 +18,7 @@
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-note-24">
+        <g id="deepin-note">
             <image id="Bitmap" x="2" y="2" width="20" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAAAXNSR0IArs4c6QAAAHpJREFUOBFjZGBgYLy6Nc/9/7//rEA22YCRifG3tveknUxAE1goNQzkCqgZLCADGUECVAKMIAOpCkYNpDw4R8NwNAzJCIHRZENGoKFpAYfh77///qKJk8yFmQEqrUF1iRIQs5NsCqqGn0DuPZCBIMwCpYEU2eA/UOcfAJKJGiPckSU8AAAAAElFTkSuQmCC"></image>
             <path d="M3,19 L21,19 L21,21.5 L21,21.5 C21,21.7761424 20.7761424,22 20.5,22 L3.5,22 L3.5,22 C3.22385763,22 3,21.7761424 3,21.5 L3,19 Z" id="Rectangle-5" fill="url(#linearGradient-1)"></path>
             <path d="M3.5,2 L20.5,2 L20.5,2 C20.7761424,2 21,2.22385763 21,2.5 L21,18 C21,19.2158091 21,19.8824758 21,20 C19.9376706,20.6386822 18.6745127,20.9720156 17.2105263,21 L3.5,21 L3.5,21 C3.22385763,21 3,20.7761424 3,20.5 L3,2.5 L3,2.5 C3,2.22385763 3.22385763,2 3.5,2 Z" id="Rectangle-5" fill="#FBE9A9"></path>

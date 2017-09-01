@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-clone-24</title>
+    <title>deepin-clone</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="2.86790497%" x2="50%" y2="100%" id="linearGradient-1">
@@ -11,8 +11,7 @@
         <circle id="path-2" cx="4.5" cy="4.5" r="4.5"></circle>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-clone-24">
-            <image id="Bitmap" x="0" y="1" width="24" height="23" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAAAXNSR0IArs4c6QAAAVdJREFUSA2tlVtLA0EMhbveEVGwLwV98P//MxEEi/XS1tbzZSdhunbtlk3g0JnM5CQ5k7bN5H9rdAy2Pdf8rO+8J6wlPSnkvZfKAUmG3rUQDzhE3D0flGTQpS5ztf9THIRuHIKj9XSCEus8lbslPtvxjNvARSJ7HP/csEgyuEwd1/xUjuwEcDaewNpJqt5p7C1IADKr9wQmk3fw497ETzhDokTeoAqJ8JyHO29hY49EfLEu8niDCc6tJ7gMd97iyhP4BDG3WQYXymy8g4U20yz2wgVnSLTUhmTXwliDAy4444eTkeIdnoQxE0UsHHDBOal15y3WwoPwLayEY4zKH4UX4Uuw6usE8lkCWpsJTMGnEG1qvc/g4P698Cx8CBFjbchRGz5mmIA7gYC5QFXeFVJQwK1A5W/Cq7Cju/atTiw6RhIeikQ3Bejqf0pIiYzvBRAjcVSutdkvbro6BtTPkGgAAAAASUVORK5CYII="></image>
+        <g id="deepin-clone">
             <circle id="Oval" fill="url(#linearGradient-1)" cx="12" cy="12" r="11"></circle>
             <g id="Group-2" transform="translate(3.500000, 4.500000)" fill-rule="nonzero" fill="#FFFFFF">
                 <path d="M2.42977722,7 C2.56096338,3.62297733 5.33831709,0.925531915 8.74528302,0.925531915 C12.2359177,0.925531915 15.0656363,3.75709273 15.0656363,7.25 C15.0656363,10.7429073 12.2359177,13.5744681 8.74528302,13.5744681 C6.94793325,13.5744681 5.27274564,12.8203833 4.08250812,11.5196172 C3.91002652,11.3311185 3.61749359,11.3182251 3.42911753,11.490819 C3.24074147,11.6634128 3.22785646,11.9561362 3.40033806,12.1446349 C4.76399624,13.634926 6.6857446,14.5 8.74528302,14.5 C12.7467423,14.5 15.990566,11.2540644 15.990566,7.25 C15.990566,3.24593556 12.7467423,0 8.74528302,0 C4.82744122,0 1.63590162,3.11169394 1.5042268,7 L0.25,7 L2,10.5 L3.75,7 L2.42977722,7 Z" id="Combined-Shape"></path>

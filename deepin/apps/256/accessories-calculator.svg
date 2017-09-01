@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>accessories-calculator</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.4988042%" id="linearGradient-1">
+            <stop stop-color="#F6F6F6" offset="0%"></stop>
+            <stop stop-color="#EAEAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.2173151%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#14C4FF" offset="0%"></stop>
+            <stop stop-color="#009AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="accessories-calculator">
+            <g id="Group-3" transform="translate(20.000000, 20.000000)">
+                <image id="Bitmap" x="-10" y="-6" width="236" height="236" xlink:href="data:image/png;base64,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"></image>
+                <path d="M5.32,-3.80695909e-15 L210.68,-3.80695909e-15 L210.68,-4.4408921e-15 C213.618155,-4.98060794e-15 216,2.38184513 216,5.32 L216,210.68 L216,210.68 C216,213.618155 213.618155,216 210.68,216 L5.32,216 L5.32,216 C2.38184513,216 4.47113523e-15,213.618155 -1.15463195e-14,210.68 L0,5.32 L0,5.32 C-3.59820196e-16,2.38184513 2.38184513,7.6451432e-15 5.32,7.10542736e-15 Z" id="Mask" fill="url(#linearGradient-1)"></path>
+                <path d="M216,107 L216,210.68 C216,213.618155 213.618155,216 210.68,216 L5.32,216 L5.32,216 C2.38184513,216 5.35931365e-15,213.618155 -1.0658141e-14,210.68 L-5.27717073e-15,107 L-1.0658141e-14,208.68 C5.35931365e-15,211.618155 2.38184513,214 5.32,214 L5.32,214 L210.68,214 C213.618155,214 216,211.618155 216,208.68 L216,107 Z" id="Combined-Shape" fill="#B5B5B5"></path>
+                <path d="M216,109 L216,5.32 C216,2.38184513 213.618155,-4.98060794e-15 210.68,-4.4408921e-15 L210.68,-3.80690488e-15 L5.32,-3.80690488e-15 L5.32,7.10542736e-15 C2.38184513,7.6451432e-15 -3.59820196e-16,2.38184513 0,5.32 L0,5.32 L-5.38097031e-15,109 L0,7.32 L0,7.32 C-3.59820196e-16,4.38184513 2.38184513,2 5.32,2 L5.32,2 L210.68,2 L210.68,2 C213.618155,2 216,4.38184513 216,7.32 L216,109 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <g id="Group" transform="translate(16.000000, 116.000000)">
+                    <rect id="数字背景" fill-opacity="0.1" fill="#000000" x="0" y="2" width="84" height="84" rx="10.64"></rect>
+                    <rect id="数字背景" fill="#FFFFFF" x="0" y="0" width="84" height="84" rx="10.64"></rect>
+                    <rect id="数字背景" fill="url(#linearGradient-2)" x="0" y="2" width="84" height="82" rx="10.64"></rect>
+                    <polygon id="Combined-Shape" fill="#000000" points="44.8333333 42 59 27.8333333 56.1666667 25 42 39.1666667 27.8333333 25 25 27.8333333 39.1666667 42 25 56.1666667 27.8333333 59 42 44.8333333 56.1666667 59 59 56.1666667 44.8333333 42"></polygon>
+                </g>
+                <g id="Group" transform="translate(16.000000, 16.000000)">
+                    <rect id="数字背景" fill-opacity="0.1" fill="#000000" x="0" y="2" width="84" height="84" rx="10.64"></rect>
+                    <rect id="数字背景" fill="#FFFFFF" x="0" y="0" width="84" height="84" rx="10.64"></rect>
+                    <rect id="数字背景" fill="url(#linearGradient-2)" x="0" y="2" width="84" height="82" rx="10.64"></rect>
+                    <path d="M44,40 L44,20 L40,20 L40,40 L20,40 L20,44 L40,44 L40,64 L44,64 L44,44 L64,44 L64,40 L44,40 Z" id="Combined-Shape" fill="#000000"></path>
+                </g>
+                <g id="Group" transform="translate(116.000000, 16.000000)">
+                    <rect id="数字背景" fill-opacity="0.1" fill="#000000" x="0" y="2" width="84" height="84" rx="10.64"></rect>
+                    <rect id="数字背景" fill="#FFFFFF" x="0" y="0" width="84" height="84" rx="10.64"></rect>
+                    <rect id="数字背景" fill="url(#linearGradient-2)" x="0" y="2" width="84" height="82" rx="10.64"></rect>
+                    <rect id="Rectangle-3" fill="#000000" x="20" y="40" width="44" height="4"></rect>
+                </g>
+                <g id="Group-2" transform="translate(116.000000, 116.000000)">
+                    <rect id="数字背景" fill-opacity="0.1" fill="#000000" x="0" y="2" width="84" height="84" rx="10.64"></rect>
+                    <rect id="数字背景" fill="#45CEFF" x="0" y="0" width="84" height="84" rx="10.64"></rect>
+                    <rect id="数字背景" fill="url(#linearGradient-3)" x="0" y="2" width="84" height="82" rx="10.64"></rect>
+                    <path d="M24,32 L60,32 L60,36 L24,36 L24,32 Z M24,48 L60,48 L60,52 L24,52 L24,48 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

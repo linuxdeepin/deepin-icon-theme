@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-clone-16</title>
+    <title>deepin-clone</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="2.86790497%" x2="50%" y2="100%" id="linearGradient-1">
@@ -11,8 +11,8 @@
         <circle id="path-2" cx="4.5" cy="4.5" r="4.5"></circle>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-clone-16">
-            <circle id="Oval" fill="url(#linearGradient-1)" cx="8" cy="8" r="8"></circle>
+        <g id="deepin-clone">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="8" cy="8" r="7"></circle>
             <g id="Group-2" transform="translate(1.000000, 2.000000)" fill-rule="nonzero" fill="#FFFFFF">
                 <path d="M1.76595745,6 C1.76595745,3.10931812 4.10931812,0.765957447 7,0.765957447 C9.89068188,0.765957447 12.2340426,3.10931812 12.2340426,6 C12.2340426,8.89068188 9.89068188,11.2340426 7,11.2340426 C5.51156972,11.2340426 4.12430498,10.6099724 3.13863953,9.53347627 C2.99580321,9.37747735 2.75354938,9.36680695 2.59755045,9.50964327 C2.44155153,9.6524796 2.43088113,9.89473343 2.57371746,10.0507324 C3.70299688,11.2840767 5.29444475,12 7,12 C10.3137085,12 13,9.3137085 13,6 C13,2.6862915 10.3137085,0 7,0 C3.6862915,0 1,2.6862915 1,6 L0,6 L1.44531016,8.89655172 L2.89062032,6 L1.76595745,6 Z" id="Combined-Shape"></path>
             </g>
