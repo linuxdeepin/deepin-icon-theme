@@ -42,7 +42,7 @@ Size=48
 Context=Applications
 Type=Scalable
 MinSize=16
-MaxSize=512
+MaxSize=48
 
 [apps/64]
 Size=64
