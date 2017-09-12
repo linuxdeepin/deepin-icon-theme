@@ -19,30 +19,30 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="accessories-calculator">
-            <g id="Group-3" transform="translate(5.000000, 5.000000)">
-                <image id="Bitmap" x="-1" y="0" width="56" height="56" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAAAXNSR0IArs4c6QAAAPpJREFUaAXtmjEOwkAQAy8JH6Ch4f9Po0FCPAAFWEehdusss5JzUbSF7Ul50xhjKl1Ll/29jsPPpxLcS7e5HlKncBVng6ZMs8It+4c6Wo3+zEUBWw8Bj44XghAMb4BfNByQtQdBW1H4AgTDAVl7ELQVhS9AMByQtQdBW1H4AgTDAVl7ELQVhS9AMByQtQdBW1H4AgTDAVl7ELQVhS9AMByQtQdBW1H4AgTDAVl7ELQVhS9AMByQtQdBW1H4AgTDAVl7ELQVhS9AMByQtfc3BHXHudtsmX4EX5WuU0hlUaZxKq2lR+lc0v3tDqNMz9Kqi9uSSEp67zAi+Ja+MZwRhtLtsCEAAAAASUVORK5CYII="></image>
-                <path d="M1.33,-9.5172622e-16 L52.67,-9.5172622e-16 L52.67,-8.8817842e-16 C53.4045387,-1.02310738e-15 54,0.595461283 54,1.33 L54,52.67 L54,52.67 C54,53.4045387 53.4045387,54 52.67,54 L1.33,54 L1.33,54 C0.595461283,54 -2.14422338e-15,53.4045387 -2.88657986e-15,52.67 L0,1.33 L0,1.33 C-8.99550489e-17,0.595461283 0.595461283,-1.41938327e-15 1.33,-1.55431223e-15 Z" id="Mask" fill="url(#linearGradient-1)"></path>
-                <path d="M54,26.5 L54,52.67 C54,53.4045387 53.4045387,54 52.67,54 L1.33,54 L1.33,54 C0.595461283,54 -2.14422338e-15,53.4045387 -2.88657986e-15,52.67 L-1.41517755e-15,26.5 L-2.88657986e-15,51.67 C-2.14422338e-15,52.4045387 0.595461283,53 1.33,53 L1.33,53 L52.67,53 C53.4045387,53 54,52.4045387 54,51.67 L54,26.5 Z" id="Combined-Shape" fill="#B5B5B5"></path>
-                <path d="M54,27.5 L54,1.33 C54,0.595461283 53.4045387,-4.93752446e-15 52.67,-8.8817842e-16 L52.67,-9.51712667e-16 L1.33,-9.51712667e-16 L1.33,-1.77635684e-15 C0.595461283,-1.64142788e-15 -8.99550489e-17,0.595461283 0,1.33 L0,1.33 L-1.47140232e-15,27.5 L0,2.33 C-8.99550489e-17,1.59546128 0.595461283,1 1.33,1 L1.33,1 L52.67,1 C53.4045387,1 54,1.59546128 54,2.33 L54,27.5 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-                <g id="Group" transform="translate(4.000000, 29.000000)">
+            <g id="Group-3" transform="translate(6.000000, 6.000000)">
+                <image id="Bitmap" opacity="0.600000024" x="-3" y="-2" width="58" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA6CAYAAADhu0ooAAAAAXNSR0IArs4c6QAAAWhJREFUaAXtm0tOBDEMRGf4iFlw/5OyAAHT+IV2FKTiABWVJY+T6lm4/Hrpvl5+43pWynpeZLvjsXR8YKqNPZznrq0v/7c4YpC8L/XydLaOucfK18rbqbmX9zLwdpq4Y5CA3nPlLibxhBc8jTezX1Nq063jNoGn4XElyqu7W+BpEsUclyFw2Simrya6kTdtJUb1XHzVEPVlpzsPUT0XXzVEfdnpzkNUz8VXDVFfdrrzENVz8VVD1Jed7jxE9Vx81RD1Zac7D1E9F181RH3Z6c5DVM/FVw1RX3a68xDVc/FVQ9SXne48RPVcfNUQ9WWnOw9RPRdfNUR92enOQ1TPxVcNUV92uvMm2uvZ+l++6vS1Gv329fNv53jC7Ni67kX7r7p/VL5UsqLdQ6ijVfDRwGclXvA0PiLo9XLM8pDg4dxcHorXD14giQ88DaJzQ7kECHLv6rqRjTHyz+cgbaZrPd9m5XyQxFDF8QMEsSt9dUINugAAAABJRU5ErkJggg=="></image>
+                <path d="M1.33,-1.26987179e-16 L50.67,-1.26987179e-16 L50.67,-4.4408921e-16 C51.4045387,3.33538535e-15 52,0.595461283 52,1.33 L52,50.67 L52,50.67 C52,51.4045387 51.4045387,52 50.67,52 L1.33,52 L1.33,52 C0.595461283,52 -2.14422338e-15,51.4045387 -2.88657986e-15,50.67 L0,1.33 L-2.22044605e-16,1.33 C-3.11999654e-16,0.595461283 0.595461283,1.9112858e-15 1.33,1.77635684e-15 Z" id="Mask" fill="url(#linearGradient-1)"></path>
+                <path d="M52,25.4999987 L52,50.67 C52,51.4045387 51.4045387,52 50.67,52 L1.33,52 C0.595461283,52 -1.92217877e-15,51.4045387 -2.66453526e-15,50.67 L-1.30526585e-15,25.4999987 L-2.66453526e-15,49.67 C-1.92217877e-15,50.4045387 0.595461283,51 1.33,51 L50.67,51 C51.4045387,51 52,50.4045387 52,49.67 L52,25.4999987 Z" id="Combined-Shape" fill="#B5B5B5"></path>
+                <path d="M52,26.4999987 L52,1.3299974 C52,0.595458684 51.4045387,-2.59862236e-06 50.67,-2.59862236e-06 L50.67,-2.59862236e-06 L1.33,-2.59862236e-06 L1.33,-2.59862236e-06 C0.595461283,-2.59862236e-06 -8.99550489e-17,0.595458684 0,1.3299974 L0,1.3299974 L-1.3592694e-15,26.4999987 L0,2.3299974 C-8.99550489e-17,1.59545868 0.595461283,0.999997401 1.33,0.999997401 L1.33,0.999997401 L50.67,0.999997401 L50.67,0.999997401 C51.4045387,0.999997401 52,1.59545868 52,2.3299974 L52,26.4999987 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <g id="Group" transform="translate(3.000000, 28.000000)">
                     <rect id="数字背景" fill-opacity="0.1" fill="#000000" x="0" y="1" width="21" height="21" rx="2.66"></rect>
                     <rect id="数字背景" fill="#FFFFFF" x="0" y="0" width="21" height="21" rx="2.66"></rect>
                     <rect id="数字背景" fill="url(#linearGradient-2)" x="0" y="1" width="21" height="20" rx="2.66"></rect>
                     <path d="M11.2279221,10.9852814 L11.2279221,5.98528137 L10.2279221,5.98528137 L10.2279221,10.9852814 L5.22792206,10.9852814 L5.22792206,11.9852814 L10.2279221,11.9852814 L10.2279221,16.9852814 L11.2279221,16.9852814 L11.2279221,11.9852814 L16.2279221,11.9852814 L16.2279221,10.9852814 L11.2279221,10.9852814 Z" id="Combined-Shape" fill="#000000" transform="translate(10.778175, 10.778175) rotate(45.000000) translate(-10.778175, -10.778175) "></path>
                 </g>
-                <g id="Group" transform="translate(4.000000, 4.000000)">
+                <g id="Group" transform="translate(3.000000, 3.000000)">
                     <rect id="数字背景" fill-opacity="0.1" fill="#000000" x="0" y="1" width="21" height="21" rx="2.66"></rect>
                     <rect id="数字背景" fill="#FFFFFF" x="0" y="0" width="21" height="21" rx="2.66"></rect>
                     <rect id="数字背景" fill="url(#linearGradient-2)" x="0" y="1" width="21" height="20" rx="2.66"></rect>
                     <path d="M11,10 L11,5 L10,5 L10,10 L5,10 L5,11 L10,11 L10,16 L11,16 L11,11 L16,11 L16,10 L11,10 Z" id="Combined-Shape" fill="#000000"></path>
                 </g>
-                <g id="Group" transform="translate(29.000000, 4.000000)">
+                <g id="Group" transform="translate(28.000000, 3.000000)">
                     <rect id="数字背景" fill-opacity="0.1" fill="#000000" x="0" y="1" width="21" height="21" rx="2.66"></rect>
                     <rect id="数字背景" fill="#FFFFFF" x="0" y="0" width="21" height="21" rx="2.66"></rect>
                     <rect id="数字背景" fill="url(#linearGradient-2)" x="0" y="1" width="21" height="20" rx="2.66"></rect>
                     <rect id="Rectangle-3" fill="#000000" x="5" y="10" width="11" height="1"></rect>
                 </g>
-                <g id="Group-2" transform="translate(29.000000, 29.000000)">
+                <g id="Group-2" transform="translate(28.000000, 28.000000)">
                     <rect id="数字背景" fill-opacity="0.1" fill="#000000" x="0" y="1" width="21" height="21" rx="2.66"></rect>
                     <rect id="数字背景" fill="#45CEFF" x="0" y="0" width="21" height="21" rx="2.66"></rect>
                     <rect id="数字背景" fill="url(#linearGradient-3)" x="0" y="1" width="21" height="20" rx="2.66"></rect>
