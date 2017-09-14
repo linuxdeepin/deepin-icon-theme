@@ -1,37 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-vnd.ms-powerpoint</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-vnd.ms-powerpoint">
-            <image id="Bitmap" x="30" y="20" width="196" height="236" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAAB2CAYAAAAz4kaDAAAABGdBTUEAA1teXP8meAAABONJREFUeAHtneFu00AQhCkghJD4wfs/KZQWbg6PtRk7TZOcPbSek5y9PZ9v4+/rpSJU8sOHZXtYDh1u5M/ed1yh1359H9eO12v/x/45yGvja2Ob3BMhM7JIzdlnxJza5zVvKVbA7DPiPmp/LR9+r59XViRkxHpgaj23cumbGSLoGtFnjhupfdx3zXF+aIMIwsXCFTz7T238uR2bvhEUNzZw+NQOvc96z5vKQHGKYPw4jSFCAo733iAA9wseaGTxUr9PHPWiIvAG8IZ4PI4q9AbWURl4y+CBXXFODOYMaQBeGwpSBiTVrVnnvdf+r3Zj+ATAvYMNWbTutjIoggIYuSPwBo7WLDIogrD5E4DIz0ueO1L82W6WO4Mf32QFNmy1z7GbIhfHxVwU8cg7giApAyw2l1FF4A1AQj0wduS2mwwVQeiUwfzIcRcZVQTh13hkAfXeN5dBEYCvbW1M5xwp31QGRRwJ6D33upmMiLheyyYyIuJ6EbhiuIyIuE3EcBkRcbuIoTIi4j4Rw2RExP0ihsiIiDEi7pYREeNE3CUjIsaKuFlGRIwXcZOMiNhGhMoAZ3x3d5b32RPbvb9Drcx/gdf/A+e32wTRv1yNCOLYLqoM7o6Tb7cjYjsBdWXI+N2OKqHujIeIqLi27eOvQ8CbMk6qrf3t68mEJEMJ4HcF/lasHr1AdsRQzhcXqzuCH035ZX0R2/gJ/FiihLlCdsSMYpdOFYGCfTegExGgsF/jTmCcK0fEjGKXzkIAq0YESewXKYOxV46I/QSgEuBr62MRoVhMeUSYwGvZiFAipjwiTOC1bEQoEVMeESbwWjYilIgpjwgTeC0bEUrElEeECbyWjQglYsojwgRey0aEEjHlEWECr2UjQomY8ogwgdeyEaFETHlEmMBr2YhQIqY8IkzgtWxEKBFTHhEm8Fo2IpSIKY8IE3gtGxFKxJRHhAm8lo0IJWLKI8IEXstGhBIx5RFhAq9lI0KJmPKIMIHXshGhREx5RJjAa9mIUCKmPCJM4LVsRCgRUx4RJvBaNiKUiCmPCBN4LRsRSsSUR4QJvJaNCCViyiPCBF7LRoQSMeURYQKvZSNCiZjyiDCB17IRoURMeUSYwGvZiFAipjwiTOC1bEQoEVMeESbwWjYilIgpjwgTeC0bEUrElEeECbyWjQglYsojwgRey0aEEjHlEWECr2UjQomY8ogwgdeyEaFETDlF4AF12tbGdE7y6wisMe1jFIHlMKBHPX9dycxWAmCpfLsETDwHmhd80dWS30zga7uSXBeL6LNKOZHxe7sCDyPCA0+fFldn4DUE8HzSb9OBJ/iSLeLcqgieQHyeDuyYH+3APCyoD8huQ2lCgKDBED+8OCDgsR3kWlm34X+Ae2d6oQQIwAL1WWn1HB/jxVjXOHK/AiZ0iqAUcuTczos7goOInAjIuBiNYxBEOZHQ0SxeyJDMKACRcuoc9PtHTl2JE3ABWx2rEiKChE4jeTGCJSUw8tx8JXcEBzhBRSDPbiCly5EcEcGOEX3mnNNX4094T9oLc41VAuZmN5DYegRkNMJW+MjR5nkEyoiT7CPWQ88hT1snMAOeTlMII4Y5p/cr9OmaHjiOhH3GOtYn52VB4ATydJZjjLyo56+BW+fwYsRz43XOEfsKmgxeHF+DuTbGxRLHEFhI+QsLnN0EzuF+/gAAAABJRU5ErkJggg=="></image>
-            <path d="M206,236 L50,236 C46,236 44,234 44,230 L44,34 C44,30 46,28 50,28 L160,28 L212,80 L212,230 C212,236 206,236 206,236 Z" id="path14361" fill="#E59F00"></path>
+            <image id="Bitmap" x="30" y="20" width="196" height="236" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAAB2CAYAAAAz4kaDAAAAAXNSR0IArs4c6QAABONJREFUeAHtneFu00AQhCkghJD4wfs/KZQWbg6PtRk7TZOcPbSek5y9PZ9v4+/rpSJU8sOHZXtYDh1u5M/ed1yh1359H9eO12v/x/45yGvja2Ob3BMhM7JIzdlnxJza5zVvKVbA7DPiPmp/LR9+r59XViRkxHpgaj23cumbGSLoGtFnjhupfdx3zXF+aIMIwsXCFTz7T238uR2bvhEUNzZw+NQOvc96z5vKQHGKYPw4jSFCAo733iAA9wseaGTxUr9PHPWiIvAG8IZ4PI4q9AbWURl4y+CBXXFODOYMaQBeGwpSBiTVrVnnvdf+r3Zj+ATAvYMNWbTutjIoggIYuSPwBo7WLDIogrD5E4DIz0ueO1L82W6WO4Mf32QFNmy1z7GbIhfHxVwU8cg7giApAyw2l1FF4A1AQj0wduS2mwwVQeiUwfzIcRcZVQTh13hkAfXeN5dBEYCvbW1M5xwp31QGRRwJ6D33upmMiLheyyYyIuJ6EbhiuIyIuE3EcBkRcbuIoTIi4j4Rw2RExP0ihsiIiDEi7pYREeNE3CUjIsaKuFlGRIwXcZOMiNhGhMoAZ3x3d5b32RPbvb9Drcx/gdf/A+e32wTRv1yNCOLYLqoM7o6Tb7cjYjsBdWXI+N2OKqHujIeIqLi27eOvQ8CbMk6qrf3t68mEJEMJ4HcF/lasHr1AdsRQzhcXqzuCH035ZX0R2/gJ/FiihLlCdsSMYpdOFYGCfTegExGgsF/jTmCcK0fEjGKXzkIAq0YESewXKYOxV46I/QSgEuBr62MRoVhMeUSYwGvZiFAipjwiTOC1bEQoEVMeESbwWjYilIgpjwgTeC0bEUrElEeECbyWjQglYsojwgRey0aEEjHlEWECr2UjQomY8ogwgdeyEaFETHlEmMBr2YhQIqY8IkzgtWxEKBFTHhEm8Fo2IpSIKY8IE3gtGxFKxJRHhAm8lo0IJWLKI8IEXstGhBIx5RFhAq9lI0KJmPKIMIHXshGhREx5RJjAa9mIUCKmPCJM4LVsRCgRUx4RJvBaNiKUiCmPCBN4LRsRSsSUR4QJvJaNCCViyiPCBF7LRoQSMeURYQKvZSNCiZjyiDCB17IRoURMeUSYwGvZiFAipjwiTOC1bEQoEVMeESbwWjYilIgpjwgTeC0bEUrElEeECbyWjQglYsojwgRey0aEEjHlEWECr2UjQomY8ogwgdeyEaFETDlF4AF12tbGdE7y6wisMe1jFIHlMKBHPX9dycxWAmCpfLsETDwHmhd80dWS30zga7uSXBeL6LNKOZHxe7sCDyPCA0+fFldn4DUE8HzSb9OBJ/iSLeLcqgieQHyeDuyYH+3APCyoD8huQ2lCgKDBED+8OCDgsR3kWlm34X+Ae2d6oQQIwAL1WWn1HB/jxVjXOHK/AiZ0iqAUcuTczos7goOInAjIuBiNYxBEOZHQ0SxeyJDMKACRcuoc9PtHTl2JE3ABWx2rEiKChE4jeTGCJSUw8tx8JXcEBzhBRSDPbiCly5EcEcGOEX3mnNNX4094T9oLc41VAuZmN5DYegRkNMJW+MjR5nkEyoiT7CPWQ88hT1snMAOeTlMII4Y5p/cr9OmaHjiOhH3GOtYn52VB4ATydJZjjLyo56+BW+fwYsRz43XOEfsKmgxeHF+DuTbGxRLHEFhI+QsLnN0EzuF+/gAAAABJRU5ErkJggg=="></image>
+            <path d="M206,236 L50,236 C46,236 44,234 44,230 L44,34 C44,30 46,28 50,28 L160,28 L212,80 L212,230 C212,236 206,236 206,236 Z" id="path14361" fill="#FF740F"></path>
             <path d="M164.954667,82.1493333 C162.010667,82.1493333 160,79.6106667 160,76.6666667 L160,30 L212,80 L212,82.1493333 L164.954667,82.1493333 Z" id="path14363" fill="#000000" opacity="0.0957880435"></path>
-            <path d="M164.954667,80.1493333 C162.010667,80.1493333 160,77.6106667 160,74.6666667 L160,28 L212,80.1493333 L164.954667,80.1493333 Z" id="path14363" fill="#FFBC4F"></path>
+            <path d="M164.954667,80.1493333 C162.010667,80.1493333 160,77.6106667 160,74.6666667 L160,28 L212,80.1493333 L164.954667,80.1493333 Z" id="path14363" fill="#FF9C6E"></path>
             <g id="Group" transform="translate(44.000000, 28.000000)">
                 <path d="M0,202 C0,206 2,208 6,208 L162,208 C162,208 168,208 168,202 L168,200 C168,206 162,206 162,206 L6,206 C2,206 0,204 0,200 L0,202 Z" id="Combined-Shape" fill-opacity="0.2" fill="#000000"></path>
                 <path d="M1.27897692e-13,6 C1.27897692e-13,2 2,2.84217094e-14 6,2.84217094e-14 L116,0 L116,2 L6,2 C2,2 1.27897692e-13,4 1.27897692e-13,8 L1.27897692e-13,6 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.25"></path>
             </g>
-            <g id="Group-2" transform="translate(86.000000, 92.000000)">
-                <polygon id="Rectangle-28" stroke="#B77F00" stroke-width="4" points="0 0 80 0 80 92 0 92"></polygon>
-                <path d="M14,72 L66,72" id="Path-25" stroke="#B77F00" stroke-width="4"></path>
-                <path d="M14,80 L66,80" id="Path-25" stroke="#B77F00" stroke-width="4"></path>
-                <path d="M42,10.0757793 C54.7648122,11.0468156 64.9531844,21.2351878 65.9242207,34 L42,34 L42,10.0757793 L42,10.0757793 Z" id="Combined-Shape" fill="#B77F00"></path>
-                <path d="M38,10.0757793 C24.5751046,11.097029 14,22.3135405 14,36 C14,50.3594035 25.6405965,62 40,62 C53.6864595,62 64.902971,51.4248954 65.9242207,38 L38,38 L38,10.0757793 L38,10.0757793 Z" id="Combined-Shape" fill="#B77F00"></path>
-            </g>
-            <g id="Group-2" transform="translate(86.000000, 90.000000)">
-                <polygon id="Rectangle-28" stroke="#FFF5DE" stroke-width="4" points="0 0 80 0 80 92 0 92"></polygon>
-                <path d="M14,72 L66,72" id="Path-25" stroke="#FFF5DE" stroke-width="4"></path>
-                <path d="M14,80 L66,80" id="Path-25" stroke="#FFF5DE" stroke-width="4"></path>
-                <path d="M42,10.0757793 C54.7648122,11.0468156 64.9531844,21.2351878 65.9242207,34 L42,34 L42,10.0757793 L42,10.0757793 Z" id="Combined-Shape" fill="#FFF5DE"></path>
-                <path d="M38,10.0757793 C24.5751046,11.097029 14,22.3135405 14,36 C14,50.3594035 25.6405965,62 40,62 C53.6864595,62 64.902971,51.4248954 65.9242207,38 L38,38 L38,10.0757793 L38,10.0757793 Z" id="Combined-Shape" fill="#FFF5DE"></path>
-            </g>
-            <rect id="Rectangle-42" fill="#FFFFFF" x="84" y="88" width="84" height="2"></rect>
-            <rect id="Rectangle-42" fill="#FFFFFF" x="100" y="160" width="52" height="2"></rect>
-            <rect id="Rectangle-42" fill="#FFFFFF" x="100" y="168" width="52" height="2"></rect>
-            <path d="M124,100.075779 C110.575105,101.097029 100,112.31354 100,126 C100,126.334849 100.00633,126.668221 100.018877,127 L100.018877,127 C100.519162,113.770802 110.903555,103.072043 124,102.075779 L124,100.075779 Z M128,100.075779 C140.764812,101.046816 150.953184,111.235188 151.924221,124 L151.694207,124 C149.86979,112.184692 140.090632,102.99553 128,102.075779 L128,100.075779 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.411514946"></path>
+            <path d="M99,104 L157,104 C158.656854,104 160,105.343146 160,107 L160,143.004405 C160,144.661259 158.656854,146.004405 157,146.004405 L115,146.004405 L115,146.004405 C113.343146,146.004405 112,147.34755 112,149.004405 L112,163 C112,164.656854 110.656854,166 109,166 L99,166 C97.3431458,166 96,164.656854 96,163 L96,107 L96,107 C96,105.343146 97.3431458,104 99,104 L99,104 Z M115,118 C113.343146,118 112,119.343146 112,121 L112,129 C112,130.656854 113.343146,132 115,132 L141,132 C142.656854,132 144,130.656854 144,129 L144,121 C144,119.343146 142.656854,118 141,118 L115,118 Z" id="Combined-Shape" fill-opacity="0.1" fill="#000000"></path>
+            <path d="M99,102 L157,102 C158.656854,102 160,103.343146 160,105 L160,141.004405 C160,142.661259 158.656854,144.004405 157,144.004405 L115,144.004405 L115,144.004405 C113.343146,144.004405 112,145.34755 112,147.004405 L112,161 C112,162.656854 110.656854,164 109,164 L99,164 C97.3431458,164 96,162.656854 96,161 L96,105 L96,105 C96,103.343146 97.3431458,102 99,102 L99,102 Z M115,116 C113.343146,116 112,117.343146 112,119 L112,127 C112,128.656854 113.343146,130 115,130 L141,130 C142.656854,130 144,128.656854 144,127 L144,119 C144,117.343146 142.656854,116 141,116 L115,116 Z" id="Combined-Shape" fill="#FFE6DE"></path>
+            <path d="M144,124 L144,129 C144,130.656854 142.656854,132 141,132 L115,132 C113.343146,132 112,130.656854 112,129 L112,124 L112,127 C112,128.656854 113.343146,130 115,130 L141,130 C142.656854,130 144,128.656854 144,127 L144,124 Z M160,124.002202 L160,107 C160,105.343146 158.656854,104 157,104 L99,104 L99,104 C97.3431458,104 96,105.343146 96,107 L96,134 L96,105 L96,105 C96,103.343146 97.3431458,102 99,102 L99,102 L157,102 L157,102 C158.656854,102 160,103.343146 160,105 L160,124.002202 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.5"></path>
+            <text id="PPT" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="18" font-weight="400" fill="#FFFFFF">
+                <tspan x="111.08" y="198">PPT</tspan>
+            </text>
+            <text id="PPT" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="18" font-weight="400" fill-opacity="0.1" fill="#000000">
+                <tspan x="111.08" y="200">PPT</tspan>
+            </text>
+            <text id="PPT" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="18" font-weight="400" fill="#FFFFFF">
+                <tspan x="111.08" y="198">PPT</tspan>
+            </text>
         </g>
     </g>
 </svg>

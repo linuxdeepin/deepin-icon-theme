@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-vnd.ms-excel</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-vnd.ms-excel">
             <g id="Group" transform="translate(4.000000, 3.000000)">
-                <image id="Bitmap" x="0" y="0" width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAABGdBTUEAA1teXP8meAAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="></image>
+                <image id="Bitmap" x="0" y="0" width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAAAXNSR0IArs4c6QAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="></image>
                 <path d="M22,26 L2,26 C1,26 1,25 1,25 L1,1 C1,1 1,0 2,0 L16,0 L23,7 L23,25 C23,26 22,26 22,26 Z" id="path14361" fill="#5FB401"></path>
+                <path d="M16,16.5 C16,16.2238576 15.7761424,16 15.5,16 L8,16 L8,16.25 L8,12.5 C8,12.7761424 8.22385763,13 8.5,13 L16,13 L16,12.75 L16,16.5 Z M18.5,21 L5.5,21 L5.5,21 C5.22385763,21 5,20.7761424 5,20.5 L5,18.5 C5,18.2238576 5.22385763,18 5.5,18 L15.5,18 C15.7761424,18 16,17.7761424 16,17.5 L16,13 L18.5,13 C18.7761424,13 19,13.2238576 19,13.5 L19,20.5 C19,20.7761424 18.7761424,21 18.5,21 Z M8,11.5 L8,16 L5.5,16 L5.5,16 C5.22385763,16 5,15.7761424 5,15.5 L5,8.5 L5,8.5 C5,8.22385763 5.22385763,8 5.5,8 L18.5,8 L18.5,8 C18.7761424,8 19,8.22385763 19,8.5 L19,10.5 L19,10.5 C19,10.7761424 18.7761424,11 18.5,11 L8.5,11 C8.22385763,11 8,11.2238576 8,11.5 L8,11.5 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
                 <path d="M17,7.01866667 C16,7.01866667 16,6 16,6 L16,0 L23,7.01866667 L17,7.01866667 Z" id="path14363" fill="#A2F744"></path>
             </g>
-            <polygon id="Rectangle-28" stroke="#FFFFFF" points="10.5 10.5 21.5 10.5 21.5 23.5 10.5 23.5"></polygon>
-            <rect id="Rectangle-30" fill="#FFFFFF" x="10" y="13" width="12" height="1"></rect>
-            <rect id="Rectangle-30" fill="#FFFFFF" transform="translate(13.500000, 16.500000) rotate(-270.000000) translate(-13.500000, -16.500000) " x="7" y="16" width="13" height="1"></rect>
-            <rect id="Rectangle-30" fill="#FFFFFF" x="10" y="16" width="12" height="1"></rect>
-            <rect id="Rectangle-30" fill="#FFFFFF" x="10" y="19" width="12" height="1"></rect>
         </g>
     </g>
 </svg>

@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-msword</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-msword">
             <g id="Group" transform="translate(8.000000, 5.000000)">
-                <image id="Bitmap" x="0" y="0" width="48" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAA6CAYAAAD2mdrhAAAABGdBTUEAA1teXP8meAAAAbpJREFUaAXtmutOwzAMhSk3IQHv/6pcBsNf1lP5B6MNo9iRbMmyl6bxOceRVimZrk42zZHgcze8W3p0K/vcDZ9PASvA13OuqPHzb1/2BLDyT8txrIuECAD6Zn750LuIzb/E7u1lcHyYQ0KkLF03gGMscGf+3+Cp/Wau+t3d1wvEW/Ou9tn8v7IXW4jaiChMkFo1JmNMZgtF2q9IeAKbGO/MsJuECOyMq2v5LhIZCcB2M4msBDaTyExgE4nsBFZJjEDgRxKjEPiOBGPTSAQ8Cf50G/bRCIiEPjlOLBgdzPhu48thuC0kndk57dNnxC0EiaY+yagEwN6sCEiJqFgdiFJedasDUiIqVgeilFfd6oCUiIrVgSjlVbc6ICWiYnUgSnnVrQ5IiahYHYhSXnWrA1IiKlYHopRX3eqAlIiK1YEo5VW3OiAlomJ1IEp51VUHdEsqw40VYTsXwSi8ywkNA1z5ejIXKUvTGeAfzcEK5uWWFnfVuG72YP5szjHmcg5leQYD47v5qzm3Wdr9Oo4rMdjwEIMIB8nZtpN2CfjA2jrgVWbr8FsxIwFA62YjcVHZg/U5c7JZU34GdfwCNsxKg6edvMcAAAAASUVORK5CYII="></image>
+                <image id="Bitmap" x="0" y="0" width="48" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAA6CAYAAAD2mdrhAAAAAXNSR0IArs4c6QAAAbpJREFUaAXtmutOwzAMhSk3IQHv/6pcBsNf1lP5B6MNo9iRbMmyl6bxOceRVimZrk42zZHgcze8W3p0K/vcDZ9PASvA13OuqPHzb1/2BLDyT8txrIuECAD6Zn750LuIzb/E7u1lcHyYQ0KkLF03gGMscGf+3+Cp/Wau+t3d1wvEW/Ou9tn8v7IXW4jaiChMkFo1JmNMZgtF2q9IeAKbGO/MsJuECOyMq2v5LhIZCcB2M4msBDaTyExgE4nsBFZJjEDgRxKjEPiOBGPTSAQ8Cf50G/bRCIiEPjlOLBgdzPhu48thuC0kndk57dNnxC0EiaY+yagEwN6sCEiJqFgdiFJedasDUiIqVgeilFfd6oCUiIrVgSjlVbc6ICWiYnUgSnnVrQ5IiahYHYhSXnWrA1IiKlYHopRX3eqAlIiK1YEo5VW3OiAlomJ1IEp51VUHdEsqw40VYTsXwSi8ywkNA1z5ejIXKUvTGeAfzcEK5uWWFnfVuG72YP5szjHmcg5leQYD47v5qzm3Wdr9Oo4rMdjwEIMIB8nZtpN2CfjA2jrgVWbr8FsxIwFA62YjcVHZg/U5c7JZU34GdfwCNsxKg6edvMcAAAAASUVORK5CYII="></image>
                 <path d="M43.5,54 L4.5,54 C3.5,54 3,53.5 3,52.5 L3,3.5 C3,2.5 3.5,2 4.5,2 L32,2 L45,15 L45,52.5 C45,54 43.5,54 43.5,54 Z" id="path14361" fill="#0E5BD3"></path>
                 <path d="M33.2386667,15.0373333 C32.5026667,15.0373333 32,14.4026667 32,13.6666667 L32,2 L45,15.0373333 L33.2386667,15.0373333 Z" id="path14363" fill="#5B9BFF"></path>
             </g>
-            <polygon id="Rectangle-28" stroke="#FFFFFF" points="21.5 22.5 41.5 22.5 41.5 45.5 21.5 45.5"></polygon>
-            <path d="M24,26.5 L34,26.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M24,32.5 L39,32.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M24,29.5 L39,29.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M24,35.5 L39,35.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M24,38.5 L39,38.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M24,41.5 L39,41.5" id="Path-25" stroke="#FFFFFF"></path>
+            <g id="Group-3" transform="translate(23.000000, 25.000000)">
+                <path d="M13,16.979664 L12.9946667,16.984 L9.46445606,13.3871816 C9.4615466,13.3842173 9.4586095,13.3812802 9.45564514,13.3783707 C9.19287392,13.1204656 8.77078237,13.1244104 8.51287727,13.3871816 L5,16.9663396 L5,17.0471698 L1.66666667,17.0471698 L1.66666667,17.0471698 C1.29847683,17.0471698 1,16.748693 1,16.3805031 L1,1.66666667 L1,1.66666667 C1,1.29847683 1.29847683,1 1.66666667,1 L1.66666667,1 L4.33333333,1 L4.33333333,1 C4.70152317,1 5,1.29847683 5,1.66666667 L5,10.9224151 L8.51287727,7.34325712 C8.51578673,7.34029276 8.51872383,7.33735566 8.52168819,7.3344462 C8.78445941,7.07654111 9.20655097,7.08048589 9.46445606,7.34325712 L9.46445606,7.34325712 L13,10.9455094 L13,1.66666667 L13,1.66666667 C13,1.29847683 13.2984768,1 13.6666667,1 L13.6666667,1 L16.3333333,1 L16.3333333,1 C16.7015232,1 17,1.29847683 17,1.66666667 L17,16.3805031 C17,16.748693 16.7015232,17.0471698 16.3333333,17.0471698 L13,17.0471698 L13,16.979664 Z" id="Combined-Shape" fill-opacity="0.1" fill="#000000" fill-rule="nonzero"></path>
+                <text id="WORD" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="6" font-weight="400" fill-opacity="0.1" fill="#000000">
+                    <tspan x="0.012" y="24.9150943">WORD</tspan>
+                </text>
+                <g id="Group-2">
+                    <path d="M13,15.979664 L12.9946667,15.984 L9.46445606,12.3871816 C9.4615466,12.3842173 9.4586095,12.3812802 9.45564514,12.3783707 C9.19287392,12.1204656 8.77078237,12.1244104 8.51287727,12.3871816 L8.51287727,12.3871816 L5,15.9663396 L5,16.0471698 L1.66666667,16.0471698 L1.66666667,16.0471698 C1.29847683,16.0471698 1,15.748693 1,15.3805031 L1,0.666666667 L1,0.666666667 C1,0.298476833 1.29847683,4.59198448e-14 1.66666667,4.58522109e-14 L1.66666667,4.69394624e-14 L4.33333333,4.69394624e-14 L4.33333333,4.69624339e-14 C4.70152317,4.68948001e-14 5,0.298476833 5,0.666666667 L5,9.92241509 L8.51287727,6.34325712 L8.51287727,6.34325712 C8.51578673,6.34029276 8.51872383,6.33735566 8.52168819,6.3344462 C8.78445941,6.07654111 9.20655097,6.08048589 9.46445606,6.34325712 L9.46445606,6.34325712 L13,9.94550943 L13,0.666666667 L13,0.666666667 C13,0.298476833 13.2984768,2.27161836e-14 13.6666667,2.26485497e-14 L13.6666667,2.38458409e-14 L16.3333333,2.38458409e-14 L16.3333333,2.3869795e-14 C16.7015232,2.38021611e-14 17,0.298476833 17,0.666666667 L17,15.3805031 C17,15.748693 16.7015232,16.0471698 16.3333333,16.0471698 L13,16.0471698 L13,15.979664 Z" id="Combined-Shape" fill="#DEEDFF" fill-rule="nonzero"></path>
+                    <text id="WORD" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="6" font-weight="400" fill="#FFFFFF">
+                        <tspan x="0.012" y="24.4056604">WORD</tspan>
+                    </text>
+                </g>
+            </g>
         </g>
     </g>
 </svg>

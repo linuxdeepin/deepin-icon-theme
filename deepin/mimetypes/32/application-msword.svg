@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-msword</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-msword">
             <g id="Group" transform="translate(4.000000, 3.000000)">
-                <image id="Bitmap" x="0" y="0" width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAABGdBTUEAA1teXP8meAAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="></image>
+                <image id="Bitmap" x="0" y="0" width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAAAXNSR0IArs4c6QAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="></image>
                 <path d="M22,26 L2,26 C1,26 1,25 1,25 L1,1 C1,1 1,0 2,0 L16,0 L23,7 L23,25 C23,26 22,26 22,26 Z" id="path14361" fill="#0E5BD3"></path>
                 <path d="M17,7.01866667 C16,7.01866667 16,6 16,6 L16,0 L23,7.01866667 L17,7.01866667 Z" id="path14363" fill="#5B9BFF"></path>
             </g>
-            <polygon id="Rectangle-28" stroke="#FFFFFF" points="10.5 10.5 21.5 10.5 21.5 23.5 10.5 23.5"></polygon>
-            <path d="M12,15.5 L20,15.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M12,13.5 L18,13.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M12,17.5 L20,17.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M12,19.5 L20,19.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M12,21.5 L20,21.5" id="Path-25" stroke="#FFFFFF"></path>
+            <path d="M19,22.9633082 L18.996,22.9665 L16.3450534,20.3155534 C16.1497912,20.1202912 15.8332088,20.1202912 15.6379466,20.3155534 L13,22.9535 L13,23 L10.5,23 C10.2238576,23 10,22.7761424 10,22.5 L10,11.5 C10,11.2238576 10.2238576,11 10.5,11 L12.5,11 C12.7761424,11 13,11.2238576 13,11.5 L13,18.5045 L15.6379466,15.8665534 C15.8332088,15.6712912 16.1497912,15.6712912 16.3450534,15.8665534 L19,18.5215 L19,11.5 C19,11.2238576 19.2238576,11 19.5,11 L21.5,11 C21.7761424,11 22,11.2238576 22,11.5 L22,22.5 C22,22.7761424 21.7761424,23 21.5,23 L19,23 L19,22.9633082 L19,22.9633082 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
         </g>
     </g>
 </svg>

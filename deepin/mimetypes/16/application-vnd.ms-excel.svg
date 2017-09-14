@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-vnd.ms-excel</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-vnd.ms-excel">
             <polygon id="path14361" fill="#5FB401" points="2 15 2 1 14 1 14 15"></polygon>
-            <polygon id="Rectangle-28" stroke="#FFFFFF" points="4.5 3.5 11.5 3.5 11.5 12.5 4.5 12.5"></polygon>
-            <rect id="Rectangle" fill="#FFFFFF" x="5" y="6" width="6" height="1"></rect>
-            <rect id="Rectangle" fill="#FFFFFF" transform="translate(6.500000, 8.500000) rotate(-270.000000) translate(-6.500000, -8.500000) " x="2" y="8" width="9" height="1"></rect>
-            <rect id="Rectangle" fill="#FFFFFF" x="5" y="9" width="6" height="1"></rect>
+            <path d="M4.375,4 L11.625,4 L11.625,4 C11.8321068,4 12,4.16789322 12,4.375 L12,5.5297619 L12,5.5297619 C12,5.73686869 11.8321068,5.9047619 11.625,5.9047619 L6.25421209,5.9047619 L6.25421209,5.9047619 C6.04710531,5.9047619 5.87921209,6.07265512 5.87921209,6.2797619 L5.87921209,6.67261905 L5.87921209,6.67261905 C5.87921209,6.87972583 6.04710531,7.04761905 6.25421209,7.04761905 L11.625,7.04761905 L11.625,7.04761905 C11.8321068,7.04761905 12,7.21551227 12,7.42261905 L12,11.625 L12,11.625 C12,11.8321068 11.8321068,12 11.625,12 L4.375,12 L4.375,12 C4.16789322,12 4,11.8321068 4,11.625 L4,10.4702381 L4,10.4702381 C4,10.2631313 4.16789322,10.0952381 4.375,10.0952381 L9.71617787,10.0952381 L9.71617787,10.0952381 C9.92328466,10.0952381 10.0911779,9.92734488 10.0911779,9.7202381 L10.0911779,9.32738095 L10.0911779,9.32738095 C10.0911779,9.12027417 9.92328466,8.95238095 9.71617787,8.95238095 L4.375,8.95238095 L4.375,8.95238095 C4.16789322,8.95238095 4,8.78448773 4,8.57738095 L4,4.375 L4,4.375 C4,4.16789322 4.16789322,4 4.375,4 Z" id="Rectangle-2" fill="#FFFFFF"></path>
         </g>
     </g>
 </svg>

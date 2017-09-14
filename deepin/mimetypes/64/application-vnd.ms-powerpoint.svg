@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-vnd.ms-powerpoint</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-vnd.ms-powerpoint">
-            <g id="Group" transform="translate(8.000000, 5.000000)">
-                <image id="Bitmap" x="0" y="0" width="48" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAA6CAYAAAD2mdrhAAAABGdBTUEAA1teXP8meAAAAbpJREFUaAXtmutOwzAMhSk3IQHv/6pcBsNf1lP5B6MNo9iRbMmyl6bxOceRVimZrk42zZHgcze8W3p0K/vcDZ9PASvA13OuqPHzb1/2BLDyT8txrIuECAD6Zn750LuIzb/E7u1lcHyYQ0KkLF03gGMscGf+3+Cp/Wau+t3d1wvEW/Ou9tn8v7IXW4jaiChMkFo1JmNMZgtF2q9IeAKbGO/MsJuECOyMq2v5LhIZCcB2M4msBDaTyExgE4nsBFZJjEDgRxKjEPiOBGPTSAQ8Cf50G/bRCIiEPjlOLBgdzPhu48thuC0kndk57dNnxC0EiaY+yagEwN6sCEiJqFgdiFJedasDUiIqVgeilFfd6oCUiIrVgSjlVbc6ICWiYnUgSnnVrQ5IiahYHYhSXnWrA1IiKlYHopRX3eqAlIiK1YEo5VW3OiAlomJ1IEp51VUHdEsqw40VYTsXwSi8ywkNA1z5ejIXKUvTGeAfzcEK5uWWFnfVuG72YP5szjHmcg5leQYD47v5qzm3Wdr9Oo4rMdjwEIMIB8nZtpN2CfjA2jrgVWbr8FsxIwFA62YjcVHZg/U5c7JZU34GdfwCNsxKg6edvMcAAAAASUVORK5CYII="></image>
-                <path d="M43.5,54 L4.5,54 C3.5,54 3,53.5 3,52.5 L3,3.5 C3,2.5 3.5,2 4.5,2 L32,2 L45,15 L45,52.5 C45,54 43.5,54 43.5,54 Z" id="path14361" fill="#E59F00"></path>
-                <path d="M33.2386667,15.0373333 C32.5026667,15.0373333 32,14.4026667 32,13.6666667 L32,2 L45,15.0373333 L33.2386667,15.0373333 Z" id="path14363" fill="#FFBC4F"></path>
+            <image id="Bitmap" x="7.5" y="5" width="49" height="59" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAAB2CAYAAAAz4kaDAAAAAXNSR0IArs4c6QAABONJREFUeAHtneFu00AQhCkghJD4wfs/KZQWbg6PtRk7TZOcPbSek5y9PZ9v4+/rpSJU8sOHZXtYDh1u5M/ed1yh1359H9eO12v/x/45yGvja2Ob3BMhM7JIzdlnxJza5zVvKVbA7DPiPmp/LR9+r59XViRkxHpgaj23cumbGSLoGtFnjhupfdx3zXF+aIMIwsXCFTz7T238uR2bvhEUNzZw+NQOvc96z5vKQHGKYPw4jSFCAo733iAA9wseaGTxUr9PHPWiIvAG8IZ4PI4q9AbWURl4y+CBXXFODOYMaQBeGwpSBiTVrVnnvdf+r3Zj+ATAvYMNWbTutjIoggIYuSPwBo7WLDIogrD5E4DIz0ueO1L82W6WO4Mf32QFNmy1z7GbIhfHxVwU8cg7giApAyw2l1FF4A1AQj0wduS2mwwVQeiUwfzIcRcZVQTh13hkAfXeN5dBEYCvbW1M5xwp31QGRRwJ6D33upmMiLheyyYyIuJ6EbhiuIyIuE3EcBkRcbuIoTIi4j4Rw2RExP0ihsiIiDEi7pYREeNE3CUjIsaKuFlGRIwXcZOMiNhGhMoAZ3x3d5b32RPbvb9Drcx/gdf/A+e32wTRv1yNCOLYLqoM7o6Tb7cjYjsBdWXI+N2OKqHujIeIqLi27eOvQ8CbMk6qrf3t68mEJEMJ4HcF/lasHr1AdsRQzhcXqzuCH035ZX0R2/gJ/FiihLlCdsSMYpdOFYGCfTegExGgsF/jTmCcK0fEjGKXzkIAq0YESewXKYOxV46I/QSgEuBr62MRoVhMeUSYwGvZiFAipjwiTOC1bEQoEVMeESbwWjYilIgpjwgTeC0bEUrElEeECbyWjQglYsojwgRey0aEEjHlEWECr2UjQomY8ogwgdeyEaFETHlEmMBr2YhQIqY8IkzgtWxEKBFTHhEm8Fo2IpSIKY8IE3gtGxFKxJRHhAm8lo0IJWLKI8IEXstGhBIx5RFhAq9lI0KJmPKIMIHXshGhREx5RJjAa9mIUCKmPCJM4LVsRCgRUx4RJvBaNiKUiCmPCBN4LRsRSsSUR4QJvJaNCCViyiPCBF7LRoQSMeURYQKvZSNCiZjyiDCB17IRoURMeUSYwGvZiFAipjwiTOC1bEQoEVMeESbwWjYilIgpjwgTeC0bEUrElEeECbyWjQglYsojwgRey0aEEjHlEWECr2UjQomY8ogwgdeyEaFETDlF4AF12tbGdE7y6wisMe1jFIHlMKBHPX9dycxWAmCpfLsETDwHmhd80dWS30zga7uSXBeL6LNKOZHxe7sCDyPCA0+fFldn4DUE8HzSb9OBJ/iSLeLcqgieQHyeDuyYH+3APCyoD8huQ2lCgKDBED+8OCDgsR3kWlm34X+Ae2d6oQQIwAL1WWn1HB/jxVjXOHK/AiZ0iqAUcuTczos7goOInAjIuBiNYxBEOZHQ0SxeyJDMKACRcuoc9PtHTl2JE3ABWx2rEiKChE4jeTGCJSUw8tx8JXcEBzhBRSDPbiCly5EcEcGOEX3mnNNX4094T9oLc41VAuZmN5DYegRkNMJW+MjR5nkEyoiT7CPWQ88hT1snMAOeTlMII4Y5p/cr9OmaHjiOhH3GOtYn52VB4ATydJZjjLyo56+BW+fwYsRz43XOEfsKmgxeHF+DuTbGxRLHEFhI+QsLnN0EzuF+/gAAAABJRU5ErkJggg=="></image>
+            <path d="M51.5,59 L12.5,59 C11.5,59 11,58.5 11,57.5 L11,8.5 C11,7.5 11.5,7 12.5,7 L40,7 L53,20 L53,57.5 C53,59 51.5,59 51.5,59 Z" id="path14361" fill="#FF740F"></path>
+            <g id="Group" transform="translate(11.000000, 7.000000)">
+                <path d="M0,50.5 C0,51.5 0.5,52 1.5,52 L40.5,52 C40.5,52 42,52 42,50.5 L42,50 C42,51.5 40.5,51.5 40.5,51.5 L1.5,51.5 C0.5,51.5 0,51 0,50 L0,50.5 Z" id="Combined-Shape" fill-opacity="0.2" fill="#000000"></path>
+                <path d="M6.39488462e-14,1.5 C6.39488462e-14,0.5 0.5,7.10542736e-15 1.5,7.10542736e-15 L29,0 L29,0.5 L1.5,0.5 C0.5,0.5 6.39488462e-14,1 6.39488462e-14,2 L6.39488462e-14,1.5 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.25"></path>
             </g>
-            <polygon id="Rectangle-28" stroke="#FFFFFF" points="21.5 22.5 41.5 22.5 41.5 45.5 21.5 45.5"></polygon>
-            <path d="M25,40.5 L38,40.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M25,42.5 L38,42.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M32,25.0189448 C35.191203,25.2617039 37.7382961,27.808797 37.9810552,31 L32,31 L32,25.0189448 L32,25.0189448 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-            <path d="M31,25.0189448 C27.6437761,25.2742573 25,28.0783851 25,31.5 C25,35.0898509 27.9101491,38 31.5,38 C34.9216149,38 37.7257427,35.3562239 37.9810552,32 L31,32 L31,25.0189448 L31,25.0189448 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <g id="Group-2" transform="translate(24.000000, 24.000000)">
+                <path d="M0.75,1 L15.25,1 C15.6642136,1 16,1.33578644 16,1.75 L16,10.7511012 C16,11.1653147 15.6642136,11.5011012 15.25,11.5011012 L4.75,11.5011012 L4.75,11.5011012 C4.33578644,11.5011012 4,11.8368876 4,12.2511012 L4,15.75 C4,16.1642136 3.66421356,16.5 3.25,16.5 L0.75,16.5 C0.335786438,16.5 7.16860346e-16,16.1642136 6.66133815e-16,15.75 L0,1.75 L0,1.75 C-5.07265313e-17,1.33578644 0.335786438,1 0.75,1 L0.75,1 Z M4.75,4.5 C4.33578644,4.5 4,4.83578644 4,5.25 L4,7.25 C4,7.66421356 4.33578644,8 4.75,8 L11.25,8 C11.6642136,8 12,7.66421356 12,7.25 L12,5.25 C12,4.83578644 11.6642136,4.5 11.25,4.5 L4.75,4.5 Z" id="Combined-Shape" fill-opacity="0.1" fill="#000000"></path>
+                <path d="M0.75,3.33066907e-16 L15.25,3.33066907e-16 C15.6642136,2.56976244e-16 16,0.335786438 16,0.75 L16,9.75110116 C16,10.1653147 15.6642136,10.5011012 15.25,10.5011012 L4.75,10.5011012 L4.75,10.5011012 C4.33578644,10.5011012 4,10.8368876 4,11.2511012 L4,14.75 C4,15.1642136 3.66421356,15.5 3.25,15.5 L0.75,15.5 C0.335786438,15.5 7.16860346e-16,15.1642136 6.66133815e-16,14.75 L0,0.75 L0,0.75 C-5.07265313e-17,0.335786438 0.335786438,7.60906637e-17 0.75,0 L0.75,3.33066907e-16 Z M4.75,3.5 C4.33578644,3.5 4,3.83578644 4,4.25 L4,6.25 C4,6.66421356 4.33578644,7 4.75,7 L11.25,7 C11.6642136,7 12,6.66421356 12,6.25 L12,4.25 C12,3.83578644 11.6642136,3.5 11.25,3.5 L4.75,3.5 Z" id="Combined-Shape" fill="#FFE6DE"></path>
+                <path d="M12,5.75 L12,7.25 C12,7.66421356 11.6642136,8 11.25,8 L4.75,8 C4.33578644,8 4,7.66421356 4,7.25 L4,5.75 L4,6.25 C4,6.66421356 4.33578644,7 4.75,7 L11.25,7 C11.6642136,7 12,6.66421356 12,6.25 L12,5.75 Z M16,5.75057104 L16,1.75004093 C16,1.33582737 15.6642136,1.00004093 15.25,1.00004093 L0.75,1.00004093 L0.75,1.00004093 C0.335786438,1.00004093 -5.07265313e-17,1.33582737 0,1.75004093 L3.0927544e-16,8.25002046 L0,0.75 L0,0.75 C-5.07265313e-17,0.335786438 0.335786438,7.60906637e-17 0.75,0 L0.75,3.33066907e-16 L15.25,3.33066907e-16 C15.6642136,2.56976244e-16 16,0.335786438 16,0.75 L16,5.75057104 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.5"></path>
+                <text id="PPT" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="6" font-weight="400" fill-opacity="0.1" fill="#000000">
+                    <tspan x="2.36" y="24.25">PPT</tspan>
+                </text>
+                <text id="PPT" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="6" font-weight="400" fill="#FFFFFF">
+                    <tspan x="2.36" y="23.75">PPT</tspan>
+                </text>
+            </g>
+            <path d="M41.2386667,20.0373333 C40.5026667,20.0373333 40,19.4026667 40,18.6666667 L40,7 L53,20.0373333 L41.2386667,20.0373333 Z" id="path14363" fill="#FF9C6E"></path>
         </g>
     </g>
 </svg>

@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-vnd.ms-powerpoint</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-vnd.ms-powerpoint">
             <g id="Group" transform="translate(4.000000, 3.000000)">
-                <image id="Bitmap" x="0" y="0" width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAABGdBTUEAA1teXP8meAAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="></image>
-                <path d="M22,26 L2,26 C1,26 1,25 1,25 L1,1 C1,1 1,0 2,0 L16,0 L23,7 L23,25 C23,26 22,26 22,26 Z" id="path14361" fill="#E59F00"></path>
-                <path d="M17,7.01866667 C16,7.01866667 16,6 16,6 L16,0 L23,7.01866667 L17,7.01866667 Z" id="path14363" fill="#FFBC4F"></path>
+                <image id="Bitmap" x="0" y="0" width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAAAXNSR0IArs4c6QAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="></image>
+                <path d="M22,26 L2,26 C1,26 1,25 1,25 L1,1 C1,1 1,0 2,0 L16,0 L23,7 L23,25 C23,26 22,26 22,26 Z" id="path14361" fill="#FF740F"></path>
+                <g transform="translate(6.000000, 8.000000)" id="Combined-Shape" fill-rule="nonzero" fill="#FFFFFF">
+                    <path d="M3,6 L9,6 L9,9 L3,9 L3,6 Z M8.5,2.99997271 L3.5,2.99997271 C3.22385763,2.99997271 3,3.22383034 3,3.49997271 L3,11.4999727 C3,11.7761151 2.77614237,11.9999727 2.5,11.9999727 L0.5,11.9999727 C0.223857625,11.9999727 3.38176876e-17,11.7761151 0,11.4999727 L0,0.499972714 L0,0.499972714 C-3.38176876e-17,0.22383034 0.223857625,-2.72855691e-05 0.5,-2.72855691e-05 L11.5,-2.72855691e-05 C11.7761424,-2.72855691e-05 12,0.22383034 12,0.499972714 L12,8.49997271 C12,8.77611509 11.7761424,8.99997271 11.5,8.99997271 L9,8.99997271 L9,3.49997271 C9,3.22383034 8.77614237,2.99997271 8.5,2.99997271 Z"></path>
+                </g>
+                <path d="M17,7.01866667 C16,7.01866667 16,6 16,6 L16,0 L23,7.01866667 L17,7.01866667 Z" id="path14363" fill="#FF9C6E"></path>
             </g>
-            <polygon id="Rectangle-28" stroke="#FFFFFF" points="10.5 10.5 21.5 10.5 21.5 23.5 10.5 23.5"></polygon>
-            <g id="Group-2" transform="translate(13.000000, 12.000000)" fill="#FFFFFF">
-                <path d="M4,0 C5,0 6,1 6,2 L4,2 L4,0 Z" id="Combined-Shape"></path>
-                <path d="M3,0 C1.34314575,0 0,1.34314575 0,3 C0,4.65685425 1.34314575,6 3,6 C4.65685425,6 6,4.65685425 6,3 L3,3 L3,0 Z" id="Combined-Shape"></path>
-            </g>
-            <path d="M13,19.4980545 L19,19.5019455" id="Path-12" stroke="#FFFFFF"></path>
-            <path d="M13,21.4980545 L19,21.5019455" id="Path-12" stroke="#FFFFFF"></path>
         </g>
     </g>
 </svg>

@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-vnd.ms-powerpoint</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-vnd.ms-powerpoint">
-            <image id="Bitmap" x="5.968" y="4" width="36" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAArCAYAAAAQVipNAAAABGdBTUEAA1teXP8meAAAAS5JREFUWAntmNsOgkAMRMFbvMT//08fTNAQnKnUwAsDctl9aJNBsGw5zC4ktCyKooQY/PV9+2OhTYM6Llny0J6xbwfVcsT0E46d2gQbjB2ydOUErQHDi78h3jAlZ8CB3CmMWSUqVB0FRSCGJP+eNms7CmpLIN6NhHKgWbc+cfAgVAqgrlNcu73lkgrIoXj9HlRKIIeiQz+o1ECEekGEsvdUDkAOxTd6mQsQoWzacgIylpyA7PHPCYjTVgSQ2TCwCYcGzLFUOBQOKQdUPtZQOKQcUPlYQ+GQckDlYw2FQ8oBlY81NNYh2YxUhRbIG4NPGQ8uCxT9t8QNAw2IX4uEOkN36AqxC7FlsPv7hB5QRSBvhbA17H0a+6zF8dpBVyi2jqnagbBvYFuB8HrdcLDmA609I3uLKTjDAAAAAElFTkSuQmCC"></image>
-            <path d="M39.000999,44 L8.92807193,44 C8.37662338,44 8,43.524 8,42.972 L8,5.972 C8,5.42 8.37662338,5 8.92807193,5 L30.00999,5 L40,15 L39.968032,42.971 C39.968032,43.524 39.4495504,44 38.8981019,44 L39.000999,44 Z" id="path14361" fill="#E59F00"></path>
-            <polygon id="Rectangle-28" stroke="#FFFFFF" points="16.5 17.5 31.5 17.5 31.5 35.5 16.5 35.5"></polygon>
-            <path d="M19,30.5 L29,30.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M19,32.5 L29,32.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M30.929,15.028 C30.377,15.028 30,14.552 30,14 L30,5 L40,15 L30.929,15.028 Z" id="path14363" fill="#FFBD4E"></path>
-            <path d="M25,19.1000181 C26.9591304,19.4977006 28.5022994,21.0408696 28.8999819,23 L25,23 L25,19.1000181 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-            <path d="M24,19 C21.2385763,19 19,21.2385763 19,24 C19,26.7614237 21.2385763,29 24,29 C26.7614237,29 29,26.7614237 29,24 L24,24 L24,19 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <image id="Bitmap" x="5.968" y="4" width="36" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAArCAYAAAAQVipNAAAAAXNSR0IArs4c6QAAAS5JREFUWAntmNsOgkAMRMFbvMT//08fTNAQnKnUwAsDctl9aJNBsGw5zC4ktCyKooQY/PV9+2OhTYM6Llny0J6xbwfVcsT0E46d2gQbjB2ydOUErQHDi78h3jAlZ8CB3CmMWSUqVB0FRSCGJP+eNms7CmpLIN6NhHKgWbc+cfAgVAqgrlNcu73lkgrIoXj9HlRKIIeiQz+o1ECEekGEsvdUDkAOxTd6mQsQoWzacgIylpyA7PHPCYjTVgSQ2TCwCYcGzLFUOBQOKQdUPtZQOKQcUPlYQ+GQckDlYw2FQ8oBlY81NNYh2YxUhRbIG4NPGQ8uCxT9t8QNAw2IX4uEOkN36AqxC7FlsPv7hB5QRSBvhbA17H0a+6zF8dpBVyi2jqnagbBvYFuB8HrdcLDmA609I3uLKTjDAAAAAElFTkSuQmCC"></image>
+            <path d="M39.000999,44 L8.92807193,44 C8.37662338,44 8,43.524 8,42.972 L8,5.972 C8,5.42 8.37662338,5 8.92807193,5 L30.00999,5 L40,15 L39.968032,42.971 C39.968032,43.524 39.4495504,44 38.8981019,44 L39.000999,44 Z" id="path14361" fill="#FF740F"></path>
+            <g id="Group" transform="translate(16.000000, 16.000000)" fill="#FFFFFF">
+                <path d="M0.75,3.33066907e-16 L15.25,3.33066907e-16 C15.6642136,2.56976244e-16 16,0.335786438 16,0.75 L16,9.75110116 C16,10.1653147 15.6642136,10.5011012 15.25,10.5011012 L4.75,10.5011012 L4.75,10.5011012 C4.33578644,10.5011012 4,10.8368876 4,11.2511012 L4,14.75 C4,15.1642136 3.66421356,15.5 3.25,15.5 L0.75,15.5 C0.335786438,15.5 7.16860346e-16,15.1642136 6.66133815e-16,14.75 L0,0.75 L0,0.75 C-5.07265313e-17,0.335786438 0.335786438,7.60906637e-17 0.75,0 L0.75,3.33066907e-16 Z M4.75,3.5 C4.33578644,3.5 4,3.83578644 4,4.25 L4,6.25 C4,6.66421356 4.33578644,7 4.75,7 L11.25,7 C11.6642136,7 12,6.66421356 12,6.25 L12,4.25 C12,3.83578644 11.6642136,3.5 11.25,3.5 L4.75,3.5 Z" id="Combined-Shape"></path>
+                <text id="PPT" font-family="SourceHanSansSC-Bold, Source Han Sans SC" font-size="6" font-weight="bold">
+                    <tspan x="2.18" y="22.75">PPT</tspan>
+                </text>
+            </g>
+            <path d="M30.929,15.028 C30.377,15.028 30,14.552 30,14 L30,5 L40,15 L30.929,15.028 Z" id="path14363" fill="#FF9C6E"></path>
         </g>
     </g>
 </svg>

@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-msword</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-msword">
             <g id="Group" transform="translate(2.000000, 1.000000)" fill="#0E5BD3">
                 <polygon id="path14361" points="0 14 0 1.77635684e-15 12 0 12 14"></polygon>
             </g>
-            <polygon id="Rectangle-28" stroke="#FFFFFF" points="4.5 3.5 11.5 3.5 11.5 12.5 4.5 12.5"></polygon>
-            <path d="M6,8.5 L10,8.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M6,6.5 L9,6.5" id="Path-25" stroke="#FFFFFF"></path>
-            <path d="M6,10.5 L10,10.5" id="Path-25" stroke="#FFFFFF"></path>
+            <path d="M10,11.9755388 L9.99733333,11.9776667 L8.23003559,10.2103689 C8.09986083,10.0801942 7.88880584,10.0801942 7.75863107,10.2103689 L6,11.969 L6,12 L4.33333333,12 C4.14923842,12 4,11.8507616 4,11.6666667 L4,4.33333333 C4,4.14923842 4.14923842,4 4.33333333,4 L5.66666667,4 C5.85076158,4 6,4.14923842 6,4.33333333 L6,9.003 L7.75863107,7.24436893 C7.88880584,7.11419416 8.09986083,7.11419416 8.23003559,7.24436893 L10,9.01433333 L10,4.33333333 C10,4.14923842 10.1492384,4 10.3333333,4 L11.6666667,4 C11.8507616,4 12,4.14923842 12,4.33333333 L12,11.6666667 C12,11.8507616 11.8507616,12 11.6666667,12 L10,12 L10,11.9755388 L10,11.9755388 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
         </g>
     </g>
 </svg>

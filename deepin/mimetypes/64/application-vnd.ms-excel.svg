@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>application-vnd.ms-excel</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="文件类型" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="application-vnd.ms-excel">
-            <g id="Group" transform="translate(8.000000, 5.000000)">
-                <image id="Bitmap" x="0" y="0" width="48" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAA6CAYAAAD2mdrhAAAABGdBTUEAA1teXP8meAAAAbpJREFUaAXtmutOwzAMhSk3IQHv/6pcBsNf1lP5B6MNo9iRbMmyl6bxOceRVimZrk42zZHgcze8W3p0K/vcDZ9PASvA13OuqPHzb1/2BLDyT8txrIuECAD6Zn750LuIzb/E7u1lcHyYQ0KkLF03gGMscGf+3+Cp/Wau+t3d1wvEW/Ou9tn8v7IXW4jaiChMkFo1JmNMZgtF2q9IeAKbGO/MsJuECOyMq2v5LhIZCcB2M4msBDaTyExgE4nsBFZJjEDgRxKjEPiOBGPTSAQ8Cf50G/bRCIiEPjlOLBgdzPhu48thuC0kndk57dNnxC0EiaY+yagEwN6sCEiJqFgdiFJedasDUiIqVgeilFfd6oCUiIrVgSjlVbc6ICWiYnUgSnnVrQ5IiahYHYhSXnWrA1IiKlYHopRX3eqAlIiK1YEo5VW3OiAlomJ1IEp51VUHdEsqw40VYTsXwSi8ywkNA1z5ejIXKUvTGeAfzcEK5uWWFnfVuG72YP5szjHmcg5leQYD47v5qzm3Wdr9Oo4rMdjwEIMIB8nZtpN2CfjA2jrgVWbr8FsxIwFA62YjcVHZg/U5c7JZU34GdfwCNsxKg6edvMcAAAAASUVORK5CYII="></image>
-                <path d="M43.5,54 L4.5,54 C3.5,54 3,53.5 3,52.5 L3,3.5 C3,2.5 3.5,2 4.5,2 L32,2 L45,15 L45,52.5 C45,54 43.5,54 43.5,54 Z" id="path14361" fill="#5FB401"></path>
-                <path d="M33.2386667,15.0373333 C32.5026667,15.0373333 32,14.4026667 32,13.6666667 L32,2 L45,15.0373333 L33.2386667,15.0373333 Z" id="path14363" fill="#A2F744"></path>
+            <image id="Bitmap" x="8" y="5" width="48" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAA6CAYAAAD2mdrhAAAAAXNSR0IArs4c6QAAAbpJREFUaAXtmutOwzAMhSk3IQHv/6pcBsNf1lP5B6MNo9iRbMmyl6bxOceRVimZrk42zZHgcze8W3p0K/vcDZ9PASvA13OuqPHzb1/2BLDyT8txrIuECAD6Zn750LuIzb/E7u1lcHyYQ0KkLF03gGMscGf+3+Cp/Wau+t3d1wvEW/Ou9tn8v7IXW4jaiChMkFo1JmNMZgtF2q9IeAKbGO/MsJuECOyMq2v5LhIZCcB2M4msBDaTyExgE4nsBFZJjEDgRxKjEPiOBGPTSAQ8Cf50G/bRCIiEPjlOLBgdzPhu48thuC0kndk57dNnxC0EiaY+yagEwN6sCEiJqFgdiFJedasDUiIqVgeilFfd6oCUiIrVgSjlVbc6ICWiYnUgSnnVrQ5IiahYHYhSXnWrA1IiKlYHopRX3eqAlIiK1YEo5VW3OiAlomJ1IEp51VUHdEsqw40VYTsXwSi8ywkNA1z5ejIXKUvTGeAfzcEK5uWWFnfVuG72YP5szjHmcg5leQYD47v5qzm3Wdr9Oo4rMdjwEIMIB8nZtpN2CfjA2jrgVWbr8FsxIwFA62YjcVHZg/U5c7JZU34GdfwCNsxKg6edvMcAAAAASUVORK5CYII="></image>
+            <path d="M51.5,59 L12.5,59 C11.5,59 11,58.5 11,57.5 L11,8.5 C11,7.5 11.5,7 12.5,7 L40,7 L53,20 L53,57.5 C53,59 51.5,59 51.5,59 Z" id="path14361" fill="#5FB401"></path>
+            <g id="Group" transform="translate(11.000000, 7.000000)">
+                <path d="M0,50.5 C0,51.5 0.5,52 1.5,52 L40.5,52 C40.5,52 42,52 42,50.5 L42,50 C42,51.5 40.5,51.5 40.5,51.5 L1.5,51.5 C0.5,51.5 0,51 0,50 L0,50.5 Z" id="Combined-Shape" fill-opacity="0.2" fill="#000000"></path>
+                <path d="M6.39488462e-14,1.5 C6.39488462e-14,0.5 0.5,7.10542736e-15 1.5,7.10542736e-15 L29,0 L29,0.5 L1.5,0.5 C0.5,0.5 6.39488462e-14,1 6.39488462e-14,2 L6.39488462e-14,1.5 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.25"></path>
             </g>
-            <polygon id="Rectangle-28" stroke="#FFFFFF" points="21.5 22.5 41.5 22.5 41.5 45.5 21.5 45.5"></polygon>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="23" y="24" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="32" y="24" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="23" y="27" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="32" y="27" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="23" y="30" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="32" y="30" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="23" y="33" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="32" y="33" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="23" y="36" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="32" y="36" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="23" y="39" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="32" y="39" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="23" y="42" width="8" height="2"></rect>
-            <rect id="Rectangle-29" fill="#FFFFFF" x="32" y="42" width="8" height="2"></rect>
+            <g id="Group-2" transform="translate(23.000000, 24.000000)">
+                <path d="M1.75,1 L16.25,1 L16.25,1 C16.6642136,1 17,1.33578644 17,1.75 L17,4 L17,4 C17,4.41421356 16.6642136,4.75 16.25,4.75 L5.50842417,4.75 L5.50842417,4.75 C5.09421061,4.75 4.75842417,5.08578644 4.75842417,5.5 L4.75842417,6.25 L4.75842417,6.25 C4.75842417,6.66421356 5.09421061,7 5.50842417,7 L16.25,7 L16.25,7 C16.6642136,7 17,7.33578644 17,7.75 L17,16 L17,16 C17,16.4142136 16.6642136,16.75 16.25,16.75 L1.75,16.75 L1.75,16.75 C1.33578644,16.75 1,16.4142136 1,16 L1,13.75 L1,13.75 C1,13.3357864 1.33578644,13 1.75,13 L12.4323557,13 L12.4323557,13 C12.8465693,13 13.1823557,12.6642136 13.1823557,12.25 L13.1823557,11.5 L13.1823557,11.5 C13.1823557,11.0857864 12.8465693,10.75 12.4323557,10.75 L1.75,10.75 L1.75,10.75 C1.33578644,10.75 1,10.4142136 1,10 L1,1.75 L1,1.75 C1,1.33578644 1.33578644,1 1.75,1 Z" id="Rectangle-2" fill-opacity="0.1" fill="#000000"></path>
+                <path d="M1.75,0 L16.25,0 L16.25,0 C16.6642136,-7.6089797e-17 17,0.335786438 17,0.75 L17,3 L17,3 C17,3.41421356 16.6642136,3.75 16.25,3.75 L5.50842417,3.75 L5.50842417,3.75 C5.09421061,3.75 4.75842417,4.08578644 4.75842417,4.5 L4.75842417,5.25 L4.75842417,5.25 C4.75842417,5.66421356 5.09421061,6 5.50842417,6 L16.25,6 L16.25,6 C16.6642136,6 17,6.33578644 17,6.75 L17,15 L17,15 C17,15.4142136 16.6642136,15.75 16.25,15.75 L1.75,15.75 L1.75,15.75 C1.33578644,15.75 1,15.4142136 1,15 L1,12.75 L1,12.75 C1,12.3357864 1.33578644,12 1.75,12 L12.4323557,12 L12.4323557,12 C12.8465693,12 13.1823557,11.6642136 13.1823557,11.25 L13.1823557,10.5 L13.1823557,10.5 C13.1823557,10.0857864 12.8465693,9.75 12.4323557,9.75 L1.75,9.75 L1.75,9.75 C1.33578644,9.75 1,9.41421356 1,9 L1,0.75 L1,0.75 C1,0.335786438 1.33578644,7.6089797e-17 1.75,0 Z" id="Rectangle-2" fill="#F0FDE2"></path>
+                <path d="M17,2.375 L17,1.75 C17,1.33578644 16.6642136,1 16.25,1 L1.75,1 L1.75,1 C1.33578644,1 1,1.33578644 1,1.75 L1,5.375 L1,0.75 L1,0.75 C1,0.335786438 1.33578644,7.6089797e-17 1.75,0 L1.75,0 L16.25,0 C16.6642136,-7.6089797e-17 17,0.335786438 17,0.75 L17,2.375 Z M4.76879398,5.375 C4.82830374,5.72971417 5.13679964,6 5.50842417,6 L16.25,6 C16.6642136,6 17,6.33578644 17,6.75 L17,11.375 L17,7.75 C17,7.33578644 16.6642136,7 16.25,7 L5.50842417,7 C5.09421061,7 4.75842417,6.66421356 4.75842417,6.25 L4.75842417,6.25 L4.75842417,5.5 C4.75842417,5.45741097 4.76197402,5.41565106 4.76879398,5.375 Z M1,14.375 L1,12.75 C1,12.3357864 1.33578644,12 1.75,12 L12.4323557,12 L12.4323557,12 C12.8039803,12 13.1124762,11.7297142 13.1719859,11.375 C13.1788059,11.4156511 13.1823557,11.457411 13.1823557,11.5 L13.1823557,12.25 C13.1823557,12.6642136 12.8465693,13 12.4323557,13 L12.4323557,13 L1.75,13 C1.33578644,13 1,13.3357864 1,13.75 L1,14.375 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.5"></path>
+                <text id="EXCEL" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="6" font-weight="400" fill-opacity="0.1" fill="#000000">
+                    <tspan x="0.072" y="24.5">EXCEL</tspan>
+                </text>
+                <text id="EXCEL" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="6" font-weight="400" fill="#FFFFFF">
+                    <tspan x="0.072" y="24">EXCEL</tspan>
+                </text>
+            </g>
+            <path d="M41.2386667,20.0373333 C40.5026667,20.0373333 40,19.4026667 40,18.6666667 L40,7 L53,20.0373333 L41.2386667,20.0373333 Z" id="path14363" fill="#A2F744"></path>
         </g>
     </g>
 </svg>
