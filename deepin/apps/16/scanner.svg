@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>scanner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#0397F1" offset="0%"></stop>
+            <stop stop-color="#264A60" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.776241429,0.434249835 L0.776241429,0.434249835 C0.776241429,0.257518719 0.919510306,0.114249842 1.09624142,0.114249842 L1.09624142,0.114249842 L6.45623908,0.114249842 C6.6329702,0.114249842 6.77623908,0.257518719 6.77623908,0.434249835 L6.77623908,0.434249835 L6.77623908,5.79424822 C6.77623908,5.97097933 6.6329702,6.11424821 6.45623908,6.11424821 L6.45623908,6.11424821 L1.09624142,6.11424821 C0.919510306,6.11424821 0.776241429,5.97097933 0.776241429,5.79424822 L0.776241429,0.434249835 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scanner">
+            <g id="图标形状" transform="translate(1.666667, 1.000000)">
+                <rect id="Rectangle" fill="#078FE2" x="0.333333333" y="0" width="12" height="14" rx="1"></rect>
+                <rect id="Rectangle-4" fill="#20273A" x="1.33333333" y="1" width="10" height="12" rx="1"></rect>
+                <rect id="Rectangle-4" fill="url(#linearGradient-1)" x="2.33333333" y="2" width="8" height="10" rx="0.5"></rect>
+                <g id="左右" transform="translate(2.333333, 3.000000)">
+                    <g id="右边" transform="translate(0.208022, 0.000000)">
+                        <g id="右" transform="translate(4.068221, 3.614251) scale(-1, -1) translate(-4.068221, -3.614251) translate(0.568221, 0.114251)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <g id="Rectangle-1-copy-2">
+                                <use fill-opacity="0.15" fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: multiply;" xlink:href="#path-2"></use>
+                                <path stroke="#FFFFFF" stroke-width="0.5" d="M1.02624143,0.434249835 L1.02624143,5.79424822 C1.02624143,5.83290814 1.05758149,5.86424821 1.09624142,5.86424821 L6.45623908,5.86424821 C6.49489901,5.86424821 6.52623908,5.83290814 6.52623908,5.79424822 L6.52623908,0.434249835 C6.52623908,0.395589906 6.49489901,0.364249842 6.45623908,0.364249842 L1.09624142,0.364249842 C1.05758149,0.364249842 1.02624143,0.395589906 1.02624143,0.434249835 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle-12" fill="#32B1FF" x="8" y="4" width="1" height="8"></rect>
+        </g>
+    </g>
+</svg>
