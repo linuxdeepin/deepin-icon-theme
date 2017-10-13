@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>chmsee-icon copy 2</title>
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>chmsee-icon</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="100%" y1="34.6886069%" x2="2.736274%" y2="67.0537225%" id="linearGradient-1">
@@ -24,7 +24,7 @@
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="chmsee-icon-copy-2">
+        <g id="chmsee-icon">
             <g id="Group" transform="translate(0.275362, 1.884058)">
                 <g id="Group-17" transform="translate(-0.000000, 0.000000)">
                     <rect id="Rectangle-11" fill="#E35B00" x="1.72463768" y="0.115942029" width="11" height="12" rx="0.579710145"></rect>
@@ -33,7 +33,7 @@
                         <g id="Group-9" transform="translate(0.000000, -0.000000)">
                             <path d="M1.72463768,0.913043478 L10.6086957,0.913043478 L10.6086957,0.913043478 C10.6727287,0.913043478 10.7246377,0.964952493 10.7246377,1.02898551 L10.7246377,10.7971014 L10.7246377,10.7971014 C10.7246377,10.8611345 10.6727287,10.9130435 10.6086957,10.9130435 L1.72463768,10.9130435 L1.72463768,0.913043478 Z" id="Rectangle-17" fill="#FFFFFF"></path>
                             <rect id="Rectangle-2" fill="#FFFFFF" x="0.724637681" y="0.913043478" width="1" height="10"></rect>
-                            <rect id="Rectangle-2-Copy" fill="#666666" x="1.72463768" y="0.913043478" width="1" height="10"></rect>
+                            <rect id="Rectangle-2-Copy" fill="#CDCDCD" x="1.72463768" y="0.913043478" width="1" height="10"></rect>
                         </g>
                     </g>
                     <g id="Group-16" transform="translate(4.685688, 8.449275)">
