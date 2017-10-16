@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>list_dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="list_dark" stroke="#ffffff">
+            <g id="list" transform="translate(6.000000, 9.000000)">
+                <g id="Group-11" transform="translate(10.500000, 6.500000) rotate(-90.000000) translate(-10.500000, -6.500000) translate(4.500000, -0.500000)">
+                    <path d="M6,0 L6,14" id="line285-0"></path>
+                    <path d="M11,0 L11,14" id="line287-5"></path>
+                    <path d="M1,0 L1,14" id="line291-6"></path>
+                </g>
+                <g id="Group-11" transform="translate(1.000000, 6.500000) rotate(-90.000000) translate(-1.000000, -6.500000) translate(-5.000000, 6.000000)">
+                    <path d="M6,0 L6,1" id="line285-0"></path>
+                    <path d="M11,0 L11,1" id="line287-5"></path>
+                    <path d="M1,0 L1,1" id="line291-6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

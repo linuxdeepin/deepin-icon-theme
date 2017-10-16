@@ -27,7 +27,7 @@ export default {
       if (!event.dataTransfer.files.length) {
         return false
       }
-      this.$store.commit('setSvgList', Array.from(event.dataTransfer.files))
+      this.$store.commit('setSvgList', Array.from(event.dataTransfer.files).map(x => x.path))
       this.$router.push('/check')
       this.$store.dispatch('checkSvg')
     }))
@@ -36,8 +36,15 @@ export default {
 </script>
 
 <style>
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .3s
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active in below version 2.1.8 */ {
+  opacity: 0
+}
 
 body {
+  font-family: "Noto Sans CJK SC";
   width: 100vw;
   height: 100vh;
   margin: 0;

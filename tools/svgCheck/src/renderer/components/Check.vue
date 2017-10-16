@@ -1,9 +1,9 @@
 <template>
   <div>
-    <img v-show="list.length" class="state-img" :src="currentState ? '/src/renderer/assets/ok.svg': '/src/renderer/assets/error.svg'" alt="">
+    <img v-show="list.length" class="state-img" :src="currentState ? 'static/ok.svg': 'static/error.svg'" alt="">
     <div class="canvas-container">
-      <canvas id="dtkCanvas" width="200" height="200"></canvas>
-      <canvas id="jsCanvas" width="200" height="200"></canvas>
+      <canvas style="display:none" id="dtkCanvas" width="200" height="200"></canvas>
+      <canvas  id="jsCanvas" width="200" height="200"></canvas>
     </div>
     <p class="tip1">正在检查，请稍候...</p>
     <p class="tip2">已检查 {{resultList.length}}/{{list.length}} 个</p>
@@ -39,9 +39,10 @@ export default {
   object-fit: contain;
 }
 div.canvas-container{ 
-  width: 100%;
+  left: 210px;
+  /* width: 100%; */
   position: relative;
-   margin-left: 97px;
+  margin: 0 auto;
   top: 120px;
 }
 div.canvas-container > canvas {
@@ -50,14 +51,12 @@ div.canvas-container > canvas {
 p.tip1{
   position: relative;
   top: 156px;
-  font-family: SourceHanSansSC;
   font-size: 14px;
   text-align: center;
 }
 p.tip2{
   position: relative;
   top: 146px;
-  font-family: SourceHanSansSC;
   font-size: 12px;
   line-height: 1.67;
   text-align: center;
@@ -66,7 +65,6 @@ p.tip2{
 p.tip3 {
   position: relative;
   top: 140px;
-  font-family: SourceHanSansSC;
   font-size: 12px;
   line-height: 1.67;
   text-align: center;

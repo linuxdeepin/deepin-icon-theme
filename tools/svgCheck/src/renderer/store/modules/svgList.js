@@ -28,9 +28,8 @@ export default {
     async checkSvg ({commit, state}) {
       commit('initSvgList')
       let jsSvgData, dtkSvgData
-      let svgPathList = state.list.map(x => x.path)
       emptyDirSync(TMPDIR)
-      for (let svgPath of svgPathList) {
+      for (let svgPath of state.list) {
         let dtkPngPath
         try {
           dtkSvgData = await dtkSvgToPng(svgPath).then(function (_) {

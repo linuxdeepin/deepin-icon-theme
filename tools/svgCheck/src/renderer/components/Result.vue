@@ -1,12 +1,12 @@
 <template>
   <div>
-    <div class="result" v-show="!badSvgListLength"> <img class="result-success" src="/src/renderer/assets/success.svg" alt="">
+    <div class="result" v-show="!badSvgListLength"> <img class="result-success" src="../assets/success.svg" alt="">
       <p class="result-tip">恭喜您，没有发现有问题的svg文件</p>
       <div style="text-align:center">
         <button class="block-button" @click="$router.push('/')">完成</button>
       </div>
     </div>
-    <div class="result" v-show="!!badSvgListLength"> <img class="result-success" src="/src/renderer/assets/warning.svg" alt="">
+    <div class="result" v-show="!!badSvgListLength"> <img class="result-success" src="../assets/warning.svg" alt="">
       <p class="result-tip">发现 {{badSvgListLength}} 个有问题的svg文件</p>
       <div style="text-align:center">
         <button class="block-button" @click="$router.push('/ResultView')">查看</button>
@@ -32,7 +32,6 @@ export default {
 }
 
 .result-tip {
-  font-family: SourceHanSansSC;
   font-size: 14px;
   text-align: center;
   color: #000000;
