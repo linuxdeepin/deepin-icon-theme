@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>1:1_dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="1:1_dark" stroke="#FFFFFF">
+            <g id="1:1" transform="translate(6.000000, 6.000000)">
+                <rect id="Rectangle-178" transform="translate(9.000000, 9.000000) scale(-1, 1) translate(-9.000000, -9.000000) " x="0.5" y="0.5" width="17" height="17"></rect>
+                <path d="M5.5,5.5 L5.5,12.5" id="Line" stroke-linecap="square" transform="translate(5.500000, 9.000000) scale(-1, 1) translate(-5.500000, -9.000000) "></path>
+                <path d="M9,7.5 L9,7.5" id="Line" stroke-linecap="square" transform="translate(9.000000, 7.500000) scale(-1, 1) translate(-9.000000, -7.500000) "></path>
+                <path d="M9,10.5 L9,10.5" id="Line" stroke-linecap="square" transform="translate(9.000000, 10.500000) scale(-1, 1) translate(-9.000000, -10.500000) "></path>
+                <path d="M12.5,5.5 L12.5,12.5" id="Line" stroke-linecap="square" transform="translate(12.500000, 9.000000) scale(-1, 1) translate(-12.500000, -9.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

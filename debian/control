@@ -3,7 +3,7 @@ Section: x11
 Priority: optional
 Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Standards-Version: 3.9.5
-Build-Depends: debhelper (>= 9), gtk-update-icon-cache 
+Build-Depends: debhelper (>= 9), gtk-update-icon-cache, curl, npm, nodejs-legacy, libxtst-dev, libxss-dev, libnss3-dev, libgconf2-dev,libasound2-dev
 
 Package: deepin-icon-theme
 Architecture: all
@@ -11,3 +11,8 @@ Depends: flattr-icon-theme
 Conflicts: deepin-cursor-theme
 Description: Deepin Icons
  This package is DeepinIconTheme 
+
+Package: deepin-icon-theme-svgcheck
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: deepin icon svg check tool

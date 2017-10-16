@@ -2,3 +2,39 @@
 
 %:
 	dh $@
+
+ARCH = x64
+ifeq ($(DEB_BUILD_ARCH), amd64)
+	ARCH = x64
+	OUTDIR = linux-unpacked
+endif
+ifeq ($(DEB_BUILD_ARCH), i386)
+	ARCH = ia32
+	OUTDIR = linux-ia32-unpacked
+endif
+
+override_dh_auto_build:
+	dh_auto_build --
+	@echo "build svg check tool..."
+	-curl -o file --connect-timeout 5 https://www.google.com >/dev/null 2>&1
+	if [ ! -f file ];then \
+		cd tools/svgCheck && mkdir -p tmp-home/.config; \
+		HOME="tmp-home" npm config set registry https://registry.npm.taobao.org/; \
+		HOME="tmp-home" npm config set electron_mirror https://npm.taobao.org/mirrors/electron/; \
+		HOME="tmp-home" npm config set sass_binary_site https://npm.taobao.org/mirrors/node-sass/; \
+		HOME="tmp-home" npm config set phantomjs_cdnurl https://npm.taobao.org/mirrors/phantomjs; \
+		HOME="tmp-home" npm config set loglevel http; \
+		HOME="tmp-home" npm install; \
+		HOME="tmp-home" node .electron-vue/build.js ;\
+		HOME="tmp-home" ELECTRON_MIRROR="https://npm.taobao.org/mirrors/electron/" node_modules/.bin/electron-builder --linux --dir --$$(ARCH);\
+	else \
+		cd tools/svgCheck && mkdir -p tmp-home/.config; \
+		HOME="tmp-home" npm config set loglevel http; \
+		HOME="tmp-home" npm install; \
+		HOME="tmp-home" node .electron-vue/build.js ;\
+		HOME="tmp-home" node_modules/.bin/electron-builder --linux --dir --$$(ARCH);\
+	fi
+override_dh_auto_install:
+	dh_auto_install --
+	mkdir -p debian/tmp/usr/share/deepin-icon-theme-svgcheck
+	cp -ar tools/svgCheck/build/$(OUTDIR)/* debian/tmp/usr/share/deepin-icon-theme-svgcheck/

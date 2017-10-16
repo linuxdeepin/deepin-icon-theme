@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "author": "feng <2995207228@qq.com>",
   "description": "An electron-vue project",
-  "license": null,
+  "license": "LGPLv3.0",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
@@ -18,7 +18,7 @@
   },
   "build": {
     "productName": "svgcheck",
-    "appId": "org.simulatedgreg.electron-vue",
+    "appId": "svgcheck.xn--zq2aw6m.xyz",
     "directories": {
       "output": "build"
     },
@@ -51,9 +51,7 @@
     }
   },
   "dependencies": {
-    "eslint-plugin-html": "^3.2.2",
     "spectre.css": "^0.4.4",
-    "standard": "^10.0.3",
     "vue": "^2.3.3",
     "vue-electron": "^1.0.6",
     "vue-router": "^2.5.3",
@@ -61,6 +59,8 @@
     "vuex-router-sync": "^4.3.2"
   },
   "devDependencies": {
+    "standard": "^10.0.3",
+    "eslint-plugin-html": "^3.2.2",
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
     "babel-plugin-transform-runtime": "^6.23.0",

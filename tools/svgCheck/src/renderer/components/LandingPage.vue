@@ -1,7 +1,7 @@
 <template>
   <div> <img class="ai" src="../assets/ai.png" alt="">
     <p class="drop">拖拽svg文件到此进行检查</p>
-    <button class="select">选择文件</button>
+    <button class="select" @click="select">选择文件</button>
   </div>
 </template>
 
@@ -9,8 +9,25 @@
 // const fse = require('fs-extra')
 // const { TMPDIR } = require('./bin/conf')
 // const {curry} = require('lodash')
+const {dialog} = require('electron').remote
 
 export default {
+  methods: {
+    async select () {
+      let svgList = await dialog.showOpenDialog({
+        title: 'svgCheck',
+        properties: [
+          'multiSelections'
+        ],
+        filters: [
+          {name: 'Images', extensions: ['svg']}
+        ]
+      })
+      this.$store.commit('setSvgList', Array.from(svgList))
+      this.$router.push('/check')
+      this.$store.dispatch('checkSvg')
+    }
+  }
 }
 </script>
 
@@ -41,10 +58,10 @@ p.drop {
   line-height: 1.25;
   text-align: center;
   color: #6a6a6a;
-  font-family: SourceHanSansSC;
 }
 
 button.select {
+  cursor: pointer;
   position: absolute;
   left: 306px;
   bottom: 151px;
@@ -55,5 +72,8 @@ button.select {
   color: #0066ed;
   background: transparent;
   border: none;
+}
+button.select:focus {
+    outline-color: white;
 }
 </style>

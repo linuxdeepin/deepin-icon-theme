@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>zoom_in_dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="zoom_in_dark">
+            <g id="zoom" transform="translate(4.000000, 4.000000)">
+                <circle id="Oval" stroke="#FFFFFF" cx="8.5" cy="8.5" r="9"></circle>
+                <polygon id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero" points="8 9 3 9 3 8 8 8 8 3 9 3 9 8 14 8 14 9 9 9 9 14 8 14"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
