@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 9), gtk-update-icon-cache
 
 Package: deepin-icon-theme
 Architecture: all
-Depends: flattr-icon-theme
+Depends: papirus-icon-theme
 Conflicts: deepin-cursor-theme
 Description: Deepin Icons
  This package is DeepinIconTheme 
