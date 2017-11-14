@@ -38,7 +38,13 @@
             <stop stop-color="#53A0FD" offset="53.4501494%"></stop>
             <stop stop-color="#0064A2" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="49.21875%" y1="50.78125%" x2="1.94909232%" y2="98.0509077%" id="linearGradient-10">
+        <linearGradient x1="0%" y1="50%" x2="98.4927031%" y2="50%" id="linearGradient-10">
+            <stop stop-color="#3351DB" offset="0%"></stop>
+            <stop stop-color="#853492" offset="37.6497799%"></stop>
+            <stop stop-color="#864853" offset="78.8940895%"></stop>
+            <stop stop-color="#9B6019" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.21875%" y1="50.78125%" x2="1.94909232%" y2="98.0509077%" id="linearGradient-11">
             <stop stop-color="#FFF5E1" offset="0%"></stop>
             <stop stop-color="#FFFFFF" offset="100%"></stop>
         </linearGradient>
@@ -64,11 +70,11 @@
                 </g>
                 <g id="Group" mask="url(#mask-3)" fill-rule="nonzero">
                     <g transform="translate(4.000000, 2.000000)" id="Combined-Shape">
-                        <path d="M0,76 C0,77.048 0.753246753,78 2,78 L62.001998,78 C62.001998,78 63.9360639,78 64,76 L64,75 C63.9360639,77 62.001998,77 62.001998,77 L2,77 C0.753246753,77 0,76.048 0,75 L0,76 Z" fill="#000000" opacity="0.1"></path>
+                        <path d="M0,76 C0,77.048 0.753246753,78 2,78 L62.001998,78 C62.001998,78 63.9360639,78 64,76 L64,75 C63.9360639,77 62.001998,77 62.001998,77 L2,77 C0.753246753,77 0,76.048 0,75 L0,76 Z" fill-opacity="0.5" fill="url(#linearGradient-10)"></path>
                         <path d="M-3.55271368e-15,2 C-3.55271368e-15,0.84 0.753246753,0 2,0 L44.01998,0 L44.01998,1 L2,1 C0.753246753,1 -3.55271368e-15,1.84 -3.55271368e-15,3 L-3.55271368e-15,39.5 L-3.55271368e-15,2 Z" fill="#FFFFFF" opacity="0.196711754"></path>
                     </g>
                 </g>
-                <path d="M49.858,22.056 C48.754,22.056 48,21.104 48,20 L48,2 L68,22 L49.858,22.056 Z" id="path14363" fill="url(#linearGradient-10)" fill-rule="nonzero" mask="url(#mask-3)"></path>
+                <path d="M49.858,22.056 C48.754,22.056 48,21.104 48,20 L48,2 L68,22 L49.858,22.056 Z" id="path14363" fill="url(#linearGradient-11)" fill-rule="nonzero" mask="url(#mask-3)"></path>
             </g>
         </g>
     </g>
