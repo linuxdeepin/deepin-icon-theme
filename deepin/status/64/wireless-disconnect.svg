@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
     <title>wireless-disconnect</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="wireless-disconnect" stroke="#FFFFFF" stroke-width="3">
-            <path d="M50.5,25.5 C45.4176984,21.2749096 39.1257429,18.5 32,18.5 C24.9400604,18.5 18.5618292,21.3448187 13.5,25.5 C13.5,25.5 32,46.5 32,46.5 L50.5,25.5 Z" id="Oval-53"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wireless-disconnect" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M51.458915,24.3465347 C52.1088932,24.8868838 52.1842751,25.8573043 51.6255385,26.4915458 L33.1255385,47.4915458 C32.5283066,48.1694847 31.4716934,48.1694847 30.8744615,47.4915458 L12.3744615,26.4915458 C11.8133041,25.8545563 11.8921148,24.8792274 12.548267,24.3406017 C18.2434791,19.6654858 24.9792631,17 32,17 C39.1194469,17 45.7814796,19.6266894 51.458915,24.3465347 Z M32,20 C26.2003677,20 20.5807049,22.0454293 15.676189,25.7010845 C16.0461459,26.1210355 16.5994573,26.7491188 17.5161635,27.7897042 L30.2349135,42.2272042 C31.6469827,43.8300936 32.1968078,44.4542194 32.5425231,44.8466529 L48.33023,25.693798 C43.452195,22.0125052 37.8926115,20 32,20 Z" id="Oval-53"></path>
         </g>
     </g>
 </svg>
