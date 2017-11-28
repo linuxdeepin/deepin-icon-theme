@@ -1,3 +1,4 @@
-# 15.12.50
-    Redesign firefox icon
-    Include deepin-graphics-driver-manager icon 
+# 15.12.51
+    update some icons
+    add some deepin app family icons
+    add and fix several icons
