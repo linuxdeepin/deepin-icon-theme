@@ -1,8 +1,8 @@
 Source: deepin-icon-theme
 Section: x11
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@deepin.com>
-Standards-Version: 3.9.5
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Standards-Version: 3.9.8
 Build-Depends: debhelper (>= 9), gtk-update-icon-cache 
 
 Package: deepin-icon-theme
