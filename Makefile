@@ -2,7 +2,7 @@ PREFIX = /usr
 
 all: check
 
-check:
+check: check-same-icon
 	gtk-update-icon-cache deepin || exit 101
 	gtk-update-icon-cache Sea || exit 101
 	-rm -f deepin/icon-theme.cache
@@ -16,7 +16,7 @@ check-same-icon:
 prepare: check-name-unique check-same-icon
 	mkdir -p build
 
-build: prepare convert debian/links
+build: prepare convert
 
 convert:
 	mkdir -p build
@@ -25,7 +25,7 @@ convert:
 clean:
 	rm -rf build
 
-install: install-icons install-cursors 
+install: install-icons install-cursors hicolor-links
 	@echo "Fix icon files permission"
 	find $(DESTDIR)${PREFIX}/share/icons -type f -exec chmod 644 {} \;
 
@@ -39,3 +39,6 @@ install-cursors:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
 	cp -r deepin/cursors $(DESTDIR)$(PREFIX)/share/icons/deepin
 	install -m644 deepin/cursor.theme $(DESTDIR)$(PREFIX)/share/icons/deepin/cursor.theme
+
+hicolor-links:
+	./tools/hicolor.links deepin hicolor.list $(DESTDIR)
