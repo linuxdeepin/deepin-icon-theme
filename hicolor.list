@@ -28,7 +28,6 @@ status/audio-volume-high-symbolic-osd
 status/audio-volume-medium-symbolic-osd
 status/audio-volume-low-symbolic-osd
 status/audio-volume-muted-symbolic-osd
-status/display-brightness-symbolic
 status/capslock-enabled-symbolic
 status/capslock-disabled-symbolic
 status/numlock-enabled-symbolic
