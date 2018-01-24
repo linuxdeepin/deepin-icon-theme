@@ -4,11 +4,11 @@
 # 参数:
 #   from: deepin图标生成目录           (build/deepin)
 #   list: 需要安装到hicolor的图标列表  (hicolor.list)
-
 set -e
 
 FROM="$1"
 LIST="$2"
+DESTDIR="$3"
 ICON_DIR=/usr/share/icons
 
 
@@ -23,11 +23,12 @@ get_hicolor_icon()
     category="$1"
     size="$2"
     base="$3"
+	ext="$4"
 
     if [ "$size" = "scalable" ]; then
-        echo $ICON_DIR/hicolor/$size/$category/$base.svg
+        echo ${DESTDIR}/$ICON_DIR/hicolor/$size/$category/$base.$ext
     else
-        echo $ICON_DIR/hicolor/"$size"x"$size"/$category/$base.png
+        echo ${DESTDIR}/$ICON_DIR/hicolor/"$size"x"$size"/$category/$base.$ext
     fi
 )
 
@@ -36,19 +37,36 @@ get_deepin_icon()
     category="$1"
     size="$2"
     base="$3"
-
-    if [ "$size" = "scalable" ]; then
+    
+	if [ -f $FROM/$category/$size/$base.svg ];then
         echo $ICON_DIR/deepin/$category/$size/$base.svg
-    else
+	elif [ -f $FROM/$category/$size/$base.png ];then
         echo $ICON_DIR/deepin/$category/$size/$base.png
-    fi
+	else
+		echo 
+	fi
 )
+
+link_file()
+{
+	from="$1"
+	dest="$2"
+	dest_dir=`dirname $dest`
+	[ -d ${dest_dir} ] || mkdir -p ${dest_dir}
+	echo "create link $from to $dest"
+	ln -sf $from $dest
+}
 
 for i in `cat $LIST`; do
     category=`dirname $i`
     base=`basename $i`
 
     for s in $(get_sizes $category); do
-        echo $(get_deepin_icon $category $s $base) $(get_hicolor_icon $category $s $base)
+		deepin_icon=$(get_deepin_icon $category $s $base)
+		if [ -z ${deepin_icon} ];then continue; fi
+		icon_name=`basename ${deepin_icon}`
+		ext="${icon_name##*.}"
+		hicolor_icon=$(get_hicolor_icon $category $s $base $ext)
+		link_file ${deepin_icon} ${hicolor_icon}
     done
 done
