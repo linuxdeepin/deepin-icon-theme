@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>deepin-editor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="deepin-editor">
+            <polygon id="Rectangle-5" fill="#2662A9" points="2 1 14 1 14 15 2 15"></polygon>
+            <path d="M4,3 L4,1 L5,1 L5,3 L14,3 L14,4 L5,4 L5,7 L14,7 L14,8 L5,8 L5,11 L14,11 L14,12 L5,12 L5,15 L14,15 L2,15 L4,15 L4,12 L2,12 L2,11 L4,11 L4,8 L2,8 L2,7 L4,7 L4,4 L2,4 L2,3 L4,3 Z" id="Combined-Shape" fill-opacity="0.1" fill="#FFFFFF"></path>
+            <path d="M6.82879121,4.89358307 L6.82879121,3.36984238 L8.67800309,3.36984238 L8.67800309,4.89358307 L6.82879121,4.89358307 Z M6.82879121,5.89358307 L8.67800309,5.89358307 L8.67800309,11.519852 L8.65165381,11.6159018 L6.85583178,11.6159018 L6.82879121,11.519852 L6.82879121,5.89358307 Z M6.82879121,2.36984238 L6.82879121,0.981629684 C6.82879121,0.738536651 7.0274921,0.541470811 7.27260206,0.541470811 L8.23419224,0.541470811 C8.47930221,0.541470811 8.67800309,0.738536651 8.67800309,0.981629684 L8.67800309,2.36984238 L6.82879121,2.36984238 Z M7.13735837,12.6159018 L8.37732438,12.6159018 L8.24201583,13.1091356 L7.27621681,13.1091356 L7.13735837,12.6159018 Z M7.3794805,13.5832514 L8.14139205,13.5832514 L7.76536885,14.9653235 L7.3794805,13.5832514 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(7.753397, 7.753397) rotate(-315.000000) translate(-7.753397, -7.753397) "></path>
+        </g>
+    </g>
+</svg>
