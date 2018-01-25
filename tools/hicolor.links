@@ -26,9 +26,9 @@ get_hicolor_icon()
 	ext="$4"
 
     if [ "$size" = "scalable" ]; then
-        echo ${DESTDIR}/$ICON_DIR/hicolor/$size/$category/$base.$ext
+        echo ${DESTDIR}/$ICON_DIR/hicolor/$size/$category/$base-deepin.$ext
     else
-        echo ${DESTDIR}/$ICON_DIR/hicolor/"$size"x"$size"/$category/$base.$ext
+        echo ${DESTDIR}/$ICON_DIR/hicolor/"$size"x"$size"/$category/$base-deepin.$ext
     fi
 )
 
