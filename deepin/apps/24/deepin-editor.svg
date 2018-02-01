@@ -4,36 +4,24 @@
     <title>deepin-editor</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <polygon id="path-1" points="15.0346816 6.84321795 15.473176 6.40472355 17.2452459 8.1767935 16.8067515 8.61528789"></polygon>
-        <polygon id="path-2" points="14.409934 7.46796552 16.1820039 9.24003546 9.10168674 16.3203527 8.98439367 16.3871455 7.26348636 14.6662382 7.32961679 14.5482827"></polygon>
-        <path d="M16.0979235,5.77997599 L17.4282254,4.44967414 C17.6611775,4.216722 18.0404344,4.21828884 18.2753193,4.45317377 L19.1967957,5.37465014 C19.4316806,5.60953507 19.4332475,5.98879194 19.2002953,6.22174408 L17.8699935,7.55204593 L16.0979235,5.77997599 Z" id="path-3"></path>
-        <polygon id="path-4" points="6.81462185 15.4668689 8.18825946 16.8405065 7.16090227 17.425538 6.23539264 16.5000284"></polygon>
-        <polygon id="path-5" points="5.88001109 17.0533218 6.61013865 17.7834493 4.92538424 18.7475298"></polygon>
+        <linearGradient x1="45.5391037%" y1="0%" x2="78.4079932%" y2="98.3537946%" id="linearGradient-1">
+            <stop stop-color="#2EA3D5" offset="0%"></stop>
+            <stop stop-color="#6FAAF2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#3FA5DD" offset="0%"></stop>
+            <stop stop-color="#61A9EC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M21,17.7023947 C21,18.6309176 20.8049667,19.3716766 20.4148943,19.9246939 C20.0248219,20.4777112 19.4260356,20.836143 18.6185173,21 L18.6185173,19.996381 C18.9469993,19.8188693 19.1454542,19.5526057 19.213888,19.1975822 L18.6185173,19.1975822 L18.6185173,16.4529915 L21,16.4529915 L21,17.7023947 Z M17.8178464,17.7023947 C17.8178464,18.6309176 17.6228131,19.3716766 17.2327407,19.9246939 C16.8426683,20.4777112 16.2438819,20.836143 15.4363636,21 L15.4363636,19.996381 C15.6416649,19.887143 15.7853736,19.7779067 15.8674941,19.6686687 C15.9496146,19.5594307 16.0043608,19.4024034 16.0317343,19.1975822 L15.4363636,19.1975822 L15.4363636,16.4529915 L17.8178464,16.4529915 L17.8178464,17.7023947 Z M4,5.51519097 L4,3 L8.81960227,3 L8.81960227,8.52517361 L7.6147017,8.52517361 C7.75319672,9.23987626 8.15482622,9.7758952 8.81960227,10.1332465 L8.81960227,12.1536458 C7.18536115,11.8237831 5.97354798,11.1022191 5.18412642,9.98893229 C4.39470486,8.87564548 4,7.38441328 4,5.51519097 Z M10.4399858,5.51519097 L10.4399858,3 L15.2595881,3 L15.2595881,8.52517361 L14.0546875,8.52517361 C14.1100855,8.93750206 14.2208799,9.2536158 14.3870739,9.47352431 C14.5532679,9.69343281 14.844103,9.91333802 15.2595881,10.1332465 L15.2595881,12.1536458 C13.6253469,11.8237831 12.4135338,11.1022191 11.6241122,9.98893229 C10.8346907,8.87564548 10.4399858,7.38441328 10.4399858,5.51519097 Z" id="path-3"></path>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="deepin-editor">
             <image id="Bitmap" x="1" y="0" width="22" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAYCAYAAAD+vg1LAAAAAXNSR0IArs4c6QAAAFhJREFUSA1jZGBgYARiZigNpCgG/4Em/GUBEiBDxSg2DtWAV0xAPsjF1AaMIINpAkYNhgfraFCMBgU8BOCM0VQxGhTwEIAzRlMFSlCAalVqg/+gipQm1T8A0oYHNnWFeloAAAAASUVORK5CYII="></image>
-            <rect id="Rectangle-3" fill="#FFFFFF" x="2" y="1" width="20" height="22" rx="0.75"></rect>
-            <path d="M7,5 L7,2 L8,2 L8,5 L19,5 L19,6 L8,6 L8,9 L19,9 L19,10 L8,10 L8,13 L19,13 L19,14 L8,14 L8,17 L19,17 L19,18 L8,18 L8,22 L7,22 L7,18 L5,18 L5,17 L7,17 L7,14 L5,14 L5,13 L7,13 L7,10 L5,10 L5,9 L7,9 L7,6 L5,6 L5,5 L7,5 Z" id="Combined-Shape" fill-opacity="0.1" fill="#000000"></path>
-            <g id="Path" stroke-linecap="round" stroke-linejoin="round">
-                <use fill="#E9E9E9" fill-rule="evenodd" xlink:href="#path-1"></use>
-                <path stroke="#FFFFFF" stroke-width="1" d="M15.473176,7.11183034 L15.7417884,6.84321795 L15.6568473,6.75827695 L15.388235,6.75827695 L15.388235,7.02688933 L15.473176,7.11183034 Z M16.5381391,8.1767935 L16.6230801,8.2617345 L16.8916925,8.2617345 L16.8916925,7.99312212 L16.8067515,7.90818111 L16.5381391,8.1767935 Z M14.3275748,6.84321795 L15.473176,5.69761677 L17.9523527,8.1767935 L16.8067515,9.32239468 L14.3275748,6.84321795 Z"></path>
-            </g>
-            <g id="Path" stroke-linecap="round" stroke-linejoin="round">
-                <use fill="#FFA900" fill-rule="evenodd" xlink:href="#path-2"></use>
-                <path stroke="#FFFFFF" stroke-width="1" d="M14.409934,6.76085874 L16.8891107,9.24003546 L9.45524013,16.6739061 L9.34910882,16.7548435 L8.90046589,17.0103246 L6.64217056,14.7520292 L6.89348259,14.303769 L6.9760634,14.1947293 L14.409934,6.76085874 Z"></path>
-            </g>
-            <g id="Path" stroke-linecap="round" stroke-linejoin="round">
-                <use fill="#F876A6" fill-rule="evenodd" xlink:href="#path-3"></use>
-                <path stroke="#FFFFFF" stroke-width="1" d="M15.3908168,5.77997599 L17.074672,4.09612074 C17.5035432,3.66724953 18.1993766,3.67012426 18.6288727,4.09962038 L19.5503491,5.02109675 C19.9798452,5.45059287 19.9827199,6.14642626 19.5538487,6.57529747 L17.8699935,8.25915271 L15.3908168,5.77997599 Z"></path>
-            </g>
-            <g id="Path" stroke-linecap="round" stroke-linejoin="round">
-                <use fill="#FFAD9B" fill-rule="evenodd" xlink:href="#path-4"></use>
-                <path stroke="#FFFFFF" stroke-width="1" d="M6.70134347,14.6464837 L9.00541866,16.9505589 L7.07697449,18.048717 L5.61407684,16.5858193 L6.70134347,14.6464837 Z"></path>
-            </g>
-            <g id="Path" stroke-linecap="round" stroke-linejoin="round">
-                <use fill="#312F2F" fill-rule="evenodd" xlink:href="#path-5"></use>
-                <path stroke="#FFFFFF" stroke-width="1" d="M5.79398788,17.6744054 L5.99224932,17.8726668 L6.2514721,17.4126155 L5.79398788,17.6744054 Z M5.76777285,16.2339768 L7.42628941,17.8924933 L3.59929638,20.0824441 L5.76777285,16.2339768 Z"></path>
+            <rect id="Rectangle-3" fill="url(#linearGradient-1)" x="2" y="1" width="20" height="22" rx="0.75"></rect>
+            <path d="M7,5 L7,2 L8,2 L8,5 L19,5 L19,6 L8,6 L8,9 L19,9 L19,10 L8,10 L8,13 L19,13 L19,14 L8,14 L8,17 L19,17 L19,18 L8,18 L8,22 L7,22 L7,18 L5,18 L5,17 L7,17 L7,14 L5,14 L5,13 L7,13 L7,10 L5,10 L5,9 L7,9 L7,6 L5,6 L5,5 L7,5 Z" id="Combined-Shape" fill-opacity="0.1" fill="#FFFFFF"></path>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" xlink:href="#path-3"></use>
             </g>
         </g>
     </g>
