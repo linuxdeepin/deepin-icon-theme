@@ -1,16 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>application-x-ace</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="application-x-ace">
-            <image id="Bitmap" x="5.968" y="4" width="36" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAArCAYAAAAQVipNAAAABGdBTUEAA1teXP8meAAAAS5JREFUWAntmNsOgkAMRMFbvMT//08fTNAQnKnUwAsDctl9aJNBsGw5zC4ktCyKooQY/PV9+2OhTYM6Llny0J6xbwfVcsT0E46d2gQbjB2ydOUErQHDi78h3jAlZ8CB3CmMWSUqVB0FRSCGJP+eNms7CmpLIN6NhHKgWbc+cfAgVAqgrlNcu73lkgrIoXj9HlRKIIeiQz+o1ECEekGEsvdUDkAOxTd6mQsQoWzacgIylpyA7PHPCYjTVgSQ2TCwCYcGzLFUOBQOKQdUPtZQOKQcUPlYQ+GQckDlYw2FQ8oBlY81NNYh2YxUhRbIG4NPGQ8uCxT9t8QNAw2IX4uEOkN36AqxC7FlsPv7hB5QRSBvhbA17H0a+6zF8dpBVyi2jqnagbBvYFuB8HrdcLDmA609I3uLKTjDAAAAAElFTkSuQmCC"></image>
-            <path d="M39.000999,44 L9,44 C8.37662338,44 8,43.524 8,43 L8,6 C8,5.448 8.44855145,5 9,5 L30.00999,5 L40,15 L40,43 C39.9680328,44 39.000999,44 39.000999,44 Z" id="path14361" fill="#4D81CE"></path>
-            <path d="M15.999746,12.995 L17.999746,12.995 L17.999746,14.995 L15.999746,14.995 L15.999746,12.995 L15.999746,12.995 L15.999746,12.995 Z M18,14.995 L20,14.995 L20,16.995 L18,16.995 L18,14.995 L18,14.995 L18,14.995 Z M15.999746,16.995 L17.999746,16.995 L17.999746,18.995 L15.999746,18.995 L15.999746,16.995 L15.999746,16.995 L15.999746,16.995 Z M18,18.995 L20,18.995 L20,20.995 L18,20.995 L18,18.995 L18,18.995 L18,18.995 Z M15.999746,20.995 L17.999746,20.995 L17.999746,22.995 L15.999746,22.995 L15.999746,20.995 L15.999746,20.995 L15.999746,20.995 Z M18,22.995 L20,22.995 L20,24.995 L18,24.995 L18,22.995 L18,22.995 L18,22.995 Z M15.999746,24.995 L17.999746,24.995 L17.999746,26.995 L15.999746,26.995 L15.999746,24.995 L15.999746,24.995 L15.999746,24.995 Z M17.983873,26.995 L19.968,26.995 L19.968,28.995 L17.983873,28.995 L17.983873,26.995 L17.983873,26.995 Z M15.999746,28.995 L17.999746,28.995 L17.999746,30.995 L15.999746,30.995 L15.999746,28.995 L15.999746,28.995 Z M16,32 L20,32 L20,34 L16,34 L16,32 L16,32 Z M15.999746,7 L19.968,7 L19.968,12 L15.999746,12 L15.999746,7 L15.999746,7 Z M16.9918095,4.995 L18.9759365,4.995 L18.9759365,6.995 L16.9918095,6.995 L16.9918095,4.995 L16.9918095,4.995 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-            <path d="M30.929,15.028 C30.377,15.028 30,14.552 30,14 L30,5 L40,15 L30.929,15.028 Z" id="path14363" fill="#92B1E1"></path>
-            <path d="M23.5,34 L21,41 L22,41 L22.7000008,39 L25.2999992,39 L26,41 L27,41 L24.5386368,34 L23.5,34 L23.5,34 Z M23,38 L24,35 L25,38 L23,38 L23,38 Z M33,34 L33,39 L33,41 L37,41 L37,40 L34,40 L34,37.9999998 L35.9999998,37.9999998 L35.9999998,37 L34,37 L34,35.02 L36.9999998,35.02 L36.9999998,34 L33,34 L33,34 Z M29.7821877,34 C28.2112177,34 27,35.5921798 27,37.5 C27,39.4078202 28.2112177,41 29.7821877,41 C30.6277349,41 31.3978305,40.5306238 31.9161602,39.7522864 L31.0838327,39.1980022 C30.7406902,39.7132739 30.2702648,40 29.7821877,40 C28.8323228,40 28,38.9058883 28,37.5 C28,36.0941117 28.8323228,35 29.7821877,35 C30.2702663,35 30.740693,35.2867278 31.0838356,35.8020022 L31.9161644,35.2477199 C31.3978347,34.4693788 30.6277373,34 29.7821877,34 L29.7821877,34 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+    <defs>
+        <path d="M11.5,5.125 C11.5,4.50367966 12.0036797,4 12.625,4 L20.375,4 C20.9963203,4 21.5,4.50367966 21.5,5.125 L21.5,1.125 C21.5,0.503679656 22.0036797,1.14134695e-16 22.625,0 L31.375,0 C31.9963203,-1.21782134e-15 32.5,0.503679656 32.5,1.125 L32.5,37.875 C32.5,38.4963203 31.9963203,39 31.375,39 L22.625,39 C22.0036797,39 21.5,38.4963203 21.5,37.875 C21.5,38.4963203 20.9963203,39 20.375,39 L12.625,39 C12.0036797,39 11.5,38.4963203 11.5,37.875 C11.5,38.4963203 10.9963203,39 10.375,39 L1.48214286,39 C0.939720335,39 0.5,38.5069802 0.5,37.8988095 L0.5,3.10119048 C0.5,2.49301977 0.939720335,2 1.48214286,2 L10.375,2 C10.9963203,2 11.5,2.50367966 11.5,3.125 L11.5,5.125 Z" id="path-1"></path>
+        <filter x="-10.9%" y="-6.4%" width="121.9%" height="117.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="98.4747561%" y1="48.4747561%" x2="1.52524386%" y2="48.4747561%" id="linearGradient-3">
+            <stop stop-color="#C926EA" offset="0%"></stop>
+            <stop stop-color="#B505C3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="99.4549187%" y1="50.5450813%" x2="3.99781362%" y2="50.5450813%" id="linearGradient-4">
+            <stop stop-color="#628FFF" offset="0%"></stop>
+            <stop stop-color="#4084FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="6.53071043%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#6DBD00" offset="0%"></stop>
+            <stop stop-color="#8FBF12" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="application-x-ace" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(7.500000, 5.000000)">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill-opacity="0.1" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M32.5,1.125 L32.5,37.875 C32.5,38.4963203 31.9963203,39 31.375,39 L22.625,39 C22.0036797,39 21.5,38.4963203 21.5,37.875 L21.5,1.125 C21.5,0.503679656 22.0036797,1.14134695e-16 22.625,0 L31.375,0 C31.9963203,-1.14134695e-16 32.5,0.503679656 32.5,1.125 Z" id="Rectangle-43" fill="url(#linearGradient-3)"></path>
+            <path d="M21.5,5.125 L21.5,37.875 C21.5,38.4963203 20.9963203,39 20.375,39 L12.625,39 C12.0036797,39 11.5,38.4963203 11.5,37.875 L11.5,5.125 C11.5,4.50367966 12.0036797,4 12.625,4 L20.375,4 C20.9963203,4 21.5,4.50367966 21.5,5.125 Z" id="Rectangle-43" fill="url(#linearGradient-4)"></path>
+            <path d="M11.5,3.125 L11.5,37.875 C11.5,38.4963203 10.9963203,39 10.375,39 L1.5,39 C0.939720335,39 0.5,38.5069802 0.5,38 L0.5,3 C0.5,2.49301977 0.939720335,2 1.5,2 L10.375,2 C10.9963203,2 11.5,2.50367966 11.5,3.125 Z" id="Rectangle-43" fill="url(#linearGradient-5)"></path>
+            <path d="M13.5,21 L18.5,21 L18.5,18 L13.5,18 L13.5,17 L19.5,17 L19.5,22 L13.5,22 L13.5,21 Z M11.5,17 L11.5,22 L0.5,22 L0.5,17 L11.5,17 Z M21.5,17 L32.5,17 L32.5,22 L21.5,22 L21.5,17 Z" id="Combined-Shape" fill-opacity="0.5" fill="#FFF8F8"></path>
+            <path d="M12.25,15 L20.75,15 C21.1642136,15 21.5,15.3357864 21.5,15.75 L21.5,23.25 C21.5,23.6642136 21.1642136,24 20.75,24 L12.25,24 C11.8357864,24 11.5,23.6642136 11.5,23.25 L11.5,15.75 C11.5,15.3357864 11.8357864,15 12.25,15 Z M12.5,16 L12.5,23 L20.5,23 L20.5,16 L12.5,16 Z M12.5,19 L17.5,19 L17.5,20 L12.5,20 L12.5,19 Z" id="Combined-Shape" fill="#F4F4F4"></path>
         </g>
+        <path d="M18.5,32 L16,39 L17,39 L17.7000008,37 L20.2999992,37 L21,39 L22,39 L19.5386368,32 L18.5,32 L18.5,32 Z M18,36 L19,33 L20,36 L18,36 L18,36 Z M28,32 L28,37 L28,39 L32,39 L32,38 L29,38 L29,35.9999998 L30.9999998,35.9999998 L30.9999998,35 L29,35 L29,33.02 L31.9999998,33.02 L31.9999998,32 L28,32 L28,32 Z M24.7821877,32 C23.2112177,32 22,33.5921798 22,35.5 C22,37.4078202 23.2112177,39 24.7821877,39 C25.6277349,39 26.3978305,38.5306238 26.9161602,37.7522864 L26.0838327,37.1980022 C25.7406902,37.7132739 25.2702648,38 24.7821877,38 C23.8323228,38 23,36.9058883 23,35.5 C23,34.0941117 23.8323228,33 24.7821877,33 C25.2702663,33 25.740693,33.2867278 26.0838356,33.8020022 L26.9161644,33.2477199 C26.3978347,32.4693788 25.6277373,32 24.7821877,32 L24.7821877,32 Z" id="Combined-Shape" fill="#FFFFFF"></path>
     </g>
 </svg>
