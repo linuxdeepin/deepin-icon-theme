@@ -8,6 +8,7 @@ Build-Depends: debhelper (>= 9), gtk-update-icon-cache
 Package: deepin-icon-theme
 Architecture: all
 Depends: papirus-icon-theme
+Breaks: deepin-printer-assistant (<= 0.3.0-41)
 Conflicts: deepin-cursor-theme
 Description: Deepin Icons
  This package is DeepinIconTheme 
