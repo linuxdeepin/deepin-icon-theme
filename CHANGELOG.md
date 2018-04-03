@@ -1,6 +1,6 @@
 # 15.12.55
  redesigned compressed file icons
-
+ redesigned microsoft office document icons
 # 15.12.54
           fix battery symbolic iconns in status/64
 
