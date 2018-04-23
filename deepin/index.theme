@@ -62,7 +62,7 @@ Type=Fixed
 [apps/256]
 Size=256
 Context=Applications
-Type=fixed
+Type=Fixed
 
 
 [emblems/24]
@@ -239,9 +239,9 @@ MaxSize=512
 [status/64]
 Size=64
 Context=Status
-Type=fixed
+Type=Fixed
 
 [status/96]
 Size=96
 Context=Status
-Type=fixed
+Type=Fixed
