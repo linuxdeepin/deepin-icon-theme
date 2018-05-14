@@ -1,3 +1,9 @@
+<a name="15.12.57"></a>
+## 15.12.57 (2018-05-14)
+
+	Fix typo
+
+
 # 15.12.56
           redesigned compressed file icons
           redesigned microsoft office document icons
