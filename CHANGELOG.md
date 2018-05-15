@@ -1,7 +1,8 @@
-<a name="15.12.57"></a>
+﻿
 ## 15.12.57 (2018-05-14)
 
 	Fix typo
+          add iphone and android phone icons
 
 
 # 15.12.56
