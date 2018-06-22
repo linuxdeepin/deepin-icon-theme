@@ -1,9 +1,14 @@
-﻿<a name="15.12.57"></a>
-### 15.12.57 (2018-06-22)
+﻿<a name="15.12.58"></a>
+### 15.12.58 (2018-06-22)
 
 #### Bug Fixes
 
 *   remove dde.svg ([c80ce849](c80ce849))
+
+## 15.12.57 (2018-05-14)
+
+	Fix typo
+          add iphone and android phone icons
 
 # 15.12.56
           redesigned compressed file icons
