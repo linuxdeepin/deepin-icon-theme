@@ -1,4 +1,12 @@
-﻿<a name="15.12.58"></a>
+﻿<a name="15.12.59"></a>
+### 15.12.59 (2018-08-07)
+
+
+#### Bug Fixes
+
+*   make fctix tray icon seem larger on hiDPI ([583a687a](583a687a))
+
+<a name="15.12.58"></a>
 ### 15.12.58 (2018-06-22)
 
 #### Bug Fixes
