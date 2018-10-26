@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>user-trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="user-trash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="29" transform="translate(4.000000, 3.000000)" fill="#303030" fill-rule="nonzero">
+            <rect id="Rectangle" x="3" y="0" width="10" height="1"></rect>
+            <rect id="Rectangle-2" x="0" y="2" width="16" height="1"></rect>
+            <rect id="Rectangle-3" x="3" y="2" width="1" height="15"></rect>
+            <rect id="Rectangle-4" x="12" y="2" width="1" height="15"></rect>
+            <rect id="Rectangle-5" x="6" y="2" width="1" height="9"></rect>
+            <rect id="Rectangle-6" x="9" y="2" width="1" height="9"></rect>
+            <rect id="Rectangle-7" x="3" y="16" width="10" height="1"></rect>
+        </g>
+    </g>
+</svg>
