@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>antivignetting</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="49.9982143%" cy="50.0053571%" fx="49.9982143%" fy="50.0053571%" r="50%" id="radialGradient-1">
+            <stop stop-color="#5C616C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#5C616C" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="antivignetting" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(5.000000, 5.000000)" fill="url(#radialGradient-1)" fill-rule="nonzero" id="Shape">
+            <polygon points="0 0 0 14 14 14 14 0"></polygon>
+        </g>
+    </g>
+</svg>

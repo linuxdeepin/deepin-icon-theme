@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>filename-moodbar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filename-moodbar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-path" fill="#F27935" fill-rule="nonzero" x="8.00001" y="7.00002" width="2" height="10"></rect>
+        <rect id="Rectangle-path" fill="#04896A" fill-rule="nonzero" x="12.00001" y="7.00002" width="2" height="10"></rect>
+        <rect id="Rectangle-path" fill="#3A539B" fill-rule="nonzero" x="16.00001" y="7.00002" width="2" height="10"></rect>
+        <rect id="Rectangle-path" fill="#FDD285" fill-rule="nonzero" x="6.00001" y="7.00002" width="2" height="10"></rect>
+        <rect id="Rectangle-path" fill="#1D99F3" fill-rule="nonzero" x="14.00001" y="7.00002" width="2" height="10"></rect>
+        <rect id="Rectangle-path" fill="#7FCC74" fill-rule="nonzero" x="10.00001" y="7.00002" width="2" height="10"></rect>
+    </g>
+</svg>
