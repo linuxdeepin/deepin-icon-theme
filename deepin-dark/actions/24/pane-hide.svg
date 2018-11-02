@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>pane-hide</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="pane-hide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="259" transform="translate(6.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M1,0 L1,1.0019531 L10,1.0039062 L10,13.003906 L1,13.003906 L1,14 L11,14.003906 L11,0.0039062 L1,0 Z M4,4.0039062 L4,6.0039062 L0,6.0039062 L0,7.0039062 L4,7.0039062 L4,9.003906 L8,6.5039061 L4,4.0039062 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

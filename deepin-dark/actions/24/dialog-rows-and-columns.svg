@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>dialog-rows-and-columns</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dialog-rows-and-columns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,6 L6,9 L11,9 L11,6 L6,6 Z M5,5 L12,5 L12,10 L5,10 L5,5 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M14,6 L14,11 L18,11 L18,6 L14,6 Z M13,5 L19,5 L19,12 L13,12 L13,5 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M6,14 L6,18 L11,18 L11,14 L6,14 Z M5,13 L12,13 L12,19 L5,19 L5,13 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M14,14 L14,16 L18,16 L18,14 L14,14 Z M13,13 L19,13 L19,17 L13,17 L13,13 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

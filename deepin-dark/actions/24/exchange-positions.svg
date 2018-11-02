@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>exchange-positions</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="exchange-positions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="260" transform="translate(4.000000, 4.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M1,1 L1,6 L7,6 L7,1 L1,1 Z M0,0 L8,0 L8,7 L0,7 L0,0 Z" id="Path"></path>
+            <path d="M9,1.078125 L9,5 L10,5 L10,2.3554688 C12.393,3.2015187 13.9948,5.4619 14,8 L15,8 C14.997,4.5227 12.4416,1.574925 9,1.078125 Z" id="Path"></path>
+            <path d="M1,8 C1.003,11.4773 3.5584,14.425075 7,14.921875 L7,11 L6,11 L6,13.644531 C3.607,12.798481 2.0052,10.5381 2,8 L1,8 Z" id="Path"></path>
+            <path d="M9,10 L9,15 L15,15 L15,10 L9,10 Z M8,9 L16,9 L16,16 L8,16 L8,9 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

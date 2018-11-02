@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>insert-link</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="insert-link" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="37" transform="translate(4.000000, 4.000000)" fill="#DDDDDD">
+            <path d="M5,0 C2.23,0 0,2.007 0,4.5 C0,6.993 2.23,9 5,9 L7,9 L7,8.1 L5,8.1 C3.338,8.1 1,7.02138217 1,4.5 C1,1.97861783 3.338,0.9 5,0.9 L7,0.9 L7,0 L5,0 Z" id="Path"></path>
+            <path d="M9,0 L9,0.9 L11,0.9 C12.662,0.9 15,2.3415581 15,4.5 C15,6.6584419 12.662,8.1 11,8.1 L9,8.1 L9,9 L11,9 C13.77,9 16,6.993 16,4.5 C16,2.007 13.77,0 11,0 L9,0 Z" id="Path"></path>
+            <polygon id="Path" points="5 4 5 5 11 5 11 4"></polygon>
+            <polygon id="Path" points="5 12.011719 8 16.011719 11 12.011719"></polygon>
+        </g>
+    </g>
+</svg>

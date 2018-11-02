@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>distribute-unclump</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="distribute-unclump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M5,6.0097656 L5,18.009766 L7,18.009766 L7,6.0097656 L5,6.0097656 Z M4,5.0097656 L8,5.0097656 L8,19.009766 L4,19.009766 L4,5.0097656 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M15,6.0097656 L15,8.0097656 L18,8.0097656 L18,6.0097656 L15,6.0097656 Z M14,5.0097656 L19,5.0097656 L19,9.0097656 L14,9.0097656 L14,5.0097656 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="9 6.0097656 9 7.0097656 13 7.0097656 13 6.0097656"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="16 10.0097656 16 14.009766 17 14.009766 17 10.0097656"></polygon>
+        <path d="M15,18.009766 L18,18.009766 L18,16.009766 L15,16.009766 L15,18.009766 Z M14,15.009766 L19,15.009766 L19,19.009766 L14,19.009766 L14,15.009766 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="9 17.009766 9 18.009766 13 18.009766 13 17.009766"></polygon>
+    </g>
+</svg>

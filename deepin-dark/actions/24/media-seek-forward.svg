@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>media-seek-forward</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="media-seek-forward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="72" transform="translate(5.000000, 8.000000)" fill="#DDDDDD">
+            <path d="M1,1.73897673 L1,6.27682032 L4.97850512,4.00338882 C4.30407802,3.62069404 3.63618393,3.2413118 3.00533729,2.88244777 L2.98203996,2.86919457 C2.21125344,2.43070703 1.54191654,2.04908737 1,1.73897673 Z M-9.41467499e-14,0.75 L-9.41467499e-14,9.9475983e-14 L0.791855354,0.466651662 C4.93061845,2.82221722 7,4 7,4 L-9.41467499e-14,8 L-9.41467499e-14,0.75 Z" id="Path"></path>
+            <path d="M8,1.72317968 L8,6.27682032 L11.9844356,4 L8,1.72317968 Z M7,8 L7,0 L14,4 L7,8 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

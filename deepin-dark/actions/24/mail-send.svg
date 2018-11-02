@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mail-send</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mail-send" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5" transform="translate(5.000000, 5.000000)" fill="#DDDDDD">
+            <path d="M0,0.0039062 L14,7.0039062 L0,14.003906 L0,8.0039062 L9,7.0039062 L0,6.0039062 L0,0.0039062 Z M9.98235092,6.13568983 L0.993091275,1.65450447 L0.993091275,5.17431978 L9.98235092,6.13568983 Z M9.97372103,7.94842151 L1.01879927,8.92541621 L1.01879927,12.379281 L9.97372103,7.94842151 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

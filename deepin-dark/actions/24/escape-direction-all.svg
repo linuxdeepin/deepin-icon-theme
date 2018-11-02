@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>escape-direction-all</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="escape-direction-all" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,6 L6,18 L18,18 L18,6 L6,6 Z M5,5 L19,5 L19,19 L5,19 L5,5 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M8,8 L8,10 L9.7747529,10 C9.8457783,9.92095265 9.92095265,9.8457783 10,9.7747529 L10,8 L8,8 Z M7,7 L11,7 L11,10.2773 C10.6994,10.4521 10.4521,10.6994 10.2773,11 L7,11 L7,7 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M14,9.7747529 C14.0790474,9.8457783 14.1542217,9.92095265 14.2252471,10 L16,10 L16,8 L14,8 L14,9.7747529 Z M13,7 L17,7 L17,11 L13.7227,11 C13.5479,10.6994 13.3006,10.4521 13,10.2773 L13,7 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M8,16 L10,16 L10,14.2252471 C9.92095265,14.1542217 9.8457783,14.0790474 9.7747529,14 L8,14 L8,16 Z M7,13 L10.2773,13 C10.4521,13.3006 10.6994,13.5479 11,13.7227 L11,17 L7,17 L7,13 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M14,14.2252471 L14,16 L16,16 L16,14 L14.2252471,14 C14.1542217,14.0790474 14.0790474,14.1542217 14,14.2252471 Z M13.7227,13 L17,13 L17,17 L13,17 L13,13.7227 C13.3006,13.5479 13.5479,13.3006 13.7227,13 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

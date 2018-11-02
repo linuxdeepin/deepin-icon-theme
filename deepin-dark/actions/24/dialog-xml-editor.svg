@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>dialog-xml-editor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dialog-xml-editor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="210" transform="translate(4.000000, 4.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M9.5,0 L5.5,15.754 L6.5,16 L10.5,0.246 L9.5,0 Z M4.2539,3 L0.2793,7.6445 L0,8 L0.2793,8.3555 L4.2539,13 L5,12.291 L1.3359,8 L5,3.709 L4.2539,3 Z M11.746,3 L11,3.709 L14.664,8 L11,12.291 L11.746,13 L15.721,8.3555 L16,8 L15.721,7.6445 L11.746,3 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

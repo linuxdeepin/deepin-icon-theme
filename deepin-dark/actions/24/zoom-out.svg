@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>zoom-out</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="zoom-out" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="152" transform="translate(6.000000, 6.000000)" fill="#DDDDDD">
+            <path d="M0.916666667,0 L10.0833333,0 C10.5911667,0 11,0.408833333 11,0.916666667 L11,10.0833333 C11,10.5911667 10.5911667,11 10.0833333,11 L0.916666667,11 C0.408833333,11 0,10.5911667 0,10.0833333 L0,0.916666667 C0,0.408833333 0.408833333,0 0.916666667,0 Z M0.916666667,0.916666667 L0.916666667,10.0833333 L10.0833333,10.0833333 L10.0833333,0.916666667 L0.916666667,0.916666667 Z" id="Combined-Shape"></path>
+            <polygon id="Path" points="3 5 8 5 8 6 3 6"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>insert-text</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="insert-text" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.3007812,5 L9.4433594,5 L12.4609375,13 L11.2434149,13 L10.635993,11.0016304 L7.1769408,11.0016304 L6.569519,13 L5.4433594,13 L8.3007812,5 Z M7.56875679,9.99417485 L10.3068798,9.99417485 L8.8985346,6.33410732 L7.56875679,9.99417485 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M14,8 L16.5,8 C17.3401,8 18,8.68283 18,9.5 L18,12.5 C18,12.5 18.008,12.531225 18,12.578125 L18,13 L14.5,13 C14.05,13 13.650625,12.804625 13.390625,12.515625 C13.134465,12.226375 13.003,11.86031 13,11.5 C12.9968,11.13971 13.1178,10.776765 13.375,10.484375 C13.6322,10.191975 14.04036,10 14.5,10 L17,10 L17,9.5 C17,9.30707 16.71408,9 16.5,9 L14,9 L14,8 Z M14.5,11 C14.2238576,11 14,11.2238576 14,11.5 C14,11.7761424 14.2238576,12 14.5,12 L17,12 L17,11 L14.5,11 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="9 14.996094 12 18.996094 15 14.996094"></polygon>
+    </g>
+</svg>

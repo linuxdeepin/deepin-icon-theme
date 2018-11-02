@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mail-mark-junk</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mail-mark-junk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="39" transform="translate(5.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M4.30454091,1 L1.00640796,4.2961969 L1.0019531,8.69741228 L4.29815,11.9955452 L8.69936529,12.0000001 L11.9974982,8.70380319 L12.0019531,4.30258781 L8.7057562,1.00445486 L4.30454091,1 Z M3.91936384,0 L9.08454236,0 L9.37472093,0.261160716 L12.7407924,3.62723217 L13.0019531,3.91741074 L13.0019531,9.08258935 L12.7407924,9.37276792 L9.37472093,12.7388394 L9.08454236,13.0000001 L3.91936384,13.0000001 L3.62918527,12.7388394 L0.263113816,9.37276792 L0.0019531,9.08258935 L0.0019531,3.91741074 L0.263113816,3.62723217 L3.62918527,0.261160716 L3.91936384,0 Z" id="Path"></path>
+            <polygon id="Path" points="6.0019531 3 7.0019531 3 7.0019531 6 6.7519531 8 6.2832031 8 6.0019531 6"></polygon>
+            <path d="M6.5,9 C7.052288,9 7.5,9.447712 7.5,10 C7.5,10.552288 7.052288,11 6.5,11 C5.947712,11 5.5,10.552288 5.5,10 C5.5,9.447712 5.947712,9 6.5,9 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

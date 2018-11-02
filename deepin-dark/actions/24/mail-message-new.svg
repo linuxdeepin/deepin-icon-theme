@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mail-message-new</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mail-message-new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="68" transform="translate(4.000000, 6.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M2,0 L13,0 C14.16375,0 15,0.817666667 15,2 L15,9 C15,10.1823333 14.16375,11 13,11 L2,11 C0.83625,11 0,10.1823333 0,9 L0,2 C0,0.817666667 0.83625,0 2,0 Z M2,1 C1.44771525,1 1,1.44771525 1,2 L1,9 C1,9.55228475 1.44771525,10 2,10 L13,10 C13.5522847,10 14,9.55228475 14,9 L14,2 C14,1.44771525 13.5522847,1 13,1 L2,1 Z" id="Combined-Shape"></path>
+            <polygon id="Path" points="7 3 8 3 8 5 10 5 10 6 8 6 8 8 7 8 7 6 5 6 5 5 7 5"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>distribute-vertical-page</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="distribute-vertical-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="223" transform="translate(5.000000, 4.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M1,1.98046875 L1,13.980469 L10.5857864,13.980469 L13,11.5662554 L13,1.98046875 L1,1.98046875 Z M0,0.98046875 L14,0.98046875 L14,11.980469 L11,14.980469 L0,14.980469 L0,0.98046875 Z" id="Path"></path>
+            <path d="M4,4.9804688 L4,5.9804688 L10,5.9804688 L10,4.9804688 L4,4.9804688 Z M3,3.9804688 L11,3.9804688 L11,6.9804688 L3,6.9804688 L3,3.9804688 Z" id="Path"></path>
+            <path d="M4,9.9804688 L4,10.980469 L10,10.980469 L10,9.9804688 L4,9.9804688 Z M3,8.9804688 L11,8.9804688 L11,11.980469 L3,11.980469 L3,8.9804688 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

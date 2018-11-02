@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>transform-rotate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="transform-rotate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14,18 L18,18 L18,14 L13,14 L13,16 L11,16 L11,18 L14,18 Z M5,5 L11,5 L11,8 L13,8 C14.662,8 16,9.338 16,11 L16,13 L19,13 L19,19 L10,19 L10,15 L12,15 L12,13 L15,13 L15,11 C15,9.89199 14.108,9 13,9 L11,9 L11,14 L5,14 L5,5 Z M6,6 L6,13 L10,13 L10,6 L6,6 Z" id="Combined-Shape" fill="#DDDDDD"></path>
+    </g>
+</svg>

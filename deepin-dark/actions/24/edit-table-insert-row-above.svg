@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-table-insert-row-above</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="edit-table-insert-row-above" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(5.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <g id="302">
+                <path d="M8,0 L8,1 L6,1 L6,4 L8,4 L8,5 L6,5 L6,9 L8,9 L8,10 L6,10 L6,13 L8,13 L8,14 L0,14 L0,0 L8,0 Z M1,1 L1,4 L5,4 L5,1 L1,1 Z M1,10 L1,13 L5,13 L5,10 L1,10 Z M1,5 L1,9 L5,9 L5,5 L1,5 Z" id="Combined-Shape"></path>
+                <rect id="Rectangle" transform="translate(3.000000, 4.500000) scale(-1, 1) translate(-3.000000, -4.500000) " x="1" y="4" width="4" height="1"></rect>
+                <rect id="Rectangle-Copy" transform="translate(3.000000, 9.500000) scale(-1, 1) translate(-3.000000, -9.500000) " x="1" y="9" width="4" height="1"></rect>
+                <polygon id="Path" transform="translate(11.500000, 4.500000) scale(-1, 1) translate(-11.500000, -4.500000) " points="9 1 9 8 10.7188 8 10 7.2812 10 4.7188 10.2812 5 11.2812 6 13 7.7188 13 8 14 8 14 1 13 1 13 2.2812 12.7188 2 11.7188 1 10.2812 1 11.2812 2 13 3.7188 13 6.2812 12.7188 6 11.7188 5 10 3.2812 10 1"></polygon>
+                <polygon id="Path" transform="translate(12.000000, 11.000000) scale(-1, 1) translate(-12.000000, -11.000000) " points="14 9 10 11 14 13"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>filename-space-amarok</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filename-space-amarok" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,12 L8,12 L8,11 L7,11 L7,13 L8,13 L16,13 L17,13 L17,11 L16,11 L16,12 Z M7,10 L8,10 C8.55226188,10.0000552 8.99994478,10.4477381 9,11 L15,11 C15.0000552,10.4477381 15.4477381,10.0000552 16,10 L17,10 C17.5522619,10.0000552 17.9999448,10.4477381 18,11 L18,13 C17.9999448,13.5522619 17.5522619,13.9999448 17,14 L7,14 C6.44773812,13.9999448 6.00005522,13.5522619 6,13 L6,11 C6.00005522,10.4477381 6.44773812,10.0000552 7,10 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

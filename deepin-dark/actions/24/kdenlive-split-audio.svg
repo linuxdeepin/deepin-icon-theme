@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>kdenlive-split-audio</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="kdenlive-split-audio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16.1504042,5.02613397 L4.99511094,7.08253274 C4.99450704,7.0964097 4.99458618,7.11044493 4.99547616,7.12269052 L5.30545358,9 L6.8114102,9 L8.18525025,6.5050664 L11.1606525,9 L12.4794935,9 L13.6313817,7.36598626 L15.8569765,9 L16.8164823,9 L16.1504042,5.02613397 Z M8.4746094,8.0527344 L7.4023438,10 L4.4570312,10 L4.0058594,7.2675781 C4.0058594,7.2675781 3.84132687,6.2800287 4.7792969,6.1054688 L16.03125,4.03125 C16.03125,4.03125 16.089288,4.000895 16.183594,4.00195313 C16.455144,3.99927313 17.010726,4.10714938 17.134766,4.84960938 L17.998047,10 L15.529297,10 L14.6675525,9.36731414 L13.861328,8.7753906 L13.2961543,9.57711908 L12.9980469,10 L10.796875,10 L8.4746094,8.0527344 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="4 11 4 12 5 12 5 11"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="6 11 6 12 7 12 7 11"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="8 11 8 12 9 12 9 11"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="10 11 10 12 11 12 11 11"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="12 11 12 12 13 12 13 11"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="14 11 14 12 15 12 15 11"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="16 11 16 12 17 12 17 11"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="18 11 18 12 19 12 19 11"></polygon>
+        <path d="M10,14 L5.0019531,14 L5.0019531,15 L7.21962903,15 L10,17.6595982 L10,14 Z M4.0019531,13 L11,13 L11,20 L6.8183594,16 L4.0019531,16 L4.0019531,13 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M13,13 L13,16 C14.0699998,15.42 14.699219,14.3 14.699219,13 L13,13 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M16.910156,13 C16.910156,15.57 15.3199998,17.76 13,18.5 L13,20 C16.1499998,19.22 18.410156,16.4 18.410156,13 L16.910156,13 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

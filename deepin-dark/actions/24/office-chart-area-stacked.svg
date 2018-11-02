@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>office-chart-area-stacked</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="office-chart-area-stacked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="11.5996094 13 9.5996094 15 7.0058594 15 7.0058594 16 10.0058594 16 10.0058594 15.992188 10.0136719 16 12.0136719 14 13.6054688 14 15.605469 16 18.005859 16 18.005859 15 16.019531 15 14.019531 13 12.6054688 13"></polygon>
+        <polygon id="Shape" fill="#BBBBBB" fill-rule="nonzero" points="17.46 7.67 15.14 10.001 15.136 9.997 15.13 10.001 13.007 7.878 8.884 12.001 7.009 12.001 7.009 17.001 18.009 17.001 18.009 8.223"></polygon>
+        <path d="M6,6 L6,8.9960938 L5.0078125,8.9960938 L5.0078125,9.0058594 L6,9.0058594 L6,18 L18,18 L18,17 L7,17 L7,9.0058594 L11.46875,9.0058594 L8.46875,12.0058594 L7.0078125,12.0058594 L7.0078125,13.0058594 L8.8828125,13.0058594 L13.0058594,8.8828125 L15.128906,11.0058594 L15.134766,11.0019531 L15.138672,11.0058594 L17.966797,8.1777344 C17.969797,8.1827344 17.259766,7.4707031 17.259766,7.4707031 L15.134766,9.5957031 L13.0078125,7.4707031 L13.0058594,7.4726562 L13.0039062,7.4707031 L11.4765625,8.9960938 L7,8.9960938 L7,6 L6,6 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

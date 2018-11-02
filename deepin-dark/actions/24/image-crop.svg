@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>image-crop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="image-crop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7,4 L7,5 L8,5 L8,4 L7,4 Z M4,6 L4,7 L16,7 L16,19 L17,19 L17,8 L17,7.0039062 C17,7.0039062 17,6.0039062 16,6.0039062 L4,6 Z M7,9 L7,15.003906 C7,16.003906 8,16.003906 8,16.003906 L9.5,16.003906 L14,16 L14,15 L8,15 L8,9 L7,9 Z M18,15 L18,16 L19,16 L19,15 L18,15 Z" id="Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

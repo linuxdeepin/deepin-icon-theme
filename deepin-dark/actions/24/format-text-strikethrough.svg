@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>format-text-strikethrough</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="format-text-strikethrough" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,7 L8,8 L14,8 C14.9826938,8 16.0311029,9.02803147 16.0311029,10 L17,10 C17,8.3657 15.6802,7 14,7 L8,7 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="5 11 5 12 19 12 19 11"></polygon>
+        <path d="M7,13 C7.006,13.72062 7.26893,14.45275 7.78125,15.03125 C8.29357,15.60979 9.0917,16 10,16 L17,16 L17,15.15625 C17.0156,15.0625 17,15 17,15 L17,13 L16,13 L16,15 L10,15 C9.60213,15 8.85137739,14.5170609 8.69953739,14.3456009 C8.54769739,14.1741409 8.00248,13.27938 8,13 L7,13 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

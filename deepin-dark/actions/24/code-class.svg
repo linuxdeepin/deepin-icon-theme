@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>code-class</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="code-class" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,5 L14,5 L14,7 L17,7 L17,14 L19,14 L19,19 L13,19 L13,14 L16,14 L16,8 L14,8 L14,11 L8,11 L8,13 L11,13 L11,19 L5,19 L5,13 L7,13 L7,11 L6,11 L6,5 Z M7,6 L7,10 L13,10 L13,6 L7,6 Z M6,14 L6,18 L10,18 L10,14 L6,14 Z M14,15 L14,18 L18,18 L18,15 L14,15 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

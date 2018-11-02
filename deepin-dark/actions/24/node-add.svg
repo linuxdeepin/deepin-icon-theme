@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>node-add</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="node-add" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="11 4 11 7 8 7 8 8 11 8 11 11 12 11 12 8 15 8 15 7 12 7 12 4"></polygon>
+        <path d="M14,18 L14,13 L9,13 L9,18 L14,18 Z M8,12 L15,12 L15,15 L18,15 C18.5165302,15 18.8498636,15.3333333 19,16 L15,16 L15,19 L8,19 L8,16 L4,16 C4.15013644,15.3333333 4.48346978,15 5,15 L8,15 L8,12 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

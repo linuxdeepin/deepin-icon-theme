@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>node-delete</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="node-delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="7.9980469 6 7.9980469 7 15.994141 7 15.994141 6"></polygon>
+        <path d="M9,11 L15,11 L15,14 L19.492188,14 C20.158857,14 20.158857,15 19.492188,15 L15,15 L15,18 L9,18 L9,15 L4.58789062,15 C3.92122062,15 3.92122062,14 4.58789062,14 L9,14 L9,11 Z M10,12 L10,17 L14,17 L14,12 L10,12 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

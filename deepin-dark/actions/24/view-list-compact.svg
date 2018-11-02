@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>view-list-compact</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="view-list-compact" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="117" transform="translate(6.000000, 8.000000)" fill="#DDDDDD">
+            <polygon id="Path" points="0 0.0039062 0 1.0039062 1 1.0039062 1 0.0039062"></polygon>
+            <polygon id="Path" points="2 0.0039062 2 1.0039062 11 1.0039062 11 0.0039062"></polygon>
+            <polygon id="Path" points="0 3.0039062 0 4.0039062 1 4.0039062 1 3.0039062"></polygon>
+            <polygon id="Path" points="2 3.0039062 2 4.0039062 11 4.0039062 11 3.0039062"></polygon>
+            <polygon id="Path" points="0 6.003906 0 7.003906 1 7.003906 1 6.003906"></polygon>
+            <polygon id="Path" points="2 6.003906 2 7.003906 11 7.003906 11 6.003906"></polygon>
+        </g>
+    </g>
+</svg>

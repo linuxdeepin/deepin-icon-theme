@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>dashboard-show</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dashboard-show" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7,6 C6.44428475,6 6,6.44428475 6,7 L6,17 C6,17.5557153 6.44428475,18 7,18 L17,18 C17.5557153,18 18,17.5557153 18,17 L18,7 C18,6.44428475 17.5557153,6 17,6 L7,6 Z M7,5 L17,5 C18.108,5 19,5.892 19,7 L19,17 C19,18.108 18.108,19 17,19 L7,19 C5.892,19 5,18.108 5,17 L5,7 C5,5.892 5.892,5 7,5 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="8 16 16 16 16 17 8 17"></polygon>
+    </g>
+</svg>

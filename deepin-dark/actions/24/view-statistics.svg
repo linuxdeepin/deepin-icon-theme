@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>view-statistics</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="view-statistics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#DDDDDD" points="17 7 17 17 18 17 18 7"></polygon>
+        <polygon id="Path" fill="#DDDDDD" points="5 9 5 17 6 17 6 9"></polygon>
+        <polygon id="Path" fill="#DDDDDD" points="13 11 13 17 14 17 14 11"></polygon>
+        <polygon id="Path" fill="#DDDDDD" points="9 13 9 17 10 17 10 13"></polygon>
+    </g>
+</svg>

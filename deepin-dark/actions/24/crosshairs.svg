@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>crosshairs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="crosshairs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="200" transform="translate(5.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M6.5,11 C8.98528137,11 11,8.98528137 11,6.5 C11,4.01471863 8.98528137,2 6.5,2 C4.01471863,2 2,4.01471863 2,6.5 C2,8.98528137 4.01471863,11 6.5,11 Z M6.5,12 C3.46243388,12 1,9.53756612 1,6.5 C1,3.46243388 3.46243388,1 6.5,1 C9.53756612,1 12,3.46243388 12,6.5 C12,9.53756612 9.53756612,12 6.5,12 Z" id="Combined-Shape"></path>
+            <rect id="Rectangle" x="6" y="0" width="1" height="13"></rect>
+            <rect id="Rectangle-2" x="0" y="6" width="13" height="1"></rect>
+        </g>
+    </g>
+</svg>

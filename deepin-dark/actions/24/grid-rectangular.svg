@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>grid-rectangular</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="grid-rectangular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="180" transform="translate(5.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M1,0 L2,0 L2,1 L6,1 L6,0 L7,0 L7,1 L11,1 L11,0 L12,0 L12,1 L13,1 L13,2 L12,2 L12,5 L13,5 L13,6 L12,6 L12,11 L13,11 L13,12 L12,12 L12,13 L11,13 L11,12 L7,12 L7,13 L6,13 L6,12 L2,12 L2,13 L1,13 L1,12 L0,12 L0,11 L1,11 L1,7 L0,7 L0,6 L1,6 L1,2 L0,2 L0,1 L1,1 L1,0 Z M2,2 L2,11 L11,11 L11,2 L2,2 Z" id="Combined-Shape"></path>
+        </g>
+        <path d="M8,8 L11,8 L11,11 L8,11 L8,8 Z M12,8 L15,8 L15,11 L12,11 L12,8 Z M8,12 L11,12 L11,14.9999998 L8,14.9999998 L8,12 Z M12,12 L15,12 L15,14.9999998 L12,14.9999998 L12,12 Z M9,9 L9,10 L10,10 L10,9 L9,9 Z M13,13 L13,14 L14,14 L14,13 L13,13 Z M9,13 L9,14 L10,14 L10,13 L9,13 Z M13,9 L13,10 L14,10 L14,9 L13,9 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

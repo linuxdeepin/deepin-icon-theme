@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>gtk-select-font</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="gtk-select-font" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18,4 C17.4477153,4 17,4.44771525 17,5 C17,5.55228475 17.4477153,6 18,6 C18.5522847,6 19,5.55228475 19,5 C19,4.44771525 18.5522847,4 18,4 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M18,7 C17.4477153,7 17,7.44771525 17,8 C17,8.55228475 17.4477153,9 18,9 C18.5522847,9 19,8.55228475 19,8 C19,7.44771525 18.5522847,7 18,7 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M18,10 C17.4477153,10 17,10.4477153 17,11 C17,11.5522847 17.4477153,12 18,12 C18.5522847,12 19,11.5522847 19,11 C19,10.4477153 18.5522847,10 18,10 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M11.3084459,6 L10.7047192,6 L6.41900491,18 L7.95914963,18 L9.02164963,15 L13.2830928,15 L14.3455928,18 L15.8352316,18 L11.3084459,6 Z M10,5 L12,5 L17.28125,19 L13.6388947,19 L12.5763947,16 L9.72834771,16 L8.66584771,19 L5,19 L10,5 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="11 9 12.75 14 9.25 14"></polygon>
+    </g>
+</svg>

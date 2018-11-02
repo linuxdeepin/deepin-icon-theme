@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>focus-windows</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="focus-windows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9.5,5 C9,5 9,5.5 9,5.5 L9,13.5 C9,14 9.5,14 9.5,14 L18.5,14 C18.5,14 19,14 19,13.5 L19,5.5 C19,5 18.5,5 18.5,5 L9.5,5 Z M10,8 L18,8 L18,12.9960938 L10,12.9960938 L10,8 Z M4.5195312,10 L8,10 L8,13 L5,13 L5,18.001953 L13,18.001953 L13,15.001953 L14,15.001953 L14,18.5 C14,18.97672 13.5,19 13.5,19 L4.5,19 C4.5,19 4,19 4,18.5 L4,10.5 C4,10 4.5195312,10 4.5195312,10 Z M5,11 L5,12 L7,12 L7,11 L5,11 Z M10,6 L18,6 L18,7 L10,7 L10,6 Z" id="Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M9.5,5 C9,5 9,5.5 9,5.5 L9,13.5 C9,14 9.5,14 9.5,14 L18.5,14 C18.5,14 19,14 19,13.5 L19,5.5 C19,5 18.5,5 18.5,5 L9.5,5 Z M10,8 L18,8 L18,12.9960938 L10,12.9960938 L10,8 Z M4.5195312,10 L8,10 L8,13 L5,13 L5,18.001953 L13,18.001953 L13,15.001953 L14,15.001953 L14,18.5 C14,18.97672 13.5,19 13.5,19 L4.5,19 C4.5,19 4,19 4,18.5 L4,10.5 C4,10 4.5195312,10 4.5195312,10 Z M5,11 L5,12 L7,12 L7,11 L5,11 Z M10,6 L18,6 L18,7 L10,7 L10,6 Z" id="Shape-Copy" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

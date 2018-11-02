@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>kdenlive-show-audio</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="kdenlive-show-audio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="54" transform="translate(4.000000, 5.000000)" fill="#DDDDDD">
+            <path d="M6,2.37600567 L3.31578703,5 L1,5 L1,9 L3.31787929,9 L6,11.6232011 L6,2.37600567 Z M7,0 L7,14 L2.9101562,10 L0,10 L0,4 L2.9082031,4 L7,0 Z" id="Path"></path>
+            <path d="M9.001953,12.9681334 C11.5795831,11.9844494 13.3874658,9.68761867 13.3874658,7.01110768 C13.3874658,4.33459669 11.5795831,2.03776598 9.001953,1.05408192 L9.001953,0 C12.151953,0.78 14.501953,3.6 14.501953,7 C14.501953,10.4 12.151953,13.22 9.001953,14 L9.001953,12.9681334 Z" id="Combined-Shape"></path>
+            <path d="M9,9.01251361 C9.48122492,8.47990544 9.77430058,7.77394948 9.77430058,7 C9.77430058,6.16677636 9.49169468,5.48227676 9,5.00764111 L9,4 C10.07,4.58 10.789062,5.7 10.789062,7 C10.789062,8.3 10.06,9.42 9,10 L9,9.01251361 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

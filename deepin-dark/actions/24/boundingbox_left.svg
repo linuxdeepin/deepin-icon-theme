@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>boundingbox_left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="boundingbox_left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="177" transform="translate(11.500000, 11.500000) rotate(90.000000) translate(-11.500000, -11.500000) translate(4.000000, 7.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <rect id="Rectangle-2" x="11" y="4" width="4" height="1"></rect>
+            <rect id="Rectangle-2-Copy" x="0" y="4" width="4" height="1"></rect>
+            <path d="M7.5,9 C5.01471863,9 3,6.98528137 3,4.5 C3,2.01471863 5.01471863,0 7.5,0 C9.98528137,0 12,2.01471863 12,4.5 C12,6.98528137 9.98528137,9 7.5,9 Z M7.5,8 C9.43299662,8 11,6.43299662 11,4.5 C11,2.56700338 9.43299662,1 7.5,1 C5.56700338,1 4,2.56700338 4,4.5 C4,6.43299662 5.56700338,8 7.5,8 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

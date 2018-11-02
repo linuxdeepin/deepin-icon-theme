@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mail-unread-multiple</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mail-unread-multiple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19,9 L19,7 C19,6.44428475 18.5557153,6 18,6 L6,6 C5.44428475,6 5,6.44428475 5,7 L5,15 C5,15.5557153 5.44428475,16 6,16 L11,16 L11,12 C11,10.3431458 12.3431458,9 14,9 L19,9 Z M6,5 L18,5 C19.108,5 20,5.892 20,7 L20,10.283203 C19.703481,10.107739 19.363969,10 19,10 L14,10 C12.8954305,10 12,10.8954305 12,12 L12,17 L6,17 C4.892,17 4,16.108 4,15 L4,7 C4,5.892 4.892,5 6,5 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M14.0136717,10 L13,10 C12.4477153,10 12,10.4477153 12,11 L6.0058594,8.0039062 L6.0058594,7.0039062 L12.0058594,10.0039062 L18.005859,7.0039062 L18.005859,8.0039062 L14.0136717,10 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M14,11 L19,11 C19.554,11 20,11.446001 20,12 L20,17 C20,17.554 19.554,18 19,18 L14,18 C13.446,18 13,17.554 13,17 L13,12 C13,11.446001 13.446,11 14,11 Z M14,12 L14,17 L15,17 L15,14 L16,14 L16,15 L17,15 L17,14 L18,14 L18,17 L19,17 L19,12 L18,12 L18,13 L17,13 L17,14 L16,14 L16,13 L15,13 L15,12 L14,12 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

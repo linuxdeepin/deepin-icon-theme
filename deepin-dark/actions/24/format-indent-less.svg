@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>format-indent-less</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="format-indent-less" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="169" transform="translate(5.000000, 5.000000)" fill="#DDDDDD">
+            <polygon id="Path" points="0 0 0 1 14 1 14 0"></polygon>
+            <polygon id="Path" points="0 4.0039062 0 5.00195691 8 5.0039062 8 4.00585549"></polygon>
+            <path d="M14,3.0039062 L14,9.003906 L9,6.0039062 L14,3.0039062 Z M12.9975655,4.7979664 L10.9644806,6.0009652 L12.9975655,7.25616572 L12.9975655,4.7979664 Z" id="Combined-Shape"></path>
+            <polygon id="Path" points="0 8 0 9 8 9 8 8"></polygon>
+            <polygon id="Path" points="0 12 0 13 14 13 14 12"></polygon>
+        </g>
+    </g>
+</svg>

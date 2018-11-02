@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>dialog-tile-clones</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dialog-tile-clones" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,6 L6,10 L10,10 L10,6 L6,6 Z M5,5 L11,5 L11,11 L5,11 L5,5 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M14,6 L14,10 L18,10 L18,6 L14,6 Z M13,5 L19,5 L19,11 L13,11 L13,5 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M6,14 L6,18 L10,18 L10,14 L6,14 Z M5,13 L11,13 L11,19 L5,19 L5,13 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M15,17 L14,17 L14,18 L18,18 L18,17 L17,17 L17,14.1722684 C16.8654747,14.0811161 16.5594491,14 16,14 C15.4405509,14 15.1345253,14.0811161 15,14.1722684 L15,17 Z M16,13 C18,13 18,14 18,14 L18,16 L19,16 L19,19 L13,19 L13,16 L14,16 L14,14 C14,14 14,13 16,13 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#DDDDDD" fill-rule="nonzero" x="14" y="16" width="3" height="1"></rect>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>filesaveas</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filesaveas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="263" transform="translate(5.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M5.9980469,1.02688225 L5.9980469,7.0195312 L4.55862698,7.0195312 L6.99484497,10.5651182 L9.45852268,7.0195312 L7.9980469,7.0195312 L7.9980469,1.0415307 L5.9980469,1.02688225 Z M4.9980469,0.0195312 L8.9980469,0.0488281 L8.9980469,6.0195312 L11.371094,6.0195312 L6.9902344,12.324219 L2.6582031,6.0195312 L4.9980469,6.0195312 L4.9980469,0.0195312 Z" id="Path"></path>
+            <polygon id="Path" points="0 13.03125 0 14.0195312 14.005859 14.0195312 14 13.03125"></polygon>
+        </g>
+    </g>
+</svg>

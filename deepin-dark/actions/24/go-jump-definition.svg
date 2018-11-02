@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>go-jump-definition</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="go-jump-definition" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="9 6.0292969 5 7.0292969 10 8.0292969 14 7.0292969"></polygon>
+        <path d="M17,6.0292969 L16,7.0292969 L15,8.0292969 L17,10.0292969 L17,8.7441406 C17.624413,9.6872656 18,10.8079219 18,12.0292969 C18,15.353297 15.324,17.029297 12,17.029297 L12,18.029297 C15.878025,18.029297 19,15.907247 19,12.0292969 C19,10.1201719 18.232325,8.4054344 17,7.1464844 L17,6.0292969 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M6,9.31007331 L6,12.2485205 L8,12.7485206 L8,9.81007331 L6,9.31007331 Z M5,8.0292969 L9,9.0292969 L9,14.029297 L5,13.0292969 L5,8.0292969 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M11,9.81007331 L11,12.7485206 L13,12.2485205 L13,9.31007331 L11,9.81007331 Z M14,8.0292969 L14,13.0292969 L10,14.029297 L10,9.0292969 L14,8.0292969 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

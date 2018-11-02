@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-select-invert</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="edit-select-invert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tag-reset" transform="translate(6.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M1,1 L1,13 L6,13 L6,12.9170416 C3.16228666,12.4409635 1,9.97299629 1,7 C1,4.02700371 3.16228666,1.55903653 6,1.08295844 L6,1 L1,1 Z M0,0 L7,0 L7,2 C4.23857625,2 2,4.23857625 2,7 C2,9.76142375 4.23857625,12 7,12 L7,14 L0,14 L0,0 Z" id="Path"></path>
+            <path d="M8,10.873979 C9.72521421,10.4299287 11,8.86381654 11,7 C11,5.13618346 9.72521421,3.57007134 8,3.12602099 L8,10.873979 Z M7,2 C9.7614,2 12,4.2386 12,7 C12,9.7614 9.7614,12 7,12 L7,2 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

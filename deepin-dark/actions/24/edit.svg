@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7" transform="translate(4.000000, 4.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M12.210938,0 C12.423437,0 12.635781,0.0830469 12.800781,0.2480469 L14.75,2.1972656 C15.08,2.5272656 15.08,3.0489063 14.75,3.3789062 L13.109375,5.0078125 L9.9902344,1.8886719 L11.619141,0.2480469 C11.784141,0.0830469 11.998438,0 12.210938,0 Z M11.4134804,1.88394507 L13.1125153,3.59454855 L13.924415,2.78945699 L12.2181199,1.07220492 L11.4134804,1.88394507 Z" id="Combined-Shape"></path>
+            <path d="M8.8691406,3.0078125 L11.990234,6.1289062 L4.109375,14.007812 L0.99023438,14.007812 L0.99023438,10.888672 L8.8691406,3.0078125 Z M2.00672844,11.2820257 L2.00672844,13.0375609 L3.72207646,13.0375609 L10.5956322,6.12173471 L8.88250187,4.43051245 L2.00672844,11.2820257 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

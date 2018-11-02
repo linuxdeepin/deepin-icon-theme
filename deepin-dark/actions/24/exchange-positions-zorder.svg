@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>exchange-positions-zorder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="exchange-positions-zorder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M5,5 L5,10 L11,10 L11,5 L5,5 Z M4,4 L12,4 L12,11 L4,11 L4,4 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M13,5.0781 L13,9 L14,9 L14,6.3555 C16.393,7.2015 17.995,9.4618 18,12 L19,12 C18.997,8.5227 16.442,5.5749 13,5.0781 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M5,12 C5.003,15.477 7.5584,18.425 11,18.922 L11,15 L10,15 L10,17.645 C7.607,16.798 6.0052,14.538 6,12 L5,12 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="14.5 13 14.293 13.207 12.5 15 12.5 16.414 14 14.914 14 19 15 19 15 14.914 16.5 16.414 16.5 15 14.707 13.207"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="18 14 18 18.086 16.5 16.586 16.5 18 18.293 19.793 18.5 20 18.707 19.793 20.5 18 20.5 16.586 19 18.086 19 14"></polygon>
+    </g>
+</svg>

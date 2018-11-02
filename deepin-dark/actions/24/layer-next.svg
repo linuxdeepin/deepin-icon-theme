@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>layer-next</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="layer-next" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.5,6 L7,8 L15.5,8 L17,6 L8.5,6 Z M8,5 L19,5 L16,9 L5,9 L8,5 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="9.75 10 9 10.8007812 10.0078125 11.875 12 14 13.9921875 11.875 15 10.8007812 14.25 10 13.2421875 11.0742188 12 12.4003906 10.7578125 11.0742188"></polygon>
+        <path d="M17,16 L8.5,16 L7,18 L15.5,18 L17,16 Z M8,15 L19,15 L16,19 L5,19 L8,15 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

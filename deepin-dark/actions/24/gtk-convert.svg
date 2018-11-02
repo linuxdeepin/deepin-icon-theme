@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>gtk-convert</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="gtk-convert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="180" transform="translate(4.000000, 4.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M6,3 C3.23857625,3 1,5.23857625 1,8 C1,10.050319 2.23409522,11.8123997 4,12.5839563 L4,13.6585886 C1.66961525,12.8349158 0,10.6124377 0,8 C0,4.6862915 2.6862915,2 6,2 L6,1.2246468e-16 L10,2.5 L6,5 L6,3 Z" id="Combined-Shape"></path>
+            <path d="M11,5 C8.23857625,5 6,7.23857625 6,10 C6,12.050319 7.23409522,13.8123997 9,14.5839563 L9,15.6585886 C6.66961525,14.8349158 5,12.6124377 5,10 C5,6.6862915 7.6862915,4 11,4 L11,2.15858858 L15,4.65858858 L11,7.15858858 L11,5 Z" id="Combined-Shape" transform="translate(10.000000, 8.829294) scale(-1, -1) translate(-10.000000, -8.829294) "></path>
+        </g>
+    </g>
+</svg>

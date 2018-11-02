@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>align-horizontal-baseline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="align-horizontal-baseline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11.72,5 L13.16,5 L18.88,19.28 L17.54,19.28 L15.88,15.02 L9,15.02 L7.34,19.28 L6,19.28 L11.72,5 Z M9.4,13.98 L15.48,13.98 L12.48,6.32 L12.42,6.32 L9.4,13.98 Z" id="A" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Rectangle-3" fill="#DDDDDD" fill-rule="nonzero" points="5 4 6 4 6 20 5 20"></polygon>
+    </g>
+</svg>

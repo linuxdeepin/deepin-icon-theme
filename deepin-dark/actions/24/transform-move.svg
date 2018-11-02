@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>transform-move</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="transform-move" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" fill="#DDDDDD" points="12 5 10 8 14 8"></polygon>
+        <polygon id="Path" fill="#DDDDDD" points="8 10 5 12 8 14"></polygon>
+        <path d="M12,10 C13.1046,10 14,10.8954 14,12 C14,13.1046 13.1046,14 12,14 C10.8954,14 10,13.1046 10,12 C10,10.8954 10.8954,10 12,10 Z M12,13 C12.5522847,13 13,12.5522847 13,12 C13,11.4477153 12.5522847,11 12,11 C11.4477153,11 11,11.4477153 11,12 C11,12.5522847 11.4477153,13 12,13 Z" id="Combined-Shape" fill="#DDDDDD"></path>
+        <polygon id="Path" fill="#DDDDDD" points="16 10 16 14 19 12"></polygon>
+        <polygon id="Path" fill="#DDDDDD" points="10 16 12 19 14 16"></polygon>
+    </g>
+</svg>

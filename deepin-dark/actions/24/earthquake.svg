@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>earthquake</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="earthquake" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,18 C15.3137085,18 18,15.3137085 18,12 C18,8.6862915 15.3137085,6 12,6 C8.6862915,6 6,8.6862915 6,12 C6,15.3137085 8.6862915,18 12,18 Z M12,19 C8.13400675,19 5,15.8659932 5,12 C5,8.13400675 8.13400675,5 12,5 C15.8659932,5 19,8.13400675 19,12 C19,15.8659932 15.8659932,19 12,19 Z" id="Oval" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path-3" fill="#DDDDDD" fill-rule="nonzero" points="7.79471733 10.7845919 5.35568664 12.4156301 5.17786104 11.5371976 8.17328768 9.32844006 10.702192 14.2741575 11.9584834 5.30096202 15.2220613 13.2802244 18.6691857 11.5529777 18.8802054 12.4156301 14.6818784 14.6694056 12.2779826 8.37054808 11.3683366 17.7734332"></polygon>
+    </g>
+</svg>

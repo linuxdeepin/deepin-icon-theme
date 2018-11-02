@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>escape-direction-horizontal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="escape-direction-horizontal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="308" transform="translate(5.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M1,1 L1,12.9999998 L13,12.9999998 L13,1 L1,1 Z M0,4.54747351e-13 L14,4.54747351e-13 L14,13.9999998 L0,13.9999998 L0,4.54747351e-13 Z" id="Shape"></path>
+            <rect id="Rectangle" x="9" y="5" width="5" height="1"></rect>
+            <rect id="Rectangle-Copy" x="0" y="5" width="5" height="1"></rect>
+            <rect id="Rectangle-Copy-2" x="0" y="8" width="5" height="1"></rect>
+            <rect id="Rectangle-Copy-3" x="9" y="8" width="5" height="1"></rect>
+            <path d="M7,9 C8.1045695,9 9,8.1045695 9,7 C9,5.8954305 8.1045695,5 7,5 C5.8954305,5 5,5.8954305 5,7 C5,8.1045695 5.8954305,9 7,9 Z M7,10 C5.34314575,10 4,8.65685425 4,7 C4,5.34314575 5.34314575,4 7,4 C8.65685425,4 10,5.34314575 10,7 C10,8.65685425 8.65685425,10 7,10 Z" id="Oval"></path>
+        </g>
+    </g>
+</svg>

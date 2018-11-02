@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>go-first</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="go-first" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="36" transform="translate(12.000000, 11.500000) rotate(90.000000) translate(-12.000000, -11.500000) translate(5.500000, 3.500000)" fill="#DDDDDD">
+            <path d="M6.5,12.996094 C5.94771475,12.996094 5.5,13.4438087 5.5,13.996094 C5.5,14.5483793 5.94771475,14.996094 6.5,14.996094 C7.05228525,14.996094 7.5,14.5483793 7.5,13.996094 C7.5,13.4437914 7.05229793,12.996094 6.5,12.996094 Z M6.5,11.996094 C7.60457,11.996094 8.5,12.891494 8.5,13.996094 C8.5,15.100664 7.60457,15.996094 6.5,15.996094 C5.39543,15.996094 4.5,15.100664 4.5,13.996094 C4.5,12.891524 5.39543,11.996094 6.5,11.996094 Z" id="Path"></path>
+            <g id="28" transform="translate(6.500000, 6.000000) rotate(-90.000000) translate(-6.500000, -6.000000) translate(0.500000, -0.500000)">
+                <rect id="Rectangle" x="2" y="6" width="10" height="1"></rect>
+                <path d="M3.61120929,9.16832593 L10.6112093,9.16832593 L10.6112093,10.1683259 L3.61120929,10.1683259 L2.61120929,10.1683259 L2.61120929,2.16832593 L3.61120929,2.16832593 L3.61120929,9.16832593 Z" id="Combined-Shape" transform="translate(6.257656, 6.521879) rotate(45.000000) translate(-6.257656, -6.521879) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>code-function</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="code-function" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9,13 L10,13 L10,9 L8,9 L8,11 L8,13 L9,13 Z M7,8 L12,8 L12,9 L11,9 L11,15 L12,15 L12,16 L8,16 L8,14 L6,14 L6,11 L5,11 L5,10 L7,10 L7,8 Z M7,11 L7,13 L8,13 L8,11 L7,11 Z M9,13 L9,15 L10,15 L10,13 L9,13 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M14,14.9999998 L18,14.9999998 L18,9 L14,9 L14,14.9999998 Z M13,8 L19,8 L19,15.9999998 L13,15.9999998 L13,8 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

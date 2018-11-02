@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>format-node-curve</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="format-node-curve" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,4 L19,4 L19,7 L16,7 L16,6.0566406 C13.7953407,6.26263695 11.70417,7.12919306 10,8.5429688 L10,11 L7.796875,11 C6.81632119,12.499589 6.21691781,14.2160013 6.0507812,16 L7,16 L7,19 L4,19 L4,16 L5,16 L5.0585938,16 C5.22961392,14.0052219 5.89701471,12.0849339 7,10.4140625 L7,8 L9.0957031,8 C11.0227044,6.30446191 13.4425919,5.27147461 16,5.0527344 L16,5 L16,4 Z M5,17 L5,18 L6,18 L6,17 L5,17 Z M8,9 L8,10 L9,10 L9,9 L8,9 Z M17,5 L17,6 L18,6 L18,5 L17,5 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

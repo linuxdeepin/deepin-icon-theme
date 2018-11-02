@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>kr_unselect</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="kr_unselect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="215" transform="translate(4.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <g id="157">
+                <path d="M2.00866687,9.28139236 L4,7.3276347 L6.7603105,7.05368336 L1.99932468,2.38452333 L2.00866687,9.28139236 Z M4.0456532,8.70034205 L1.0117188,11.535156 L0.9960938,0 L8.996094,7.8457031 L5.1347656,8.2128906 L7.363281,13.328125 L6.40643217,13.7873358 L4.0456532,8.70034205 Z" id="Shape"></path>
+            </g>
+            <polygon id="Path" points="9.834 0 9 0.834 10.666 2.5 9 4.166 9.834 5 11.5 3.334 13.166 5 14 4.166 12.334 2.5 14 0.834 13.166 4.4408921e-16 11.5 1.666"></polygon>
+        </g>
+    </g>
+</svg>

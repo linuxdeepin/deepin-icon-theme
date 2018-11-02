@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-paste-style</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="edit-paste-style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="40" transform="translate(6.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M6,1 L6,5 L3,5 L3,6 L10,6 L10,5 L7,5 L7,1 L6,1 Z M5,0 L8,0 L8,4 L11,4 L11,7 L2,7 L2,4 L5,4 L5,0 Z" id="Path"></path>
+            <path d="M2.97068004,9 C2.88298368,10.4908777 2.60013742,11.9141285 2.14339194,13 L8.86475782,13 C8.88994881,12.9721022 8.92093858,12.9330609 8.95559956,12.882829 C9.1248505,12.637545 9.30226608,12.2401504 9.46012503,11.736365 C9.70860162,10.9433856 9.88549003,9.9677286 9.96028763,9 L2.97068004,9 Z M8.8230627,13.0410905 C8.82129846,13.0422256 8.81963683,13.0433569 8.81807989,13.0444802 C8.82240896,13.0413567 8.82735051,13.0373171 8.83285413,13.0323603 L8.8230627,13.0410905 Z M2,8 L11,8 C11,10.761 10.105,14 9,14 L0,14 C1.1046,14 2,10.761 2,8 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

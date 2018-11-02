@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mail-meeting-request-reply</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mail-meeting-request-reply" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,17 L16,8.9980469 L19.003906,8.9980469 L19.003906,7.9980469 C19.003906,7.44233165 18.5596213,6.9980469 18.003906,6.9980469 L6,7 C5.44428475,7 5,7.44428475 5,8 L5,16 C5,16.5557153 5.44428475,17 6,17 L16,17 Z M18.003906,5.9980469 C19.111906,5.9980469 20.003906,6.8900469 20.003906,7.9980469 L20.003906,9.9980469 L17,9.9980469 L17,18 L6,18 C4.892,18 4,17.108 4,16 L4,8 C4,6.892 4.892,6 6,6 L18.003906,5.9980469 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M6,8 L12,11 L18,8 L18,9 L12,12 L6,9 L6,8 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="19 11 19 16 20 16 20 11"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="19 17 19 18 20 18 20 17"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>distribute-randomize</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="distribute-randomize" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,5.0097656 L15,7.0097656 L18,7.0097656 L18,5.0097656 L15,5.0097656 Z M14,4.0097656 L19,4.0097656 L19,8.0097656 L14,8.0097656 L14,4.0097656 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M5,6.0097656 L5,8.0097656 L8,8.0097656 L8,6.0097656 L5,6.0097656 Z M4,5.0097656 L9,5.0097656 L9,9.0097656 L4,9.0097656 L4,5.0097656 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M16,10.0097656 L16,12.009766 L19,12.009766 L19,10.0097656 L16,10.0097656 Z M15,9.0097656 L20,9.0097656 L20,13.009766 L15,13.009766 L15,9.0097656 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M10,13.009766 L13,13.009766 L13,11.0097656 L10,11.0097656 L10,13.009766 Z M9,10.0097656 L14,10.0097656 L14,14.009766 L9,14.009766 L9,10.0097656 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M5,18.009766 L8,18.009766 L8,16.009766 L5,16.009766 L5,18.009766 Z M4,15.009766 L9,15.009766 L9,19.009766 L4,19.009766 L4,15.009766 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M11,18.009766 L14,18.009766 L14,16.009766 L11,16.009766 L11,18.009766 Z M10,15.009766 L15,15.009766 L15,19.009766 L10,19.009766 L10,15.009766 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

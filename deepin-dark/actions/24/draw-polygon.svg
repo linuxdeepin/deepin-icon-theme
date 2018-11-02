@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>draw-polygon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="draw-polygon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6.16378941,10.4262801 L8.44975969,18 L15.6116912,18 L17.8403892,10.3719476 L12.0036327,6.22889276 L6.16378941,10.4262801 Z M12,5 L19,9.96875 L16.361328,19 L7.7070312,19 L5,10.03125 L12,5 Z" id="Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>

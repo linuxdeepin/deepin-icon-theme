@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mail-move</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mail-move" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="247" transform="translate(3.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M2,1 C1.50771124,1 1,1.51091199 1,2 L1,11 C1,11.4890879 1.50771126,11.9999999 2,12 L14.9999998,12 C15.4922887,11.9999999 16,11.4890879 16,11 L16,2 C16,1.51091193 15.4922888,1 15,1 L2,1 Z M2,0 L15,0 C16.05225,0 17,0.966333335 17,2 L17,11 C17,12.0336665 16.05225,12.9999998 15,13 L2,13 C0.94775,12.9999998 0,12.0336665 0,11 L0,2 C0,0.966333443 0.94775,0 2,0 Z" id="Path"></path>
+            <polygon id="Path" transform="translate(9.000874, 6.464278) rotate(-90.000000) translate(-9.000874, -6.464278) " points="8.46788422 2.46427774 9.43844697 2.46427774 9.43844697 8.46427774 12.3145822 5.64250198 13.0008737 6.34960877 8.9531656 10.4642777 5.00087371 6.34960877 5.68716521 5.64250198 8.46788422 8.46427774"></polygon>
+        </g>
+    </g>
+</svg>

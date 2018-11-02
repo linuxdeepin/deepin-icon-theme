@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>color-fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="color-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="168" transform="translate(4.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M1.61803399,1 L3,3.76393202 L3,4 L3,11.9999045 C2.99999817,11.9808177 5.99996634,11.9808496 11.9999045,12 C11.9808177,12.0000018 11.9808496,10.6666685 12,8 L13,8 C13.4465467,8 14,7.16982007 14,6 C14,4.83017993 13.4465467,4 13,4 L12,4 L12,1 L1.61803399,1 Z M0,0 L13,0 L13,3 C14.1045695,3 15,4.34314575 15,6 C15,7.65685425 14.1045695,9 13,9 L13,12 C12.99995,12.52358 12.52358,12.99995 12,13 L3,13 C2.47642,12.99995 2.00005,12.52358 2,12 L2,4 L0,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

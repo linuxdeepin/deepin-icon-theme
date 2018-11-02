@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>format-precision-more</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="format-precision-more" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.5,5 C7.15120579,5 6,6.3156735 6,8 L6,11 C6,12.6843265 7.15120579,14 8.5,14 C9.84879421,14 11,12.6843265 11,11 L11,8 C11,6.3156735 9.84879421,5 8.5,5 Z M8.5,4 C10.433,4 12,5.7909 12,8 L12,11 C12,13.2091 10.433,15 8.5,15 C6.567,15 5,13.2091 5,11 L5,8 C5,5.7909 6.567,4 8.5,4 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <path d="M16.5,5 C15.1512058,5 14,6.3156735 14,8 L14,11 C14,12.6843265 15.1512058,14 16.5,14 C17.8487942,14 19,12.6843265 19,11 L19,8 C19,6.3156735 17.8487942,5 16.5,5 Z M16.5,4 C18.433,4 20,5.7909 20,8 L20,11 C20,13.2091 18.433,15 16.5,15 C14.567,15 13,13.2091 13,11 L13,8 C13,5.7909 14.567,4 16.5,4 Z" id="Path" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="4 14 4 15 5 15 5 14"></polygon>
+        <polygon id="Path" fill="#DDDDDD" fill-rule="nonzero" points="16 16 16 18 14 18 14 19 16 19 16 21 17 21 17 19 19 19 19 18 17 18 17 16"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>distribute-vertical-y</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="distribute-vertical-y" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="217" transform="translate(12.000000, 12.000000) scale(1, -1) rotate(90.000000) translate(-12.000000, -12.000000) translate(5.000000, 7.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M1,1 L1,8.9999998 L3,8.9999998 L3,1 L1,1 Z M0,2.84217094e-13 L4,2.84217094e-13 L4,9.9999998 L0,9.9999998 L0,2.84217094e-13 Z" id="Path"></path>
+            <path d="M11,1 L11,8.9999998 L13,8.9999998 L13,1 L11,1 Z M10,3.41060513e-13 L14,3.41060513e-13 L14,9.9999998 L10,9.9999998 L10,3.41060513e-13 Z" id="Path"></path>
+            <polygon id="Path" points="5 3 5 7 6 7 6 6 8 6 8 7 9 7 9 3 8 3 8 4 6 4 6 3"></polygon>
+        </g>
+    </g>
+</svg>

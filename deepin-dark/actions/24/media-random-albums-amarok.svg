@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>media-random-albums-amarok</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="media-random-albums-amarok" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,10 L9,10 L9,14 L8,14 L8,13 L7,13 L7,14 L6,14 L6,10 Z M7,11 L7,12 L8,12 L8,11 L7,11 Z" id="Combined-Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+        <g id="134" transform="translate(5.000000, 5.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <polygon id="Path" points="10 0 10 2 8.3828125 2 4.3828125 10 0 10 0 11 5.06041411 11 9.00227678 3 10 3 10 5 13.9983688 2.5"></polygon>
+            <path d="M7.28600059,8.80637617 L7.84719318,7.65576085 L9.00227678,10 L10,10 L10,8 L13.9983688,10.5 L10,13 L10,11 L8.3828125,11 L7.28600059,8.80637617 Z M5.52047588,5.27532675 L4.3828125,3 L0,3 L0,2 L5.06041411,2 L6.0944334,4.09853944 L5.52047588,5.27532675 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
