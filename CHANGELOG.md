@@ -1,3 +1,6 @@
+### 15.12.61
+    finished Mimetype ,Places and Devices icons
+
 ### 15.12.60
      add a new theme
 
