@@ -5,13 +5,17 @@ all: check
 check: check-same-icon
 	gtk-update-icon-cache deepin || exit 101
 	gtk-update-icon-cache Sea || exit 101
+	gtk-update-icon-cache deepin-dark || exit 101
 	-rm -f deepin/icon-theme.cache
 	-rm -f Sea/icon-theme.cache
+	-rm -f deepin-dark/icon-theme.cache
 
 check-name-unique:
 	find deepin -name "*.svg" | xargs -n1 basename | sort | uniq -d | xargs -I '{}' find -name '{}'
+	find deepin-dark -name "*.svg" | xargs -n1 basename | sort | uniq -d | xargs -I '{}' find -name '{}'
 check-same-icon:
 	find deepin -type f | xargs md5sum | sort | uniq --check-chars=32 -d
+	find deepin-dark -type f | xargs md5sum | sort | uniq --check-chars=32 -d
 
 prepare: check-name-unique check-same-icon
 	mkdir -p build
