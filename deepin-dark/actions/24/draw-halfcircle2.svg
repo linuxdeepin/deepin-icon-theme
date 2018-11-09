@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>draw-halfcircle2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="draw-halfcircle2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.8863426,5.97427514 L9.0078125,6.00752923 L9.0078125,6.00102733 C8.9793932,5.9986554 8.95591325,5.99332108 8.8863426,5.97427514 Z M9.0078125,18 L9.1503906,18 C12.3809538,18 15.007812,15.3209264 15.007812,12.0058594 C15.007812,8.69033519 12.3805005,6.0097656 9.1503906,6.0097656 L9.01598148,6.0097656 L9.0078125,18 Z M8.0078125,5.0097656 C8.0078125,5.0097656 9.0714906,4.98816562 9.1503906,5.0097656 C12.9374906,5.0097656 16.007812,8.1426594 16.007812,12.0058594 C16.007812,15.869059 12.9374906,19 9.1503906,19 L8.0078125,19 L8.0078125,5.0097656 Z" id="Shape" fill="#DDDDDD" fill-rule="nonzero"></path>
+    </g>
+</svg>
