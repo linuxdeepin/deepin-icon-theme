@@ -11,3 +11,9 @@ Depends: papirus-icon-theme
 Conflicts: deepin-cursor-theme
 Description: Deepin Icons
  This package is DeepinIconTheme 
+
+Package: sea-icon-theme
+Architecture: all
+Conflicts: deepin-icon-theme (<< 15.12.65)
+Description: Deepin Sea Icons 
+ This package is DeepinIconTheme Sea
