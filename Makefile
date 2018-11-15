@@ -1,6 +1,9 @@
 PREFIX = /usr
 
-all: check
+all: check cursor
+
+cursor:
+	cd cursors-src/loginspinner/ && make
 
 check: check-same-icon check-perm
 	gtk-update-icon-cache deepin || exit 101
@@ -33,16 +36,16 @@ clean:
 	rm -rf build
 
 
-#install-icons:
-#	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
-#	cp -r deepin/* $(DESTDIR)$(PREFIX)/share/icons/deepin
-#	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin-dark
-#	cp -r deepin-dark/* $(DESTDIR)$(PREFIX)/share/icons/deepin-dark
+install-icons:
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
+	cp -r deepin/* $(DESTDIR)$(PREFIX)/share/icons/deepin
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin-dark
+	cp -r deepin-dark/* $(DESTDIR)$(PREFIX)/share/icons/deepin-dark
 
-#install-cursors:
-#	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
-#	cp -r deepin/cursors $(DESTDIR)$(PREFIX)/share/icons/deepin
-#	install -m644 deepin/cursor.theme $(DESTDIR)$(PREFIX)/share/icons/deepin/cursor.theme
+install-cursors:
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
+	cp -r deepin/cursors $(DESTDIR)$(PREFIX)/share/icons/deepin
+	install -m644 deepin/cursor.theme $(DESTDIR)$(PREFIX)/share/icons/deepin/cursor.theme
 
 hicolor-links:
 	./tools/hicolor.links deepin hicolor.list ./

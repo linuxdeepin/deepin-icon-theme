@@ -3,7 +3,10 @@ Section: x11
 Priority: optional
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Standards-Version: 3.9.8
-Build-Depends: debhelper (>= 9), gtk-update-icon-cache 
+Build-Depends:
+ debhelper (>= 9),
+ gtk-update-icon-cache,
+ x11-apps
 
 Package: deepin-icon-theme
 Architecture: all
