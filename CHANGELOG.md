@@ -1,4 +1,7 @@
 ###
+     15.12.66
+      update some trayicons
+###
     15.12.65
      update shutdown icons and fix
 ### 15.12.64
