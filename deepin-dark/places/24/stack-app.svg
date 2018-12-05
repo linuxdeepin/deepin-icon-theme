@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="stack-app-a" width="125%" height="127.8%" x="-12.5%" y="-13.9%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="stack-app-c" x1="50%" x2="50%" y1="0%" y2="97.162%">
+      <stop offset="0%" stop-color="#582BFF"/>
+      <stop offset="100%" stop-color="#7D5FFF"/>
+    </linearGradient>
+    <polygon id="stack-app-b" points="0 18 0 3 20 3 20 18"/>
+    <linearGradient id="stack-app-e" x1="100%" x2="8.859%" y1="77.19%" y2="4.533%">
+      <stop offset="0%" stop-color="#D1C0FF"/>
+      <stop offset="100%" stop-color="#8375FF"/>
+    </linearGradient>
+    <linearGradient id="stack-app-f" x1="50%" x2="50%" y1="0%" y2="392.791%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#882AFF" stop-opacity=".117"/>
+    </linearGradient>
+    <linearGradient id="stack-app-g" x1="50%" x2="50%" y1="-22.147%" y2="100%">
+      <stop offset="0%" stop-color="#CAA2FF" stop-opacity=".3"/>
+      <stop offset="100%" stop-color="#6249F0"/>
+    </linearGradient>
+    <linearGradient id="stack-app-h" x1="-3.822%" y1="55.584%" y2="40.499%">
+      <stop offset="0%" stop-color="#B9B7FF"/>
+      <stop offset="100%" stop-color="#8174FF"/>
+    </linearGradient>
+    <linearGradient id="stack-app-i" x1="50%" x2="50%" y1="-22.147%" y2="100%">
+      <stop offset="0%" stop-color="#B6A2FF"/>
+      <stop offset="100%" stop-color="#6249F0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#stack-app-a)" transform="translate(2 4)">
+    <polygon fill="#4A00D5" points="13 0 18 0 18 16.995 2 16.995 2 1 12 1"/>
+    <polygon fill="#D7D7D7" points="1 17 1 2 19 2 19 17"/>
+    <mask id="stack-app-d" fill="#fff">
+      <use xlink:href="#stack-app-b"/>
+    </mask>
+    <use fill="url(#stack-app-c)" xlink:href="#stack-app-b"/>
+    <g mask="url(#stack-app-d)">
+      <g transform="translate(3.327 5.213)">
+        <polygon fill="url(#stack-app-e)" points="1.673 2.787 6.673 4.832 6.673 11.787 1.673 9.742"/>
+        <polygon fill="url(#stack-app-f)" points="1.673 2.787 6.673 4.832 11.673 2.787 6.673 .742"/>
+        <polygon fill="url(#stack-app-g)" points="6.673 4.832 11.673 2.787 6.673 .742"/>
+        <polygon fill="url(#stack-app-h)" points="6.673 2.787 11.673 4.787 11.673 11.787 6.673 9.787"/>
+        <polygon fill="url(#stack-app-i)" points="1.673 2.787 6.673 4.832 5.297 7.161 .297 5.115"/>
+        <polygon fill="url(#stack-app-i)" points="8.314 2.787 13.314 4.787 11.673 7.161 6.673 5.161"/>
+      </g>
+    </g>
+  </g>
+</svg>
