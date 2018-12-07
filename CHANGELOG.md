@@ -1,3 +1,5 @@
+###  15.12.67
+     add stack folder icons and redesigned deepin-launcher icons
 ###
      15.12.66
       update some trayicons
