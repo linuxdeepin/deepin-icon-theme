@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="deepin-virtualkeyboard-c" x1="50%" x2="50%" y1="0%" y2="98.139%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#EDEDED"/>
+    </linearGradient>
+    <rect id="deepin-virtualkeyboard-b" width="78" height="75" x="9" y="11" rx="15.146"/>
+    <filter id="deepin-virtualkeyboard-a" width="117.9%" height="118.7%" x="-9%" y="-6.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="deepin-virtualkeyboard-d" x1="50%" x2="50%" y1="35.61%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#93A0A5"/>
+    </linearGradient>
+    <linearGradient id="deepin-virtualkeyboard-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4A4A4A"/>
+      <stop offset="97.645%" stop-color="#363636"/>
+    </linearGradient>
+    <path id="deepin-virtualkeyboard-f" d="M66,36 L72,36 L72,42 L66,42 L66,36 Z M57,36 L63,36 L63,42 L57,42 L57,36 Z M48,36 L54,36 L54,42 L48,42 L48,36 Z M57,45 L57,51 L51,51 L51,45 L57,45 Z M39,36 L45,36 L45,42 L39,42 L39,36 Z M48,45 L48,51 L42,51 L42,45 L48,45 Z M24,36 L36,36 L36,42 L24,42 L24,36 Z M24,45 L39,45 L39,51 L24,51 L24,45 Z M63,60 L36,60 L36,54 L63,54 L63,60 Z M33,60 L24,60 L24,54 L33,54 L33,60 Z M72,51 L60,51 L60,45 L72,45 L72,51 Z M72,60 L66,60 L66,54 L72,54 L72,60 Z"/>
+    <filter id="deepin-virtualkeyboard-e" width="102.1%" height="108.3%" x="-1%" y="-2.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <filter id="deepin-virtualkeyboard-h" width="102.1%" height="108.3%" x="-1%" y="-2.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.05 0"/>
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#deepin-virtualkeyboard-a)" xlink:href="#deepin-virtualkeyboard-b"/>
+    <use fill="url(#deepin-virtualkeyboard-c)" xlink:href="#deepin-virtualkeyboard-b"/>
+    <path fill="url(#deepin-virtualkeyboard-d)" fill-rule="nonzero" d="M24.1456311,12 C16.3332148,12 10,18.3332148 10,26.1456311 L10,70.8543689 C10,78.6667852 16.3332148,85 24.1456311,85 L71.8543689,85 C79.6667852,85 86,78.6667852 86,70.8543689 L86,26.1456311 C86,18.3332148 79.6667852,12 71.8543689,12 L24.1456311,12 Z M24.1456311,11 L71.8543689,11 C80.21907,11 87,17.78093 87,26.1456311 L87,70.8543689 C87,79.21907 80.21907,86 71.8543689,86 L24.1456311,86 C15.78093,86 9,79.21907 9,70.8543689 L9,26.1456311 C9,17.78093 15.78093,11 24.1456311,11 Z"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#deepin-virtualkeyboard-e)" xlink:href="#deepin-virtualkeyboard-f"/>
+      <use fill="url(#deepin-virtualkeyboard-g)" xlink:href="#deepin-virtualkeyboard-f"/>
+      <use fill="#000" filter="url(#deepin-virtualkeyboard-h)" xlink:href="#deepin-virtualkeyboard-f"/>
+    </g>
+  </g>
+</svg>
