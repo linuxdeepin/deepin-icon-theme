@@ -1,3 +1,8 @@
+### 15.12.68
+    
+     add deepin-virtualkeyboard icons
+
+
 ###  15.12.67
      add stack folder icons and redesigned deepin-launcher icons
 ###
