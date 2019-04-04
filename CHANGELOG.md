@@ -1,3 +1,21 @@
+<a name="15.12.69"></a>
+## 15.12.69 (2019-04-04)
+
+
+#### Bug Fixes
+
+*   default icon name of sqlite db mimetype ([ad55ea12](ad55ea12))
+*   default icon name of flac mimetype ([3395fd5f](3395fd5f))
+*   default icon name of ttf mimetype ([c73a59ac](c73a59ac))
+*   not install cursor icons ([eb911e37](eb911e37))
+*   make fctix tray icon seem larger on hiDPI ([583a687a](583a687a))
+*   remove dde.svg ([c80ce849](c80ce849))
+*   resolve file conflicts with other packages ([e7566f5f](e7566f5f))
+*   let deepin cursor theme inherit deepin ([62d882b4](62d882b4))
+*   Adapt lintian ([c7141e12](c7141e12))
+
+
+
 ### 15.12.68
     
      add deepin-virtualkeyboard icons
