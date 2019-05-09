@@ -61,15 +61,15 @@ for CUR in src/config/*.cursor; do
 	echo -ne "\033[0KGenerating simple cursor pixmaps... $BASENAME\\r"
 
 	if [ "$DIR1X/$BASENAME.png" -ot $RAWSVG ] ; then
-		inkscape -i $BASENAME -d 90  -f $RAWSVG -e "$DIR1X/$BASENAME.png" > /dev/null
+		inkscape -i $BASENAME -d 96  -f $RAWSVG -e "$DIR1X/$BASENAME.png" > /dev/null
 	fi
 
 	if [ "$DIR1_5X/$BASENAME.png" -ot $RAWSVG ] ; then
-		inkscape -i $BASENAME -d 135 -f $RAWSVG -e "$DIR1_5X/$BASENAME.png" > /dev/null
+		inkscape -i $BASENAME -d 144 -f $RAWSVG -e "$DIR1_5X/$BASENAME.png" > /dev/null
 	fi
 
 	if [ "$DIR2X/$BASENAME.png" -ot $RAWSVG ] ; then
-		inkscape -i $BASENAME -d 180 -f $RAWSVG -e "$DIR2X/$BASENAME.png" > /dev/null
+		inkscape -i $BASENAME -d 192 -f $RAWSVG -e "$DIR2X/$BASENAME.png" > /dev/null
 	fi
 done
 echo -e "\033[0KGenerating simple cursor pixmaps... DONE"
