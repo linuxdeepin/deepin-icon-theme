@@ -41,6 +41,8 @@ install-icons:
 	cp -r deepin/* $(DESTDIR)$(PREFIX)/share/icons/deepin
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin-dark
 	cp -r deepin-dark/* $(DESTDIR)$(PREFIX)/share/icons/deepin-dark
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin-v20
+	cp -r deepin-v20/* $(DESTDIR)$(PREFIX)/share/icons/deepin-v20
 
 install-cursors:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/deepin
