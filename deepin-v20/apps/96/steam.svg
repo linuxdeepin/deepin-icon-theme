@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="steam-a" width="127.3%" height="127.3%" x="-13.6%" y="-13.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="steam-c" x1="50%" x2="50%" y1="2.868%" y2="100%">
+      <stop offset="0%" stop-color="#8C8C91"/>
+      <stop offset="100%" stop-color="#69696F"/>
+    </linearGradient>
+    <circle id="steam-b" cx="44" cy="44" r="44"/>
+    <linearGradient id="steam-d" x1="50%" x2="50%" y1="2.868%" y2="100%">
+      <stop offset="0%" stop-color="#484848"/>
+      <stop offset="100%" stop-color="#4C4C56"/>
+    </linearGradient>
+    <linearGradient id="steam-h" x1="86.233%" x2="0%" y1="10.383%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="26.14%" stop-color="#CECECE"/>
+      <stop offset="43.549%" stop-color="#EFEFEF"/>
+      <stop offset="60.658%" stop-color="#A6A9AF"/>
+      <stop offset="84.44%" stop-color="#C6D5DD"/>
+      <stop offset="100%" stop-color="#96A5B0"/>
+    </linearGradient>
+    <path id="steam-g" d="M38.4364065,45.9312688 C35.3251154,47.7084559 31.2922618,47.2691872 28.6365373,44.6134627 C25.8217155,41.7986408 25.4968679,37.4367474 27.6619945,34.2648426 C27.9444617,33.8510288 42.8193033,7.80327969 45.9362915,4.6862915 C52.1846802,-1.56209717 62.3153198,-1.56209717 68.5637085,4.6862915 C74.8120972,10.9346802 74.8120972,21.0653198 68.5637085,27.3137085 C65.4467203,30.4306967 39.0530184,45.5790567 38.4364065,45.9312688 Z M57.25,26 C62.7728475,26 67.25,21.5228475 67.25,16 C67.25,10.4771525 62.7728475,6 57.25,6 C51.7271525,6 47.25,10.4771525 47.25,16 C47.25,21.5228475 51.7271525,26 57.25,26 Z M57.25,21.14128 C54.4105495,21.14128 52.10872,18.8394505 52.10872,16 C52.10872,13.1605495 54.4105495,10.85872 57.25,10.85872 C60.0894505,10.85872 62.39128,13.1605495 62.39128,16 C62.39128,18.8394505 60.0894505,21.14128 57.25,21.14128 Z M35.25,44.25 C38.7017797,44.25 41.5,41.4517797 41.5,38 C41.5,34.5482203 38.7017797,31.75 35.25,31.75 C31.7982203,31.75 29,34.5482203 29,38 C29,41.4517797 31.7982203,44.25 35.25,44.25 Z M35.25,40 C34.1454305,40 33.25,39.1045695 33.25,38 C33.25,36.8954305 34.1454305,36 35.25,36 C36.3545695,36 37.25,36.8954305 37.25,38 C37.25,39.1045695 36.3545695,40 35.25,40 Z"/>
+    <filter id="steam-f" width="108.5%" height="108.5%" x="-4.3%" y="-2.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <filter id="steam-i" width="108.5%" height="108.5%" x="-4.3%" y="-2.1%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+    </filter>
+    <linearGradient id="steam-l" x1="100%" x2="4.505%" y1="61.291%" y2="41.564%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="26.14%" stop-color="#CECECE"/>
+      <stop offset="43.549%" stop-color="#EFEFEF"/>
+      <stop offset="60.658%" stop-color="#9C9C9C"/>
+      <stop offset="84.44%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#DFE9F1"/>
+    </linearGradient>
+    <path id="steam-k" d="M34.6561576,41.4701577 C35.3322722,41.6405855 36.0648696,41.6172793 36.769446,41.3608345 C38.642345,40.679155 39.6080192,38.60826 38.9263397,36.735361 C38.5427178,35.6813686 37.7191333,34.9146931 36.7384674,34.5672442 L36.7398772,34.5622352 L1.27800455,16.1124638 L0.674211309,20.5968859 L0.155061279,24.5989891 L5.51911093,36.2916892 L34.6561576,41.4701577 L34.6561576,41.4701577 Z"/>
+    <filter id="steam-j" width="110.3%" height="115.7%" x="-5.1%" y="-3.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <filter id="steam-m" width="110.3%" height="115.7%" x="-5.1%" y="-3.9%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#steam-a)" transform="translate(4 4)">
+    <mask id="steam-e" fill="#fff">
+      <use xlink:href="#steam-b"/>
+    </mask>
+    <use fill="url(#steam-c)" xlink:href="#steam-b"/>
+    <circle cx="44" cy="44" r="28.286" fill="url(#steam-d)" mask="url(#steam-e)"/>
+    <g mask="url(#steam-e)">
+      <g transform="translate(-13.25 28)">
+        <use fill="#000" filter="url(#steam-f)" xlink:href="#steam-g"/>
+        <use fill="url(#steam-h)" xlink:href="#steam-g"/>
+        <use fill="#000" filter="url(#steam-i)" xlink:href="#steam-g"/>
+        <use fill="#000" filter="url(#steam-j)" xlink:href="#steam-k"/>
+        <use fill="url(#steam-l)" xlink:href="#steam-k"/>
+        <use fill="#000" filter="url(#steam-m)" xlink:href="#steam-k"/>
+      </g>
+    </g>
+  </g>
+</svg>

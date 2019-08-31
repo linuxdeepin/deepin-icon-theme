@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <radialGradient id="deepin-manual-a" cx="50%" cy="17.574%" r="112.104%" fx="50%" fy="17.574%" gradientTransform="matrix(0 .85714 -1 0 .676 -.253)">
+      <stop offset="0%" stop-color="#04A38C"/>
+      <stop offset="100%" stop-color="#075661"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="12" height="14" x="2" y="1" fill="url(#deepin-manual-a)" rx="1"/>
+    <path fill="#FFF" d="M11,12 L11,13 L10.9863514,12.9989011 L10.9787223,12.9960927 L5,13 C5.04541771,13 5.01468201,12.9739511 5.00335908,12.9843707 L4.99965802,12.996 L5,12 L11,12 Z M5,12 C5.21707053,12.0407014 5.28421382,12 5,12 Z M11,12 C10.7157862,12 10.7829295,12.0407014 11,12 Z M9.80000019,9 L10,11 L6,11 L6.19999981,9 L9.80000019,9 Z M11,7 L11,8 L5,8 L5,7 L11,7 Z M7,5 L7,6 L6,6 L6,5 L7,5 Z M10,5 L10,6 L9,6 L9,5 L10,5 Z M8,2 L10,4 L6,4 L8,2 Z"/>
+    <path fill="#FFF" d="M2,7 L2,4 L5.33333333,5 L5.33333333,6 L2,7 Z M10.6666667,5 L14,4 L14,7 L10.6666667,6 L10.6666667,5 Z" opacity=".3"/>
+  </g>
+</svg>

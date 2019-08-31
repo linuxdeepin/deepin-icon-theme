@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="camera-128px-a" x1="0%" x2="100%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#BBB"/>
+      <stop offset="23.101%" stop-color="#BBB"/>
+      <stop offset="100%" stop-color="#858585"/>
+    </linearGradient>
+    <linearGradient id="camera-128px-b" x1="44.155%" x2="44.155%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ABB5C0"/>
+      <stop offset="100%" stop-color="#7E8A97"/>
+    </linearGradient>
+    <linearGradient id="camera-128px-c" x1="0%" x2="100%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#8D959E"/>
+      <stop offset="4.366%" stop-color="#ABB5C0"/>
+      <stop offset="9.102%" stop-color="#9BA4AD"/>
+      <stop offset="100%" stop-color="#7E8A97"/>
+    </linearGradient>
+    <linearGradient id="camera-128px-d" x1="50%" x2="50%" y1=".269%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <image width="121" height="86" x="4.017" y="23" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAABWCAYAAADrADmqAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAeaADAAQAAAABAAAAVgAAAADxtQ/IAAAEMElEQVR4Ae2dwW7bMBBEk7ZA0EML9P//tG2acmQ/YS1LjhdwbE07BOgllyNqPU90ctPz03Xt+TrZTVVvN93tP97sGnhrmrWcbNzKV4u34K3l13J1r4yvcOA9KMt15suoW5G74rZPFR7jZWQf8swTmw6sgdnKkVek63Y1f+3tAVejxnWuvZhfu290BwdOfAOQluoYs8gp1v4TwQ3jy9gL0MQbbv9PbHUCr3yji/kvRyEwuY55BftpLGqu+BGQP499gVvjSKcVByrQOkZSc+L1BmQEihVwBasxvepvMdY9VYsK/HOMFEsc6bThAH7UqDF9AludUgKoyjOv8XXkMV6atP04IE46eBd/BbUIZGI9vQKsnrZfBzjRYklTDp7TU8CCohbUeTp0gtP274A48acUhnPVy7/JCLiAp2S+IIPdOsBJ5hTP7ARTDbhETvJhNZ8ODnAwYUhc/blGzAPg8AVT4+GfL4EVN8W5VZAs8ATUtfmCDHbrgHhVwPBcPclAnkW7/VoprDpQuZ2w2zqtXFA3yXjfDmwyAzKCZdz310p11QGxUztjCOTD8uknF51mM9urA8A9q+8S5DNxEp4OBLInt1bVgdyyy1McyJ7cWlUHcssuT3Ege3JrVR3ILbs8xYHsya1VdSC37PIUB7Int1bVgdyyy1McyJ7cWlUHcssuT3Ege3JrVR3ILbs8xYHsya1VdSC37PIUB7Int1bVgdyyy1McyJ7cWlUHcssuT3Ege3JrVR3ILbs8xYHsya1VdSC37PIUB7Int1bVgdyyy1McyJ7cWlUHcssuT3Ege3JrVR3ILbs8xYHsya1VdSC37PIUB7Int1bVgdyyy1McyJ7cWlUHcssuT3Ege3JrVR3ILbs8xYHsya1VdSC37PIUB7Int1bVgdyyy1McyJ7cWlUHcssuT3Ege3JrVR3ILbs8xYHsya1VdSC37PIUB7Int1bVgdyyy1McyJ7cWlUHcssuT3Ege3JrVX0J8vzWztaOET/KAfFaZQZkBMuYd0M9ClnvvuIE4CXDs3c1sjXCFxKJu3ZAnGB2VignmQWExO9j4evoOdE4tK8oLuLzbXSYEedK65vQtaiGiFeo/xg56fSmbT0U6to84IcJd26Vjfi8jv579F+ja65eOY7pAd40OH5IgFgbVJhaC+SjUQ8KW5DFSh1+inPjJJOsmwiwLlTj4nqKc5IP3tzzEz7wAK4ih7NqNJ5+hmuRCHQBreYEVqDVAvngwz0/J2jjhvwsKwKYCK+5Lk4yCQRrkAW1dq5JvK8DMFKssDVmrrW5AY0E82WsP9PSaj3tMQ4AENgVLDniVCGwiEoyVqx9uaZ52v0dqJB1d4ASyVHZWwVKUpF8Ha/l6jUZ38cBIOtujIk1RzUzZCUqRARb+S1tvS7jj3GgAuUOazmtTfk1WGs5Nkv0cOAE+l8tYcfgsqBuGQAAAABJRU5ErkJggg=="/>
+    <rect width="21" height="4" x="17" y="27" fill="url(#camera-128px-a)"/>
+    <path fill="url(#camera-128px-b)" d="M11.016667,32.663246 C11.016667,31.1923759 12.21814,30 13.6879047,30 L115.328759,30 C116.804043,30 117.999997,31.1979135 117.999997,32.6632461 L117.999997,96.3534241 C117.999997,97.8242943 116.798524,99.0166702 115.328759,99.0166701 L13.6879047,99.0166671 C12.2126209,99.0166671 11.016667,97.8187536 11.016667,96.353421 L11.016667,32.663246 Z"/>
+    <path fill="url(#camera-128px-c)" d="M11.016667,33.6838281 C11.016667,32.2107957 12.21814,31.016667 13.6879047,31.016667 L115.328759,31.016667 C116.804043,31.016667 117.999997,32.2077168 117.999997,33.6838281 L117.999997,95.3328358 C117.999997,96.8058681 116.798524,97.9999968 115.328759,97.9999968 L13.6879047,97.9999968 C12.2126209,97.9999968 11.016667,96.8089471 11.016667,95.3328358 L11.016667,33.6838281 Z"/>
+    <circle cx="81.683" cy="65.683" r="28" fill="#CDD1D5"/>
+    <path fill="#6B7784" d="M112.35,65.2833347 C112.35,82.9564467 98.0231124,97.6833337 80.3500004,97.9499963 C62.6768884,97.6833337 48.3500004,82.9564467 48.3500004,65.2833347 C48.3500004,65.0605736 48.3522766,64.838344 48.3568069,64.6166681 C48.7116992,81.9820045 62.8996496,95.9500014 80.3500004,95.9500014 C97.8003512,95.9500014 111.988302,81.9820045 112.343194,64.6166681 C112.347724,64.838344 112.35,65.0605736 112.35,65.2833347 Z"/>
+    <circle cx="80.35" cy="64.35" r="32" fill="#CDD1D5"/>
+    <path fill="#DFE4E8" d="M48.3568069,65.016667 C48.3522766,64.7949911 48.3500004,64.5727616 48.3500004,64.3500004 C48.3500004,46.6768884 62.6768884,32.3500004 80.3500004,32.3500004 C98.0231124,32.3500004 112.35,46.6768884 112.35,64.3500004 C112.35,64.5727616 112.347724,64.7949911 112.343194,65.016667 C111.988302,47.6513307 97.8003512,33.6833337 80.3500004,33.6833337 C62.8996496,33.6833337 48.7116992,47.6513307 48.3568069,65.016667 Z"/>
+    <circle cx="80.35" cy="64.35" r="24" fill="#FFF" stroke="#ADACAC" stroke-width="2.667"/>
+    <circle cx="80.35" cy="64.35" r="17.333" fill="#B3B4B5"/>
+    <rect width="21" height="3" x="32" y="36" fill="#7F8FA0" rx="1.5"/>
+    <rect width="21" height="3" x="32" y="35" fill="#E8EEFF" rx="1.5"/>
+    <rect width="21.333" height="16" x="69.683" y="56.35" fill="#615A5E" rx="8"/>
+    <circle cx="109.508" cy="37.508" r="2.492" fill="#2AAB14"/>
+    <circle cx="109.5" cy="37.5" r="1.5" fill="#3DDF23"/>
+    <ellipse cx="109.5" cy="37.15" fill="url(#camera-128px-d)" rx="1" ry="1"/>
+    <g transform="translate(73.683 57.683)">
+      <circle cx="6.667" cy="6.667" r="5.333" fill="#434343"/>
+      <circle cx="6.667" cy="6.667" r="4" fill="#2E2E2E"/>
+      <circle cx="6.667" cy="6.667" r="2.667" fill="#000"/>
+      <path fill="#7ED321" d="M6.66666667,13.3333333 C10.348565,13.3333333 13.3333333,10.348565 13.3333333,6.66666667 C13.3333333,2.98476833 10.348565,0 6.66666667,0 C2.98476833,0 0,2.98476833 0,6.66666667 C0,10.348565 2.98476833,13.3333333 6.66666667,13.3333333 Z" opacity=".256"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="32" viewBox="0 0 33 32">
+  <defs>
+    <linearGradient id="application-x-rar-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#AC92FF"/>
+      <stop offset="100%" stop-color="#804EE2"/>
+    </linearGradient>
+    <path id="application-x-rar-b" d="M15,0 L22,7 L22,22 C22,24.209139 20.209139,26 18,26 L4,26 C1.790861,26 2.705415e-16,24.209139 0,22 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L15,0 Z"/>
+    <filter id="application-x-rar-a" width="131.8%" height="126.9%" x="-15.9%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.538881273   0 0 0 0 0.186318598   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="application-x-rar-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-x-rar-e" d="M15,0 L22,7 L17.25,7 C16.0073593,7 15,5.99264069 15,4.75 L15,0 Z"/>
+    <filter id="application-x-rar-d" width="157.1%" height="157.1%" x="-28.6%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1)">
+    <g transform="translate(5 3)">
+      <use fill="#000" filter="url(#application-x-rar-a)" xlink:href="#application-x-rar-b"/>
+      <use fill="url(#application-x-rar-c)" xlink:href="#application-x-rar-b"/>
+      <path fill="#FFF8F8" fill-opacity=".5" d="M7,12 L7,15 L0,15 L0,12 L7,12 Z M15,12 L22,12 L22,15 L15,15 L15,12 Z"/>
+      <path fill="#F4F4F4" d="M8.5,11 L13.5,11 C13.7761424,11 14,11.2238576 14,11.5 L14,15.5 C14,15.7761424 13.7761424,16 13.5,16 L8.5,16 C8.22385763,16 8,15.7761424 8,15.5 L8,11.5 C8,11.2238576 8.22385763,11 8.5,11 Z M9,12 L9,15 L13,15 L13,12 L9,12 Z M10,13 L12,13 L12,14 L10,14 L10,13 Z"/>
+      <use fill="#000" filter="url(#application-x-rar-d)" xlink:href="#application-x-rar-e"/>
+      <use fill="url(#application-x-rar-f)" xlink:href="#application-x-rar-e"/>
+    </g>
+    <path fill="#FFF" d="M13,26 L12.1666667,26 L10.3888889,24 L10,24 L10,26 L9,26 L9,21 L11,21 L11.5046844,21 C12.3305244,21 13,21.6657972 13,22.5 C13,23.2581275 12.4329331,23.8848923 11.7096057,23.9858064 L13.1551724,25.612069 L15,21 L16,21 L18,26 L17,26 L16.625,25 L14.375,25 L14,26 L13,26 Z M16.25,24 L15.5,22 L14.75,24 L16.25,24 Z M20.7096057,23.9858064 L22.5,26 L21.1666667,26 L19.3888889,24 L19,24 L19,26 L18,26 L18,21 L20,21 L20.5046844,21 C21.3305244,21 22,21.6657972 22,22.5 C22,23.2581275 21.4329331,23.8848923 20.7096057,23.9858064 Z M19,22 L19,23 L20.4953156,23 C20.785965,23 21,22.7761424 21,22.5 C21,22.2319336 20.7740451,22 20.4953156,22 L19,22 Z M10,22 L10,23 L11.4953156,23 C11.785965,23 12,22.7761424 12,22.5 C12,22.2319336 11.7740451,22 11.4953156,22 L10,22 Z"/>
+  </g>
+</svg>

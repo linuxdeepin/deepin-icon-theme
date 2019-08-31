@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="vnd.android.package-archive-c" x1="50%" x2="50%" y1="0%" y2="98.501%">
+      <stop offset="0%" stop-color="#9FCB10"/>
+      <stop offset="100%" stop-color="#73A100"/>
+    </linearGradient>
+    <path id="vnd.android.package-archive-b" d="M116,0 L168,52 L168,190 C168,199.941125 159.941125,208 150,208 L18,208 C8.0588745,208 1.21743675e-15,199.941125 0,190 L0,18 C-1.21743675e-15,8.0588745 8.0588745,1.82615513e-15 18,0 L116,0 Z"/>
+    <filter id="vnd.android.package-archive-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.468184579   0 0 0 0 0.679376132   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="vnd.android.package-archive-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="vnd.android.package-archive-e" d="M116,0 L168,52 L134,52 C124.058875,52 116,43.9411255 116,34 L116,0 Z"/>
+    <filter id="vnd.android.package-archive-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(44 28)">
+      <use fill="#000" filter="url(#vnd.android.package-archive-a)" xlink:href="#vnd.android.package-archive-b"/>
+      <use fill="url(#vnd.android.package-archive-c)" xlink:href="#vnd.android.package-archive-b"/>
+      <use fill="#000" filter="url(#vnd.android.package-archive-d)" xlink:href="#vnd.android.package-archive-e"/>
+      <use fill="url(#vnd.android.package-archive-f)" xlink:href="#vnd.android.package-archive-e"/>
+    </g>
+    <path fill="#FFF" d="M113.865606,95.2778373 C118.01426,93.1943406 122.844407,92 128,92 C133.155593,92 137.98574,93.1943406 142.134394,95.2778373 C142.231852,95.0256595 142.382317,94.7892562 142.585786,94.5857864 L150.585786,86.5857864 C151.366835,85.8047379 152.633165,85.8047379 153.414214,86.5857864 C154.195262,87.366835 154.195262,88.633165 153.414214,89.4142136 L145.538227,97.2902002 C151.917551,101.68918 156,108.435944 156,116 L100,116 C100,108.435944 104.082449,101.68918 110.461773,97.2902002 L102.585786,89.4142136 C101.804738,88.633165 101.804738,87.366835 102.585786,86.5857864 C103.366835,85.8047379 104.633165,85.8047379 105.414214,86.5857864 L113.414214,94.5857864 C113.617683,94.7892562 113.768148,95.0256595 113.865606,95.2778373 Z M132,168 L124,168 L124,181.999824 C124,185.31363 121.306966,188 118,188 C114.686292,188 112,185.313022 112,181.999824 L112,168 L104.004908,168 C101.793059,168 100,166.205948 100,163.990107 L100,120 L156,120 L156,163.990107 C156,166.20471 154.200205,168 151.995092,168 L144,168 L144,181.999824 C144,185.31363 141.306966,188 138,188 C134.686292,188 132,185.313022 132,181.999824 L132,168 Z M84,126.005323 C84,122.688675 86.6930342,120 90,120 C93.3137085,120 96,122.67644 96,126.005323 L96,149.994677 C96,153.311325 93.3069658,156 90,156 C86.6862915,156 84,153.32356 84,149.994677 L84,126.005323 Z M160,126.005323 C160,122.688675 162.693034,120 166,120 C169.313708,120 172,122.67644 172,126.005323 L172,149.994677 C172,153.311325 169.306966,156 166,156 C162.686292,156 160,153.32356 160,149.994677 L160,126.005323 Z M116,108 C118.209139,108 120,106.209139 120,104 C120,101.790861 118.209139,100 116,100 C113.790861,100 112,101.790861 112,104 C112,106.209139 113.790861,108 116,108 Z M140,108 C142.209139,108 144,106.209139 144,104 C144,101.790861 142.209139,100 140,100 C137.790861,100 136,101.790861 136,104 C136,106.209139 137.790861,108 140,108 Z"/>
+  </g>
+</svg>

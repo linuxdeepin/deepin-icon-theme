@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="empty-c" x1="50%" x2="50%" y1="0%" y2="98.947%">
+      <stop offset="0%" stop-color="#F7F7F7"/>
+      <stop offset="100%" stop-color="#F6F6F6"/>
+    </linearGradient>
+    <path id="empty-b" d="M4.0085302,15 C2.8992496,15 2,14.1029399 2,12.9941413 L2,3.00585866 C2,1.89805351 2.90195036,1 4.0085302,1 L11.9914698,1 C13.1007504,1 14,1.89706013 14,3.00585866 L14,12.9941413 C14,14.1019465 13.0980496,15 11.9914698,15 L4.0085302,15 Z"/>
+    <filter id="empty-a" width="150%" height="142.9%" x="-25%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#empty-a)" xlink:href="#empty-b"/>
+    <path fill="url(#empty-c)" stroke="#000" stroke-opacity=".1" d="M4.0085302,15.5 C2.62295066,15.5 1.5,14.3789266 1.5,12.9941413 L1.5,3.00585866 C1.5,1.6225886 2.62512779,0.5 4.0085302,0.5 L11.9914698,0.5 C13.3770493,0.5 14.5,1.62107339 14.5,3.00585866 L14.5,12.9941413 C14.5,14.3774114 13.3748722,15.5 11.9914698,15.5 L4.0085302,15.5 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="text-richtext-c" x1="50%" x2="50%" y1="0%" y2="98.947%">
+      <stop offset="0%" stop-color="#F7F7F7"/>
+      <stop offset="100%" stop-color="#F6F6F6"/>
+    </linearGradient>
+    <path id="text-richtext-b" d="M232,0 L336,104 L336,380 C336,399.882251 319.882251,416 300,416 L36,416 C16.117749,416 2.4348735e-15,399.882251 0,380 L0,36 C-2.4348735e-15,16.117749 16.117749,3.65231026e-15 36,0 L232,0 Z"/>
+    <filter id="text-richtext-a" width="128.6%" height="123.1%" x="-14.3%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="2" result="shadowSpreadOuter1"/>
+      <feOffset dy="8" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="14"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="text-richtext-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-richtext-e" d="M232,0 L336,104 L268,104 C248.117749,104 232,87.882251 232,68 L232,0 Z"/>
+    <filter id="text-richtext-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(88 56)">
+      <use fill="#000" filter="url(#text-richtext-a)" xlink:href="#text-richtext-b"/>
+      <path fill="url(#text-richtext-c)" stroke="#000" stroke-opacity=".1" stroke-width="2" d="M232.414214,-1 L337,103.585786 L337,380 C337,400.434536 320.434536,417 300,417 L36,417 C15.5654643,417 -1,400.434536 -1,380 L-1,36 C-1,15.5654643 15.5654643,-1 36,-1 L232.414214,-1 Z"/>
+      <use fill="#000" filter="url(#text-richtext-d)" xlink:href="#text-richtext-e"/>
+      <use fill="url(#text-richtext-f)" xlink:href="#text-richtext-e"/>
+    </g>
+    <path fill="#7B83D6" d="M368 240L368 248 144 248 144 240 368 240zM368 288L368 296 144 296 144 288 368 288zM368 336L368 344 144 344 144 336 368 336zM256 384L256 392 144 392 144 384 256 384zM264 384L272 384 272 392 264 392 264 384zM208 190L208 188 208 164 208 160 212 160 231.993338 160C240.829115 160 248 167.17247 248 176 248 180.784111 245.90626 185.074856 242.582272 188.005759 245.904077 190.938865 248 195.22756 248 200 248 208.842782 240.846836 216 231.993338 216L212 216 208 216 208 212 208 190zM231.993338 192L216 192 216 208 231.993338 208C236.427543 208 240 204.425519 240 200 240 195.590352 236.410441 192 231.993338 192zM231.993338 168L216 168 216 184 231.993338 184C236.427543 184 240 180.425519 240 176 240 171.590352 236.410441 168 231.993338 168zM152 216L172 160 180.309094 160 200 216 191.600006 216 188.799988 208 163.200012 208 160.399994 216 152 216zM165.600006 200L186.399994 200 176 170.399994 165.600006 200zM280.528261 208C284.97184 208 289.227737 207.142384 292 204L299.333649 207.683461C294.713376 212.92058 287.897659 216 280.528261 216 266.967828 216 256 205.554411 256 192.621106L256 183.378894C256 170.447451 266.926599 160 280.528261 160 287.655091 160 294.299355 162.917687 298.924487 167.903674L292 172C289.217427 169.00033 284.808975 168 280.528261 168 272.356467 168 264 175.591481 264 183.378894L264 192.621106C264 200.402168 272.389004 208 280.528261 208z"/>
+  </g>
+</svg>

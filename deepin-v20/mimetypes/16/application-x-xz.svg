@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="application-x-xz-c" x1="50%" x2="50%" y1="0%" y2="97.687%">
+      <stop offset="0%" stop-color="#666E7B"/>
+      <stop offset="100%" stop-color="#475055"/>
+    </linearGradient>
+    <path id="application-x-xz-b" d="M2.0085302,14 C0.899249601,14 0,13.1029399 0,11.9941413 L0,2.00585866 C0,0.898053512 0.901950359,-3.68622915e-15 2.0085302,-3.85003588e-15 L9.9914698,-5.03174832e-15 C11.1007504,-5.19595484e-15 12,0.897060126 12,2.00585866 L12,11.9941413 C12,13.1019465 11.0980496,14 9.9914698,14 L2.0085302,14 Z"/>
+    <filter id="application-x-xz-a" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.361595344   0 0 0 0 0.418797512   0 0 0 0 0.450973732  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 1)">
+      <use fill="#000" filter="url(#application-x-xz-a)" xlink:href="#application-x-xz-b"/>
+      <use fill="url(#application-x-xz-c)" xlink:href="#application-x-xz-b"/>
+      <path fill="#FFF8F8" fill-opacity=".5" d="M4,4.5 L4,6.5 L0,6.5 L0,4.5 L4,4.5 Z M8,4.5 L12,4.5 L12,6.5 L8,6.5 L8,4.5 Z"/>
+      <path fill="#F4F4F4" d="M4.25,4 L7.75,4 C7.88807119,4 8,4.11192881 8,4.25 L8,6.75 C8,6.88807119 7.88807119,7 7.75,7 L4.25,7 C4.11192881,7 4,6.88807119 4,6.75 L4,4.25 C4,4.11192881 4.11192881,4 4.25,4 Z M5,5 L5,6 L7,6 L7,5 L5,5 Z"/>
+    </g>
+    <path fill="#FFF" fill-rule="nonzero" d="M4,14.208 L5.435,11.527 L4.084,9 L5.477,9 L5.897,9.931 C6.009,10.176 6.128,10.449 6.275,10.785 L6.303,10.785 C6.422,10.449 6.534,10.176 6.639,9.931 L7.017,9 L8.34,9 L6.996,11.583 L8.431,14.208 L7.038,14.208 L6.555,13.193 C6.429,12.92 6.31,12.647 6.17,12.325 L6.142,12.325 C6.016,12.647 5.904,12.92 5.785,13.193 L5.337,14.208 L4,14.208 Z M8.788,14.208 L8.788,13.452 L11.035,10.036 L9.005,10.036 L9.005,9 L12.575,9 L12.575,9.749 L10.328,13.158 L12.596,13.158 L12.596,14.208 L8.788,14.208 Z"/>
+  </g>
+</svg>

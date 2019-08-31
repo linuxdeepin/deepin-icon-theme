@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="deepin-calendar-a" width="127.6%" height="128.6%" x="-13.8%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <rect id="deepin-calendar-b" width="58" height="56" x="0" y="0" rx="12"/>
+    <linearGradient id="deepin-calendar-c" x1="50%" x2="50%" y1="31.469%" y2="99.385%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#F3F3F3"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-calendar-a)" transform="translate(3 4)">
+    <mask id="deepin-calendar-d" fill="#fff">
+      <use xlink:href="#deepin-calendar-b"/>
+    </mask>
+    <use fill="#EE3B67" xlink:href="#deepin-calendar-b"/>
+    <rect width="58" height="28" fill="url(#deepin-calendar-c)" mask="url(#deepin-calendar-d)"/>
+    <text fill="#F22C5F" font-family="PingFangSC-Semibold, PingFang SC" font-size="6.5" font-weight="500" mask="url(#deepin-calendar-d)">
+      <tspan x="5.25" y="9.75">JUE</tspan>
+    </text>
+    <text fill="#8B8B8B" font-family="PingFangSC-Semibold, PingFang SC" font-size="6.5" font-weight="500" mask="url(#deepin-calendar-d)">
+      <tspan x="38.135" y="9.75">2019</tspan>
+    </text>
+    <path fill="#313131" fill-rule="nonzero" d="M17.9168308,28.7608031 C19.4313596,27.8868283 20.4830243,27.1486549 21.0596104,26.5653687 C21.9196168,25.7013648 22.3359604,24.743859 22.3359604,23.6567502 C22.3359604,22.34268 21.9546209,21.3409265 21.195834,20.6028597 C20.4318986,19.859785 19.4054733,19.4853862 18.0729396,19.4853862 C16.092763,19.4853862 14.8014125,20.186328 14.0742716,21.6094364 C13.6698324,22.4017201 13.4358352,23.551923 13.3903038,25.0545526 C13.3780264,25.4597355 13.0460168,25.7818372 12.6406479,25.7818372 L9.30471042,25.7818372 C8.88575519,25.7818372 8.54803756,25.4386168 8.55480837,25.0197163 C8.59314843,22.6476711 9.03987922,20.6877147 9.91002275,19.1436075 C11.4750498,16.3820818 14.2398942,15 18.0911688,15 C21.2822616,15 23.6753334,15.8787357 25.213251,17.6674401 C26.7073084,19.4051323 27.4635646,21.3626898 27.4635646,23.5120042 C27.4635646,25.785675 26.6492806,27.7494315 25.0399393,29.35997 C24.1202347,30.2858579 22.098702,31.6680692 19.8634,32.9060923 C19.8379194,32.9202048 19.8116382,32.9328209 19.7846902,32.9438765 C19.737829,32.9631015 19.6424969,33.0042562 19.505712,33.0666576 C19.2735451,33.1725724 19.0137695,33.2984272 18.7334358,33.443489 C17.9320916,33.8581533 17.1309337,34.3414315 16.3869065,34.8859628 C15.0536953,35.8617003 14.0710837,36.9110922 13.5531069,38 L26.5000229,38 C26.9142365,38 27.2500229,38.3357864 27.2500229,38.75 L27.2500229,41.75 C27.2500229,42.1642136 26.9142365,42.5 26.5000229,42.5 L8.50002292,42.5 C8.06978282,42.5 7.72773641,42.1388188 7.75113266,41.7092154 C7.84245543,40.0323409 8.22699995,38.233513 9.0255914,36.496055 C10.1275771,34.0985165 11.8926941,32.1219229 14.4279263,30.7627844 L17.9168308,28.7608031 Z M31.2500229,19.5 C30.8358094,19.5 30.5000229,19.1642136 30.5000229,18.75 L30.5000229,15.75 C30.5000229,15.3357864 30.8358094,15 31.2500229,15 L49.2500229,15 C49.6642365,15 50.0000229,15.3357864 50.0000229,15.75 L50.0000229,18.75 C50.0000229,18.9510586 49.9192958,19.1436983 49.7759572,19.2846898 C49.033609,20.014882 46.7462581,23.2849492 44.9009511,26.6106873 C42.0919913,31.673186 40.1285563,36.877917 39.4700899,41.8484941 C39.4206927,42.2213797 39.1027287,42.5 38.7265854,42.5 L35.2500229,42.5 C34.787437,42.5 34.4351349,42.0853257 34.5098777,41.628818 C35.0296232,38.4543602 36.0062482,34.7540904 37.4134519,31.0884433 C39.0345549,26.8656066 41.1235915,22.940102 43.7103997,19.5 L31.2500229,19.5 Z" mask="url(#deepin-calendar-d)"/>
+    <polygon fill="#000" fill-opacity=".1" fill-rule="nonzero" points="0 29 58 29 58 28 0 28" mask="url(#deepin-calendar-d)"/>
+    <rect width="2" height="5" x="4" y="26" fill="#C7C7C7" mask="url(#deepin-calendar-d)" rx="1"/>
+    <rect width="2" height="5" x="52" y="26" fill="#C7C7C7" mask="url(#deepin-calendar-d)" rx="1"/>
+  </g>
+</svg>

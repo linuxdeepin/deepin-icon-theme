@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="text-x-changelog-c" x1="50%" x2="50%" y1="0%" y2="98.947%">
+      <stop offset="0%" stop-color="#F7F7F7"/>
+      <stop offset="100%" stop-color="#F6F6F6"/>
+    </linearGradient>
+    <path id="text-x-changelog-b" d="M29,0 L42,13 L42,47.5 C42,49.9852814 39.9852814,52 37.5,52 L4.5,52 C2.01471863,52 3.04359188e-16,49.9852814 0,47.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,4.56538782e-16 4.5,0 L29,0 Z"/>
+    <filter id="text-x-changelog-a" width="133.3%" height="126.9%" x="-16.7%" y="-11.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="text-x-changelog-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-x-changelog-e" d="M29,0 L42,13 L33.5,13 C31.0147186,13 29,10.9852814 29,8.5 L29,0 Z"/>
+    <filter id="text-x-changelog-d" width="153.8%" height="153.8%" x="-26.9%" y="-19.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(11 7)">
+      <use fill="#000" filter="url(#text-x-changelog-a)" xlink:href="#text-x-changelog-b"/>
+      <path fill="url(#text-x-changelog-c)" stroke="#000" stroke-opacity=".1" stroke-width=".5" d="M29.1767767,-0.176776695 L42.1767767,12.8232233 L42.25,13 L42.25,47.5 C42.25,50.1233526 40.1233526,52.25 37.5,52.25 L4.5,52.25 C1.87664744,52.25 -0.25,50.1233526 -0.25,47.5 L-0.25,4.5 C-0.25,1.87664744 1.87664744,-0.25 4.5,-0.25 L29,-0.25 L29.1767767,-0.176776695 Z"/>
+      <use fill="#000" filter="url(#text-x-changelog-d)" xlink:href="#text-x-changelog-e"/>
+      <use fill="url(#text-x-changelog-f)" xlink:href="#text-x-changelog-e"/>
+    </g>
+    <path fill="#7B83D6" fill-rule="nonzero" d="M28.6339734,43.0708989 C29.050658,43.4699341 29.7176416,43.4345592 30.08978,42.9936872 L42.7641611,27.9783588 C43.1203988,27.5563243 43.06706,26.92541 42.6450254,26.5691722 C42.2229909,26.2129345 41.5920766,26.2662734 41.2358389,26.6883079 C41.2358389,26.6883079 29.2641436,40.9052036 29.2641436,40.9052036 L22.6916455,34.6110961 C22.2927649,34.2291109 21.6597481,34.2428073 21.2777628,34.6416879 C20.8957776,35.0405685 20.909474,35.6735853 21.3083545,36.0555705 L28.6339734,43.0708989 Z"/>
+  </g>
+</svg>

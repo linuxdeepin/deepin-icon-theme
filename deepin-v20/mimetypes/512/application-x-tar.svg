@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="application-x-tar-c" x1="50%" x2="50%" y1="0%" y2="99.324%">
+      <stop offset="0%" stop-color="#C5A981"/>
+      <stop offset="100%" stop-color="#BA853A"/>
+    </linearGradient>
+    <path id="application-x-tar-b" d="M232,0 L336,104 L336,380 C336,399.882251 319.882251,416 300,416 L36,416 C16.117749,416 2.4348735e-15,399.882251 0,380 L0,36 C-2.4348735e-15,16.117749 16.117749,3.65231026e-15 36,0 L232,0 Z"/>
+    <filter id="application-x-tar-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="14"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.733333333   0 0 0 0 0.537254902   0 0 0 0 0.258823529  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="application-x-tar-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-x-tar-e" d="M232,0 L336,104 L268,104 C248.117749,104 232,87.882251 232,68 L232,0 Z"/>
+    <filter id="application-x-tar-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(88 56)">
+    <use fill="#000" filter="url(#application-x-tar-a)" xlink:href="#application-x-tar-b"/>
+    <use fill="url(#application-x-tar-c)" xlink:href="#application-x-tar-b"/>
+    <use fill="#000" filter="url(#application-x-tar-d)" xlink:href="#application-x-tar-e"/>
+    <use fill="url(#application-x-tar-f)" xlink:href="#application-x-tar-e"/>
+    <g transform="translate(0 158)">
+      <path fill="#FFF8F8" fill-opacity=".5" d="M144,52 L184,52 L184,28 L144,28 L144,16 L192,16 L192,64 L144,64 L144,52 Z M120,16 L120,64 L0,64 L0,16 L120,16 Z M216,16 L336,16 L336,64 L216,64 L216,16 Z"/>
+      <path fill="#F4F4F4" d="M136,0 L200,0 C204.418278,-8.11624501e-16 208,3.581722 208,8 L208,72 C208,76.418278 204.418278,80 200,80 L136,80 C131.581722,80 128,76.418278 128,72 L128,8 C128,3.581722 131.581722,8.11624501e-16 136,0 Z M136,8 L136,72 L200,72 L200,8 L136,8 Z M136,36 L172,36 L172,44 L136,44 L136,36 Z"/>
+    </g>
+  </g>
+</svg>

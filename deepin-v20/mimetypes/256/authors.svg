@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="authors-c" x1="50%" x2="50%" y1="0%" y2="99.203%">
+      <stop offset="0%" stop-color="#C7D2E3"/>
+      <stop offset="100%" stop-color="#94ACB9"/>
+    </linearGradient>
+    <path id="authors-b" d="M116,0 L168,52 L168,190 C168,199.941125 159.941125,208 150,208 L18,208 C8.0588745,208 1.21743675e-15,199.941125 0,190 L0,18 C-1.21743675e-15,8.0588745 8.0588745,1.82615513e-15 18,0 L116,0 Z"/>
+    <filter id="authors-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.473178788   0 0 0 0 0.625489291   0 0 0 0 0.711163949  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="authors-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="authors-e" d="M116,0 L168,52 L134,52 C124.058875,52 116,43.9411255 116,34 L116,0 Z"/>
+    <filter id="authors-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#FFF" d="M92.7220622,172.034687 C96.9143361,172.034649 159.10776,172.033518 163.301044,172 C163.396992,172.65447 163.471281,173.319993 163.523215,173.996368 C163.523215,174.034688 92.5,174.034688 92.5,174.034688 C92.5516369,173.35714 92.6258969,172.690404 92.7220623,172.034687 Z"/>
+    <g transform="translate(44 28)">
+      <use fill="#000" filter="url(#authors-a)" xlink:href="#authors-b"/>
+      <use fill="url(#authors-c)" xlink:href="#authors-b"/>
+      <use fill="#000" filter="url(#authors-d)" xlink:href="#authors-e"/>
+      <use fill="url(#authors-f)" xlink:href="#authors-e"/>
+    </g>
+    <path fill="#FFF" d="M140.463333,141.481175 C156.451975,145.438721 168.4,157.157283 168.4,174.586957 C168.4,175.919644 167.325483,177 166,177 L90,177 C88.6745166,177 87.6,175.919644 87.6,174.586957 C87.6,157.19293 99.6007198,145.460851 115.551727,141.490133 C108.395683,137.237063 103.6,129.428577 103.6,120.5 C103.6,107.024252 114.524252,96.1 128,96.1 C141.475748,96.1 152.4,107.024252 152.4,120.5 C152.4,129.422313 147.611044,137.226105 140.463333,141.481175 Z M129.709897,140.026446 C139.733982,139.160137 147.6,130.748672 147.6,120.5 C147.6,109.675219 138.824781,100.9 128,100.9 C117.175219,100.9 108.4,109.675219 108.4,120.5 C108.4,130.749546 116.267358,139.161571 126.292666,140.026668 C126.85948,140.008914 127.428687,140 128,140 C128.572291,140 129.142348,140.008839 129.709897,140.026446 Z M126.434721,144.850601 C108.578747,145.411699 93.7516803,155.574807 92.4873568,172.254654 C92.4873568,172.254654 163.510572,172.254654 163.510572,172.216125 C162.235981,155.526013 147.49638,145.407825 129.568628,144.850389 C129.049987,144.883296 128.526944,144.9 128,144.9 C127.47419,144.9 126.952265,144.883368 126.434721,144.850601 Z"/>
+  </g>
+</svg>

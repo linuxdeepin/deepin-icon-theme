@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="image-jpeg-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#28DCB1"/>
+      <stop offset="100%" stop-color="#00AF9D"/>
+    </linearGradient>
+    <path id="image-jpeg-b" d="M21,0 L32,11 L32,34.5 C32,36.9852814 29.9852814,39 27.5,39 L4.5,39 C2.01471863,39 3.04359188e-16,36.9852814 0,34.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,2.23289562e-15 4.5,1.77635684e-15 L21,0 Z"/>
+    <filter id="image-jpeg-a" width="131.2%" height="125.6%" x="-15.6%" y="-10.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.262745098   0 0 0 0 0.71372549   0 0 0 0 0.607843137  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="image-jpeg-f" x1="50%" x2="12.223%" y1="50%" y2="88.513%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="image-jpeg-e" d="M21,0 L32,11 L25.5,11 C23.0147186,11 21,8.98528137 21,6.5 L21,0 Z"/>
+    <filter id="image-jpeg-d" width="163.6%" height="163.6%" x="-31.8%" y="-22.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8 5)">
+      <use fill="#000" filter="url(#image-jpeg-a)" xlink:href="#image-jpeg-b"/>
+      <use fill="url(#image-jpeg-c)" xlink:href="#image-jpeg-b"/>
+      <use fill="#000" filter="url(#image-jpeg-d)" xlink:href="#image-jpeg-e"/>
+      <use fill="url(#image-jpeg-f)" xlink:href="#image-jpeg-e"/>
+    </g>
+    <path fill="#FFF" d="M24,33 L28,33 L28,34 L25,34 L25,35 L27,35 L27,36 L25,36 L25,38 L28,38 L28,39 L24,39 L24,33 Z M21,33 C22.3807119,33 23,34 23,35 C23,36 22.3903379,37 21,37 L20.0011561,37 L20.0011561,39 L19,39 L19,33 L21,33 Z M20,34 L20,36 L21,36 C21.5560877,36 22,35.5549039 22,35 C22,34.4439123 21.5549039,34 21,34 L20,34 Z M17,36.9998351 L17,33 L18,33 L18,36.9998351 C18,38.1061861 17.1086613,39 16,39 C14.8956413,39 14,38.1109231 14,36.9928587 L15,37.0097846 C15,37.5569849 15.4462861,38 16,38 C16.5557548,38 17,37.5545211 17,36.9998351 Z M31.9135474,37 L31,37 L31,36 L32.25,36 L32.5,36 L33.0000001,36 L33,36.491328 C33,36.4914879 33,36.4916477 33,36.4918075 L33,39 L32,39 L32,38.5008921 C31.5829092,38.8144407 31.0640503,39 30.5,39 C29.1178766,39 28,37.8808297 28,36.4951185 L28,35.5048815 C28,34.1193697 29.1136744,33 30.5000001,33 C31.6496846,33 32.6433907,33.7835493 32.9230388,34.8824778 L31.9539249,35.1290915 C31.7863602,34.4706151 31.1895208,34 30.5000001,34 C29.6671043,34 29,34.6705158 29,35.5048815 L29,36.4951185 C29,37.3288037 29.6704204,38 30.5,38 C31.1548162,38 31.7073677,37.584427 31.9135474,37 Z M15.968,30 L15.968,16 L31.968,16 L31.968,30 L15.968,30 Z M31,29 L31,17 L17,17 L17,29 L31,29 Z M17.9999996,27.9930003 L22,19 L24.5,24 L26.256,21.242 L30,27.9930003 L17.9999996,27.9930003 Z"/>
+  </g>
+</svg>

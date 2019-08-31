@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="deepin-terminal-a" width="127.6%" height="130.8%" x="-13.8%" y="-15.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-terminal-b" cx="50%" cy="0%" r="100%" fx="50%" fy="0%" gradientTransform="matrix(0 1 -.89655 0 .5 -.5)">
+      <stop offset="0%" stop-color="#FF774D"/>
+      <stop offset="100%" stop-color="#BA0E55"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-terminal-a)" transform="translate(3 6)">
+    <rect width="58" height="52" fill="url(#deepin-terminal-b)" rx="8"/>
+    <path fill="#FFF0F0" fill-rule="nonzero" d="M34.6363636,29 C35.3894792,29 36,29.6715729 36,30.5 C36,31.3284271 35.3894792,32 34.6363636,32 L34.6363636,32 L21.3636364,32 C20.6105208,32 20,31.3284271 20,30.5 C20,29.6715729 20.6105208,29 21.3636364,29 L21.3636364,29 Z M8.20433165,10.2441935 C8.62175207,9.52861559 9.54022867,9.28691122 10.2558065,9.70433165 L10.2558065,9.70433165 L22.2558065,16.7043316 C23.2480645,17.2831488 23.2480645,18.7168512 22.2558065,19.2956684 L22.2558065,19.2956684 L10.2558065,26.2956684 C9.54022867,26.7130888 8.62175207,26.4713844 8.20433165,25.7558065 C7.78691122,25.0402287 8.02861559,24.1217521 8.74419346,23.7043316 L8.74419346,23.7043316 L18.5890516,17.9614977 L8.74419346,12.2956684 C8.02861559,11.8782479 7.78691122,10.9597713 8.20433165,10.2441935 Z"/>
+  </g>
+</svg>

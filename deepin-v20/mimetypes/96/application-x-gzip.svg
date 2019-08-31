@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="application-x-gzip-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#19BD72"/>
+      <stop offset="100%" stop-color="#00914F"/>
+    </linearGradient>
+    <path id="application-x-gzip-b" d="M42,0 L64,22 L64,69 C64,73.9705627 59.9705627,78 55,78 L9,78 C4.02943725,78 6.08718376e-16,73.9705627 0,69 L0,9 C-6.08718376e-16,4.02943725 4.02943725,4.46579124e-15 9,3.55271368e-15 L42,0 Z"/>
+    <filter id="application-x-gzip-a" width="131.2%" height="125.6%" x="-15.6%" y="-10.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.00784313725   0 0 0 0 0.42745098   0 0 0 0 0.168627451  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="application-x-gzip-f" x1="50%" x2="11.493%" y1="50%" y2="88.683%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-x-gzip-e" d="M42,0 L64,22 L51,22 C46.0294373,22 42,17.9705627 42,13 L42,0 Z"/>
+    <filter id="application-x-gzip-d" width="150%" height="150%" x="-25%" y="-15.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(16 10)">
+      <use fill="#000" filter="url(#application-x-gzip-a)" xlink:href="#application-x-gzip-b"/>
+      <use fill="url(#application-x-gzip-c)" xlink:href="#application-x-gzip-b"/>
+      <use fill="#000" filter="url(#application-x-gzip-d)" xlink:href="#application-x-gzip-e"/>
+      <use fill="url(#application-x-gzip-f)" xlink:href="#application-x-gzip-e"/>
+    </g>
+    <path fill="#FFF8F8" fill-opacity=".5" d="M43,50 L49,50 L49,46 L43,46 L43,43 L53,43 L53,53 L43,53 L43,50 Z M39,43 L39,53 L16,53 L16,43 L39,43 Z M57,43 L80,43 L80,53 L57,53 L57,43 Z"/>
+    <path fill="#F4F4F4" d="M41.5,40 L54.5,40 C55.3284271,40 56,40.6715729 56,41.5 L56,54.5 C56,55.3284271 55.3284271,56 54.5,56 L41.5,56 C40.6715729,56 40,55.3284271 40,54.5 L40,41.5 C40,40.6715729 40.6715729,40 41.5,40 Z M42,42 L42,54 L54,54 L54,42 L42,42 Z M42,47 L48,47 L48,49 L42,49 L42,47 Z"/>
+    <path fill="#FFF" d="M45.8967132,73 L42,73 L42,71 L48,71 L48,79 L46,79 L46,76.8906535 C44.7282531,78.1922519 42.9561944,79 41,79 C37.1340068,79 34,75.8770564 34,71.982167 L34,70.017833 C34,66.1419909 37.1418733,63 41,63 C43.791646,63 46.2016101,64.6284058 47.3254634,67 L45.0009809,67 C44.0898753,65.7831648 42.6387924,65 41,65 C38.2445184,65 36,67.2484911 36,70.017833 L36,71.982167 C36,74.7662074 38.2323014,77 41,77 C43.4085425,77 45.426691,75.2820727 45.8967132,73 L45.8967132,73 Z M50,77 L59,65 L50,65 L50,63 L62,63 L62,65 L53,77 L62,77 L62,79.0323963 L50,79.0323967 L50,77 L50,77 Z"/>
+  </g>
+</svg>

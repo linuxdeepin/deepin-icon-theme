@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="folder-music-48px-a" width="131%" height="136.1%" x="-15.5%" y="-18.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="folder-music-48px-c" x1="50%" x2="50%" y1="0%" y2="37.968%">
+      <stop offset="0%" stop-color="#00B8FF"/>
+      <stop offset="100%" stop-color="#2E5DFF"/>
+    </linearGradient>
+    <path id="folder-music-48px-b" d="M24,2.5 L24,2.5 C24.6039656,4.00991389 26.0663554,5 27.6925824,5 L36.8288288,5 C39.6847878,5 42,7.31521219 42,10.1711712 L42,30.8288288 C42,33.6847878 39.6847878,36 36.8288288,36 L5.17117117,36 C2.31521219,36 -4.13946316e-14,33.6847878 -4.17443857e-14,30.8288288 L-4.35207426e-14,5.17117117 C-4.38704967e-14,2.31521219 2.31521219,-3.23379704e-14 5.17117117,-3.28626015e-14 L20.3074176,-3.10862447e-14 C21.9336446,-3.13849777e-14 23.3960344,0.990086111 24,2.5 Z"/>
+    <linearGradient id="folder-music-48px-g" x1="50%" x2="50%" y1="0%" y2="11.796%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#CEF5FF"/>
+    </linearGradient>
+    <path id="folder-music-48px-f" d="M5.32432432,7.08450704 L36.6756757,7.08450704 C38.5116493,7.08450704 40,8.57285774 40,10.4088314 L40,19.7601827 C40,21.5961563 38.5116493,23.084507 36.6756757,23.084507 L5.32432432,23.084507 C3.4883507,23.084507 2,21.5961563 2,19.7601827 L2,10.4088314 C2,8.57285774 3.4883507,7.08450704 5.32432432,7.08450704 Z"/>
+    <filter id="folder-music-48px-e" width="107.9%" height="120.9%" x="-3.9%" y="-9.5%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="folder-music-48px-h" width="107.9%" height="120.9%" x="-3.9%" y="-9.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="folder-music-48px-i" cx="50%" cy="0%" r="117.613%" fx="50%" fy="0%" gradientTransform="matrix(.06171 .99538 -.63989 .096 .47 -.498)">
+      <stop offset="0%" stop-color="#48D5FF"/>
+      <stop offset="100%" stop-color="#0083F6"/>
+    </radialGradient>
+    <linearGradient id="folder-music-48px-l" x1="52.084%" x2="52.084%" y1="4.908%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".6"/>
+    </linearGradient>
+    <path id="folder-music-48px-k" d="M12,23 C5.92486775,23 1,18.0751322 1,12 C1,5.92486775 5.92486775,1 12,1 C18.0751322,1 23,5.92486775 23,12 C23,18.0751322 18.0751322,23 12,23 Z M12,20 C16.418278,20 20,16.418278 20,12 C20,7.581722 16.418278,4 12,4 C7.581722,4 4,7.581722 4,12 C4,16.418278 7.581722,20 12,20 Z"/>
+    <filter id="folder-music-48px-j" width="127.3%" height="127.3%" x="-9.1%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="folder-music-48px-m" x1="35.769%" x2="18.77%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4B20FF"/>
+      <stop offset="100%" stop-color="#9600F1"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#folder-music-48px-a)" transform="translate(3 8)">
+      <mask id="folder-music-48px-d" fill="#fff">
+        <use xlink:href="#folder-music-48px-b"/>
+      </mask>
+      <use fill="url(#folder-music-48px-c)" xlink:href="#folder-music-48px-b"/>
+      <g mask="url(#folder-music-48px-d)">
+        <use fill="#000" filter="url(#folder-music-48px-e)" xlink:href="#folder-music-48px-f"/>
+        <use fill="url(#folder-music-48px-g)" xlink:href="#folder-music-48px-f"/>
+        <use fill="#000" filter="url(#folder-music-48px-h)" xlink:href="#folder-music-48px-f"/>
+      </g>
+      <g fill="url(#folder-music-48px-i)" mask="url(#folder-music-48px-d)">
+        <path d="M-3.55271368e-15,0.375 L42,0.375 L42,22.2038288 C42,25.0597878 39.6847878,27.375 36.8288288,27.375 L5.17117117,27.375 C2.31521219,27.375 -2.31478116e-15,25.0597878 -2.66453526e-15,22.2038288 L-3.55271368e-15,0.375 Z" transform="translate(0 8.625)"/>
+      </g>
+    </g>
+    <g transform="translate(12 18)">
+      <use fill="#000" filter="url(#folder-music-48px-j)" xlink:href="#folder-music-48px-k"/>
+      <use fill="url(#folder-music-48px-l)" xlink:href="#folder-music-48px-k"/>
+      <circle cx="12" cy="12" r="7" fill="url(#folder-music-48px-m)"/>
+      <path fill="#FFF" d="M14,12.0853529 L14,9.71726114 C14,9.53909343 13.8555665,9.39465997 13.6773988,9.39465997 C13.6515413,9.39465997 13.6257775,9.39776878 13.6006621,9.40391949 L11.2458644,9.98060463 C11.1015202,10.0159542 11,10.1453366 11,10.2939463 L11,14.383673 L10.9955561,14.383673 C10.9985006,14.4220623 11,14.460856 11,14.5 C11,15.3284271 10.3284271,16 9.5,16 C8.67157288,16 8,15.3284271 8,14.5 C8,13.6715729 8.67157288,13 9.5,13 C9.67531771,13 9.84361054,13.0300771 10,13.0853529 L10,9.61291876 C10,9.15015565 10.327601,8.75214348 10.7817305,8.66317116 L13.8461235,8.0628003 C14.3706546,7.96003502 14.8791788,8.30194379 14.9819441,8.8264749 C14.9939532,8.88777125 15,8.95008623 15,9.0125479 L15,13.359184 L14.9934772,13.359184 C14.9977934,13.4055427 15,13.4525136 15,13.5 C15,14.3284271 14.3284271,15 13.5,15 C12.6715729,15 12,14.3284271 12,13.5 C12,12.6715729 12.6715729,12 13.5,12 C13.6753177,12 13.8436105,12.0300771 14,12.0853529 Z"/>
+    </g>
+  </g>
+</svg>

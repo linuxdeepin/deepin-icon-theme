@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="text-x-generic-template-c" x1="50%" x2="50%" y1="0%" y2="98.947%">
+      <stop offset="0%" stop-color="#F7F7F7"/>
+      <stop offset="100%" stop-color="#F6F6F6"/>
+    </linearGradient>
+    <path id="text-x-generic-template-b" d="M116,0 L168,52 L168,190 C168,199.941125 159.941125,208 150,208 L18,208 C8.0588745,208 1.21743675e-15,199.941125 0,190 L0,18 C-1.21743675e-15,8.0588745 8.0588745,1.82615513e-15 18,0 L116,0 Z"/>
+    <filter id="text-x-generic-template-a" width="128.6%" height="123.1%" x="-14.3%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="text-x-generic-template-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-x-generic-template-e" d="M116,0 L168,52 L134,52 C124.058875,52 116,43.9411255 116,34 L116,0 Z"/>
+    <filter id="text-x-generic-template-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(44 28)">
+      <use fill="#000" filter="url(#text-x-generic-template-a)" xlink:href="#text-x-generic-template-b"/>
+      <path fill="url(#text-x-generic-template-c)" stroke="#000" stroke-opacity=".1" d="M116.207107,-0.5 L168.5,51.7928932 L168.5,190 C168.5,200.217268 160.217268,208.5 150,208.5 L18,208.5 C7.78273213,208.5 -0.5,200.217268 -0.5,190 L-0.5,18 C-0.5,7.78273213 7.78273213,-0.5 18,-0.5 L116.207107,-0.5 Z"/>
+      <use fill="#000" filter="url(#text-x-generic-template-d)" xlink:href="#text-x-generic-template-e"/>
+      <use fill="url(#text-x-generic-template-f)" xlink:href="#text-x-generic-template-e"/>
+    </g>
+    <path fill="#6E79E0" d="M184,112 L184,116 L72,116 L72,112 L184,112 Z M184,92 L184,96 L72,96 L72,92 L184,92 Z M144,72 L144,76 L72,76 L72,72 L144,72 Z M184,132 L184,136 L72,136 L72,132 L184,132 Z M184,152 L184,156 L72,156 L72,152 L184,152 Z M184,172 L184,176 L72,176 L72,172 L184,172 Z M128,192 L128,196 L72,196 L72,192 L128,192 Z M132,192 L136,192 L136,196 L132,196 L132,192 L132,192 Z"/>
+  </g>
+</svg>

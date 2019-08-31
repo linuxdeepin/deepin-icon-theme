@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="x-office-spreadsheet-c" x1="50%" x2="50%" y1="0%" y2="98.501%">
+      <stop offset="0%" stop-color="#7FCB10"/>
+      <stop offset="100%" stop-color="#50A100"/>
+    </linearGradient>
+    <path id="x-office-spreadsheet-b" d="M4.0085302,15 C2.8992496,15 2,14.1029399 2,12.9941413 L2,3.00585866 C2,1.89805351 2.90195036,1 4.0085302,1 L11.9914698,1 C13.1007504,1 14,1.89706013 14,3.00585866 L14,12.9941413 C14,14.1019465 13.0980496,15 11.9914698,15 L4.0085302,15 Z"/>
+    <filter id="x-office-spreadsheet-a" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.46370117   0 0 0 0 0.679376132   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#x-office-spreadsheet-a)" xlink:href="#x-office-spreadsheet-b"/>
+    <use fill="url(#x-office-spreadsheet-c)" xlink:href="#x-office-spreadsheet-b"/>
+    <rect width="9" height="9" x="3.5" y="3.5" stroke="#FFF"/>
+    <path stroke="#FFF" d="M6.5,3.5 L6.5,12.5"/>
+    <path fill="#FFF" d="M7.99990016,5.99894851 L7.0001089,5.99894855 L7.00030792,4.99894861 L7.99990016,4.99894851 L7.99972776,4.00001758 L8.99972776,4.00001758 L8.99990016,4.99914134 L9.99990017,4.99947426 L9.99972776,4.00001758 L10.9997278,4 L10.9999002,4.9996495 L11.9999002,5 L11.9997012,8.00033293 L11,8.00033293 L11,12.6474399 L10,12.6474575 L9.99970115,8.00033291 L8.99970114,8 L9,12.6474575 L8,12.6474575 L8,8.00033291 L7.00015429,8.00033293 L7.00005445,6.99894859 L7.99970113,6.99894851 L7.99990016,5.99894851 Z M8.99990016,5.99914134 L9.99990017,5.99947426 L9.99970115,6.99947426 L8.99970114,6.99914134 L8.99990016,5.99914134 Z M10.9999002,5.9996495 L11.9999002,6 L11.9997012,7 L10.9997012,6.9996495 L10.9999002,5.9996495 Z" opacity=".501"/>
+  </g>
+</svg>

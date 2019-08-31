@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="text-x-markdown-c" x1="50%" x2="50%" y1="0%" y2="99.203%">
+      <stop offset="0%" stop-color="#969BEB"/>
+      <stop offset="100%" stop-color="#6B7ABD"/>
+    </linearGradient>
+    <path id="text-x-markdown-b" d="M116,0 L168,52 L168,190 C168,199.941125 159.941125,208 150,208 L18,208 C8.0588745,208 1.21743675e-15,199.941125 0,190 L0,18 C-1.21743675e-15,8.0588745 8.0588745,1.82615513e-15 18,0 L116,0 Z"/>
+    <filter id="text-x-markdown-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.412487457   0 0 0 0 0.432348264   0 0 0 0 0.759369339  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="text-x-markdown-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-x-markdown-e" d="M116,0 L168,52 L134,52 C124.058875,52 116,43.9411255 116,34 L116,0 Z"/>
+    <filter id="text-x-markdown-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(44 28)">
+      <use fill="#000" filter="url(#text-x-markdown-a)" xlink:href="#text-x-markdown-b"/>
+      <use fill="url(#text-x-markdown-c)" xlink:href="#text-x-markdown-b"/>
+      <use fill="#000" filter="url(#text-x-markdown-d)" xlink:href="#text-x-markdown-e"/>
+      <use fill="url(#text-x-markdown-f)" xlink:href="#text-x-markdown-e"/>
+    </g>
+    <path fill="#FFF" d="M88,116 L88,160 L100,160 L100,136 L110,148 L120,136 L120,160 L132,160 L132,116 L120,116 L110,130 L100,116 L88,116 Z M84,104 L172,104 C172,104 180,104 180,112 L180,164 C180,164 180,172 172,172 L84,172 C80,172 76,168 76,164 L76,112 C76,112 76,104 84,104 Z M148,116 L160,116 L160,136 L172,136 L154,160 L136,136 L148,136 L148,116 Z M84,108 C84,108 80,108 80,112 L80,164 C80,166 82,168 84,168 L172,168 C176,168 176,164 176,164 L176,112 C176,108 172,108 172,108 L84,108 Z"/>
+  </g>
+</svg>

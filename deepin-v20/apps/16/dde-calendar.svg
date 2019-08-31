@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <filter id="deepin-calendar-a" width="157.1%" height="153.3%" x="-28.6%" y="-26.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-calendar-b" x1="50%" x2="50%" y1="31.469%" y2="99.385%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#F3F3F3"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-calendar-a)" transform="translate(1 1)">
+    <rect width="14" height="14" fill="#EE3B67" rx="3"/>
+    <path fill="url(#deepin-calendar-b)" d="M3,0 L11,0 C12.6568542,-3.04359188e-16 14,1.34314575 14,3 L14,7 L14,7 L0,7 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z"/>
+    <path fill="#313131" fill-rule="nonzero" d="M1.59,9.73 L4.34,7.07 C4.4200004,6.9899996 4.5033329,6.90500045 4.59,6.815 C4.6766671,6.72499955 4.75499965,6.6300005 4.825,6.53 C4.89500035,6.4299995 4.9533331,6.32500055 5,6.215 C5.0466669,6.10499945 5.07,5.9900006 5.07,5.87 C5.07,5.7233326 5.04166695,5.5933339 4.985,5.48 C4.92833305,5.3666661 4.8533338,5.2700004 4.76,5.19 C4.6666662,5.1099996 4.55833395,5.04833355 4.435,5.005 C4.31166605,4.96166645 4.1800007,4.94 4.04,4.94 C3.7399985,4.94 3.4933343,5.0266658 3.3,5.2 C3.1066657,5.3733342 2.9900002,5.6066652 2.95,5.9 L1.69,5.8 C1.7166668,5.4733317 1.79499935,5.18500125 1.925,4.935 C2.05500065,4.68499875 2.2233323,4.4766675 2.43,4.31 C2.6366677,4.1433325 2.8766653,4.0166671 3.15,3.93 C3.4233347,3.8433329 3.7199984,3.8 4.04,3.8 C4.3600016,3.8 4.65833195,3.84166625 4.935,3.925 C5.21166805,4.00833375 5.4533323,4.13166585 5.66,4.295 C5.8666677,4.45833415 6.0299994,4.6666654 6.15,4.92 C6.2700006,5.1733346 6.33,5.4699983 6.33,5.81 C6.33,6.2566689 6.22833435,6.64166505 6.025,6.965 C5.82166565,7.28833495 5.5600016,7.5966652 5.24,7.89 L3.05,9.92 L6.33,9.92 L6.33,11 L1.59,11 L1.59,9.73 Z M7.34,3.92 L12.15,3.92 L12.15,5.02 L9.32,11 L7.91,11 L10.8,5.06 L7.34,5.06 L7.34,3.92 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="image-ico-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#28DCB1"/>
+      <stop offset="100%" stop-color="#00AF9D"/>
+    </linearGradient>
+    <path id="image-ico-b" d="M15,0 L22,7 L22,22 C22,24.209139 20.209139,26 18,26 L4,26 C1.790861,26 2.705415e-16,24.209139 0,22 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L15,0 Z"/>
+    <filter id="image-ico-a" width="131.8%" height="126.9%" x="-15.9%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.262745098   0 0 0 0 0.71372549   0 0 0 0 0.607843137  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="image-ico-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="image-ico-e" d="M15,0 L22,7 L17.25,7 C16.0073593,7 15,5.99264069 15,4.75 L15,0 Z"/>
+    <filter id="image-ico-d" width="157.1%" height="157.1%" x="-28.6%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(5 3)">
+      <use fill="#000" filter="url(#image-ico-a)" xlink:href="#image-ico-b"/>
+      <use fill="url(#image-ico-c)" xlink:href="#image-ico-b"/>
+      <use fill="#000" filter="url(#image-ico-d)" xlink:href="#image-ico-e"/>
+      <use fill="url(#image-ico-f)" xlink:href="#image-ico-e"/>
+    </g>
+    <path fill="#FFF" fill-rule="nonzero" d="M19,22 C19.5530531,22 20,22.5033972 20,23.1286611 L20,23.8713389 C20,24.4971131 19.5552638,25 19,25 C18.4469469,25 18,24.4966028 18,23.8713389 L18,23.1286611 C18,22.5028869 18.4447362,22 19,22 Z M17,23.9125987 C17,25.0673581 17.8943013,26 19,26 C20.1090605,26 21,25.0671919 21,23.9125987 L21,23.0874013 C21,21.9326419 20.1056987,21 19,21 C17.8909395,21 17,21.9328081 17,23.0874013 L17,23.9125987 Z"/>
+    <path fill="#FFF" d="M15.9531174,22.7851619 L16.791235,22.1565738 C16.4638194,21.4703476 15.7852154,21 15,21 C13.8909395,21 13,21.9328081 13,23.0874013 L13,23.9125987 C13,25.0673581 13.8943013,26 15,26 C15.787455,26 16.4649491,25.5297451 16.7916528,24.8437396 L16.7916528,24.8437396 L15.9533246,24.2149935 C15.8254282,24.6714379 15.4488208,25 15,25 C14.4469469,25 14,24.4966028 14,23.8713389 L14,23.1286611 C14,22.5028869 14.4447362,22 15,22 C15.447022,22 15.824723,22.3288781 15.9531174,22.7851619 L15.9531174,22.7851619 Z"/>
+    <polygon fill="#FFF" points="12 21 12 26 11 26 11 21"/>
+    <path fill="#FFF" d="M11.0177462,19 L11,11 L20.9822538,11 L21,19 L11.0177462,19 Z M12.6700001,17 L15,12.5 L16.5,15 L17.2999992,13.5 L19.3333333,16.9965789 L12.6700001,17 Z M12,18 L20,18 L20,12 L12,12 L12,18 Z"/>
+  </g>
+</svg>

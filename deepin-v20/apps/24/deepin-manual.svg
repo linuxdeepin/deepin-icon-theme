@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <rect id="deepin-manual-b" width="18" height="20" x="0" y="0" rx="2"/>
+    <filter id="deepin-manual-a" width="116.7%" height="115%" x="-8.3%" y="-7.5%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+    </filter>
+    <radialGradient id="deepin-manual-c" cx="50%" cy="17.574%" r="106.765%" fx="50%" fy="17.574%" gradientTransform="matrix(0 .9 -1 0 .676 -.274)">
+      <stop offset="0%" stop-color="#04A38C"/>
+      <stop offset="100%" stop-color="#075661"/>
+    </radialGradient>
+    <linearGradient id="deepin-manual-d" x1="6.146%" x2="0%" y1="65.618%" y2="65.618%">
+      <stop offset="0%" stop-color="#04A38C" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#075661"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(3 2)">
+    <use fill="#000" filter="url(#deepin-manual-a)" xlink:href="#deepin-manual-b"/>
+    <use fill="#000" fill-opacity=".1" xlink:href="#deepin-manual-b"/>
+    <rect width="18" height="20" fill="url(#deepin-manual-c)" rx="2"/>
+    <rect width="18" height="20" fill="url(#deepin-manual-d)" rx="2"/>
+    <path fill="#034849" d="M2,17 L13.2538344,17 L13.2538344,17 L15.9999569,17 C17.0994011,17 17.9926944,16.1125534 17.9999138,15.0131328 L18,15 L18,15 L17.9921063,18.0052532 C17.9892104,19.107768 17.0946318,20 15.9921132,20 L2,20 C1.44771525,20 1,19.5522847 1,19 L1,18 C1,17.4477153 1.44771525,17 2,17 Z"/>
+    <path fill="#D5FCF9" d="M2.5,18 L14.4693878,18 L14.4693878,18 L16,18 C16.8284271,18 17.5,17.3284271 17.5,16.5 L17.5,16.5 L17.5,16.5 L17.5,17 C17.5,18.1045695 16.6045695,19 15.5,19 L2.5,19 C2.22385763,19 2,18.7761424 2,18.5 C2,18.2238576 2.22385763,18 2.5,18 Z"/>
+    <path fill="#FFF" d="M12.578581,14 C12.6684172,14 12.746751,14.0407014 12.7535446,14.0909091 L12.9995595,14.9090909 C13.006353,14.9592986 12.9337658,15 12.8374315,15 L5.16256847,15 C5.06623415,15 4.99364699,14.9592986 5.00044051,14.9090909 L5.24645544,14.0909091 C5.25324895,14.0407014 5.33158279,14 5.42141896,14 L12.578581,14 Z M11.1666667,9 L12,13 L6,13 L6.83333333,9 L11.1666667,9 Z M12,7 L12,8 L6,8 L6,7 L12,7 Z M7,5 L7,6 L6,6 L6,5 L7,5 Z M12,5 L12,6 L11,6 L11,5 L12,5 Z M10,5 L10,6 L8,6 L8,5 L10,5 Z M9.03846154,1 C9.33584563,1 9.57692308,1.2265547 9.57692308,1.5060241 C9.57692308,1.78549349 9.33584563,2.01204819 9.03846154,2.01204819 L9.03539773,2.01204017 L12,3 L12,4 L6,4 L6,3 L8.9799889,2.00909911 C8.71010835,1.98171114 8.5,1.76692622 8.5,1.5060241 C8.5,1.2265547 8.74107744,1 9.03846154,1 Z"/>
+    <path fill="#FFF" d="M0,7 L0,4 L5,5 L5,6 L0,7 Z M13,5 L18,4 L18,7 L13,6 L13,5 Z" opacity=".3"/>
+  </g>
+</svg>

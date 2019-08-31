@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="32" viewBox="0 0 33 32">
+  <defs>
+    <linearGradient id="application-x-7zip-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#5C42B1"/>
+      <stop offset="99.345%" stop-color="#3E1888"/>
+    </linearGradient>
+    <path id="application-x-7zip-b" d="M15,0 L22,7 L22,22 C22,24.209139 20.209139,26 18,26 L4,26 C1.790861,26 2.705415e-16,24.209139 0,22 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L15,0 Z"/>
+    <filter id="application-x-7zip-a" width="131.8%" height="126.9%" x="-15.9%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.241013895   0 0 0 0 0   0 0 0 0 0.621603261  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="application-x-7zip-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-x-7zip-e" d="M15,0 L22,7 L17.25,7 C16.0073593,7 15,5.99264069 15,4.75 L15,0 Z"/>
+    <filter id="application-x-7zip-d" width="157.1%" height="157.1%" x="-28.6%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1)">
+    <g transform="translate(5 3)">
+      <use fill="#000" filter="url(#application-x-7zip-a)" xlink:href="#application-x-7zip-b"/>
+      <use fill="url(#application-x-7zip-c)" xlink:href="#application-x-7zip-b"/>
+      <path fill="#FFF8F8" fill-opacity=".5" d="M7,12 L7,15 L0,15 L0,12 L7,12 Z M15,12 L22,12 L22,15 L15,15 L15,12 Z"/>
+      <path fill="#F4F4F4" d="M8.5,11 L13.5,11 C13.7761424,11 14,11.2238576 14,11.5 L14,15.5 C14,15.7761424 13.7761424,16 13.5,16 L8.5,16 C8.22385763,16 8,15.7761424 8,15.5 L8,11.5 C8,11.2238576 8.22385763,11 8.5,11 Z M9,12 L9,15 L13,15 L13,12 L9,12 Z M10,13 L12,13 L12,14 L10,14 L10,13 Z"/>
+      <use fill="#000" filter="url(#application-x-7zip-d)" xlink:href="#application-x-7zip-e"/>
+      <use fill="url(#application-x-7zip-f)" xlink:href="#application-x-7zip-e"/>
+    </g>
+    <path fill="#FFF" d="M11,21 L11,22 L13.8999996,22 L11.8999996,27 L13,27 L15,22 L15,21 L11,21 Z M16,22 L16,23 L18.6666666,23 L16,26 L16,27 L20,27 L20,26 L17.3333334,26 L20,23 L20,22 L16,22 Z"/>
+  </g>
+</svg>

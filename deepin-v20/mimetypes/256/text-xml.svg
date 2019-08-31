@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="text-xml-c" x1="50%" x2="50%" y1="0%" y2="98.547%">
+      <stop offset="0%" stop-color="#DC3C99"/>
+      <stop offset="100%" stop-color="#CD3474"/>
+    </linearGradient>
+    <path id="text-xml-b" d="M116,0 L168,52 L168,190 C168,199.941125 159.941125,208 150,208 L18,208 C8.0588745,208 1.21743675e-15,199.941125 0,190 L0,18 C-1.21743675e-15,8.0588745 8.0588745,1.82615513e-15 18,0 L116,0 Z"/>
+    <filter id="text-xml-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.920884284   0 0 0 0 0.0193547135   0 0 0 0 0.46292854  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="text-xml-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-xml-e" d="M116,0 L168,52 L134,52 C124.058875,52 116,43.9411255 116,34 L116,0 Z"/>
+    <filter id="text-xml-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(44 28)">
+      <use fill="#000" filter="url(#text-xml-a)" xlink:href="#text-xml-b"/>
+      <use fill="url(#text-xml-c)" xlink:href="#text-xml-b"/>
+      <use fill="#000" filter="url(#text-xml-d)" xlink:href="#text-xml-e"/>
+      <use fill="url(#text-xml-f)" xlink:href="#text-xml-e"/>
+    </g>
+    <path fill="#AE3D92" d="M68,136 L100,114 L100,122 L74,140 L100,158 L100,166 L68,144 L68,136 Z M188,136 L188,144 L156,166 L156,158 L182,140 L156,122 L156,114 L188,136 Z M138.272,114 L146,114 L116,165.978734 L108,165.978734 L138.272,114 Z"/>
+    <path fill="#FFECFA" d="M68,134 L100,112 L100,120 L74,138 L100,156 L100,164 L68,142 L68,134 Z M188,134 L188,142 L156,164 L156,156 L182,138 L156,120 L156,112 L188,134 Z M138.272,112 L146,112 L116,163.978734 L108,163.978734 L138.272,112 Z"/>
+    <path fill="#FFF" d="M144.845682,114 L138.272,114 L109.164784,163.978734 L108,163.978734 L138.272,112 L146,112 L144.845682,114 Z M188,136 L156,114 L156,112 L188,134 L188,136 Z M156,158 L156,156 L180.555556,139 L182,140 L156,158 Z M100,114 L68,136 L68,134 L100,112 L100,114 Z M75.4444444,139 L100,156 L100,158 L74,140 L75.4444444,139 Z"/>
+  </g>
+</svg>

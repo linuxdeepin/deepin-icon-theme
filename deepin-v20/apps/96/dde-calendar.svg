@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="deepin-calendar-a" width="128.6%" height="130%" x="-14.3%" y="-15%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <rect id="deepin-calendar-b" width="84" height="80" x="0" y="0" rx="14"/>
+    <linearGradient id="deepin-calendar-c" x1="50%" x2="50%" y1="31.469%" y2="99.385%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#F3F3F3"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#deepin-calendar-a)" transform="translate(6 8)">
+      <mask id="deepin-calendar-d" fill="#fff">
+        <use xlink:href="#deepin-calendar-b"/>
+      </mask>
+      <use fill="#EE3B67" xlink:href="#deepin-calendar-b"/>
+      <rect width="84" height="39" fill="url(#deepin-calendar-c)" mask="url(#deepin-calendar-d)"/>
+      <text fill="#F22C5F" font-family="PingFangSC-Semibold, PingFang SC" font-size="11" font-weight="500" mask="url(#deepin-calendar-d)">
+        <tspan x="5" y="15">JUE</tspan>
+      </text>
+      <text fill="#8B8B8B" font-family="PingFangSC-Semibold, PingFang SC" font-size="11" font-weight="500" mask="url(#deepin-calendar-d)">
+        <tspan x="54.19" y="15">2019</tspan>
+      </text>
+      <polygon fill="#000" fill-opacity=".1" fill-rule="nonzero" points="0 40 84 40 84 39 0 39" mask="url(#deepin-calendar-d)"/>
+      <rect width="2.5" height="5" x="3" y="37" fill="#C7C7C7" mask="url(#deepin-calendar-d)" rx="1.25"/>
+      <rect width="2.5" height="5" x="79" y="37" fill="#C7C7C7" mask="url(#deepin-calendar-d)" rx="1.25"/>
+    </g>
+    <path fill="#313131" fill-rule="nonzero" d="M32.9246472,49.0149279 C34.9989691,47.8072537 36.4393451,46.7872322 37.2290463,45.9812367 C38.4069242,44.7873405 38.9771548,43.4642415 38.9771548,41.9620548 C38.9771548,40.1462487 38.4548663,38.7620075 37.4156202,37.7421334 C36.3693225,36.7153393 34.9635148,36.1979882 33.1384562,36.1979882 C30.426376,36.1979882 28.6577226,37.1665624 27.6618193,39.1330393 C27.1078931,40.2278314 26.787407,41.8172027 26.7250465,43.8935636 C26.7082311,44.4534526 26.2535057,44.8985386 25.6983063,44.8985386 L21.1293552,44.8985386 C20.5555477,44.8985386 20.0930045,44.4242705 20.1022779,43.8454261 C20.154789,40.5676909 20.7666383,37.8593876 21.9584002,35.7257121 C24.1018853,31.9097857 27.8886585,30 33.1634231,30 C37.5339927,30 40.8115806,31.2142529 42.917936,33.6859172 C44.96422,36.0870919 46,38.7920805 46,41.7620421 C46,44.9038419 44.8847442,47.6173962 42.6805657,49.8428676 C41.4209242,51.1222764 38.652202,53.032241 35.5906981,54.7429639 C35.5557995,54.7624648 35.5198045,54.7798979 35.482896,54.7951747 C35.4187143,54.8217403 35.2881459,54.8786086 35.1008032,54.964836 C34.7828239,55.111191 34.4270312,55.2850994 34.0430819,55.4855484 C32.9455486,56.0585391 31.8482705,56.7263417 30.8292395,57.478785 C29.003253,58.8270768 27.6574531,60.2771456 26.9480241,61.7818182 L44.6803186,61.7818182 C45.2476318,61.7818182 45.7075301,62.245814 45.7075301,62.8181818 L45.7075301,66.9636364 C45.7075301,67.5360042 45.2476318,68 44.6803186,68 L20.0272429,68 C19.4379794,68 18.9695074,67.5009133 19.0015513,66.9072794 C19.1266284,64.5901437 19.6533064,62.1044907 20.7470695,59.7036397 C22.256366,56.3906774 24.6738973,53.6593844 28.1461901,51.7813021 L32.9246472,49.0149279 Z M51.0384615,36.2181818 C50.4649351,36.2181818 50,35.754186 50,35.1818182 L50,31.0363636 C50,30.4639958 50.4649351,30 51.0384615,30 L75.9615385,30 C76.5350649,30 77,30.4639958 77,31.0363636 L77,35.1818182 C77,35.4596446 76.888224,35.7258376 76.6897551,35.9206622 C75.6618885,36.9296552 72.4947871,41.4482934 69.9397466,46.0438588 C66.0504178,53.0393116 63.3318154,60.2313035 62.4200927,67.0997374 C62.3516966,67.6149974 61.9114387,68 61.390625,68 L56.5769231,68 C55.9364195,68 55.4486166,67.4269955 55.5521066,66.7961849 C56.2717543,62.4096613 57.6240043,57.2965613 59.5724401,52.2313035 C61.8170442,46.3961109 64.7095565,40.9717773 68.291291,36.2181818 L51.0384615,36.2181818 Z"/>
+  </g>
+</svg>

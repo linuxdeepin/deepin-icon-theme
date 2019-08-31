@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="257" height="256" viewBox="0 0 257 256">
+  <defs>
+    <linearGradient id="application-x-ace-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#19BD72"/>
+      <stop offset="100%" stop-color="#00914F"/>
+    </linearGradient>
+    <path id="application-x-ace-b" d="M116,0 L168,52 L168,190 C168,199.941125 159.941125,208 150,208 L18,208 C8.0588745,208 1.21743675e-15,199.941125 0,190 L0,18 C-1.21743675e-15,8.0588745 8.0588745,1.82615513e-15 18,0 L116,0 Z"/>
+    <filter id="application-x-ace-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.00784313725   0 0 0 0 0.42745098   0 0 0 0 0.168627451  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="application-x-ace-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-x-ace-e" d="M116,0 L168,52 L134,52 C124.058875,52 116,43.9411255 116,34 L116,0 Z"/>
+    <filter id="application-x-ace-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1)">
+    <g transform="translate(44 28)">
+      <use fill="#000" filter="url(#application-x-ace-a)" xlink:href="#application-x-ace-b"/>
+      <use fill="url(#application-x-ace-c)" xlink:href="#application-x-ace-b"/>
+      <use fill="#000" filter="url(#application-x-ace-d)" xlink:href="#application-x-ace-e"/>
+      <use fill="url(#application-x-ace-f)" xlink:href="#application-x-ace-e"/>
+      <g transform="translate(0 79)">
+        <path fill="#FFF8F8" fill-opacity=".5" d="M72,26 L92,26 L92,14 L72,14 L72,8 L96,8 L96,32 L72,32 L72,26 Z M60,8 L60,32 L0,32 L0,8 L60,8 Z M108,8 L168,8 L168,32 L108,32 L108,8 Z"/>
+        <path fill="#F4F4F4" d="M68,0 L100,0 C102.209139,-4.05812251e-16 104,1.790861 104,4 L104,36 C104,38.209139 102.209139,40 100,40 L68,40 C65.790861,40 64,38.209139 64,36 L64,4 C64,1.790861 65.790861,4.05812251e-16 68,0 Z M68,4 L68,36 L100,36 L100,4 L68,4 Z M68,18 L86,18 L86,22 L68,22 L68,18 Z"/>
+      </g>
+    </g>
+    <path fill="#FFF" d="M146.10326,176.226708 L142.595708,178.231024 C140.415988,175.620931 137.370246,174 134,174 C127.372583,174 122,180.268014 122,188 C122,195.731986 127.372583,202 134,202 C137.028649,202 139.795242,200.691001 141.906794,198.531483 L145.773636,200.188701 C142.849668,203.761491 138.657204,206 134,206 C125.163444,206 118,197.941125 118,188 C118,178.058875 125.163444,170 134,170 C138.835184,170 143.169428,172.412872 146.10326,176.226708 Z M82,206 L98,170 L102,170 L118,206 L113.399994,206 L109.600006,198 L90.4000015,198 L86.5999985,206 L82,206 Z M100.095238,174 L92,194 L108,194 L100.095238,174 Z M150,206 L150,170 L173.999999,170 L174,174 L154,174 L154,186 L170,186 L170,190 L154,190 L154,202 L173.999999,202 L174,206 L150,206 Z"/>
+  </g>
+</svg>

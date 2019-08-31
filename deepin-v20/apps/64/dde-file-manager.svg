@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="dde-filemanager-64px-a" width="144.6%" height="137.3%" x="-22.3%" y="-17.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="dde-filemanager-64px-b" x1="50%" x2="50%" y1="0%" y2="37.968%">
+      <stop offset="0%" stop-color="#00B8FF"/>
+      <stop offset="100%" stop-color="#2E5DFF"/>
+    </linearGradient>
+    <path id="dde-filemanager-64px-d" d="M4.46291256,15.4355463 C4.44562519,13.2308514 6.21735449,11.44117 8.42870073,11.4381693 L47.0795086,11.3857233 C49.2870403,11.3827279 51.0906824,13.1764715 51.1078999,15.3722528 L51.3780174,49.8209166 C51.3953047,52.0256114 49.6235754,53.8152929 47.4122292,53.8182935 L8.7614213,53.8707395 C6.55388961,53.8737349 4.75024751,52.0799913 4.73303004,49.88421 L4.46291256,15.4355463 Z"/>
+    <filter id="dde-filemanager-64px-c" width="112.8%" height="114.1%" x="-6.4%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <rect id="dde-filemanager-64px-f" width="46.2" height="41.568" x="5.6" y="13.409" rx="3.99"/>
+    <filter id="dde-filemanager-64px-e" width="113%" height="114.4%" x="-6.5%" y="-7.2%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <radialGradient id="dde-filemanager-64px-i" cx="50%" cy="25.527%" r="96.89%" fx="50%" fy="25.527%" gradientTransform="matrix(0 1 -.71834 0 .683 -.245)">
+      <stop offset="0%" stop-color="#48D5FF"/>
+      <stop offset="100%" stop-color="#0056FF"/>
+    </radialGradient>
+    <path id="dde-filemanager-64px-h" d="M0,18.7727273 L56,18.7727273 L56,53.6788902 C56,56.617658 53.6116643,59 50.6811695,59 L5.31883053,59 C2.38132154,59 0,56.6189477 0,53.6788902 L0,18.7727273 Z"/>
+    <filter id="dde-filemanager-64px-g" width="112.5%" height="117.4%" x="-6.2%" y="-11.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="dde-filemanager-64px-j" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#4ABFFF"/>
+    </linearGradient>
+    <linearGradient id="dde-filemanager-64px-m" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#B1E4FF"/>
+    </linearGradient>
+    <circle id="dde-filemanager-64px-l" cx="28.5" cy="30.136" r="6"/>
+    <filter id="dde-filemanager-64px-k" width="133.3%" height="133.3%" x="-16.7%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0392156863   0 0 0 0 0.454901961   0 0 0 0 0.949019608  0 0 0 0.3 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#dde-filemanager-64px-a)" transform="translate(4 2)">
+    <path fill="url(#dde-filemanager-64px-b)" d="M0,19.3991125 L0,13.6150467 C0,12.1458361 1.09986632,10.4982169 2.46527855,9.93139181 L23.1377095,1.34962234 C25.8545399,0.22178148 30.2496091,0.22143147 32.9722628,1.35629813 L53.5447323,9.93139181 C54.9007392,10.4966077 56,12.1467587 56,13.6150467 L56,19.3991125 L56,53.679809 C56,56.6180694 53.6116643,59 50.6811695,59 L5.31883053,59 C2.38132154,59 0,56.6119683 0,53.679809 L0,19.3991125 Z"/>
+    <g transform="rotate(-8 27.92 32.628)">
+      <use fill="#000" filter="url(#dde-filemanager-64px-c)" xlink:href="#dde-filemanager-64px-d"/>
+      <use fill="#FF517F" xlink:href="#dde-filemanager-64px-d"/>
+    </g>
+    <use fill="#000" filter="url(#dde-filemanager-64px-e)" xlink:href="#dde-filemanager-64px-f"/>
+    <use fill="#FFF" xlink:href="#dde-filemanager-64px-f"/>
+    <use fill="#000" filter="url(#dde-filemanager-64px-g)" xlink:href="#dde-filemanager-64px-h"/>
+    <use fill="url(#dde-filemanager-64px-i)" xlink:href="#dde-filemanager-64px-h"/>
+    <path fill="url(#dde-filemanager-64px-j)" stroke="#FFF" stroke-opacity=".4" stroke-width="3" d="M32,31.8409091 L32,30.8409091 C32,31.3931938 32.4477153,31.8409091 33,31.8409091 L32,31.8409091 Z M24.5,31.8409091 L23.5,31.8409091 C24.0522847,31.8409091 24.5,31.3931938 24.5,30.8409091 L24.5,31.8409091 Z M31,32.8409091 L31,31.3409091 L32.5,32.8409091 L31,32.8409091 Z M25.5,32.8409091 L24,32.8409091 L25.5,31.3409091 L25.5,32.8409091 Z"/>
+    <use fill="#000" filter="url(#dde-filemanager-64px-k)" xlink:href="#dde-filemanager-64px-l"/>
+    <circle cx="28.5" cy="30.136" r="5.5" fill="url(#dde-filemanager-64px-m)" stroke="#FFF" stroke-linejoin="square" stroke-opacity=".4"/>
+    <ellipse cx="28.667" cy="30.17" fill="#00BFFF" stroke="#FFF" stroke-opacity=".4" rx="2.5" ry="2.511"/>
+  </g>
+</svg>

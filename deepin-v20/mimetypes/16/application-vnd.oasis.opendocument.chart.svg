@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="application-vnd.oasis.opendocument.chart-c" x1="50%" x2="50%" y1="0%" y2="99.372%">
+      <stop offset="0%" stop-color="#FFBC2A"/>
+      <stop offset="100%" stop-color="#E77B00"/>
+    </linearGradient>
+    <path id="application-vnd.oasis.opendocument.chart-b" d="M2.0085302,14 C0.899249601,14 0,13.1029399 0,11.9941413 L0,2.00585866 C0,0.898053512 0.901950359,1.64284137e-15 2.0085302,1.47903464e-15 L9.9914698,2.97322196e-16 C11.1007504,1.33115682e-16 12,0.897060126 12,2.00585866 L12,11.9941413 C12,13.1019465 11.0980496,14 9.9914698,14 L2.0085302,14 Z"/>
+    <filter id="application-vnd.oasis.opendocument.chart-a" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.874509804   0 0 0 0 0.498039216   0 0 0 0 0.0588235294  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 1)">
+      <use fill="#000" filter="url(#application-vnd.oasis.opendocument.chart-a)" xlink:href="#application-vnd.oasis.opendocument.chart-b"/>
+      <use fill="url(#application-vnd.oasis.opendocument.chart-c)" xlink:href="#application-vnd.oasis.opendocument.chart-b"/>
+    </g>
+    <path fill="#FFF" d="M8,13 C5.243,13 3,10.757 3,8 C3,5.243 5.243,3 8,3 C10.757,3 13,5.243 13,8 C13,10.757 10.757,13 8,13 L8,13 Z M8,4 C5.79466667,4 4,5.79422222 4,8 C4,10.2057778 5.79466667,12 8,12 C10.2053333,12 12,10.2057778 12,8 C12,5.79422222 10.2053333,4 8,4 L8,4 Z"/>
+    <path fill="#FFF" d="M7.29452835,10.9579184 C7.46741483,10.9855897 7.64500773,11 7.82609009,11 C9.57597242,11 11,9.65433333 11,8 L8,8 C8,8 7.29452835,11 7.29452835,10.9579184 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <filter id="deepin-archive-manager-a" width="128.6%" height="133.7%" x="-14.3%" y="-16.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-archive-manager-b" x1="50%" x2="50%" y1="4.032%" y2="61.468%">
+      <stop offset="0%" stop-color="#FF7253"/>
+      <stop offset="100%" stop-color="#FD3A80"/>
+    </linearGradient>
+    <rect id="deepin-archive-manager-c" width="112" height="32.5" x="0" y="0" rx="7.84"/>
+    <filter id="deepin-archive-manager-d" width="100.9%" height="103.1%" x="-.4%" y="-1.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 0.818966124   0 0 0 0 0.615720274  0 0 0 0.31678868 0"/>
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.173896416 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-archive-manager-e" x1="50%" x2="50%" y1=".726%" y2="48.178%">
+      <stop offset="0%" stop-color="#1B85D5"/>
+      <stop offset="100%" stop-color="#0762FF"/>
+    </linearGradient>
+    <rect id="deepin-archive-manager-f" width="112" height="32.5" x="0" y="32.5" rx="7.84"/>
+    <filter id="deepin-archive-manager-g" width="100.9%" height="103.1%" x="-.4%" y="-1.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.638429995   0 0 0 0 0.734341815   0 0 0 0 0.990036232  0 0 0 0.5 0"/>
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-archive-manager-h" x1="50%" x2="50%" y1="0%" y2="65.425%">
+      <stop offset="0%" stop-color="#3BBF8B"/>
+      <stop offset="100%" stop-color="#028D76"/>
+    </linearGradient>
+    <rect id="deepin-archive-manager-i" width="112" height="32.5" x="0" y="65" rx="7.84"/>
+    <filter id="deepin-archive-manager-j" width="100.9%" height="103.1%" x="-.4%" y="-1.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.777637435   0 0 0 0 1   0 0 0 0 0.760918445  0 0 0 0.172694493 0"/>
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.13786604 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-archive-manager-m" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4C4D52"/>
+      <stop offset="100%" stop-color="#27282C"/>
+    </linearGradient>
+    <path id="deepin-archive-manager-l" d="M88.62,0 C89.1612391,-9.94240014e-17 89.6,0.438760945 89.6,0.98 L89.6,97.02 C89.6,97.5612391 89.1612391,98 88.62,98 L71.5886957,98 C71.0474566,98 70.6086957,97.5612391 70.6086957,97.02 L70.6086957,0.98 C70.6086957,0.438760945 71.0474566,4.09622689e-15 71.5886957,0 L88.62,0 Z M80.1043478,72.1724138 C78.7932719,72.1724138 77.7304348,73.2531058 77.7304348,74.5862069 C77.7304348,75.919308 78.7932719,77 80.1043478,77 C81.4154238,77 82.4782609,75.919308 82.4782609,74.5862069 C82.4782609,73.2531058 81.4154238,72.1724138 80.1043478,72.1724138 Z M80.1043478,50.4482759 C78.7932719,50.4482759 77.7304348,51.5289678 77.7304348,52.862069 C77.7304348,54.1951701 78.7932719,55.2758621 80.1043478,55.2758621 C81.4154238,55.2758621 82.4782609,54.1951701 82.4782609,52.862069 C82.4782609,51.5289678 81.4154238,50.4482759 80.1043478,50.4482759 Z M80.1043478,27.7586207 C78.7932719,27.7586207 77.7304348,28.8393127 77.7304348,30.1724138 C77.7304348,31.5055149 78.7932719,32.5862069 80.1043478,32.5862069 C81.4154238,32.5862069 82.4782609,31.5055149 82.4782609,30.1724138 C82.4782609,28.8393127 81.4154238,27.7586207 80.1043478,27.7586207 Z"/>
+    <filter id="deepin-archive-manager-k" width="110.5%" height="102%" x="-2.6%" y="-.5%" filterUnits="objectBoundingBox">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0816761364 0"/>
+    </filter>
+    <linearGradient id="deepin-archive-manager-n" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#37393E"/>
+      <stop offset="100%" stop-color="#2A2C30"/>
+    </linearGradient>
+    <path id="deepin-archive-manager-o" d="M88.62,0.492462312 C89.1612391,0.492462312 89.6,0.931223257 89.6,1.47246231 L89.6,96.5275377 C89.6,97.0687767 89.1612391,97.5075377 88.62,97.5075377 L71.5886957,97.5075377 C71.0474566,97.5075377 70.6086957,97.0687767 70.6086957,96.5275377 L70.6086957,1.47246231 C70.6086957,0.931223257 71.0474566,0.492462312 71.5886957,0.492462312 L88.62,0.492462312 Z M80.1043478,72.1677792 C78.7932719,72.1677792 77.7304348,73.248255 77.7304348,74.5810895 C77.7304348,75.913924 78.7932719,76.9943999 80.1043478,76.9943999 C81.4154238,76.9943999 82.4782609,75.913924 82.4782609,74.5810895 C82.4782609,73.248255 81.4154238,72.1677792 80.1043478,72.1677792 Z M80.1043478,50.4479862 C78.7932719,50.4479862 77.7304348,51.528462 77.7304348,52.8612965 C77.7304348,54.194131 78.7932719,55.2746069 80.1043478,55.2746069 C81.4154238,55.2746069 82.4782609,54.194131 82.4782609,52.8612965 C82.4782609,51.528462 81.4154238,50.4479862 80.1043478,50.4479862 Z M80.1043478,27.7628691 C78.7932719,27.7628691 77.7304348,28.8433449 77.7304348,30.1761794 C77.7304348,31.5090139 78.7932719,32.5894897 80.1043478,32.5894897 C81.4154238,32.5894897 82.4782609,31.5090139 82.4782609,30.1761794 C82.4782609,28.8433449 81.4154238,27.7628691 80.1043478,27.7628691 Z"/>
+    <filter id="deepin-archive-manager-p" width="105.3%" height="101%" x="-2.6%" y="-.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.106807255 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-archive-manager-s" x1="50%" x2="50%" y1="0%" y2="99.52%">
+      <stop offset="0%" stop-color="#EEE"/>
+      <stop offset="100%" stop-color="#AFAFAF"/>
+    </linearGradient>
+    <path id="deepin-archive-manager-r" d="M91.0486957,20.6834171 C92.1311738,20.6834171 93.0086957,21.560939 93.0086957,22.6434171 L93.0086957,40.8842211 C93.0086957,41.9666992 92.1311738,42.8442211 91.0486957,42.8442211 L69.4034783,42.8442211 C68.3210002,42.8442211 67.4434783,41.9666992 67.4434783,40.8842211 L67.4434783,22.6434171 C67.4434783,21.560939 68.3210002,20.6834171 69.4034783,20.6834171 L91.0486957,20.6834171 Z M87.0576812,25.7418615 L73.3944928,25.7418615 C72.8532537,25.7418615 72.4144928,26.1806224 72.4144928,26.7218615 L72.4144928,26.7218615 L72.4144928,37.046655 C72.4144928,37.5878941 72.8532537,38.026655 73.3944928,38.026655 L73.3944928,38.026655 L87.0576812,38.026655 C87.5989202,38.026655 88.0376812,37.5878941 88.0376812,37.046655 L88.0376812,37.046655 L88.0376812,26.7218615 C88.0376812,26.1806224 87.5989202,25.7418615 87.0576812,25.7418615 L87.0576812,25.7418615 Z"/>
+    <filter id="deepin-archive-manager-q" width="115.6%" height="118%" x="-7.8%" y="-4.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.10270979 0"/>
+    </filter>
+    <filter id="deepin-archive-manager-t" width="111.7%" height="113.5%" x="-5.9%" y="-2.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.41482736 0"/>
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.472118433   0 0 0 0 0.472118433   0 0 0 0 0.472118433  0 0 0 0.3105059 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-archive-manager-w" x1="50%" x2="50%" y1="1.673%" y2="100%">
+      <stop offset="0%" stop-color="#EAEAEA"/>
+      <stop offset="31.25%" stop-color="#F3F3F3"/>
+      <stop offset="67.742%" stop-color="#D2D2D2"/>
+      <stop offset="100%" stop-color="#9F9F9F"/>
+    </linearGradient>
+    <path id="deepin-archive-manager-v" d="M81.0736957,23.1457286 C81.4796249,23.1457286 81.8086957,23.4747994 81.8086957,23.8807286 L81.8089948,31.8164031 C81.3697948,32.2408073 80.7680872,32.5025126 80.1043478,32.5025126 C79.4403511,32.5025126 78.8384342,32.2406042 78.3991899,31.8159093 L78.4,23.8807286 C78.4,23.4747994 78.7290707,23.1457286 79.135,23.1457286 L81.0736957,23.1457286 Z"/>
+    <filter id="deepin-archive-manager-u" width="217.4%" height="142.7%" x="-58.7%" y="-10.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.636860281   0 0 0 0 0.636860281   0 0 0 0 0.636860281  0 0 0 0.13633632 0"/>
+    </filter>
+    <filter id="deepin-archive-manager-x" width="188%" height="132.1%" x="-44%" y="-5.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.255915987   0 0 0 0 0.255915987   0 0 0 0 0.255915987  0 0 0 0.120274257 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-archive-manager-a)" transform="translate(8 15)">
+    <use fill="url(#deepin-archive-manager-b)" xlink:href="#deepin-archive-manager-c"/>
+    <use fill="#000" filter="url(#deepin-archive-manager-d)" xlink:href="#deepin-archive-manager-c"/>
+    <use fill="url(#deepin-archive-manager-e)" xlink:href="#deepin-archive-manager-f"/>
+    <use fill="#000" filter="url(#deepin-archive-manager-g)" xlink:href="#deepin-archive-manager-f"/>
+    <use fill="url(#deepin-archive-manager-h)" xlink:href="#deepin-archive-manager-i"/>
+    <use fill="#000" filter="url(#deepin-archive-manager-j)" xlink:href="#deepin-archive-manager-i"/>
+    <use fill="#000" filter="url(#deepin-archive-manager-k)" xlink:href="#deepin-archive-manager-l"/>
+    <use fill="url(#deepin-archive-manager-m)" xlink:href="#deepin-archive-manager-l"/>
+    <use fill="url(#deepin-archive-manager-n)" xlink:href="#deepin-archive-manager-o"/>
+    <use fill="#000" filter="url(#deepin-archive-manager-p)" xlink:href="#deepin-archive-manager-o"/>
+    <use fill="#000" filter="url(#deepin-archive-manager-q)" xlink:href="#deepin-archive-manager-r"/>
+    <use fill="url(#deepin-archive-manager-s)" xlink:href="#deepin-archive-manager-r"/>
+    <use fill="#000" filter="url(#deepin-archive-manager-t)" xlink:href="#deepin-archive-manager-r"/>
+    <use fill="#000" filter="url(#deepin-archive-manager-u)" xlink:href="#deepin-archive-manager-v"/>
+    <use fill="url(#deepin-archive-manager-w)" xlink:href="#deepin-archive-manager-v"/>
+    <use fill="#000" filter="url(#deepin-archive-manager-x)" xlink:href="#deepin-archive-manager-v"/>
+    <rect width="14.122" height="14.528" x="8.035" y="9.111" fill="#000" fill-opacity=".1" rx="1.225"/>
+    <rect width="17.043" height="1.477" x="25.636" y="23" fill="#000" fill-opacity=".1" rx=".245"/>
+    <rect width="17.043" height="1.477" x="25.565" y="54.663" fill="#000" fill-opacity=".1" rx=".245"/>
+    <rect width="17.043" height="1.477" x="25.565" y="87.658" fill="#000" fill-opacity=".1" rx=".245"/>
+    <rect width="11.93" height="1.477" x="25.565" y="19.206" fill="#000" fill-opacity=".1" rx=".245"/>
+    <rect width="11.93" height="1.477" x="25.565" y="51.955" fill="#000" fill-opacity=".1" rx=".245"/>
+    <rect width="11.93" height="1.477" x="25.565" y="84.704" fill="#000" fill-opacity=".1" rx=".245"/>
+    <rect width="11.93" height="1.477" x="25.565" y="16.497" fill="#000" fill-opacity=".1" rx=".245"/>
+    <rect width="11.93" height="1.477" x="25.565" y="49" fill="#000" fill-opacity=".1" rx=".245"/>
+    <rect width="11.93" height="1.477" x="25.565" y="81.749" fill="#000" fill-opacity=".1" rx=".245"/>
+    <rect width="14.122" height="14.528" x="8.035" y="41.859" fill="#000" fill-opacity=".1" rx="1.225"/>
+    <rect width="14.122" height="14.528" x="8.035" y="74.608" fill="#000" fill-opacity=".1" rx="1.225"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="text-x-chdr-c" x1="50%" x2="50%" y1="0%" y2="99.628%">
+      <stop offset="0%" stop-color="#FF4BB4"/>
+      <stop offset="98.915%" stop-color="#F6237B"/>
+    </linearGradient>
+    <path id="text-x-chdr-b" d="M4.0085302,15 C2.8992496,15 2,14.1029399 2,12.9941413 L2,3.00585866 C2,1.89805351 2.90195036,1 4.0085302,1 L11.9914698,1 C13.1007504,1 14,1.89706013 14,3.00585866 L14,12.9941413 C14,14.1019465 13.0980496,15 11.9914698,15 L4.0085302,15 Z"/>
+    <filter id="text-x-chdr-a" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.920884284   0 0 0 0 0.0193547135   0 0 0 0 0.46292854  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#text-x-chdr-a)" xlink:href="#text-x-chdr-b"/>
+    <use fill="url(#text-x-chdr-c)" xlink:href="#text-x-chdr-b"/>
+    <path fill="#FFF" d="M8,8 L8,12 L7,12 L7,3 L8,3 L8,7 L10.0010434,7 C10.5527519,7 11,7.44371665 11,7.99980749 L11,12 L10,12 L10,8.49047852 C10,8.21959471 9.78596497,8 9.49531555,8 L8,8 Z M6,11 L6,12 L5,12 L5,11 L6,11 Z"/>
+  </g>
+</svg>

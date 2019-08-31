@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="deepin-calculator-a" width="128.6%" height="128.6%" x="-14.3%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-calculator-b" cx="50%" cy="9.268%" r="92.618%" fx="50%" fy="9.268%">
+      <stop offset="0%" stop-color="#35DCFF"/>
+      <stop offset="100%" stop-color="#0068FF"/>
+    </radialGradient>
+    <linearGradient id="deepin-calculator-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-calculator-a)" transform="translate(2 2)">
+    <path fill="url(#deepin-calculator-b)" d="M4,0 L24,0 C26.209139,-4.05812251e-16 28,1.790861 28,4 L28,24 C28,26.209139 26.209139,28 24,28 L4,28 C1.790861,28 2.705415e-16,26.209139 0,24 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z"/>
+    <path fill="url(#deepin-calculator-c)" d="M28,14 L28,24 C28,26.209139 26.209139,28 24,28 L14,28 L14,14 L28,14 Z M24,21 L18,21 L18,22 L24,22 L24,21 Z M24,19 L18,19 L18,20 L24,20 L24,19 Z M14,0 L14,14 L0,14 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L14,0 Z M8,4 L7,4 L7,6 L5,6 L5,7 L7,7 L7,9 L8,9 L8,7 L10,7 L10,6 L8,6 L8,4 Z"/>
+    <path fill="#FFF" d="M5,2 L5,4 L7,4 L7,5 L5,5 L5,7 L4,7 L4,5 L2,5 L2,4 L4,4 L4,2 L5,2 Z" transform="rotate(45 -13.314 16.121)"/>
+    <rect width="6" height="1" fill="#FFF" transform="translate(18 7)"/>
+  </g>
+</svg>

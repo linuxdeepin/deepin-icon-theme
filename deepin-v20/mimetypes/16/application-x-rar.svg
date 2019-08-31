@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="application-x-rar-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#AC92FF"/>
+      <stop offset="100%" stop-color="#804EE2"/>
+    </linearGradient>
+    <path id="application-x-rar-a" d="M2.0085302,14 C0.899249601,14 0,13.1029399 0,11.9941413 L0,2.00585866 C0,0.898053512 0.901950359,1.64284137e-15 2.0085302,1.47903464e-15 L9.9914698,2.97322196e-16 C11.1007504,1.33115682e-16 12,0.897060126 12,2.00585866 L12,11.9941413 C12,13.1019465 11.0980496,14 9.9914698,14 L2.0085302,14 Z"/>
+    <filter id="application-x-rar-b" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.538881273   0 0 0 0 0.186318598   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 1)">
+      <mask id="application-x-rar-d" fill="#fff">
+        <use xlink:href="#application-x-rar-a"/>
+      </mask>
+      <use fill="#000" filter="url(#application-x-rar-b)" xlink:href="#application-x-rar-a"/>
+      <use fill="url(#application-x-rar-c)" xlink:href="#application-x-rar-a"/>
+      <path fill="#FFF8F8" fill-opacity=".5" d="M4,4.5 L4,6.5 L0,6.5 L0,4.5 L4,4.5 Z M8,4.5 L12,4.5 L12,6.5 L8,6.5 L8,4.5 Z" mask="url(#application-x-rar-d)"/>
+      <path fill="#F4F4F4" d="M4.25,4 L7.75,4 C7.88807119,4 8,4.11192881 8,4.25 L8,6.75 C8,6.88807119 7.88807119,7 7.75,7 L4.25,7 C4.11192881,7 4,6.88807119 4,6.75 L4,4.25 C4,4.11192881 4.11192881,4 4.25,4 Z M5,5 L5,6 L7,6 L7,5 L5,5 Z" mask="url(#application-x-rar-d)"/>
+    </g>
+    <g fill="#FFF" transform="translate(2 9)">
+      <path d="M6.7625 4L4.7375 4 4.4 5 3.5 5 5.3 0 6.2 0 8 5 7.1 5 6.7625 4zM6.425 3L5.75 1 5.075 3 6.425 3zM11.5555556 1.5C11.5555556.665797234 10.9604662 0 10.2263862 0L9.77777778 0 8 0 8 5 9 5 9 3 9.2345679 3 10.8148148 5 12 5 10.4085384 2.9858064C11.051496 2.8848923 11.5555556 2.25812752 11.5555556 1.5zM10.2180583 1C10.4658178 1 10.6666667 1.23193359 10.6666667 1.5 10.6666667 1.77614237 10.4764133 2 10.2180583 2L9 2 9 1 10.2180583 1z"/>
+      <path d="M3.55555556,1.5 C3.55555556,0.665797234 2.96046615,0 2.22638618,0 L1.77777778,0 L0,0 L0,5 L1,5 L1,3 L1.2345679,3 L2.81481481,5 L4,5 L2.40853839,2.9858064 C3.05149604,2.8848923 3.55555556,2.25812752 3.55555556,1.5 Z M2.21805827,1 C2.46581785,1 2.66666667,1.23193359 2.66666667,1.5 C2.66666667,1.77614237 2.4764133,2 2.21805827,2 L1,2 L1,1 L2.21805827,1 Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <filter id="deepin-font-installer-a" width="127.8%" height="123.5%" x="-13.9%" y="-11.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-font-installer-c" x1="14.427%" x2="86.996%" y1="0%" y2="101%">
+      <stop offset="0%" stop-color="#FCE7FF"/>
+      <stop offset="100%" stop-color="#9A8FFF"/>
+    </linearGradient>
+    <path id="deepin-font-installer-b" d="M0,23.9901198 C0,10.7407425 10.7413851,0 24.007149,0 L169.992851,0 C183.251633,0 194,10.7465977 194,23.9901198 L194,206.00988 C194,219.259258 183.258615,230 169.992851,230 L24.007149,230 C10.7483667,230 0,219.253402 0,206.00988 L0,23.9901198 Z"/>
+    <path id="deepin-font-installer-e" d="M184,0.5 L184,0.5 L184,0.5 L184,24.5 C184,37.754834 173.254834,48.5 160,48.5 L12,48.5 C5.372583,48.5 8.11624501e-16,43.127417 0,36.5 C-8.11624501e-16,29.872583 5.372583,24.5 12,24.5 L160,24.5 C173.254834,24.5 184,13.754834 184,0.5 Z"/>
+    <filter id="deepin-font-installer-f" width="106%" height="122.9%" x="-3%" y="-11.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="3"/>
+      <feOffset dy="3" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.401261592   0 0 0 0 0.0444680498   0 0 0 0 0.898607337  0 0 0 0.3 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-font-installer-a)" transform="translate(31 13)">
+    <mask id="deepin-font-installer-d" fill="#fff">
+      <use xlink:href="#deepin-font-installer-b"/>
+    </mask>
+    <use fill="url(#deepin-font-installer-c)" xlink:href="#deepin-font-installer-b"/>
+    <path fill="#000" fill-rule="nonzero" d="M46,170.054711 L46,168.053836 C54.2619546,168.053836 60.9595922,161.356198 60.9595922,153.094244 L60.9595922,47.0008754 L60.9595922,47.0008754 L46,47.0008754 L46,45 L139.746778,45 L139.746778,77.0140061 L138.749472,77.0140061 C138.749472,60.4382117 125.312135,47.0008754 108.736341,47.0008754 L80.9057151,47.0008754 L80.9057151,47.0008754 L80.9057151,103.025386 L86.8237895,103.025386 C98.4268456,103.025386 107.832981,93.6192507 107.832981,82.0161946 L107.832981,82.0161946 L107.832981,82.0161946 L108.830287,82.0161946 L108.830287,131.037641 L107.832981,131.037641 C107.832981,118.329532 97.5310232,108.027575 84.8229142,108.027575 L80.9057151,108.027575 L80.9057151,108.027575 L80.9057151,153.094244 C80.9057151,161.356198 87.6033527,168.053836 95.8653073,168.053836 L95.8653073,168.053836 L95.8653073,168.053836 L95.8653073,170.054711 L46,170.054711 Z" mask="url(#deepin-font-installer-d)"/>
+    <g mask="url(#deepin-font-installer-d)">
+      <g transform="translate(11 176.5)">
+        <g stroke-linejoin="round">
+          <use fill="#FFF" xlink:href="#deepin-font-installer-e"/>
+          <use fill="#000" filter="url(#deepin-font-installer-f)" xlink:href="#deepin-font-installer-e"/>
+          <path stroke="#000" stroke-opacity=".2" d="M184.5,0.5 L184.5,24.5 C184.5,38.0309764 173.530976,49 160,49 L12,49 C5.09644063,49 -0.5,43.4035594 -0.5,36.5 C-0.5,29.5964406 5.09644063,24 12,24 L160,24 C172.978692,24 183.5,13.4786916 183.5,0.5 L184.5,0.5 Z"/>
+        </g>
+        <path stroke="#6D41BF" d="M2.5,28.75 L160,28.75 C173.254834,28.75 184,18.004834 184,4.75 L184,2 L184,2" opacity=".2"/>
+        <path stroke="#6D41BF" d="M5,26.75 L160,26.75 C173.254834,26.75 184,16.004834 184,2.75 L184,0 L184,0" opacity=".2"/>
+        <path stroke="#6D41BF" d="M0.5,32.75 L160,32.75 C173.254834,32.75 184,22.004834 184,8.75 L184,6 L184,6" opacity=".2"/>
+        <path stroke="#6D41BF" d="M1,30.75 L160,30.75 C173.254834,30.75 184,20.004834 184,6.75 L184,4 L184,4" opacity=".2"/>
+        <path stroke="#6D41BF" d="M0,34.75 L160,34.75 C173.254834,34.75 184,24.004834 184,10.75 L184,8 L184,8" opacity=".2"/>
+        <path stroke="#6D41BF" d="M0,36.75 L160,36.75 C173.254834,36.75 184,26.004834 184,12.75 L184,10 L184,10" opacity=".2"/>
+        <path stroke="#6D41BF" d="M0.5,38.75 L160,38.75 C173.254834,38.75 184,28.004834 184,14.75 L184,12 L184,12" opacity=".2"/>
+        <path stroke="#6D41BF" d="M1,40.75 L160,40.75 C173.254834,40.75 184,30.004834 184,16.75 L184,14 L184,14" opacity=".2"/>
+        <path stroke="#6D41BF" d="M2.5,42.75 L160,42.75 C173.254834,42.75 184,32.004834 184,18.75 L184,16 L184,16" opacity=".2"/>
+        <path stroke="#6D41BF" d="M2.5,44.75 L160,44.75 C173.254834,44.75 184,34.004834 184,20.75 L184,18 L184,18" opacity=".2"/>
+        <path stroke="#6D41BF" d="M5,46.75 L160,46.75 C173.254834,46.75 184,36.004834 184,22.75 L184,20 L184,20" opacity=".2"/>
+      </g>
+    </g>
+  </g>
+</svg>

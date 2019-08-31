@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <radialGradient id="deepin-system-monitor-a" cx="38.256%" cy="21.126%" r="100.21%" fx="38.256%" fy="21.126%">
+      <stop offset="0%" stop-color="#665AFF"/>
+      <stop offset="100%" stop-color="#4300D7"/>
+    </radialGradient>
+    <radialGradient id="deepin-system-monitor-b" cx="50%" cy="52.28%" r="54.424%" fx="50%" fy="52.28%">
+      <stop offset="0%" stop-color="#00D8FF"/>
+      <stop offset="100%" stop-color="#3D00B5"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="8" cy="8" r="7" fill="url(#deepin-system-monitor-a)"/>
+    <circle cx="8" cy="8" r="5.5" fill="url(#deepin-system-monitor-b)"/>
+    <polygon fill="#FFF" points="7 13.5 9 13.5 9 14 7 14" opacity=".5"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-width=".5" d="M10.5240754,13.1678311 C12.4344248,12.2330238 13.75,10.2701464 13.75,8 C13.75,4.82436269 11.1756373,2.25 8,2.25 C4.82436269,2.25 2.25,4.82436269 2.25,8 C2.25,10.2751446 3.57137455,12.2416656 5.48855121,13.1739906" opacity=".504"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-width=".5" d="M8,2.25 C4.82436269,2.25 2.25,4.82436269 2.25,8 C2.25,10.2751446 3.57137455,12.2416656 5.48855121,13.1739906"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" d="M3.5,8.92109321 C3.5,8.92109321 3.83333333,9.73689171 4.5,9.73689171 C6,9.73689171 5.5,5.25 7,5.25 C8.5,5.25 7.66666667,9.73689171 9.16666667,9.73689171 C10.1666667,9.73689171 9.66666667,7.69739548 10.5,7.69739548 C11.3333333,7.69739548 10.6666667,9.94084133 12.5,9.73689171"/>
+  </g>
+</svg>

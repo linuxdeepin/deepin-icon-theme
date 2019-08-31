@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="vnd.android.package-archive-c" x1="50%" x2="50%" y1="0%" y2="98.501%">
+      <stop offset="0%" stop-color="#9FCB10"/>
+      <stop offset="100%" stop-color="#73A100"/>
+    </linearGradient>
+    <path id="vnd.android.package-archive-b" d="M232,0 L336,104 L336,380 C336,399.882251 319.882251,416 300,416 L36,416 C16.117749,416 2.4348735e-15,399.882251 0,380 L0,36 C-2.4348735e-15,16.117749 16.117749,3.65231026e-15 36,0 L232,0 Z"/>
+    <filter id="vnd.android.package-archive-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="14"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.468184579   0 0 0 0 0.679376132   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="vnd.android.package-archive-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="vnd.android.package-archive-e" d="M232,0 L336,104 L268,104 C248.117749,104 232,87.882251 232,68 L232,0 Z"/>
+    <filter id="vnd.android.package-archive-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(88 56)">
+      <use fill="#000" filter="url(#vnd.android.package-archive-a)" xlink:href="#vnd.android.package-archive-b"/>
+      <use fill="url(#vnd.android.package-archive-c)" xlink:href="#vnd.android.package-archive-b"/>
+      <use fill="#000" filter="url(#vnd.android.package-archive-d)" xlink:href="#vnd.android.package-archive-e"/>
+      <use fill="url(#vnd.android.package-archive-f)" xlink:href="#vnd.android.package-archive-e"/>
+    </g>
+    <path fill="#FFF" d="M227.731212,190.555675 C236.028519,186.388681 245.688814,184 256,184 C266.311186,184 275.971481,186.388681 284.268788,190.555675 C284.463705,190.051319 284.764633,189.578512 285.171573,189.171573 L301.171573,173.171573 C302.73367,171.609476 305.26633,171.609476 306.828427,173.171573 C308.390524,174.73367 308.390524,177.26633 306.828427,178.828427 L291.076454,194.5804 C303.835102,203.37836 312,216.871888 312,232 L200,232 C200,216.871888 208.164898,203.37836 220.923546,194.5804 L205.171573,178.828427 C203.609476,177.26633 203.609476,174.73367 205.171573,173.171573 C206.73367,171.609476 209.26633,171.609476 210.828427,173.171573 L226.828427,189.171573 C227.235367,189.578512 227.536295,190.051319 227.731212,190.555675 Z M264,336 L248,336 L248,363.999649 C248,370.62726 242.628874,376 236,376 C229.372583,376 224,370.626044 224,363.999649 L224,336 L208.009817,336 C203.586117,336 200,332.411895 200,328.000754 L200,240 L312,240 L312,328.000754 C312,332.418616 308.416125,336 303.990183,336 L288,336 L288,363.999649 C288,370.62726 282.628874,376 276,376 C269.372583,376 264,370.626044 264,363.999649 L264,336 Z M168,251.990396 C168,245.368283 173.371126,240 180,240 C186.627417,240 192,245.382257 192,251.990396 L192,300.009604 C192,306.631717 186.628874,312 180,312 C173.372583,312 168,306.617743 168,300.009604 L168,251.990396 Z M320,251.990396 C320,245.368283 325.371126,240 332,240 C338.627417,240 344,245.382257 344,251.990396 L344,300.009604 C344,306.631717 338.628874,312 332,312 C325.372583,312 320,306.617743 320,300.009604 L320,251.990396 Z M232,216 C236.418278,216 240,212.418278 240,208 C240,203.581722 236.418278,200 232,200 C227.581722,200 224,203.581722 224,208 C224,212.418278 227.581722,216 232,216 Z M280,216 C284.418278,216 288,212.418278 288,208 C288,203.581722 284.418278,200 280,200 C275.581722,200 272,203.581722 272,208 C272,212.418278 275.581722,216 280,216 Z"/>
+  </g>
+</svg>

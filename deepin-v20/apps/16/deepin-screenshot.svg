@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="deepin-screenshot&amp;record-a" x1="50%" x2="50%" y1="0%" y2="96.107%">
+      <stop offset="0%" stop-color="#F0EDFF"/>
+      <stop offset="100%" stop-color="#BBA7F6"/>
+    </linearGradient>
+    <linearGradient id="deepin-screenshot&amp;record-b" x1="39.277%" x2="39.277%" y1="15.304%" y2="105.982%">
+      <stop offset="0%" stop-color="#6B6386"/>
+      <stop offset="72.102%" stop-color="#302B42"/>
+      <stop offset="100%" stop-color="#72639E"/>
+    </linearGradient>
+    <radialGradient id="deepin-screenshot&amp;record-c" cx="50%" cy="91.243%" r="23.464%" fx="50%" fy="91.243%" gradientTransform="matrix(0 1 -1.57176 0 1.934 .412)">
+      <stop offset="0%" stop-color="#8462FF"/>
+      <stop offset="100%" stop-color="#232129"/>
+    </radialGradient>
+    <circle id="deepin-screenshot&amp;record-d" cx="5" cy="5" r="3"/>
+    <linearGradient id="deepin-screenshot&amp;record-e" x1="100%" x2="0%" y1="27.849%" y2="67.669%">
+      <stop offset="0%" stop-color="#4B003F"/>
+      <stop offset="14.589%" stop-color="#33036D"/>
+      <stop offset="51.448%" stop-color="#C30B9D"/>
+      <stop offset="80.605%" stop-color="#591A85"/>
+      <stop offset="100%" stop-color="#470437"/>
+    </linearGradient>
+    <linearGradient id="deepin-screenshot&amp;record-f" x1="50%" x2="50%" y1="0%" y2="50%">
+      <stop offset="0%" stop-color="#FEE" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#FF578A" stop-opacity=".7"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 2)">
+    <path fill="url(#deepin-screenshot&amp;record-a)" d="M9.37241533,0 C9.87162123,-3.13041944e-16 10.3295004,0.277315233 10.5607611,0.719723458 L10.999,1.559 L12,1.56 C13.1045695,1.56 14,2.4554305 14,3.56 L14,10 C14,11.1045695 13.1045695,12 12,12 L2,12 C0.8954305,12 1.3527075e-16,11.1045695 0,10 L0,3.56 C-1.3527075e-16,2.4554305 0.8954305,1.56 2,1.56 L3.001,1.559 L3.43923893,0.719723458 C3.6704996,0.277315233 4.12837877,3.13747242e-16 4.62758467,0 L9.37241533,0 Z"/>
+    <ellipse cx="12.5" cy="3.524" fill="#D91B19" rx="1" ry="1"/>
+    <g transform="translate(1.852 1.6)">
+      <circle cx="5" cy="5" r="5" fill="url(#deepin-screenshot&amp;record-b)"/>
+      <use fill="url(#deepin-screenshot&amp;record-c)" xlink:href="#deepin-screenshot&amp;record-d"/>
+      <circle cx="5" cy="5" r="3.5" stroke="#000"/>
+      <circle cx="5" cy="5" r="2.5" stroke="#FFF" stroke-linejoin="square" stroke-opacity=".05"/>
+      <circle cx="5" cy="5" r="2" fill="url(#deepin-screenshot&amp;record-e)"/>
+      <circle cx="5" cy="5" r="1" fill="#38000E"/>
+      <ellipse cx="4.009" cy="3.225" fill="url(#deepin-screenshot&amp;record-f)" opacity=".5" rx="1.509" ry="1.405"/>
+    </g>
+  </g>
+</svg>

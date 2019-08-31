@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="user-trash-empty-opened-96px-a" width="131.6%" height="131.6%" x="-15.8%" y="-15.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="user-trash-empty-opened-96px-b" d="M3.51027203,0 L72.489728,-1.33226763e-15 C74.1465822,-1.63662682e-15 75.489728,1.34314575 75.489728,3 C75.489728,3.15651903 75.4774789,3.31279804 75.4530929,3.46740572 L65.6105142,65.8696229 C64.690407,71.7031274 59.6626765,76 53.7570544,76 L22.2429456,76 C16.3373235,76 11.309593,71.7031274 10.3894858,65.8696229 L0.54690707,3.46740572 C0.288766022,1.83078444 1.40624504,0.294776087 3.04286632,0.0366350381 C3.19747399,0.0122490749 3.353753,3.13737655e-15 3.51027203,3.10862447e-15 Z"/>
+    <filter id="user-trash-empty-opened-96px-c" width="143.4%" height="144.7%" x="-21.7%" y="-22.4%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="8" result="shadowSpreadInner1"/>
+      <feGaussianBlur in="shadowSpreadInner1" result="shadowBlurInner1" stdDeviation="8"/>
+      <feOffset dy="-10" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation="1"/>
+      <feOffset dy="2" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#user-trash-empty-opened-96px-a)" transform="translate(10 10)">
+    <use fill="#BFC7DC" fill-opacity=".8" xlink:href="#user-trash-empty-opened-96px-b"/>
+    <use fill="#000" filter="url(#user-trash-empty-opened-96px-c)" xlink:href="#user-trash-empty-opened-96px-b"/>
+  </g>
+</svg>

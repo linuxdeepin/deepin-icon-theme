@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="deepin-appstore-a" width="128.6%" height="128.6%" x="-14.3%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-appstore-b" x1="50%" x2="50%" y1="12.873%" y2="100%">
+      <stop offset="0%" stop-color="#F8F8F8"/>
+      <stop offset="100%" stop-color="#FFE4C5"/>
+    </linearGradient>
+    <radialGradient id="deepin-appstore-c" cx="50%" cy="0%" r="100%" fx="50%" fy="0%" gradientTransform="matrix(0 1 -.69643 0 .5 -.5)">
+      <stop offset="0%" stop-color="#FFB558"/>
+      <stop offset="100%" stop-color="#FF631C"/>
+    </radialGradient>
+    <linearGradient id="deepin-appstore-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F80"/>
+      <stop offset="100%" stop-color="#FF3F00"/>
+    </linearGradient>
+    <linearGradient id="deepin-appstore-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFEBEB"/>
+      <stop offset="100%" stop-color="#FFD2D2"/>
+    </linearGradient>
+    <path id="deepin-appstore-f" d="M43.4166667,8.86111111 C43.4166667,8.03268399 44.0882395,7.36111111 44.9166667,7.36111111 C45.7450938,7.36111111 46.4166667,8.03268399 46.4166667,8.86111111 C46.4166667,22.402401 40.4421919,31.3055556 28,31.3055556 C15.5578081,31.3055556 9.58333333,22.402401 9.58333333,8.86111111 C9.58333333,8.03268399 10.2549062,7.36111111 11.0833333,7.36111111 C11.9117605,7.36111111 12.5833333,8.03268399 12.5833333,8.86111111 C12.5833333,20.9395817 17.5262808,28.3055556 28,28.3055556 C38.4737192,28.3055556 43.4166667,20.9395817 43.4166667,8.86111111 Z"/>
+    <filter id="deepin-appstore-e" width="129.9%" height="145.9%" x="-14.9%" y="-14.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.788235294   0 0 0 0 0.290196078   0 0 0 0 0  0 0 0 0.4 0"/>
+    </filter>
+    <filter id="deepin-appstore-h" width="121.7%" height="133.4%" x="-10.9%" y="-8.4%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 0.568627451   0 0 0 0 0.243137255  0 0 0 0.501217165 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" filter="url(#deepin-appstore-a)" transform="translate(4 4)">
+    <path fill="url(#deepin-appstore-b)" d="M8,0 L48,0 C52.418278,-8.11624501e-16 56,3.581722 56,8 L56,17 L56,17 L0,17 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z M11,11 C12.3807119,11 13.5,9.88071187 13.5,8.5 C13.5,7.11928813 12.3807119,6 11,6 C9.61928813,6 8.5,7.11928813 8.5,8.5 C8.5,9.88071187 9.61928813,11 11,11 Z M45,11 C46.3807119,11 47.5,9.88071187 47.5,8.5 C47.5,7.11928813 46.3807119,6 45,6 C43.6192881,6 42.5,7.11928813 42.5,8.5 C42.5,9.88071187 43.6192881,11 45,11 Z"/>
+    <path fill="url(#deepin-appstore-c)" d="M0,17 L56,17 L56,48 C56,52.418278 52.418278,56 48,56 L8,56 C3.581722,56 5.41083001e-16,52.418278 0,48 L0,17 L0,17 Z"/>
+    <path fill="url(#deepin-appstore-d)" d="M48,17 L48,56 L40,56 L40,17 L48,17 Z M16,17 L16,56 L8,56 L8,17 L16,17 Z M32,17 L32,56 L24,56 L24,17 L32,17 Z"/>
+    <use fill="#000" filter="url(#deepin-appstore-e)" xlink:href="#deepin-appstore-f"/>
+    <use fill="url(#deepin-appstore-g)" xlink:href="#deepin-appstore-f"/>
+    <use fill="#000" filter="url(#deepin-appstore-h)" xlink:href="#deepin-appstore-f"/>
+  </g>
+</svg>

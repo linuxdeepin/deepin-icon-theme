@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="vnd.android.package-archive-c" x1="50%" x2="50%" y1="0%" y2="98.501%">
+      <stop offset="0%" stop-color="#9FCB10"/>
+      <stop offset="100%" stop-color="#73A100"/>
+    </linearGradient>
+    <path id="vnd.android.package-archive-b" d="M58,0 L84,26 L84,95 C84,99.9705627 79.9705627,104 75,104 L9,104 C4.02943725,104 6.08718376e-16,99.9705627 0,95 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 L58,0 Z"/>
+    <filter id="vnd.android.package-archive-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.468184579   0 0 0 0 0.679376132   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="vnd.android.package-archive-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="vnd.android.package-archive-e" d="M58,0 L84,26 L67,26 C62.0294373,26 58,21.9705627 58,17 L58,0 Z"/>
+    <filter id="vnd.android.package-archive-d" width="142.3%" height="142.3%" x="-21.2%" y="-13.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(22 14)">
+      <use fill="#000" filter="url(#vnd.android.package-archive-a)" xlink:href="#vnd.android.package-archive-b"/>
+      <use fill="url(#vnd.android.package-archive-c)" xlink:href="#vnd.android.package-archive-b"/>
+      <use fill="#000" filter="url(#vnd.android.package-archive-d)" xlink:href="#vnd.android.package-archive-e"/>
+      <use fill="url(#vnd.android.package-archive-f)" xlink:href="#vnd.android.package-archive-e"/>
+    </g>
+    <path fill="#FFF" d="M56.9328031,47.6389186 C59.0071298,46.5971703 61.4222036,46 64,46 C66.5777964,46 68.9928702,46.5971703 71.0671969,47.6389186 C71.1159262,47.5128297 71.1911583,47.3946281 71.2928932,47.2928932 L75.2928932,43.2928932 C75.6834175,42.9023689 76.3165825,42.9023689 76.7071068,43.2928932 C77.0976311,43.6834175 77.0976311,44.3165825 76.7071068,44.7071068 L72.7691135,48.6451001 C75.9587754,50.8445901 78,54.2179721 78,58 L50,58 C50,54.2179721 52.0412246,50.8445901 55.2308865,48.6451001 L51.2928932,44.7071068 C50.9023689,44.3165825 50.9023689,43.6834175 51.2928932,43.2928932 C51.6834175,42.9023689 52.3165825,42.9023689 52.7071068,43.2928932 L56.7071068,47.2928932 C56.8088417,47.3946281 56.8840738,47.5128297 56.9328031,47.6389186 Z M66,84 L62,84 L62,90.9905224 C62,92.652611 60.6534829,94 59,94 C57.3431458,94 56,92.6633689 56,90.9905224 L56,84 L51.9912443,84 C50.8915104,84 50,83.1029738 50,81.9950534 L50,60 L78,60 L78,81.9950534 C78,83.1023548 77.1001025,84 76.0087557,84 L72,84 L72,90.9905224 C72,92.652611 70.6534829,94 69,94 C67.3431458,94 66,92.6633689 66,90.9905224 L66,84 Z M42,62.9925398 C42,61.3398057 43.3465171,60 45,60 C46.6568542,60 48,61.3529255 48,62.9925398 L48,75.0074602 C48,76.6601943 46.6534829,78 45,78 C43.3431458,78 42,76.6470745 42,75.0074602 L42,62.9925398 Z M80,62.9925398 C80,61.3398057 81.3465171,60 83,60 C84.6568542,60 86,61.3529255 86,62.9925398 L86,75.0074602 C86,76.6601943 84.6534829,78 83,78 C81.3431458,78 80,76.6470745 80,75.0074602 L80,62.9925398 Z M58,54 C59.1045695,54 60,53.1045695 60,52 C60,50.8954305 59.1045695,50 58,50 C56.8954305,50 56,50.8954305 56,52 C56,53.1045695 56.8954305,54 58,54 Z M70,54 C71.1045695,54 72,53.1045695 72,52 C72,50.8954305 71.1045695,50 70,50 C68.8954305,50 68,50.8954305 68,52 C68,53.1045695 68.8954305,54 70,54 Z"/>
+  </g>
+</svg>

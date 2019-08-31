@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="application-x-ace-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#19BD72"/>
+      <stop offset="100%" stop-color="#00914F"/>
+    </linearGradient>
+    <path id="application-x-ace-a" d="M4.0085302,15 C2.8992496,15 2,14.1029399 2,12.9941413 L2,3.00585866 C2,1.89805351 2.90195036,1 4.0085302,1 L11.9914698,1 C13.1007504,1 14,1.89706013 14,3.00585866 L14,12.9941413 C14,14.1019465 13.0980496,15 11.9914698,15 L4.0085302,15 Z"/>
+    <filter id="application-x-ace-b" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.00784313725   0 0 0 0 0.42745098   0 0 0 0 0.168627451  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="application-x-ace-d" fill="#fff">
+      <use xlink:href="#application-x-ace-a"/>
+    </mask>
+    <use fill="#000" filter="url(#application-x-ace-b)" xlink:href="#application-x-ace-a"/>
+    <use fill="url(#application-x-ace-c)" xlink:href="#application-x-ace-a"/>
+    <path fill="#FFF8F8" fill-opacity=".5" d="M6,5.5 L6,7.5 L2,7.5 L2,5.5 L6,5.5 Z M10,5.5 L14,5.5 L14,7.5 L10,7.5 L10,5.5 Z" mask="url(#application-x-ace-d)"/>
+    <path fill="#F4F4F4" d="M6.25,5 L9.75,5 C9.88807119,5 10,5.11192881 10,5.25 L10,7.75 C10,7.88807119 9.88807119,8 9.75,8 L6.25,8 C6.11192881,8 6,7.88807119 6,7.75 L6,5.25 C6,5.11192881 6.11192881,5 6.25,5 Z M7,6 L7,7 L9,7 L9,6 L7,6 Z" mask="url(#application-x-ace-d)"/>
+    <path fill="#FFF" d="M11 14L11.0000001 9.00000001 14 9 14 10 12.0000001 10 12.0000001 11 14 11 14 12 12.0000001 12 12 13 14 13 14 14 11 14zM9.93379395 10.6038316C9.70019639 10.2373191 9.32689589 10 8.90624991 10 8.19863507 10 7.62499991 10.6715729 7.62499991 11.5 7.62499991 12.3284271 8.19863507 13 8.90624991 13 9.32689589 13 9.70019639 12.7626809 9.93379395 12.3961684L10.6999999 13.0617948C10.2780979 13.633738 9.6295425 14 8.90221001 14 7.63073448 14 6.5999999 12.8807119 6.5999999 11.5 6.5999999 10.1192881 7.63073448 9 8.90221001 9 9.6295425 9 10.2780979 9.36626199 10.6999999 9.93820519L9.93379395 10.6038316zM3.75 12L5.25 12 4.5 10 3.75 12zM5.625 13L3.375 13 3 14 2 14 4 9 5 9 7 14 6 14 5.625 13z" mask="url(#application-x-ace-d)"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="x-office-drawing-c" x1="50%" x2="50%" y1="0%" y2="97.95%">
+      <stop offset="0%" stop-color="#BA58FF"/>
+      <stop offset="100%" stop-color="#7E21FF"/>
+    </linearGradient>
+    <path id="x-office-drawing-b" d="M42,0 L64,22 L64,69 C64,73.9705627 59.9705627,78 55,78 L9,78 C4.02943725,78 6.08718376e-16,73.9705627 0,69 L0,9 C-6.08718376e-16,4.02943725 4.02943725,4.46579124e-15 9,3.55271368e-15 L42,0 Z"/>
+    <filter id="x-office-drawing-a" width="131.2%" height="125.6%" x="-15.6%" y="-10.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.497310222   0 0 0 0 0   0 0 0 0 0.911005435  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="x-office-drawing-f" x1="50%" x2="11.493%" y1="50%" y2="88.683%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="x-office-drawing-e" d="M42,0 L64,22 L51,22 C46.0294373,22 42,17.9705627 42,13 L42,0 Z"/>
+    <filter id="x-office-drawing-d" width="150%" height="150%" x="-25%" y="-15.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(16 10)">
+      <use fill="#000" filter="url(#x-office-drawing-a)" xlink:href="#x-office-drawing-b"/>
+      <use fill="url(#x-office-drawing-c)" xlink:href="#x-office-drawing-b"/>
+      <use fill="#000" filter="url(#x-office-drawing-d)" xlink:href="#x-office-drawing-e"/>
+      <use fill="url(#x-office-drawing-f)" xlink:href="#x-office-drawing-e"/>
+    </g>
+    <path fill="#FFF" d="M36,62.5834308 C44.2286734,53.8353166 43.4927394,46.2282555 37.2553689,39.7133439 C36.210199,38.6216676 35.0878437,37.6617515 33.966383,36.8440745 C33.5750815,36.5587695 32.5676716,35.9047063 32.5038611,35.8682431 C31.61351,35.3594711 31.9745372,34 33,34 L61,34 C61.5522847,34 62,34.4477153 62,35 C62,35.5522847 61.5522847,36 61,36 L36,36 C36.8257604,36.6713749 37.9230132,37.5186566 38.7000194,38.3302368 C45.6527171,45.5923051 46.4593879,54.4119473 37.3864612,64.0265621 C37.3450818,64.070412 54.1603879,64.0142395 58.1699333,64.002188 C58.5811513,62.8358528 59.6929637,62 61,62 C62.6568542,62 64,63.3431458 64,65 C64,66.6568542 62.6568542,68 61,68 C59.6937812,68 58.5825421,67.1651924 58.1707057,66 L36.0499992,66 C36.0499992,66 36.0264265,65.3548952 36,64.6316952 L36,69 L29,69 L29,62 L36,62 L36,62.5834308 Z M60,65 C60,65.5522847 60.4477153,66 61,66 C61.5522847,66 62,65.5522847 62,65 C62,64.4477153 61.5522847,64 61,64 C60.4477153,64 60,64.4477153 60,65 Z M34,67 L34,64 L31,64 L31,67 L34,67 Z"/>
+  </g>
+</svg>

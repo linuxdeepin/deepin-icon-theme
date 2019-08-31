@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="image-gif-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#28DCB1"/>
+      <stop offset="100%" stop-color="#00AF9D"/>
+    </linearGradient>
+    <path id="image-gif-b" d="M15,0 L22,7 L22,22 C22,24.209139 20.209139,26 18,26 L4,26 C1.790861,26 2.705415e-16,24.209139 0,22 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L15,0 Z"/>
+    <filter id="image-gif-a" width="131.8%" height="126.9%" x="-15.9%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.262745098   0 0 0 0 0.71372549   0 0 0 0 0.607843137  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="image-gif-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="image-gif-e" d="M15,0 L22,7 L17.25,7 C16.0073593,7 15,5.99264069 15,4.75 L15,0 Z"/>
+    <filter id="image-gif-d" width="157.1%" height="157.1%" x="-28.6%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(5 3)">
+      <use fill="#000" filter="url(#image-gif-a)" xlink:href="#image-gif-b"/>
+      <use fill="url(#image-gif-c)" xlink:href="#image-gif-b"/>
+      <use fill="#000" filter="url(#image-gif-d)" xlink:href="#image-gif-e"/>
+      <use fill="url(#image-gif-f)" xlink:href="#image-gif-e"/>
+    </g>
+    <path fill="#FFF" d="M13 25C12.4477153 25 12 24.5573397 12 24.0010434L12 22.9989566C12 22.4472481 12.4438648 22 13 22 13.4737952 22 13.8706312 22.325781 13.9738568 22.7696074L14.8076452 22.1442661C14.4867033 21.466467 13.7979196 21 13 21 11.8877296 21 11 21.897616 11 23.0048815L11 23.9951185C11 25.1061002 11.8954305 26 13 26 13.3654054 26 13.7065768 25.9031232 14 25.7337624L14 26 15 26 15 23 13 23 13 23.9951185C13 24.0531315 14 24.0010434 14 24.0010434L14 24.25C14 24.6000004 13.5 25 13 25zM11.0177462 19L11 11 20.9822538 11 21 19 11.0177462 19zM12.6700001 17L15 12.5 16.5 15 17.2999992 13.5 19.3333333 16.9965789 12.6700001 17zM12 18L20 18 20 12 12 12 12 18z"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M17,21 L17,26 L16,26 L16,21 L17,21 Z M18,21 L21,21 L21,22 L19,22 L19,23 L21,23 L21,24 L19,24 L19,26 L18,26 L18,21 Z"/>
+  </g>
+</svg>

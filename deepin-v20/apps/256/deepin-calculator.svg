@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <filter id="deepin-calculator-a" width="124.3%" height="124.3%" x="-12.2%" y="-12.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-calculator-b" cx="50%" cy="9.268%" r="92.618%" fx="50%" fy="9.268%">
+      <stop offset="0%" stop-color="#35DCFF"/>
+      <stop offset="100%" stop-color="#0068FF"/>
+    </radialGradient>
+    <linearGradient id="deepin-calculator-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-calculator-a)" transform="translate(17 17)">
+    <path fill="url(#deepin-calculator-b)" d="M32,0 L190,0 C207.673112,-3.24649801e-15 222,14.326888 222,32 L222,190 C222,207.673112 207.673112,222 190,222 L32,222 C14.326888,222 2.164332e-15,207.673112 0,190 L0,32 C-2.164332e-15,14.326888 14.326888,3.24649801e-15 32,0 Z"/>
+    <polygon fill="#FFF" points="19.833 17 34 2.833 31.167 0 17 14.167 2.833 0 0 2.833 14.167 17 0 31.167 2.833 34 17 19.833 31.167 34 34 31.167 19.833 17" transform="translate(39 149)"/>
+    <path fill="url(#deepin-calculator-c)" d="M222,111 L222,190 C222,207.673112 207.673112,222 190,222 L111,222 L111,111 L222,111 Z M185,172 L149,172 L149,176 L185,176 L185,172 Z M185,156 L149,156 L149,160 L185,160 L185,156 Z M111,0 L111,111 L0,111 L0,32 C0,14.326888 14.326888,0 32,0 L111,0 Z M58,34 L54,34 L54,54 L34,54 L34,58 L54,58 L54,78 L58,78 L58,58 L78,58 L78,54 L58,54 L58,34 Z"/>
+    <rect width="44" height="4" fill="#FFF" transform="translate(144 54)"/>
+  </g>
+</svg>

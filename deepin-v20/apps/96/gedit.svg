@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="gedit-a" width="131.6%" height="128.6%" x="-15.8%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="gedit-b" width="151.1%" height="150%" x="-25.5%" y="-25%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.987404337   0 0 0 0 0.537487617   0 0 0 0 0.0963482846  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="gedit-c" x1="23.821%" x2="72.037%" y1="24.379%" y2="86.206%">
+      <stop offset="0%" stop-color="#FFD6CA"/>
+      <stop offset="100%" stop-color="#FA5D3A"/>
+    </linearGradient>
+    <linearGradient id="gedit-d" x1="50%" x2="65.225%" y1="31.7%" y2="50%">
+      <stop offset="0%" stop-color="#FFD400"/>
+      <stop offset="100%" stop-color="#FF8C00"/>
+    </linearGradient>
+    <linearGradient id="gedit-e" x1="32.652%" x2="74.436%" y1="17.415%" y2="74.04%">
+      <stop offset="0%" stop-color="#FCAFD2"/>
+      <stop offset="100%" stop-color="#FF4B8D"/>
+    </linearGradient>
+    <linearGradient id="gedit-f" x1="50%" x2="107.399%" y1="0%" y2="60.605%">
+      <stop offset="0%" stop-color="#F6F6F6"/>
+      <stop offset="100%" stop-color="#939393"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#gedit-a)" transform="translate(10 6)">
+    <rect width="76" height="84" fill="#FFF" rx="10"/>
+    <path fill="#000" fill-opacity=".1" d="M13,0 L13,5 L68,5 L68,6 L13,6 L13,11 L68,11 L68,12 L13,12 L13,17 L68,17 L68,18 L13,18 L13,23 L68,23 L68,24 L13,24 L13,29 L68,29 L68,30 L13,30 L13,35 L68,35 L68,36 L13,36 L13,41 L68,41 L68,42 L13,42 L13,47 L68,47 L68,48 L13,48 L13,53 L68,53 L68,54 L13,54 L13,59 L68,59 L68,60 L13,60 L13,65 L68,65 L68,66 L13,66 L13,71 L68,71 L68,72 L13,72 L13,77 L68,77 L68,78 L13,78 L13,84 L12,84 L12,78 L6,78 L6,77 L12,77 L12,72 L6,72 L6,71 L12,71 L12,66 L6,66 L6,65 L12,65 L12,60 L6,60 L6,59 L12,59 L12,54 L6,54 L6,53 L12,53 L12,48 L6,48 L6,47 L12,47 L12,42 L6,42 L6,41 L12,41 L12,36 L6,36 L6,35 L12,35 L12,30 L6,30 L6,29 L12,29 L12,24 L6,24 L6,23 L12,23 L12,18 L6,18 L6,17 L12,17 L12,12 L6,12 L6,11 L12,11 L12,6 L6,6 L6,5 L12,5 L12,0 L13,0 Z"/>
+    <g filter="url(#gedit-b)" transform="translate(15 19)">
+      <polygon fill="url(#gedit-c)" points="4.664 40.378 8.298 34.116 13.728 39.547 7.5 43.214"/>
+      <polygon fill="#312F2F" points="3.902 41.691 6.194 43.983 .692 47.223"/>
+      <polygon fill="url(#gedit-d)" points="38.233 15.042 14.764 38.511 9.333 33.081 32.803 9.611"/>
+      <path fill="url(#gedit-e)" d="M46.2055852,3.67499561 C47.1428435,4.61225391 47.1428435,6.13184986 46.2055852,7.06910816 L42.8134312,10.4612621 L37.3830786,5.03090949 L40.7752325,1.63875553 C41.7124908,0.701497231 43.2320868,0.701497231 44.1693451,1.63875553 L46.2055852,3.67499561 L46.2055852,3.67499561 Z"/>
+      <polygon fill="url(#gedit-f)" points="39.251 14.024 33.821 8.593 36.365 6.049 41.796 11.479"/>
+    </g>
+  </g>
+</svg>

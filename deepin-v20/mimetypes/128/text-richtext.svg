@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="text-richtext-c" x1="50%" x2="50%" y1="0%" y2="98.947%">
+      <stop offset="0%" stop-color="#F7F7F7"/>
+      <stop offset="100%" stop-color="#F6F6F6"/>
+    </linearGradient>
+    <path id="text-richtext-b" d="M58,0 L84,26 L84,95 C84,99.9705627 79.9705627,104 75,104 L9,104 C4.02943725,104 6.08718376e-16,99.9705627 0,95 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 L58,0 Z"/>
+    <filter id="text-richtext-a" width="128.6%" height="123.1%" x="-14.3%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="text-richtext-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-richtext-e" d="M58,0 L84,26 L67,26 C62.0294373,26 58,21.9705627 58,17 L58,0 Z"/>
+    <filter id="text-richtext-d" width="142.3%" height="142.3%" x="-21.2%" y="-13.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(22 14)">
+      <use fill="#000" filter="url(#text-richtext-a)" xlink:href="#text-richtext-b"/>
+      <path fill="url(#text-richtext-c)" stroke="#000" stroke-opacity=".1" stroke-width=".5" d="M58.1767767,-0.176776695 L84.1767767,25.8232233 L84.25,26 L84.25,95 C84.25,100.108634 80.1086339,104.25 75,104.25 L9,104.25 C3.89136606,104.25 -0.25,100.108634 -0.25,95 L-0.25,9 C-0.25,3.89136606 3.89136606,-0.25 9,-0.25 L58,-0.25 L58.1767767,-0.176776695 Z"/>
+      <use fill="#000" filter="url(#text-richtext-d)" xlink:href="#text-richtext-e"/>
+      <use fill="url(#text-richtext-f)" xlink:href="#text-richtext-e"/>
+    </g>
+    <path fill="#7B83D6" d="M92 60L92 62 36 62 36 60 92 60zM92 72L92 74 36 74 36 72 92 72zM92 84L92 86 36 86 36 84 92 84zM64 96L64 98 36 98 36 96 64 96zM66 96L68 96 68 98 66 98 66 96zM52 47.5L52 47 52 41 52 40 53 40 57.9983345 40C60.2072787 40 62 41.7931174 62 44 62 45.1960278 61.4765649 46.2687139 60.6455679 47.0014397 61.4760193 47.7347162 62 48.80689 62 50 62 52.2106956 60.2117091 54 57.9983345 54L53 54 52 54 52 53 52 47.5zM57.9983345 48L54 48 54 52 57.9983345 52C59.1068858 52 60 51.1063797 60 50 60 48.897588 59.1026103 48 57.9983345 48zM57.9983345 42L54 42 54 46 57.9983345 46C59.1068858 46 60 45.1063797 60 44 60 42.897588 59.1026103 42 57.9983345 42zM38 54L43 40 45.0772736 40 50 54 47.9000015 54 47.1999969 52 40.8000031 52 40.0999985 54 38 54zM41.4000015 50L46.5999985 50 44 42.5999985 41.4000015 50zM70.1320654 52C71.2429601 52 72.3069343 51.785596 73 51L74.8334123 51.9208652C73.678344 53.2301451 71.9744146 54 70.1320654 54 66.7419569 54 64 51.3886027 64 48.1552765L64 45.8447235C64 42.6118627 66.7316496 40 70.1320654 40 71.9137727 40 73.5748387 40.7294218 74.7311216 41.9759184L73 43C72.3043569 42.2500825 71.2022438 42 70.1320654 42 68.0891168 42 66 43.8978702 66 45.8447235L66 48.1552765C66 50.100542 68.0972509 52 70.1320654 52z"/>
+  </g>
+</svg>

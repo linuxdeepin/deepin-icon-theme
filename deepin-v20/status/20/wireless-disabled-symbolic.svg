@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <linearGradient id="wireless-disabled-symbolic-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#DBFDFF"/>
+      <stop offset="100%" stop-color="#71FBFB"/>
+    </linearGradient>
+  </defs>
+  <path fill="none" stroke="url(#wireless-disabled-symbolic-a)" stroke-width="1.2" d="M0.292468264,5.11297176 L7.96681648,12.669469 C8.74689158,13.4375649 9.99954109,13.435753 10.777391,12.6654037 L18.4033576,5.11297176 C16.0773614,1.95519579 13.0676126,0.3763078 9.37411094,0.3763078 C5.68060932,0.3763078 2.6533951,1.95519579 0.292468264,5.11297176 Z" transform="translate(.626 3.27)"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="vcalendar-c" x1="50%" x2="50%" y1="0%" y2="99.628%">
+      <stop offset="0%" stop-color="#EC5959"/>
+      <stop offset="100%" stop-color="#D13F3F"/>
+    </linearGradient>
+    <path id="vcalendar-b" d="M116,0 L168,52 L168,190 C168,199.941125 159.941125,208 150,208 L18,208 C8.0588745,208 1.21743675e-15,199.941125 0,190 L0,18 C-1.21743675e-15,8.0588745 8.0588745,1.82615513e-15 18,0 L116,0 Z"/>
+    <filter id="vcalendar-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.6622226   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="vcalendar-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="vcalendar-e" d="M116,0 L168,52 L134,52 C124.058875,52 116,43.9411255 116,34 L116,0 Z"/>
+    <filter id="vcalendar-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(44 28)">
+      <use fill="#000" filter="url(#vcalendar-a)" xlink:href="#vcalendar-b"/>
+      <use fill="url(#vcalendar-c)" xlink:href="#vcalendar-b"/>
+      <use fill="#000" filter="url(#vcalendar-d)" xlink:href="#vcalendar-e"/>
+      <use fill="url(#vcalendar-f)" xlink:href="#vcalendar-e"/>
+    </g>
+    <path fill="#FFF" d="M100,132 L112,132 L112,144 L100,144 L100,132 Z M120,132 L132,132 L132,144 L120,144 L120,132 Z M140,132 L152,132 L152,144 L140,144 L140,132 Z M120,152 L132,152 L132,164 L120,164 L120,152 Z M100,152 L112,152 L112,164 L100,164 L100,152 Z M140,152 L152,152 L152,164 L140,164 L140,152 Z M104,102.00853 C104,100.89925 104.88773,100 106,100 C107.104569,100 108,100.90195 108,102.00853 L108,109.99147 C108,111.10075 107.11227,112 106,112 C104.895431,112 104,111.09805 104,109.99147 L104,102.00853 Z M148,102.00853 C148,100.89925 148.88773,100 150,100 C151.104569,100 152,100.90195 152,102.00853 L152,109.99147 C152,111.10075 151.11227,112 150,112 C148.895431,112 148,111.09805 148,109.99147 L148,102.00853 Z M144,108 L144,109.996669 C144,113.285818 146.686292,116 150,116 C153.336811,116 156,113.312217 156,109.996669 L156,108 L160.026409,108 C162.220963,108 164,109.778523 164,112.003487 L164,171.996513 C164,174.207578 162.220215,176 160.026409,176 L91.9735907,176 C89.7790372,176 88,174.221477 88,171.996513 L88,112.003487 C88,109.792422 89.7797852,108 91.9735907,108 L100,108 L100,109.996669 C100,113.285818 102.686292,116 106,116 C109.336811,116 112,113.312217 112,109.996669 L112,108 L144,108 Z M160,124 L92,124 L92,172 L160,172 L160,124 Z"/>
+  </g>
+</svg>

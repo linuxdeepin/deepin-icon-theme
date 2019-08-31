@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="application-vnd.oasis.opendocument.formula-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#9BAAC1"/>
+      <stop offset="100%" stop-color="#779DB2"/>
+    </linearGradient>
+    <path id="application-vnd.oasis.opendocument.formula-b" d="M4.0085302,15 C2.8992496,15 2,14.1029399 2,12.9941413 L2,3.00585866 C2,1.89805351 2.90195036,1 4.0085302,1 L11.9914698,1 C13.1007504,1 14,1.89706013 14,3.00585866 L14,12.9941413 C14,14.1019465 13.0980496,15 11.9914698,15 L4.0085302,15 Z"/>
+    <filter id="application-vnd.oasis.opendocument.formula-a" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.474509804   0 0 0 0 0.619607843   0 0 0 0 0.701960784  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#application-vnd.oasis.opendocument.formula-a)" xlink:href="#application-vnd.oasis.opendocument.formula-b"/>
+    <use fill="url(#application-vnd.oasis.opendocument.formula-c)" xlink:href="#application-vnd.oasis.opendocument.formula-b"/>
+    <path fill="#FFF" d="M10.6105643,3 L10.8470488,5.19610495 L10.4620742,5.19610495 C10.3007448,4.79814669 10.0715936,4.42756575 9.77461935,4.08436098 C9.47763328,3.73751849 9.28566749,3.57701537 9.04002223,3.52589356 C8.9300245,3.5039944 5.59158597,3.52589356 5.59158597,3.52589356 L8.79568387,7.60032088 L8.79568387,7.74818831 L5.32632164,11.9401906 L9.57055088,11.9401906 C10.1010795,11.9401906 10.4034049,11.7059228 10.5280698,11.5598817 C10.6600542,11.4065373 10.7773798,11.234938 10.8800466,11.0450841 C10.9826992,10.8552297 11.0670271,10.6799796 11.1330299,10.5193335 L11.5015057,10.6343413 L10.8800466,12.9919777 L4,12.9919777 L4,12.770204 L7.82774765,8.17536089 L4,3.26294678 L4,3 L10.6105643,3 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="audio-x-generic-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B7EE43"/>
+      <stop offset="100%" stop-color="#6AD500"/>
+    </linearGradient>
+    <path id="audio-x-generic-b" d="M58,0 L84,26 L84,95 C84,99.9705627 79.9705627,104 75,104 L9,104 C4.02943725,104 6.08718376e-16,99.9705627 0,95 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 L58,0 Z"/>
+    <filter id="audio-x-generic-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.505882353   0 0 0 0 0.741176471   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="audio-x-generic-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="audio-x-generic-e" d="M58,0 L84,26 L67,26 C62.0294373,26 58,21.9705627 58,17 L58,0 Z"/>
+    <filter id="audio-x-generic-d" width="142.3%" height="142.3%" x="-21.2%" y="-13.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(22 14)">
+      <use fill="#000" filter="url(#audio-x-generic-a)" xlink:href="#audio-x-generic-b"/>
+      <use fill="url(#audio-x-generic-c)" xlink:href="#audio-x-generic-b"/>
+      <use fill="#000" filter="url(#audio-x-generic-d)" xlink:href="#audio-x-generic-e"/>
+      <use fill="url(#audio-x-generic-f)" xlink:href="#audio-x-generic-e"/>
+    </g>
+    <path fill="#FFF" d="M64,96 C49.6636,96 38,84.3364 38,70 C38,55.6636 49.6636,44 64,44 C78.3364,44 90,55.6636 90,70 C90,84.3364 78.3364,96 64,96 L64,96 Z M64,46.6 C76.9012,46.6 87.4,57.0962 87.4,70 C87.4,82.9038 76.9012,93.4 64,93.4 C51.0988,93.4 40.6,82.9038 40.6,70 C40.6,57.0962 51.0988,46.6 64,46.6 Z M71.0739625,59.3020466 C67.5619625,57.1127132 66.9272958,55.4540466 66.9272958,54.7393799 L66.9272958,54.2513799 C66.9272958,53.2993799 66.2339625,52.5313799 65.5032958,52.5340466 C64.7752958,52.5367132 64.1299625,53.3100466 64.1272958,54.2620466 L64.0792958,74.6807132 C62.2339625,73.7233799 59.8526291,73.6567132 57.1272958,74.5953799 C53.1139625,75.9793799 50.8872958,79.7713799 52.0339625,82.7153799 C53.1806291,85.6567132 57.3139625,86.7953799 61.2686291,85.2567132 C64.5086291,83.9953799 66.6179625,81.3287132 66.6472958,78.7900466 C66.6739625,78.6567132 66.7112958,61.4487132 66.7112958,61.4487132 C74.1592958,63.4327132 75.3646291,67.8033799 75.3646291,67.8033799 C76.6712958,70.9847132 75.1006291,74.9100466 75.1006291,74.9100466 C75.1006291,74.9100466 74.9699625,75.3980466 75.3539625,75.5527132 C75.8392958,75.7473799 76.0606291,75.2833799 76.0606291,75.2833799 C78.3912958,70.2460466 76.9619625,66.2540466 76.9619625,66.2540466 C75.6606291,61.7793799 71.0739625,59.3020466 71.0739625,59.3020466 Z"/>
+  </g>
+</svg>

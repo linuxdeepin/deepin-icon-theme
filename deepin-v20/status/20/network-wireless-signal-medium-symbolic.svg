@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <rect id="network-wireless-signal-medium-symbolic-a" width="15" height="15" x="3.15" y="4"/>
+    <linearGradient id="network-wireless-signal-medium-symbolic-b" x1="50%" x2="50%" y1="2.055%" y2="97.559%">
+      <stop offset="0%" stop-color="#DBFDFF"/>
+      <stop offset="100%" stop-color="#70FBFB"/>
+    </linearGradient>
+    <linearGradient id="network-wireless-signal-medium-symbolic-d" x1="50%" x2="50%" y1="2.055%" y2="97.559%">
+      <stop offset="0%" stop-color="#DBFDFF"/>
+      <stop offset="100%" stop-color="#70FBFB"/>
+    </linearGradient>
+    <linearGradient id="network-wireless-signal-medium-symbolic-e" x1="50%" x2="50%" y1="2.055%" y2="97.559%">
+      <stop offset="0%" stop-color="#DBFDFF"/>
+      <stop offset="100%" stop-color="#70FBFB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-1 -5)">
+    <polygon points="1 25 21 25 21 5 1 5" opacity="0"/>
+    <g transform="translate(0 .5)">
+      <g transform="translate(.35 .45)">
+        <mask id="network-wireless-signal-medium-symbolic-c" fill="#fff">
+          <use xlink:href="#network-wireless-signal-medium-symbolic-a"/>
+        </mask>
+        <path fill="url(#network-wireless-signal-medium-symbolic-b)" d="M10.65,21.0502525 C9.26928813,21.0502525 8.15,19.9309644 8.15,18.5502525 C8.15,17.1695407 9.26928813,16.0502525 10.65,16.0502525 C12.0307119,16.0502525 13.15,17.1695407 13.15,18.5502525 C13.15,19.9309644 12.0307119,21.0502525 10.65,21.0502525 Z M10.65,24.2002525 C7.52959116,24.2002525 5,21.6706614 5,18.5502525 C5,15.4298437 7.52959116,12.9002525 10.65,12.9002525 C13.7704088,12.9002525 16.3,15.4298437 16.3,18.5502525 C16.3,21.6706614 13.7704088,24.2002525 10.65,24.2002525 Z M10.65,22.9002525 C13.0524387,22.9002525 15,20.9526912 15,18.5502525 C15,16.1478139 13.0524387,14.2002525 10.65,14.2002525 C8.24756134,14.2002525 6.3,16.1478139 6.3,18.5502525 C6.3,20.9526912 8.24756134,22.9002525 10.65,22.9002525 Z" mask="url(#network-wireless-signal-medium-symbolic-c)"/>
+      </g>
+      <path fill="url(#network-wireless-signal-medium-symbolic-d)" d="M1.16,12.7835327 C3.22953104,9.54624077 6.85553305,7.4 10.9828164,7.4 C15.1100998,7.4 18.7361019,9.54624077 20.8056329,12.7835327 L19.8613804,13.7277853 C18.0518111,10.7155285 14.7526897,8.7 10.9828164,8.7 C7.21294316,8.7 3.91382177,10.7155285 2.10425251,13.7277853 L1.16,12.7835327 L1.16,12.7835327 Z" opacity=".3"/>
+      <path fill="url(#network-wireless-signal-medium-symbolic-e)" d="M10.9828164,10.4 C14.2865265,10.4 17.1576563,12.2520962 18.6145415,14.9746241 L17.645889,15.9432766 C16.4752076,13.4367742 13.9318347,11.7 10.9828164,11.7 C8.0337982,11.7 5.4904253,13.4367742 4.31974386,15.9432766 L3.35109134,14.9746241 C4.80797655,12.2520962 7.67910638,10.4 10.9828164,10.4 Z" opacity=".3"/>
+    </g>
+  </g>
+</svg>

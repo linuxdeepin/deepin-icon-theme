@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="x-office-presentation-c" x1="50%" x2="50%" y1="0%" y2="99.372%">
+      <stop offset="0%" stop-color="#FFBC2A"/>
+      <stop offset="100%" stop-color="#E77B00"/>
+    </linearGradient>
+    <path id="x-office-presentation-b" d="M21,0 L32,11 L32,34.5 C32,36.9852814 29.9852814,39 27.5,39 L4.5,39 C2.01471863,39 3.04359188e-16,36.9852814 0,34.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,2.23289562e-15 4.5,1.77635684e-15 L21,0 Z"/>
+    <filter id="x-office-presentation-a" width="131.2%" height="125.6%" x="-15.6%" y="-10.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.874509804   0 0 0 0 0.498039216   0 0 0 0 0.0588235294  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="x-office-presentation-f" x1="50%" x2="12.223%" y1="50%" y2="88.513%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="x-office-presentation-e" d="M21,0 L32,11 L25.5,11 C23.0147186,11 21,8.98528137 21,6.5 L21,0 Z"/>
+    <filter id="x-office-presentation-d" width="163.6%" height="163.6%" x="-31.8%" y="-22.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8 5)">
+      <g opacity=".9">
+        <use fill="#000" filter="url(#x-office-presentation-a)" xlink:href="#x-office-presentation-b"/>
+        <use fill="url(#x-office-presentation-c)" xlink:href="#x-office-presentation-b"/>
+      </g>
+      <use fill="#000" filter="url(#x-office-presentation-d)" xlink:href="#x-office-presentation-e"/>
+      <use fill="url(#x-office-presentation-f)" xlink:href="#x-office-presentation-e"/>
+    </g>
+    <path fill="#FFF" d="M16.4999602,20 L31.5000398,20 C31.7761352,20 32,20.2236072 32,20.4985023 L32,31.5014977 C32,31.7773794 31.7773203,32 31.5000398,32 L16.4999602,32 C16.2238648,32 16,31.7763928 16,31.5014977 L16,20.4985023 C16,20.2226206 16.2226797,20 16.4999602,20 Z M24.7071068,33 L27.8535534,36.1464466 C28.0488155,36.3417088 28.0488155,36.6582912 27.8535534,36.8535534 C27.6582912,37.0488155 27.3417088,37.0488155 27.1464466,36.8535534 L23.9916871,33.6987939 L23.9687379,37.0034721 C23.9668203,37.2796079 23.7414136,37.5019056 23.4652779,37.4999879 C23.1891421,37.4980703 22.9668444,37.2726636 22.9687621,36.9965279 L22.9915466,33.7155602 L19.8535534,36.8535534 C19.6582912,37.0488155 19.3417088,37.0488155 19.1464466,36.8535534 C18.9511845,36.6582912 18.9511845,36.3417088 19.1464466,36.1464466 L22.2928932,33 L16.4999602,33 C15.6718376,33 15,32.3289355 15,31.5014977 L15,20.4985023 C15,19.6702764 15.6704543,19 16.4999602,19 L31.5000398,19 C32.3281624,19 33,19.6710645 33,20.4985023 L33,31.5014977 C33,32.3297236 32.3295457,33 31.5000398,33 L24.7071068,33 Z M34,18 L14,18 C13.7238576,18 13.5,17.7761424 13.5,17.5 C13.5,17.2238576 13.7238576,17 14,17 L34,17 C34.2761424,17 34.5,17.2238576 34.5,17.5 C34.5,17.7761424 34.2761424,18 34,18 Z"/>
+    <path fill="#FFF" d="M26,25 L28,25 L28,29 L26,29 L26,25 Z M23,23 L25,23 L25,29 L23,29 L23,23 Z M20,21 L22,21 L22,29 L20,29 L20,21 Z M18,30.5 L18,23 C18,22.7238576 18.2238576,22.5 18.5,22.5 C18.7761424,22.5 19,22.7238576 19,23 L19,30 L30,30 C30.2761424,30 30.5,30.2238576 30.5,30.5 C30.5,30.7761424 30.2761424,31 30,31 L18.5,31 C18.2238576,31 18,30.7761424 18,30.5 Z"/>
+  </g>
+</svg>
