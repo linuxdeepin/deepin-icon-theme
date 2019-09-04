@@ -224,7 +224,7 @@ MaxSize=512
 [status/20]
 Size=20
 Context=Status
-Type=Scalable
+Type=Fixed
 
 
 [status/48]
