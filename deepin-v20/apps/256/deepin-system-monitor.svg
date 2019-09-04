@@ -34,22 +34,8 @@
         <use xlink:href="#deepin-system-monitor-c"/>
       </mask>
       <use fill="url(#deepin-system-monitor-d)" xlink:href="#deepin-system-monitor-c"/>
-      <path stroke="#FFF" stroke-width="2" d="M45,8 L131,8" mask="url(#deepin-system-monitor-e)" opacity=".2"/>
-      <path stroke="#FFF" stroke-width="2" d="M28 21L151 21M16 34L164 34" mask="url(#deepin-system-monitor-e)" opacity=".1"/>
-      <path stroke="#FFF" stroke-width="2" d="M10,47 L168,47" mask="url(#deepin-system-monitor-e)" opacity=".2"/>
-      <path stroke="#FFF" stroke-width="2" d="M1 60L177 60M1 73L177 73" mask="url(#deepin-system-monitor-e)" opacity=".1"/>
-      <path stroke="#FFF" stroke-width="2" d="M0,86 L178,86" mask="url(#deepin-system-monitor-e)" opacity=".2"/>
-      <path stroke="#FFF" stroke-width="2" d="M1 99L177 99M3 112L174 112" mask="url(#deepin-system-monitor-e)" opacity=".1"/>
-      <path stroke="#FFF" stroke-width="2" d="M9,125 L169,125" mask="url(#deepin-system-monitor-e)" opacity=".2"/>
-      <path stroke="#FFF" stroke-width="2" d="M16 138L163 138M26 151L151 151" mask="url(#deepin-system-monitor-e)" opacity=".1"/>
-      <path stroke="#FFF" stroke-width="2" d="M165 135L165 39M9 135L9 39" mask="url(#deepin-system-monitor-e)" opacity=".2"/>
-      <path stroke="#FFF" stroke-width="2" d="M22 145L22 24M35 167L35 12" mask="url(#deepin-system-monitor-e)" opacity=".1"/>
-      <path stroke="#FFF" stroke-width="2" d="M48,168 L48,9" mask="url(#deepin-system-monitor-e)" opacity=".2"/>
-      <path stroke="#FFF" stroke-width="2" d="M61 173L61 3M74 172L74-1" mask="url(#deepin-system-monitor-e)" opacity=".1"/>
-      <path stroke="#FFF" stroke-width="2" d="M87,173 L87,-1" mask="url(#deepin-system-monitor-e)" opacity=".2"/>
-      <path stroke="#FFF" stroke-width="2" d="M100 172L100-1M113 173L113 3" mask="url(#deepin-system-monitor-e)" opacity=".1"/>
-      <path stroke="#FFF" stroke-width="2" d="M126,170 L126,9" mask="url(#deepin-system-monitor-e)" opacity=".2"/>
-      <path stroke="#FFF" stroke-width="2" d="M139 167L139 12M152 145L152 24" mask="url(#deepin-system-monitor-e)" opacity=".1"/>
+      <path stroke="#FFF" stroke-opacity=".1" stroke-width="2" d="M28 21L151 21M16 34L164 34M1 60L177 60M1 73L177 73M1 99L177 99M3 112L174 112M16 138L163 138M26 151L151 151M165 135L165 39M9 135L9 39M22 145L22 24M35 167L35 12M48 168L48 9M61 173L61 3M74 172L74-1M100 172L100-1M113 173L113 3M126 170L126 9M139 167L139 12M152 145L152 24" mask="url(#deepin-system-monitor-e)"/>
+      <path stroke="#FFF" stroke-opacity=".2" stroke-width="2" d="M45 8L131 8M10 47L168 47M0 86L178 86M9 125L169 125M87 173L87-1" mask="url(#deepin-system-monitor-e)"/>
     </g>
     <path stroke="#FFF" stroke-linecap="round" stroke-width="8" d="M158.385206,201.685298 C188.950796,186.728381 210,155.322343 210,119 C210,68.189803 168.810197,27 118,27 C67.189803,27 26,68.189803 26,119 C26,155.402313 47.1419928,186.866649 77.8168194,201.783849" opacity=".497"/>
     <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M118,27 C67.189803,27 26,68.189803 26,119 C26,155.402313 47.1419928,186.866649 77.8168194,201.783849"/>
