@@ -5,8 +5,5 @@
       <stop offset="100%" stop-color="#70FBFB"/>
     </linearGradient>
   </defs>
-  <g fill="none" fill-rule="evenodd" transform="rotate(-90 10 10)">
-    <rect width="20" height="20" opacity="0"/>
-    <polygon fill="url(#arrow-down-a)" points="12.659 14.73 11.952 15.437 6.563 10.048 11.952 4.659 12.659 5.366 7.977 10.048"/>
-  </g>
+  <polygon fill="url(#arrow-down-a)" fill-rule="evenodd" points="6.659 10.73 5.952 11.437 .563 6.048 5.952 .659 6.659 1.366 1.977 6.048" transform="rotate(-90 9 5)"/>
 </svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="dde-file-manager-a" width="135.7%" height="131.8%" x="-17.9%" y="-14.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="dde-file-manager-b" x1="50%" x2="50%" y1="0%" y2="37.968%">
+      <stop offset="0%" stop-color="#00B8FF"/>
+      <stop offset="100%" stop-color="#2E5DFF"/>
+    </linearGradient>
+    <path id="dde-file-manager-d" d="M3.34800408,12.5270291 C3.32881805,10.3133173 5.09601235,8.51773172 7.30885856,8.51646857 L34.2975461,8.50106268 C36.5042516,8.49980303 38.308673,10.2910108 38.3278793,12.5070616 L38.5326934,36.1388076 C38.5518794,38.3525193 36.7846851,40.148105 34.5718389,40.1493681 L7.58315134,40.164774 C5.37644579,40.1660336 3.57202441,38.3748259 3.55281812,36.158775 L3.34800408,12.5270291 Z"/>
+    <filter id="dde-file-manager-c" width="116.8%" height="118.9%" x="-8.4%" y="-9.5%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <rect id="dde-file-manager-f" width="34.65" height="31" x="4.2" y="10" rx="4"/>
+    <filter id="dde-file-manager-e" width="117.3%" height="119.4%" x="-8.7%" y="-9.7%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <radialGradient id="dde-file-manager-g" cx="50%" cy="25.527%" r="96.89%" fx="50%" fy="25.527%" gradientTransform="matrix(0 1 -.71429 0 .682 -.245)">
+      <stop offset="0%" stop-color="#48D5FF"/>
+      <stop offset="100%" stop-color="#0056FF"/>
+    </radialGradient>
+    <linearGradient id="dde-file-manager-h" x1="50%" x2="50%" y1="3.549%" y2="100%">
+      <stop offset="0%" stop-color="#3ABDFF"/>
+      <stop offset="100%" stop-color="#38B9FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#dde-file-manager-a)" transform="translate(3 1)">
+    <path fill="url(#dde-file-manager-b)" d="M0,14.4671348 L0,12.1757967 C0,9.96328264 1.65118731,7.48809899 3.68944246,6.64673631 L17.3532821,1.00649801 C19.390905,0.165396358 22.7047243,0.172395761 24.7412229,1.01646092 L38.3015017,6.6367734 C40.3441259,7.48337742 42,9.95743696 42,12.1757967 L42,14.4671348 L42,40.0017101 C42,42.2099046 40.2087482,44 37.9918888,44 L4.00811116,44 C1.79449249,44 0,42.219095 0,40.0017101 L0,14.4671348 Z"/>
+    <g transform="rotate(-8 20.94 24.333)">
+      <use fill="#000" filter="url(#dde-file-manager-c)" xlink:href="#dde-file-manager-d"/>
+      <use fill="#FF517F" xlink:href="#dde-file-manager-d"/>
+    </g>
+    <use fill="#000" filter="url(#dde-file-manager-e)" xlink:href="#dde-file-manager-f"/>
+    <use fill="#FFF" xlink:href="#dde-file-manager-f"/>
+    <path fill="url(#dde-file-manager-g)" d="M0,14 L42,14 L42,40.0007252 C42,42.2094637 40.2087482,44 37.9918888,44 L4.00811116,44 C1.79449249,44 0,42.2132053 0,40.0007252 L0,14 Z"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="17.5 31.125 17.5 23 25.5 23 25.5 36"/>
+    <circle cx="21.5" cy="22.5" r="5" fill="#FFF" stroke="url(#dde-file-manager-h)"/>
+    <circle cx="21.5" cy="22.5" r="1.5" fill="#00BFFF"/>
+  </g>
+</svg>
