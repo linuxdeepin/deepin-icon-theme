@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="netease-cloud-music-a" width="129.3%" height="129.3%" x="-14.6%" y="-14.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="netease-cloud-music-b" cx="50%" cy="0%" r="114.131%" fx="50%" fy="0%">
+      <stop offset="0%" stop-color="#FF7440"/>
+      <stop offset="100%" stop-color="#DD001B"/>
+    </radialGradient>
+    <path id="netease-cloud-music-d" d="M32.4106414,20.5705822 C24.1857879,24.1521252 19.2025055,31.5340601 17.7441822,37.7189057 C16.285859,43.9037513 17.2249963,48.4972194 18.391615,51.9765012 C19.2652471,54.5819903 20.5738724,57.0209648 22.2353952,59.0761444 C24.3757245,61.7235718 26.6954864,63.5863353 28.1324622,64.6023205 C30.5423514,66.3061848 35.0333181,68.4182709 40.4461509,68.7524494 C45.2000905,69.045949 50.3819575,68.100719 55.6065631,64.7833696 C62.0262948,60.707178 64.7755538,54.5834851 65.3335794,49.3609466 C65.5261687,47.5585113 65.3650238,44.1659739 64.4927791,41.3089813 C64.4927791,41.3089813 64.4927791,41.3089813 64.4927791,41.3089813 C62.5431205,34.9229752 57.0310189,30.2729513 50.4078427,29.4269129 L49.315597,29.2873871 L49.315597,29.2873871 L47.7583749,29.2873871 C45.8729633,29.2873848 44.0018235,29.6142426 42.2280693,30.2534396 C41.22852,30.6136411 40.3270281,31.0363462 39.5235935,31.5215549 C36.9850476,33.0546289 35.5060181,35.0485933 34.9737799,35.7884593 C32.2669165,39.5512784 32.2032092,44.4472869 34.221623,47.9597046 C36.1915711,51.3877829 40.0631995,53.6505205 44.7028671,52.4026317 C50.6207054,50.8109651 52.0635648,45.1529986 50.2647094,38.7571413 C48.4658539,32.3612841 46.4704413,24.9844976 46.1675907,23.6886438 C46.1320071,23.5363867 46.0770211,23.3176215 46.0026328,23.0323482 C45.280684,20.2637566 46.6273361,17.3726753 49.2112238,16.1439226 C51.8840938,14.872855 55.0748696,15.5146217 57.0484668,17.7202421 L57.1747393,17.8613597 L57.1747393,17.8613597"/>
+    <filter id="netease-cloud-music-c" width="149.6%" height="141.1%" x="-24.8%" y="-15.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3.5" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feMorphology in="SourceAlpha" radius="3.5" result="shadowInner"/>
+      <feOffset dy="2" in="shadowInner" result="shadowInner"/>
+      <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#netease-cloud-music-a)" transform="translate(7 7)">
+    <rect width="82" height="82" fill="url(#netease-cloud-music-b)" rx="12"/>
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <use fill="#000" filter="url(#netease-cloud-music-c)" xlink:href="#netease-cloud-music-d"/>
+      <use stroke="#FFF" stroke-width="7" xlink:href="#netease-cloud-music-d"/>
+    </g>
+  </g>
+</svg>

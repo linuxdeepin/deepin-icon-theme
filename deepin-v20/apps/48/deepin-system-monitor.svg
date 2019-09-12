@@ -22,7 +22,7 @@
   <g fill="none" fill-rule="evenodd" filter="url(#deepin-system-monitor-a)" transform="translate(2 2)">
     <circle cx="22" cy="22" r="22" fill="url(#deepin-system-monitor-b)"/>
     <circle cx="22" cy="22" r="16.5" fill="url(#deepin-system-monitor-c)"/>
-    <path stroke="#FFF" d="M6 17.5L37.5 17.5M12 8.5L31.5 8.5M6 26.5L37.5 26.5M26.5 38L26.5 6M35.5 31L35.5 13M17.5 38L17.5 5M8.5 31L8.5 13" opacity=".1"/>
+    <path fill="#FFF" fill-opacity=".2" fill-rule="nonzero" d="M9,31 L8,31 L7.999,27 L6,27 L6,26 L7.999,26 L7.999,18 L6,18 L6,17 L7.999,17 L8,13 L9,13 L8.999,17 L17,17 L17,9 L12,9 L12,8 L17,8 L17,5 L18,5 L18,8 L26,8 L26,6 L27,6 L27,8 L31.5,8 L31.5,9 L27,9 L27,17 L35,17 L35,13 L36,13 L36,17 L37.5,17 L37.5,18 L36,18 L36,26 L37.5,26 L37.5,27 L36,27 L36,31 L35,31 L35,27 L27,27 L27,38 L26,38 L26,27 L18,27 L18,38 L17,38 L17,27 L8.999,27 L9,31 Z M8.999,26 L17,26 L17,18 L8.999,18 L8.999,26 Z M26,18 L18,18 L18,26 L26,26 L26,18 Z M35,18 L27,18 L27,26 L35,26 L35,18 Z M26,9 L18,9 L18,17 L26,17 L26,9 Z"/>
     <path stroke="#FFF" stroke-linecap="round" stroke-width="2" d="M32.9357479,35.6631533 C36.9375255,32.4560479 39.5,27.527273 39.5,22 C39.5,12.3350169 31.6649831,4.5 22,4.5 C12.3350169,4.5 4.5,12.3350169 4.5,22 C4.5,27.416008 6.96034686,32.2573713 10.8243416,35.4673908" opacity=".5"/>
     <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22,4.5 C12.3350169,4.5 4.5,12.3350169 4.5,22 C4.5,27.416008 6.96034686,32.2573713 10.8243416,35.4673908"/>
     <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8.5,24.5 C8.5,24.5 9.5,26.5 11.5,26.5 C16,26.5 14.5,15.5 19,15.5 C23.5,15.5 21,26.5 25.5,26.5 C28.5,26.5 27,21.5 29.5,21.5 C32,21.5 30,27 35.5,26.5"/>
