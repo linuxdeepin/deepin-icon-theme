@@ -1,17 +1,67 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>深度启动盘制作工具-32px</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="深度启动盘制作工具-32px">
-            <g id="Group" transform="translate(1.000000, 2.000000)">
-                <image id="Bitmap" x="0.0408964572" y="0.122241669" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAA1teXP8meAAAAapJREFUSA29lNlOwzAQRSkFStkeKPDUqhL//2c8sKrshXvcDHKikHrtSDe243iOZzzxeC/PRlq+37iwNs9jwGqg4853jHlfzfqgBqsGH4JWg4dAi8NjoMXgKdBseA40GV4CGg0vCQ2G14C24Ac28lqgXH/f3ruSXXe1du/X2lD8z6SRD94FdC7op7Q28K6gb4I+Sj+Ss2oXu7wT1EK6lqgpxs7oHDb90s2/UFKNbBeTgmR8cqak917iL/lLsYG/9BJbSheul/cYhOKasyXv9s+u1b+UaN+lFNsKxSlgk6XiRe8ohBR4EFS+HZR0TyUiJHr+s1cpFg6U6u09U71vGdECPpNWzQwOOHMchMINio8HybKnbr8Bxo4lKo5o2Qh9FofAo6Hy61JNS4Q30rPE2QLHtsGToDi2iIkQJ6SW4gLOGAHnzPnNyABzWDJ0s3zzxAmbuJJupRNpyI40yXd837oGhxb5cwDN6JNiCs2KigudaDkK5qn+86a9U/skkQEyFmU+mIWMEVGcSmyCwmMM4EPiKABSiACjoVrjILRdsw2QAX9zQCzCJKCBfgFWOWsGvxNJ4gAAAABJRU5ErkJggg=="></image>
-                <path d="M14.99335,25.9827495 C11.9675109,29.0085886 6.58672709,28.5336592 3.56106987,25.508002 C0.536077763,22.4830099 0.0609763218,17.1010679 3.08632234,14.0757219 L8.56202149,8.60002271 L20.4690492,20.5070504 L14.99335,25.9827495 Z M5.020975,24.0480969 C3.39182227,22.4189441 2.56127551,19.6628422 3.30662583,17.6330603 L7.35501524,21.6814497 L11.0464201,25.3728545 L11.4034046,25.7298391 C9.37246865,26.4742766 6.64687426,25.6739961 5.020975,24.0480969 Z" id="Combined-Shape" fill="#F5B923"></path>
-                <path d="M16.6801446,0.514506566 C17.2038089,-0.00915774463 18.0521001,-0.00989412578 18.5825971,0.520602833 L28.581076,10.5190817 C29.1081072,11.0461129 29.1075488,11.9011577 28.5871723,12.4215342 L20.0097283,20.9989783 L8.10270059,9.09195059 L16.6801446,0.514506566 L16.6801446,0.514506566 Z" id="Rectangle-154" fill="#000000"></path>
-                <path d="M18.5808849,2.4240151 L19.5334472,3.37657731 L15.7231983,7.18682617 L14.7706361,6.23426395 L18.5808849,2.4240151 L18.5808849,2.4240151 Z M25.7251015,9.5682317 L26.6776638,10.5207939 L22.8674149,14.3310428 L21.9148527,13.3784806 L25.7251015,9.5682317 L25.7251015,9.5682317 Z M20.4860094,5.28170174 L21.4385716,6.23426395 L18.5808849,9.09195059 L17.6283227,8.13938838 L20.4860094,5.28170174 L20.4860094,5.28170174 Z M22.8674149,7.66310727 L23.8199771,8.61566949 L20.9622905,11.4733561 L20.0097283,10.5207939 L22.8674149,7.66310727 L22.8674149,7.66310727 Z M13.8180739,10.997075 L14.7706361,11.9496372 L13.8180739,12.9021994 L12.8655117,11.9496372 L13.8180739,10.997075 L13.8180739,10.997075 Z M17.1520416,14.3310428 L18.1046038,15.283605 L17.1520416,16.2361672 L16.1994794,15.283605 L17.1520416,14.3310428 L17.1520416,14.3310428 Z" id="Combined-Shape" fill="#FFEB95"></path>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="deepin-boot-maker-a" width="144.4%" height="126.7%" x="-22.2%" y="-13.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-boot-maker-c" x1="32.201%" x2="71.972%" y1="0%" y2="80.043%">
+      <stop offset="0%" stop-color="#9BBE34"/>
+      <stop offset="100%" stop-color="#3A7D09"/>
+    </linearGradient>
+    <path id="deepin-boot-maker-b" d="M15.75,0 C16.9926407,-1.33195603e-15 18,1.00735931 18,2.25 L18,20 L0,20 L0,7.16557601 C-5.24621314e-16,6.50798147 0.259094243,5.87686659 0.721150197,5.40896183 L5.3284065,0.74338582 C5.79811904,0.267727557 6.43876498,1.22799864e-16 7.10725631,0 L15.75,0 Z M16,1 C15.4477153,1 15,1.45338253 15,2.01265823 C15,2.57193392 15.4477153,3.02531646 16,3.02531646 C16.5522847,3.02531646 17,2.57193392 17,2.01265823 C17,1.45338253 16.5522847,1 16,1 Z"/>
+    <filter id="deepin-boot-maker-d" width="111.1%" height="110%" x="-5.6%" y="-5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.3 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation=".5"/>
+      <feOffset dx="-1" dy="-1" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.0184287527   0 0 0 0 0.105044158   0 0 0 0 0.00466373642  0 0 0 0.35385708 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-boot-maker-e" x1="82.09%" x2="16.982%" y1="23.327%" y2="86.409%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".647"/>
+      <stop offset="100%" stop-color="#FFF"/>
+    </linearGradient>
+    <linearGradient id="deepin-boot-maker-g" x1="50%" x2="60.724%" y1="34.568%" y2="62.646%">
+      <stop offset="0%" stop-color="#303030"/>
+      <stop offset="100%" stop-color="#131212"/>
+    </linearGradient>
+    <linearGradient id="deepin-boot-maker-h" x1="0%" x2="100%" y1="42.264%" y2="57.725%">
+      <stop offset="0%" stop-color="#F1E274"/>
+      <stop offset="18.149%" stop-color="#CEB214"/>
+      <stop offset="37.816%" stop-color="#F2CC00"/>
+      <stop offset="56.473%" stop-color="#E7BF00"/>
+      <stop offset="67.568%" stop-color="#F9D53B"/>
+      <stop offset="83.443%" stop-color="#E8B800"/>
+      <stop offset="100%" stop-color="#FFCF00"/>
+    </linearGradient>
+    <path id="deepin-boot-maker-i" d="M3.5,22 C3.77614237,22 4,22.2238576 4,22.5 L4,27.5 C4,27.7761424 3.77614237,28 3.5,28 L2.5,28 C2.22385763,28 2,27.7761424 2,27.5 L2,22.5 C2,22.2238576 2.22385763,22 2.5,22 L3.5,22 Z M15.5,22 C15.7761424,22 16,22.2238576 16,22.5 L16,27.5 C16,27.7761424 15.7761424,28 15.5,28 L14.5,28 C14.2238576,28 14,27.7761424 14,27.5 L14,22.5 C14,22.2238576 14.2238576,22 14.5,22 L15.5,22 Z M11.5,22 C11.7761424,22 12,22.2238576 12,22.5 L12,25.5 C12,25.7761424 11.7761424,26 11.5,26 L10.5,26 C10.2238576,26 10,25.7761424 10,25.5 L10,22.5 C10,22.2238576 10.2238576,22 10.5,22 L11.5,22 Z M7.5,22 C7.77614237,22 8,22.2238576 8,22.5 L8,25.5 C8,25.7761424 7.77614237,26 7.5,26 L6.5,26 C6.22385763,26 6,25.7761424 6,25.5 L6,22.5 C6,22.2238576 6.22385763,22 6.5,22 L7.5,22 Z"/>
+    <filter id="deepin-boot-maker-j" width="107.1%" height="116.7%" x="-3.6%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.926828578   0 0 0 0 0.558558022   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-boot-maker-a)" transform="translate(7 1)">
+    <mask id="deepin-boot-maker-f" fill="#fff">
+      <use xlink:href="#deepin-boot-maker-b"/>
+    </mask>
+    <use fill="url(#deepin-boot-maker-c)" xlink:href="#deepin-boot-maker-b"/>
+    <use fill="#000" filter="url(#deepin-boot-maker-d)" xlink:href="#deepin-boot-maker-b"/>
+    <path fill="url(#deepin-boot-maker-e)" fill-opacity=".67" fill-rule="nonzero" d="M-3.63582733,10.7056738 C-3.15718926,11.1010616 -2.60497938,11.5914262 -2.07057616,12.1436739 C-2.07057616,12.1436739 0.331019227,14.2502276 2.25582511,14.8326475 C2.25582511,14.8326475 3.64076198,15.3191927 5.3210535,15.4990303 C5.3210535,15.4990303 5.62578745,15.5909331 5.98754337,15.1965306 C6.34933142,14.8044597 7.54093837,13.978555 8.79950055,14.0355334 C8.79950055,14.0355334 9.53252999,14.2474358 9.64469105,13.6456869 C9.64469105,13.6456869 9.78978315,12.8395622 8.83175409,12.9080038 C8.83175409,12.9080038 6.42496941,13.0187178 4.3914411,14.9791535 C4.3914411,14.9791535 3.69546328,14.9464374 3.00657671,14.4696734 C3.00657671,14.4696734 5.8384936,11.3173211 8.78421293,11.2064922 C8.78421293,11.2064922 11.6935044,10.9899285 9.89789511,13.7483961 C9.89789511,13.7483961 8.30606645,16.4912856 2.94886277,16.4000225 C2.94886277,16.4000225 -0.443286933,16.5054949 -2.50092951,16.3773931 C-1.8545522,17.7989594 -1.21237263,19.1600188 0.166061074,20.4435384 C0.499128748,20.761414 0.831439426,21.1091449 1.35050462,21.2215279 C4.48055593,20.6129736 8.02180455,18.3067914 9.73156617,16.4250164 C9.73156617,16.4250164 12.4938272,13.7444657 11.5292845,10.9156579 C11.5292845,10.9156579 10.5324685,8.50810783 7.02748478,9.79413976 C7.02748478,9.79413976 4.90547075,10.3808276 2.25647717,13.7804165 C2.25647717,13.7804165 1.99587537,13.4228749 2.00793657,13.3394378 C2.01961467,13.2563974 3.60729493,10.2970884 5.95901946,8.78509979 C5.95901946,8.78509979 8.60511321,6.89490324 11.202231,8.38667433 C13.7985611,9.87768466 14.1971919,12.7227256 14.144499,14.9891961 C14.1051566,16.6832701 13.0037038,20.2816013 10.8121218,23.751206 C13.5249813,23.3863701 16.1339139,22.142336 18.1774609,20.0256928 C19.5593477,18.5943769 20.5335008,16.9185665 21.1028714,15.140958 C19.5296007,12.4680153 15.5057801,6.60455871 10.0760706,5.7851739 C6.3844361,5.2284249 4.25903862,7.99424946 4.25903862,7.99424946 C2.46408002,9.92593352 1.83483514,12.9590574 1.83483514,12.9590574 C1.13054016,4.42870685 8.22165447,2.5569248 8.22165447,2.5569248 C11.99028,1.24220675 16.2395131,2.2061424 19.2331673,3.73843834 C18.810683,3.16403983 18.3342221,2.61717625 17.8039318,2.10496171 C12.7524842,-2.77429907 4.73004868,-2.66113284 -0.114770449,2.35698199 L-0.92913897,1.57037255 C4.34824329,-3.89577788 13.0856931,-4.01903027 18.5865644,1.29433488 C24.0874357,6.60770002 24.2692117,15.3461518 18.9918294,20.8123023 C13.7143768,26.2785256 4.97652744,26.4020448 -0.524270464,21.0887506 C-6.02506837,15.7754563 -6.20659161,7.03659587 -0.92913897,1.57037255 L-0.114770449,2.35698199 C-2.37189186,4.69483901 -3.54130121,7.68502454 -3.63582733,10.7056738 Z" mask="url(#deepin-boot-maker-f)" transform="rotate(135 9.031 11.191)"/>
+    <path fill="url(#deepin-boot-maker-g)" d="M0,20 L18,20 L18,27.75 C18,28.9926407 16.9926407,30 15.75,30 L2.25,30 C1.00735931,30 1.52179594e-16,28.9926407 0,27.75 L0,20 L0,20 Z"/>
+    <use fill="url(#deepin-boot-maker-h)" xlink:href="#deepin-boot-maker-i"/>
+    <use fill="#000" filter="url(#deepin-boot-maker-j)" xlink:href="#deepin-boot-maker-i"/>
+  </g>
 </svg>

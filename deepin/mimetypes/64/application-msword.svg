@@ -1,16 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
-    <title>application-msword</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="application-msword" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(8.000000, 5.000000)">
-            <image id="Bitmap" x="0" y="0" width="48" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAA6CAYAAAD2mdrhAAAABGdBTUEAA1teXP8meAAAAbpJREFUaAXtmutOwzAMhSk3IQHv/6pcBsNf1lP5B6MNo9iRbMmyl6bxOceRVimZrk42zZHgcze8W3p0K/vcDZ9PASvA13OuqPHzb1/2BLDyT8txrIuECAD6Zn750LuIzb/E7u1lcHyYQ0KkLF03gGMscGf+3+Cp/Wau+t3d1wvEW/Ou9tn8v7IXW4jaiChMkFo1JmNMZgtF2q9IeAKbGO/MsJuECOyMq2v5LhIZCcB2M4msBDaTyExgE4nsBFZJjEDgRxKjEPiOBGPTSAQ8Cf50G/bRCIiEPjlOLBgdzPhu48thuC0kndk57dNnxC0EiaY+yagEwN6sCEiJqFgdiFJedasDUiIqVgeilFfd6oCUiIrVgSjlVbc6ICWiYnUgSnnVrQ5IiahYHYhSXnWrA1IiKlYHopRX3eqAlIiK1YEo5VW3OiAlomJ1IEp51VUHdEsqw40VYTsXwSi8ywkNA1z5ejIXKUvTGeAfzcEK5uWWFnfVuG72YP5szjHmcg5leQYD47v5qzm3Wdr9Oo4rMdjwEIMIB8nZtpN2CfjA2jrgVWbr8FsxIwFA62YjcVHZg/U5c7JZU34GdfwCNsxKg6edvMcAAAAASUVORK5CYII="></image>
-            <path d="M43.5,54 L4.5,54 C3.5,54 3,53.5 3,52.5 L3,3.5 C3,2.5 3.5,2 4.5,2 L32,2 L45,15 L45,52.5 C45,54 43.5,54 43.5,54 Z" id="path14361" fill="#0E5BD3"></path>
-            <path d="M33.2386667,15.0373333 C32.5026667,15.0373333 32,14.4026667 32,13.6666667 L32,2 L45,15.0373333 L33.2386667,15.0373333 Z" id="path14363" fill="#5B9BFF"></path>
-        </g>
-        <path d="M35,27 L35,25 L45,25 C45.5522847,25 46,25.4477153 46,26 L46,44 C46,44.5522847 45.5522847,45 45,45 L35,45 L35,43 L44,43 L44,42 L35,42 L35,40 L44,40 L44,39 L35,39 L35,37 L44,37 L44,36 L35,36 L35,34 L44,34 L44,33 L35,33 L35,31 L44,31 L44,30 L35,30 L35,28 L44,28 L44,27 L35,27 Z M18,24.6070307 L34,22 L34,49 L18,46.3929693 L18,24.6070307 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-        <polygon id="W" fill="#0E5BD3" points="25.996582 34.1914062 24.0209961 41 22.4760742 41 20.0561523 31.4638672 21.737793 31.4638672 23.3168945 37.7939453 25.2583008 31.4638672 26.7280273 31.4638672 28.6557617 37.7324219 30.269043 31.4638672 31.9370117 31.4638672 29.503418 41 27.972168 41"></polygon>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="application-msword-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4358D4"/>
+      <stop offset="100%" stop-color="#001AA5"/>
+    </linearGradient>
+    <path id="application-msword-b" d="M29,0 L42,13 L42,47.5 C42,49.9852814 39.9852814,52 37.5,52 L4.5,52 C2.01471863,52 3.04359188e-16,49.9852814 0,47.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,4.56538782e-16 4.5,0 L29,0 Z"/>
+    <filter id="application-msword-a" width="131%" height="125%" x="-15.5%" y="-10.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.133333333   0 0 0 0 0.215686275   0 0 0 0 0.650980392  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="application-msword-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-msword-e" d="M29,0 L42,13 L33.5,13 C31.0147186,13 29,10.9852814 29,8.5 L29,0 Z"/>
+    <filter id="application-msword-d" width="153.8%" height="153.8%" x="-26.9%" y="-19.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(11 7)">
+      <use fill="#000" filter="url(#application-msword-a)" xlink:href="#application-msword-b"/>
+      <use fill="url(#application-msword-c)" xlink:href="#application-msword-b"/>
+      <use fill="#000" filter="url(#application-msword-d)" xlink:href="#application-msword-e"/>
+      <use fill="url(#application-msword-f)" xlink:href="#application-msword-e"/>
     </g>
+    <polygon fill="#FFF" points="21 41 21 26.333 33 21 39.967 23.695 40 44 33 46 21 41 33 43 33 25.667 25 28.333 25 39"/>
+  </g>
 </svg>

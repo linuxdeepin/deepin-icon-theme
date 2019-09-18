@@ -1,21 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>folder-open-32px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="57.1541174%" y1="0%" x2="57.154119%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#6AC4FF" offset="0%"></stop>
-            <stop stop-color="#6CCDFC" offset="96.2651467%"></stop>
-            <stop stop-color="#6AC4FF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-open-32px">
-            <image id="Bitmap" x="0.0844005904" y="6" width="32" height="25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAZCAYAAABQDyyRAAAABGdBTUEAA1teXP8meAAAATBJREFUSA3FlQsOwjAIhtX5SjyI9z+StzC+Jh9JCW1nqtMiSbfCKP9foN2w+I0sJcyqEQofRlPecmpGqR0GMW1Kc8ka8MqpXDRTn9xYSYDYU7aZmJ8tg+Eky8/CNL0zHL/btSz1ejPSTIe9rKMfVErAXvVPeLzZqIlPx2jWmImWmwzAaBeDmaEcRBtSCf5BgHKPECD11hQyjxJKYASi688m7zxSBlTBECRbwbnIsAygYIwSeu4mwwiQgchG5ORp2dMpQMkuCNF7ijYgAJ6AXgw9UV3sh8yrDGCMEI78VUZFAGNEGfgZvSQQ0Yh6AwoJldQDKJQg4m+Y7p6KADXxhNShwwMc6zcPyIfeJOgxvYDSxnzTAc6NeJTRqxRniX2SYVKefTLCMSnttuDLCZvMMvAEga0yhxRYQUQAAAAASUVORK5CYII="></image>
-            <path d="M19.0901184,6.27325439 C19.3164898,6.12234016 19.716372,6 19.9920959,6 L26.5079041,6 C26.7796811,6 27,6.21767749 27,6.50068837 L27,27.9935093 L5,27.9935093 L5,7.49823718 C5,7.22306838 5.22563934,7 5.49374104,7 L17.506259,7 C17.7789446,7 18.1839294,6.87738037 18.4098816,6.72674561 L19.0901184,6.27325439 Z" id="Combined-Shape" fill="#6AC4FF"></path>
-            <path d="M5.50083616,28 C5.22423199,28 4.97471261,27.7724135 4.94442115,27.4997903 L3.05557887,10.5002097 C3.02488351,10.2239515 3.22477152,10 3.49616792,10 L28.503833,10 C28.7778589,10 28.9747135,10.2275865 28.944422,10.5002097 L27.0555797,27.4997903 C27.0248844,27.7760485 26.7822591,28 26.4991647,28 L5.50083616,28 Z" id="Rectangle-279" fill="#FFFFFF"></path>
-            <path d="M4.50127411,29 C4.22442806,29 3.95759106,28.773819 3.90692627,28.5036068 L1.09307373,13.4963932 C1.04167053,13.2222428 1.2242291,13 1.49567625,13 L30.5043238,13 C30.7780782,13 30.9575911,13.226181 30.9069263,13.4963932 L28.0930737,28.5036068 C28.0416705,28.7777572 27.7777346,29 27.4987259,29 L4.50127411,29 Z" id="Rectangle-279" fill="url(#linearGradient-1)"></path>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="folder-open-a" width="128.6%" height="133.3%" x="-14.3%" y="-16.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="folder-open-c" x1="50%" x2="50%" y1="0%" y2="37.968%">
+      <stop offset="0%" stop-color="#00B8FF"/>
+      <stop offset="100%" stop-color="#2E5DFF"/>
+    </linearGradient>
+    <path id="folder-open-b" d="M15.5,1.5 L15.5,1.5 C15.7985951,2.39578544 16.6368981,3 17.5811388,3 L24.5,3 C26.4329966,3 28,4.56700338 28,6.5 L28,20.5 C28,22.4329966 26.4329966,24 24.5,24 L3.5,24 C1.56700338,24 -4.23958403e-14,22.4329966 -4.26325641e-14,20.5 L-4.26325641e-14,3.5 C-4.2869288e-14,1.56700338 1.56700338,-2.80666237e-14 3.5,-2.84217094e-14 L13.4188612,-2.66453526e-14 C14.3631019,-2.76574611e-14 15.2014049,0.604214564 15.5,1.5 Z"/>
+    <linearGradient id="folder-open-g" x1="50%" x2="50%" y1="0%" y2="77.929%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#CEF5FF"/>
+    </linearGradient>
+    <rect id="folder-open-f" width="26" height="10" x="1" y="4" rx="2.25"/>
+    <filter id="folder-open-e" width="111.5%" height="130%" x="-5.8%" y="-15%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="folder-open-h" width="111.5%" height="130%" x="-5.8%" y="-15%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="folder-open-i" cx="50%" cy="0%" r="118.109%" fx="50%" fy="0%" gradientTransform="scale(.46429 1) rotate(82.394 .788 .33)">
+      <stop offset="0%" stop-color="#48D5FF"/>
+      <stop offset="100%" stop-color="#0083F6"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#folder-open-a)" transform="translate(2 5)">
+    <mask id="folder-open-d" fill="#fff">
+      <use xlink:href="#folder-open-b"/>
+    </mask>
+    <use fill="url(#folder-open-c)" xlink:href="#folder-open-b"/>
+    <g mask="url(#folder-open-d)">
+      <use fill="#000" filter="url(#folder-open-e)" xlink:href="#folder-open-f"/>
+      <use fill="url(#folder-open-g)" xlink:href="#folder-open-f"/>
+      <use fill="#000" filter="url(#folder-open-h)" xlink:href="#folder-open-f"/>
     </g>
+    <g fill="url(#folder-open-i)" mask="url(#folder-open-d)">
+      <path d="M0,0.25 L28,0.25 L28,9.75 C28,11.6829966 26.4329966,13.25 24.5,13.25 L3.5,13.25 C1.56700338,13.25 2.36723813e-16,11.6829966 0,9.75 L0,0.25 Z" transform="translate(0 10.75)"/>
+    </g>
+  </g>
 </svg>

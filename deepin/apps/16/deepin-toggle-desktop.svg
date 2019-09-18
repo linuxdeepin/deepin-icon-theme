@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-show-desktop</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0.599888393%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#23FFBE" offset="0%"></stop>
-            <stop stop-color="#3FDA88" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-show-desktop">
-            <polygon id="path4604" fill="url(#linearGradient-1)" points="15 2 15 13.999767 1 13.999767 1 2"></polygon>
-            <g id="Group" transform="translate(2.000000, 3.000000)">
-                <rect id="Rectangle" fill="#1FB366" opacity="0.800837862" x="0" y="8" width="12" height="2"></rect>
-                <rect id="Rectangle-190" fill="#FFFFFF" x="0" y="0" width="2" height="2"></rect>
-                <rect id="Rectangle-190" fill="#FFFFFF" x="0" y="3" width="2" height="2"></rect>
-            </g>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="deepin-show-desktop-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00D479"/>
+      <stop offset="100%" stop-color="#02A5CB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#deepin-show-desktop-a)" d="M13.9931545,2 C14.5492199,2 15,2.4557521 15,3.00245383 L15,12.9973131 C15,13.5509531 14.5500512,13.999767 13.9931545,13.999767 L2.00684547,13.999767 C1.45078007,13.999767 1,13.5440149 1,12.9973131 L1,3.00245383 C1,2.44881386 1.44994876,2 2.00684547,2 L13.9931545,2 Z"/>
+    <g transform="translate(2 3)">
+      <rect width="12" height="2" y="8" fill="#A4FFCC" opacity=".7"/>
+      <rect width="2" height="2" fill="#FFF"/>
+      <rect width="2" height="2" y="3" fill="#FFF"/>
     </g>
+  </g>
 </svg>

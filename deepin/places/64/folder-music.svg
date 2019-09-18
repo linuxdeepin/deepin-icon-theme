@@ -1,33 +1,74 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>folder-music-64px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#99D5FC" offset="0%"></stop>
-            <stop stop-color="#50B4F7" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="57.1541174%" y1="0%" x2="57.154119%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#6AC4FF" offset="0%"></stop>
-            <stop stop-color="#6CCDFC" offset="96.2651467%"></stop>
-            <stop stop-color="#6AC4FF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-music-64px">
-            <image id="Bitmap" x="2" y="9.00000001" width="60" height="54" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA2CAYAAACbZ/oUAAAABGdBTUEAA1teXP8meAAAAiVJREFUaAXtmttSwzAMRFvuw/D/38qtFB0TGSVNMwow0C3SjGLXlt1drZInbTenZdsAJ87D8tHpPuzEeVjebNZeOjr8wz8cy4Xdi/PbfemvIIe/hZH4WdJX7CyYgyAkzheOfHmL+yF6aQ74F/NZ0LY+Nc7ChfMY52dtibAT9Gz76OuzF35jkXsh+2r+vPIeEsO5e/OjZLlziTD7nnEuXJNxzv62gRE+4PTyPsDgJRA3yLQ7Gb8xJ3vZ8rLQPzPw4o6fcWRTwh7AOtm6Nr81VyBrMBtmcEPauTkn9g8+RGwSyAHs1Mv4A+X4CQeEwnbmo/KOWSAQhyxlrEjWYLdqBDscDsobwpDEmCuWcQM/efAK8iqiNJy6sK4qC8plbPBnDX6j8u7Mhw3VMp5la4soDSdIt0qGMBNGpFf5GhvUtMHJy3obFfaSTt8kFOgfr8+X2cA3yYVIrIEKt17Saw7Kx3pJyxPJEijC2UypxpXCqsplcZfC2UypxpXCqsplcZfC2UypxpXCqsplcZfC2UypxpXCqsplcZfC2UypxpXCqsplcZfC2UypxpXCqsplcZfC2UypxpXCqsplcZfC2Uypxv1bhemDwM+xCwBOzq+3PLBA19rDmZGGLJzgBsemKIs0fdDIdTeMtPmolzsth7QsPZk/DuOOdh4M9mxidM72rpe2ovnwqoVP7z9DXRxDUeY++jp7igZh3JtLGTvZSC7OiVE3SLvt3wHHrE3oAjMgZQAAAABJRU5ErkJggg=="></image>
-            <path d="M51.5087337,11 C52.3323366,11 53.0051012,11.6682266 53.0114729,12.5026587 L53.3333333,54.6536853 C53.3333333,55.3972344 52.726436,56 51.9994407,56 L12.0005593,56 C11.2638707,56 10.6666667,55.4099609 10.6666667,54.6536853 L10.9879396,14.5070847 C10.9946004,13.6747447 11.6674194,12.9999999 12.4900966,12.9999999 L37.5083167,12.9999999 C37.7798662,12.9999999 38.1569373,12.8430633 38.348374,12.6516265 L39.6516272,11.3483734 C39.8440285,11.1559721 40.2256399,11 40.4937416,11 L51.5087337,11 Z" id="Combined-Shape" fill="#82CEFF"></path>
-            <path d="M51.4922069,12 C52.3249373,12 53.0052346,12.6699875 53.0116668,13.4930572 L53.3333333,54.6536853 C53.3333333,55.3972344 52.726436,56 51.9994407,56 L12.0005593,56 C11.2638707,56 10.6666667,55.4099609 10.6666667,54.6536853 L10.9877412,15.4951001 C10.9945115,14.6693791 11.6797791,13.9999999 12.4980488,13.9999999 L37.9992115,13.9999999 C38.2757897,13.9999999 38.6569373,13.8430633 38.848374,13.6516265 L40.1516272,12.3483734 C40.3440285,12.1559721 40.7169615,12 41.0054971,12 L51.4922069,12 Z" id="Combined-Shape" fill="#6AC4FF"></path>
-            <path d="M8,56.0049132 L7.99999999,17.4952273 C7.99999999,16.6694361 8.67854308,16 9.50247396,16 L54.497526,16 C55.3273195,16 56,16.6775747 56,17.4952273 L56,56.0049132 C56,56.7385794 55.3931026,57.3333333 54.6661074,57.3333333 L9.33389258,57.3333333 C8.59720405,57.3333333 8,56.7490323 8,56.0049132 Z" id="Rectangle-279" fill="#FFFFFF"></path>
-            <path d="M8,56.0049132 L7.99999999,18.505139 C7.99999999,17.6738737 8.67854308,17 9.50247396,17 L54.497526,17 C55.3273195,17 56,17.6770033 56,18.505139 L56,56.0049132 C56,56.7385794 55.3931026,57.3333333 54.6661074,57.3333333 L9.33389258,57.3333333 C8.59720405,57.3333333 8,56.7490323 8,56.0049132 Z" id="Rectangle-279" fill="#EDF5F6"></path>
-            <path d="M6.50062916,59 C5.67185456,59 5,58.3225085 5,57.5049563 L5,20.4950437 C5,19.6693539 5.66327753,19 6.50062916,19 L57.4993708,19 C58.3281454,19 59,19.6774915 59,20.4950437 L59,57.5049563 C59,58.3306461 58.3367225,59 57.4993708,59 L6.50062916,59 Z" id="Rectangle-279" fill="url(#linearGradient-1)"></path>
-            <path d="M6.50062916,58 C5.67185456,58 5,57.3243111 5,56.4986508 L5,21.5013492 C5,20.6721769 5.66327753,20 6.50062916,20 L57.4993708,20 C58.3281454,20 59,20.6756889 59,21.5013492 L59,56.4986508 C59,57.3278231 58.3367225,58 57.4993708,58 L6.50062916,58 Z" id="Rectangle-279" fill="url(#linearGradient-2)"></path>
-            <path d="M23.0638372,47.3400895 C24.6908553,46.8552746 25.7573755,45.4145606 25.4459768,44.1221649 C25.1345781,42.8297691 23.5631809,42.1750955 21.9361628,42.6599105 C20.3091447,43.1447254 19.2426245,44.5854394 19.5540232,45.8778351 C19.8654219,47.1702309 21.4368191,47.8249045 23.0638372,47.3400895 L23.0638372,47.3400895 Z" id="Oval" stroke="#2CA7F8"></path>
-            <path d="M37.0638372,46.3400895 C38.6908553,45.8552746 39.7573755,44.4145606 39.4459768,43.1221649 C39.1345781,41.8297691 37.5631809,41.1750955 35.9361628,41.6599105 C34.3091447,42.1447254 33.2426245,43.5854394 33.5540232,44.8778351 C33.8654219,46.1702309 35.4368191,46.8249045 37.0638372,46.3400895 L37.0638372,46.3400895 Z" id="Oval" stroke="#2CA7F8"></path>
-            <path d="M25.5,44.5 L25.5,32.5" id="Line" stroke="#2CA7F8" stroke-linecap="round" stroke-linejoin="round"></path>
-            <path d="M39.5000001,43.5 L39.5000001,31.5" id="Line" stroke="#2CA7F8" stroke-linecap="round" stroke-linejoin="round"></path>
-            <polygon id="Rectangle-30" stroke="#2CA7F8" stroke-linecap="round" stroke-linejoin="round" transform="translate(32.500000, 31.250000) scale(-1, 1) translate(-32.500000, -31.250000) " points="25.5000001 28.5 39.5 29.5 39.5 33.9999998 25.5000001 33"></polygon>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="folder-music-64px-a" width="128.6%" height="133.3%" x="-14.3%" y="-16.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="folder-music-64px-c" x1="50%" x2="50%" y1="0%" y2="37.968%">
+      <stop offset="0%" stop-color="#00B8FF"/>
+      <stop offset="100%" stop-color="#2E5DFF"/>
+    </linearGradient>
+    <path id="folder-music-64px-b" d="M31.2792793,3 L31.2792793,3 C32.0434808,4.81770784 33.8230705,6 35.7948884,6 L49,6 C52.8659932,6 56,9.13400675 56,13 L56,41 C56,44.8659932 52.8659932,48 49,48 L7,48 C3.13400675,48 -4.92645439e-14,44.8659932 -4.97379915e-14,41 L-5.24025268e-14,7 C-5.28759744e-14,3.13400675 3.13400675,-2.7711538e-14 7,-2.84217094e-14 L26.7636702,-1.687539e-14 C28.735488,-1.7237607e-14 30.5150778,1.18229216 31.2792793,3 Z"/>
+    <linearGradient id="folder-music-64px-g" x1="50%" x2="50%" y1="0%" y2="11.796%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#CEF5FF"/>
+    </linearGradient>
+    <rect id="folder-music-64px-f" width="50.955" height="20.75" x="2.523" y="9" rx="4.5"/>
+    <filter id="folder-music-64px-e" width="111.8%" height="128.9%" x="-5.9%" y="-14.5%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="folder-music-64px-h" width="109.8%" height="124.1%" x="-4.9%" y="-12%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="folder-music-64px-i" cx="50%" cy="0%" r="117.613%" fx="50%" fy="0%" gradientTransform="matrix(.06171 .99538 -.63989 .096 .47 -.498)">
+      <stop offset="0%" stop-color="#48D5FF"/>
+      <stop offset="100%" stop-color="#0083F6"/>
+    </radialGradient>
+    <linearGradient id="folder-music-64px-l" x1="52.084%" x2="52.084%" y1="4.908%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".6"/>
+    </linearGradient>
+    <path id="folder-music-64px-k" d="M12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 Z M12,20 C16.418278,20 20,16.418278 20,12 C20,7.581722 16.418278,4 12,4 C7.581722,4 4,7.581722 4,12 C4,16.418278 7.581722,20 12,20 Z"/>
+    <filter id="folder-music-64px-j" width="125%" height="125%" x="-12.5%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="folder-music-64px-m" x1="35.769%" x2="18.77%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4B20FF"/>
+      <stop offset="100%" stop-color="#9600F1"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#folder-music-64px-a)" transform="translate(4 11)">
+      <mask id="folder-music-64px-d" fill="#fff">
+        <use xlink:href="#folder-music-64px-b"/>
+      </mask>
+      <use fill="url(#folder-music-64px-c)" xlink:href="#folder-music-64px-b"/>
+      <g mask="url(#folder-music-64px-d)">
+        <use fill="#000" filter="url(#folder-music-64px-e)" xlink:href="#folder-music-64px-f"/>
+        <use fill="url(#folder-music-64px-g)" xlink:href="#folder-music-64px-f"/>
+        <use fill="#000" filter="url(#folder-music-64px-h)" xlink:href="#folder-music-64px-f"/>
+      </g>
+      <g fill="url(#folder-music-64px-i)" mask="url(#folder-music-64px-d)">
+        <path d="M0,0.5 L56,0.5 L56,29.5 C56,33.3659932 52.8659932,36.5 49,36.5 L7,36.5 C3.13400675,36.5 4.73447626e-16,33.3659932 0,29.5 L0,0.5 Z" transform="translate(0 11.5)"/>
+      </g>
     </g>
+    <g transform="translate(20 28)">
+      <use fill="#000" filter="url(#folder-music-64px-j)" xlink:href="#folder-music-64px-k"/>
+      <use fill="url(#folder-music-64px-l)" xlink:href="#folder-music-64px-k"/>
+      <circle cx="12" cy="12" r="7" fill="url(#folder-music-64px-m)"/>
+      <path fill="#FFF" d="M14,12.0853529 L14,9.71726114 C14,9.53909343 13.8555665,9.39465997 13.6773988,9.39465997 C13.6515413,9.39465997 13.6257775,9.39776878 13.6006621,9.40391949 L11.2458644,9.98060463 C11.1015202,10.0159542 11,10.1453366 11,10.2939463 L11,14.383673 L10.9955561,14.383673 C10.9985006,14.4220623 11,14.460856 11,14.5 C11,15.3284271 10.3284271,16 9.5,16 C8.67157288,16 8,15.3284271 8,14.5 C8,13.6715729 8.67157288,13 9.5,13 C9.67531771,13 9.84361054,13.0300771 10,13.0853529 L10,9.61291876 C10,9.15015565 10.327601,8.75214348 10.7817305,8.66317116 L13.8461235,8.0628003 C14.3706546,7.96003502 14.8791788,8.30194379 14.9819441,8.8264749 C14.9939532,8.88777125 15,8.95008623 15,9.0125479 L15,13.359184 L14.9934772,13.359184 C14.9977934,13.4055427 15,13.4525136 15,13.5 C15,14.3284271 14.3284271,15 13.5,15 C12.6715729,15 12,14.3284271 12,13.5 C12,12.6715729 12.6715729,12 13.5,12 C13.6753177,12 13.8436105,12.0300771 14,12.0853529 Z"/>
+    </g>
+  </g>
 </svg>

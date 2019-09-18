@@ -1,37 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-system-monitor</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="56.4842886%" y1="100%" x2="38.7631206%" y2="0%" id="linearGradient-1">
-            <stop stop-color="#5F3EFF" offset="0%"></stop>
-            <stop stop-color="#6E62FF" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#1E007E" offset="0%"></stop>
-            <stop stop-color="#3721B2" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-system-monitor">
-            <g id="Group" transform="translate(1.000000, 2.000000)">
-                <image id="Bitmap" x="0" y="0" width="46" height="46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAAAXNSR0IArs4c6QAAA21JREFUaAXV2Alv2zAMhuF194FhB4Zh//8v7j47Pm4+zW4VV0GbxiPA6jAlvaQo2c3ZvZvL2W6KlJrzuva5PztJPWX6DyovLzA6OOOU9P5uIJi56o5NSn1/SmOnfbATJjtEYg80sL+rDuQQMfbBboCxGT/sQEBGFmU7B/45MmjA5tHOJg4MwY+Aswm08lfp0OQ7oJHCvA9383LA/KtrZLvKriuBzqSgjyWAk0Kr0ADWwBNlWwlYLh9bEm1rrsLvAw+0SP+4bpJb9gYwB1bhe+BJj0TaJKcSgeuu3wOXZxlwF+mxLygiL4gY1RepA3IuMVQe8yDO11yrY5gzNdt5xBlwRIp8bxanr0iVx6WLlLkccY4wWGxLtU8pWDDNg9xe24l2bpFTgvbWdrNhE2isDVy9ewg82IDkcLaoJ1V4waPb+v44hq/YMLaIq1BObOEmKYyuYEuqnCXiOZTdERvqbIc0HiS/N8TYRZHrWFvEObC4J7vDTt+JccqSpIoc/1/AF4eTA6f8LhndS4xYW6pMXoyOPrFdi3g42uWejg2WjTE5ntO6QdYFUrv9gHc/Yhbm22kAd4mczyPudbp1wSjQF3dilbzwHb51wThd20mVXIVbhg8b1pYqGr6+npduVbBhnIKciMsbnU9Kt3inY8KGEWuLuIbPRt68LN2aYMKGcXE4gXrgn+QXpVuKuqzAhG1KkyqX/4DqKHHl2JZvGhuQ18XgJvlaCvxKxKtvegD4aekWDioGLJhatKvejfjkUT17VWrAdG9Wedfi+ntX+rk04GHrggMEK7dsk4FtQNXvQqz9oVR6fCltKVL1SdrXVjp2JVDwnr8pjcdVPbr41Qq0wyhouQKr+k/2gbMIPO/Bm4AeU+T0+1KRnkNf2fE1cICinm2S8/JOJK5MVH03EcF5W2oNwIG2fnet68Br3ATv4jfJs1LRd89z4KZiHudIlNU/lcrppEcXup4PvWhMSDkp/1xPHBAlkflY6re9Q8Q83oZeLAIiNZwj82SH90KXzRA4OwIebBzwkuJEfgJOpOyOiCmJF5oUSymPzQMSrJ0L8N7UKJuFgDlEYh8HAgOMcop6HluRAySSNIc8zunznKxG+cLk4m8mn/eN1DNOSS8D98AvO6Ad0JQja082ARge0DHMHCmZzOvac7DUU3p+sPwFBgrZAV5sE2wAAAAASUVORK5CYII="></image>
-                <circle id="Oval-3" fill="url(#linearGradient-1)" cx="23" cy="22" r="21"></circle>
-                <circle id="Oval" fill="url(#linearGradient-2)" cx="23" cy="22" r="16.5"></circle>
-                <path d="M7,17.5 L38.5,17.5" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M13,8.5 L32.5,8.5" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M7,26.5 L38.5,26.5" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M27.5,38 L27.5,6" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M36.5,31 L36.5,13" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M18.5,38 L18.5,5" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M9.5,31 L9.5,13" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M33.9357479,35.6631533 C37.9375255,32.4560479 40.5,27.527273 40.5,22 C40.5,12.3350169 32.6649831,4.5 23,4.5 C13.3350169,4.5 5.5,12.3350169 5.5,22 C5.5,27.416008 7.96034686,32.2573713 11.8243416,35.4673908" id="Oval-2" stroke="#FFFFFF" stroke-width="2" opacity="0.5" stroke-linecap="round"></path>
-                <path d="M23,4.5 C13.3350169,4.5 5.5,12.3350169 5.5,22 C5.5,27.416008 7.96034686,32.2573713 11.8243416,35.4673908" id="Oval-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                <path d="M9.5,24.5 C9.5,24.5 10.5,26.5 12.5,26.5 C17,26.5 15.5,15.5 20,15.5 C24.5,15.5 22,26.5 26.5,26.5 C29.5,26.5 28,21.5 30.5,21.5 C33,21.5 31,27 36.5,26.5" id="Path-5" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                <rect id="Rectangle-2" fill="#6040FF" x="14" y="31" width="18" height="9" rx="4.5"></rect>
-                <path d="M19.094,37.632 C19.676,37.632 20.174,37.41 20.552,36.972 L19.988,36.3 C19.778,36.528 19.49,36.708 19.136,36.708 C18.506,36.708 18.098,36.192 18.098,35.304 C18.098,34.434 18.572,33.918 19.148,33.918 C19.466,33.918 19.7,34.062 19.922,34.266 L20.486,33.582 C20.18,33.27 19.712,33 19.13,33 C17.996,33 17,33.852 17,35.34 C17,36.852 17.96,37.632 19.094,37.632 Z M21.206,37.548 L21.206,33.084 L22.772,33.084 C23.756,33.084 24.566,33.432 24.566,34.536 C24.566,35.598 23.744,36.066 22.802,36.066 L22.28,36.066 L22.28,37.548 L21.206,37.548 Z M22.28,35.22 L22.748,35.22 C23.27,35.22 23.522,34.974 23.522,34.536 C23.522,34.086 23.234,33.93 22.718,33.93 L22.28,33.93 L22.28,35.22 Z M27.116,37.632 C28.304,37.632 28.904,36.954 28.904,35.448 L28.904,33.084 L27.872,33.084 L27.872,35.562 C27.872,36.408 27.602,36.708 27.116,36.708 C26.624,36.708 26.372,36.408 26.372,35.562 L26.372,33.084 L25.304,33.084 L25.304,35.448 C25.304,36.954 25.922,37.632 27.116,37.632 Z" id="CPU" fill="#FFFFFF"></path>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-system-monitor-a" width="129.5%" height="129.5%" x="-14.8%" y="-14.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-system-monitor-b" cx="38.256%" cy="21.126%" r="100.21%" fx="38.256%" fy="21.126%">
+      <stop offset="0%" stop-color="#665AFF"/>
+      <stop offset="100%" stop-color="#4300D7"/>
+    </radialGradient>
+    <radialGradient id="deepin-system-monitor-c" cx="50%" cy="52.28%" r="54.424%" fx="50%" fy="52.28%">
+      <stop offset="0%" stop-color="#00D8FF"/>
+      <stop offset="100%" stop-color="#3D00B5"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-system-monitor-a)" transform="translate(2 2)">
+    <circle cx="22" cy="22" r="22" fill="url(#deepin-system-monitor-b)"/>
+    <circle cx="22" cy="22" r="16.5" fill="url(#deepin-system-monitor-c)"/>
+    <path fill="#FFF" fill-opacity=".2" fill-rule="nonzero" d="M9,31 L8,31 L7.999,27 L6,27 L6,26 L7.999,26 L7.999,18 L6,18 L6,17 L7.999,17 L8,13 L9,13 L8.999,17 L17,17 L17,9 L12,9 L12,8 L17,8 L17,5 L18,5 L18,8 L26,8 L26,6 L27,6 L27,8 L31.5,8 L31.5,9 L27,9 L27,17 L35,17 L35,13 L36,13 L36,17 L37.5,17 L37.5,18 L36,18 L36,26 L37.5,26 L37.5,27 L36,27 L36,31 L35,31 L35,27 L27,27 L27,38 L26,38 L26,27 L18,27 L18,38 L17,38 L17,27 L8.999,27 L9,31 Z M8.999,26 L17,26 L17,18 L8.999,18 L8.999,26 Z M26,18 L18,18 L18,26 L26,26 L26,18 Z M35,18 L27,18 L27,26 L35,26 L35,18 Z M26,9 L18,9 L18,17 L26,17 L26,9 Z"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-width="2" d="M32.9357479,35.6631533 C36.9375255,32.4560479 39.5,27.527273 39.5,22 C39.5,12.3350169 31.6649831,4.5 22,4.5 C12.3350169,4.5 4.5,12.3350169 4.5,22 C4.5,27.416008 6.96034686,32.2573713 10.8243416,35.4673908" opacity=".5"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22,4.5 C12.3350169,4.5 4.5,12.3350169 4.5,22 C4.5,27.416008 6.96034686,32.2573713 10.8243416,35.4673908"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8.5,24.5 C8.5,24.5 9.5,26.5 11.5,26.5 C16,26.5 14.5,15.5 19,15.5 C23.5,15.5 21,26.5 25.5,26.5 C28.5,26.5 27,21.5 29.5,21.5 C32,21.5 30,27 35.5,26.5"/>
+    <rect width="18" height="9" x="13" y="31" fill="#0A8BFF" rx="4.5"/>
+    <path fill="#FFF" d="M18.094,37.632 C18.676,37.632 19.174,37.41 19.552,36.972 L18.988,36.3 C18.778,36.528 18.49,36.708 18.136,36.708 C17.506,36.708 17.098,36.192 17.098,35.304 C17.098,34.434 17.572,33.918 18.148,33.918 C18.466,33.918 18.7,34.062 18.922,34.266 L19.486,33.582 C19.18,33.27 18.712,33 18.13,33 C16.996,33 16,33.852 16,35.34 C16,36.852 16.96,37.632 18.094,37.632 Z M20.206,37.548 L20.206,33.084 L21.772,33.084 C22.756,33.084 23.566,33.432 23.566,34.536 C23.566,35.598 22.744,36.066 21.802,36.066 L21.28,36.066 L21.28,37.548 L20.206,37.548 Z M21.28,35.22 L21.748,35.22 C22.27,35.22 22.522,34.974 22.522,34.536 C22.522,34.086 22.234,33.93 21.718,33.93 L21.28,33.93 L21.28,35.22 Z M26.116,37.632 C27.304,37.632 27.904,36.954 27.904,35.448 L27.904,33.084 L26.872,33.084 L26.872,35.562 C26.872,36.408 26.602,36.708 26.116,36.708 C25.624,36.708 25.372,36.408 25.372,35.562 L25.372,33.084 L24.304,33.084 L24.304,35.448 C24.304,36.954 24.922,37.632 26.116,37.632 Z"/>
+  </g>
 </svg>

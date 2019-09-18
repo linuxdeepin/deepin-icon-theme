@@ -1,15 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
-    <title>text-x-cmake</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="text-x-cmake">
-            <image id="Bitmap" x="6" y="4" width="36" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAArCAYAAAAQVipNAAAABGdBTUEAA1teXP8meAAAAS5JREFUWAntmNsOgkAMRMFbvMT//08fTNAQnKnUwAsDctl9aJNBsGw5zC4ktCyKooQY/PV9+2OhTYM6Llny0J6xbwfVcsT0E46d2gQbjB2ydOUErQHDi78h3jAlZ8CB3CmMWSUqVB0FRSCGJP+eNms7CmpLIN6NhHKgWbc+cfAgVAqgrlNcu73lkgrIoXj9HlRKIIeiQz+o1ECEekGEsvdUDkAOxTd6mQsQoWzacgIylpyA7PHPCYjTVgSQ2TCwCYcGzLFUOBQOKQdUPtZQOKQcUPlYQ+GQckDlYw2FQ8oBlY81NNYh2YxUhRbIG4NPGQ8uCxT9t8QNAw2IX4uEOkN36AqxC7FlsPv7hB5QRSBvhbA17H0a+6zF8dpBVyi2jqnagbBvYFuB8HrdcLDmA609I3uLKTjDAAAAAElFTkSuQmCC"></image>
-            <path d="M39.000999,44 L9,44 C8.37662338,44 8,43.524 8,43 L8,6 C8,5.42 8.37662338,5 9,5 L30.00999,5 L40,15 L40,43 C39.968032,44 39.000999,44 39.000999,44 Z" id="path14361" fill="#F64747"></path>
-            <path d="M24.5,27 L33,33 L24,15 L24.5,27 Z M15,33 L23.5,27 L24,15 L15,33 Z M16,33 L32,33 L24,28 L16,33 Z" id="path8142" fill="#FFFFFF"></path>
-            <path d="M30.929,15.028 C30.377,15.028 30,14.552 30,14 L30,5 L40,15 L30.929,15.028 Z" id="path14363" fill="#F97B7B"></path>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="text-x-cmake-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F33C3C"/>
+      <stop offset="99.628%" stop-color="#DC2121"/>
+    </linearGradient>
+    <path id="text-x-cmake-b" d="M21,0 L32,11 L32,34.5 C32,36.9852814 29.9852814,39 27.5,39 L4.5,39 C2.01471863,39 3.04359188e-16,36.9852814 0,34.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,2.23289562e-15 4.5,1.77635684e-15 L21,0 Z"/>
+    <filter id="text-x-cmake-a" width="131.2%" height="125.6%" x="-15.6%" y="-10.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.6622226   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="text-x-cmake-f" x1="50%" x2="12.223%" y1="50%" y2="88.513%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-x-cmake-e" d="M21,0 L32,11 L25.5,11 C23.0147186,11 21,8.98528137 21,6.5 L21,0 Z"/>
+    <filter id="text-x-cmake-d" width="163.6%" height="163.6%" x="-31.8%" y="-22.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8 5)">
+      <use fill="#000" filter="url(#text-x-cmake-a)" xlink:href="#text-x-cmake-b"/>
+      <use fill="url(#text-x-cmake-c)" xlink:href="#text-x-cmake-b"/>
+      <use fill="#000" filter="url(#text-x-cmake-d)" xlink:href="#text-x-cmake-e"/>
+      <use fill="url(#text-x-cmake-f)" xlink:href="#text-x-cmake-e"/>
     </g>
+    <path fill="#FFF" d="M24.5,27 L33,33 L24,15 L24.5,27 Z M15,33 L23.5,27 L24,15 L15,33 Z M16,33 L32,33 L24,28 L16,33 Z"/>
+  </g>
 </svg>

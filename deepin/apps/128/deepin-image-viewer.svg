@@ -1,52 +1,77 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>深度看图-128px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#BFC3D0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#F3F3F3" offset="0%"></stop>
-            <stop stop-color="#F1F1F1" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="100%" x2="50%" y2="7.95429017%" id="linearGradient-3">
-            <stop stop-color="#FF9191" offset="0%"></stop>
-            <stop stop-color="#FFAE00" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="13.7060533%" y1="9.88813315%" x2="76.9839962%" y2="86.4228772%" id="linearGradient-4">
-            <stop stop-color="#FFE38A" offset="0%"></stop>
-            <stop stop-color="#FFC0C1" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="13.7060533%" y1="9.88813315%" x2="76.9839962%" y2="86.4228772%" id="linearGradient-5">
-            <stop stop-color="#FFD241" offset="0%"></stop>
-            <stop stop-color="#FFC0C1" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="深度看图-128px">
-            <g id="Group-2" transform="translate(4.000000, 16.000000)">
-                <image id="Bitmap" x="0" y="0" width="120" height="112" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABwCAYAAADVN7S/AAAABGdBTUEAA1teXP8meAAABXFJREFUeAHtlttyGzcQRKPYSVWSykP+/z/zEF9onKV604SWFski5VW7UQVOYwAsMX2EpZ5+eUx7esxj4596uHeF9wax9bytHHWcy9+7xr087xy8rfxW7qY67mny/CyN58hBlbvp0O94k4OTnqPKU17jm+K9jPbnSBO9c0Cfu+nA73yToHlEq1Oe5mbN+Or28eod39/gAH8dSxl/Gf3r6H7wMfzpG97g0YfR8UYekb+bV7cCFshxlrWR887hgUtve+kAEPEGz4BMIye4xNlnzbH2oqYHX7R4LBJAX68cEaj6q+TZ//nC6k0HgPb76IKpyGLXGs858mfbNTd4frDGRHUBFuSr/+LOnjR3Ao/goNvMq5pG3v1zjd8+Zv1muxSwYPIQaUFVnOFe+3bYPOBPkoQDPgoyWr/J50Cz5lXILLqkaZ1HgDLmIBzs1S8ba9oudwBvuST4jLcCPuTq9aueCxibvG3lyXnniwH72TdW390BbjegBRio6vOXvQA+v0YF0DcqR9RrmH30/hPlTj1GA+3mf8L8NxiA3jTeAgxoAL/4i/EHVN/FATyGk36fuck08u6/a5gtYwEWTDZKO1i0bq/gzrefvW2PcQBOMBBk9PzK1jcLNGsOfNC2IiD1oP4Ttdi0qw/YcMngBFQBH3K92QcWCC4TaLpuK5v6T9QwYacNPgK9dcQnBzzDBfKnrV3N7coBbu9v506k32DNO2Tg632u+cb9OQAjWNHQMFy5cUtpAquoV/Rxtp97d0C8xE9x+a31wzPBYqL+Kny+ep8O6KdW7NZTklADKk2Qfe4408+9OgArhyuWmzeYIliwLiLRtmsHnNcJt61bqsUnC3ddXg93lpkDFtCzi+vjbh2YmYnl+opWQpFKXO+2sh5sccBZSS/Rb3C9CnSggAOhekkF7G4E6gIOhOolFbC7EagLOBCql1TA7kagLuBAqF5SAbsbgbqAA6F6SQXsbgTqAg6E6iUVsLsRqAs4EKqXVMDuRqAu4ECoXlIBuxuBuoADoXpJBexuBOoCDoTqJRWwuxGoCzgQqpdUwO5GoC7gQKheUgG7G4G6gAOhekkF7G4E6gIOhOolFbC7EagLOBCql1TA7kagLuBAqF5SAbsbgbqAA6F6SQXsbgTqAg6E6iUVsLsRqAs4EKqXVMDuRqAu4ECoXlIBuxuBuoADoXpJBexuBOoCDoTqJRWwuxGoCzgQqpdUwO5GoC7gQKheUgG7G4G6gAOhekkF7G4E6gIOhOolFbC7EagLOBCql1TA7kagLuBAqF5SAbsbgbqAA6F6SQXsbgTqAg6E6iUVsLsRqAs4EKqXVMDuRqAu4ECoXlIBuxuBuoADoXpJBexuBOoCDoTqJRWwuxGoCzgQqpdUwO5GoC7gQKheUgG7G4FagA/PtSkydB1YelRJzkp6iQLsQJlQ/xBlQ2YxMBKvBerzeKnWAat8X/yHko27dQBGzuzkoB9PRv+/ltnwdfS/Rn8a/d/Rv4zeth8HuLl/PvfPI764vRzVAfsC4Kr/PfQ/o/NAOrce6PS2t3NAtxQuXDY6YD+NLlbOcKRPATNmAYuBqAcJpM8ppziWtz3QAQcnmAIs2OKjtctxdIOVJGoh8NhMU85vb+EevXmrT7ERC4ElCrqvQZ+8ohlrARvUPAdU71rT+HgHxEFRb1iPmltPoxtMgkmaw9WYXG8vbvzYJoBEmNBdayyWyw1m4K9bbRjpZTNzntMNZr7tbR2AA50mJsoJ7nH2+HkQWEXS0gKpOM8dH9HPt3TA4fK9gquonM60AiYhsJrUeI5ba7Wn8bEOCDDfIj1HnWDJC56S85j8Vu57eT2r8b4OCOT81K38miu82a73PV7Bqoxvf6j1TorlfLcAAAAASUVORK5CYII="></image>
-                <rect id="Rectangle-33" fill="#EFEFEF" opacity="0.7" x="23" y="4" width="74" height="90" rx="3"></rect>
-                <rect id="Rectangle-33" fill="#EFEFEF" opacity="0.8" x="15" y="9" width="90" height="87" rx="3"></rect>
-                <rect id="Rectangle-245" fill="url(#linearGradient-1)" x="7" y="14" width="106" height="88" rx="3"></rect>
-                <rect id="Rectangle-245" fill="url(#linearGradient-2)" x="7" y="15" width="106" height="86" rx="3"></rect>
-                <rect id="Rectangle-245" fill="url(#linearGradient-3)" x="12" y="19" width="96" height="64"></rect>
-                <polygon id="Combined-Shape" fill="#ADA1FE" points="52.0526975 29.6666667 12.0362956 83.0218693 38.7138969 83.0218693 65.6846586 47.8426148"></polygon>
-                <polygon id="Combined-Shape" fill="#8173DD" points="53 30.7000008 13.2000008 83.0218693 38.7138969 83.0218693 65.6846586 47.8426148"></polygon>
-                <polygon id="Combined-Shape" fill="#A2B6FF" points="92.0690995 83.0218693 65.3914982 83.0218693 38.7138969 83.0218693 65.650504 47.7970753"></polygon>
-                <polygon id="Combined-Shape" fill="#89A1F6" points="92.0690995 83.0218693 65.3914982 83.0218693 40 83.0218697 66.4000015 48.8000031"></polygon>
-                <polygon id="Combined-Shape" fill="url(#linearGradient-4)" points="73.3947786 37.6699471 108.07566 83.0218693 92.0690995 83.0218693 65.650504 47.7970753"></polygon>
-                <polygon id="Combined-Shape" fill="url(#linearGradient-5)" points="73.9999996 38.5 108.07566 83.0218693 92.0690995 83.0218693 66.4000015 48.8000031"></polygon>
-            </g>
-            <path d="M22,25 C23.5,25 104.000001,25 106,25 C107.499996,25 108.199997,26 108.199997,26 L19.7999992,26 C19.7999992,26 20.5,25 22,25 Z" id="Rectangle-3" fill="#FFFFFF"></path>
-            <rect id="Rectangle-5" fill="#000000" opacity="0.06" x="16" y="35" width="96" height="1"></rect>
-            <rect id="Rectangle-5" fill="#000000" opacity="0.08" x="19" y="29" width="90" height="1"></rect>
-            <rect id="Rectangle-5" fill="#000000" opacity="0.05" x="27" y="24" width="74" height="1"></rect>
-            <path d="M30,20 C31.5,20 97.000001,20 98,20 C99.4999962,20 100.199997,21 100.199997,21 L27.7999992,21 C27.7999992,21 28.5,20 30,20 Z" id="Rectangle-3" fill="#FFFFFF" opacity="0.5"></path>
-            <rect id="Rectangle-4" fill="#FFFFFF" x="16" y="99" width="96" height="1"></rect>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <filter id="deepin-image-viewer-a" width="134.7%" height="138.1%" x="-16.9%" y="-19%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="deepin-image-viewer-c" d="M5.53526046,18.236212 C5.56294367,11.6042386 10.9629984,6.20636302 17.5850331,6.17976593 L100.915291,5.84507388 C107.542513,5.81845596 112.892544,11.1617978 112.864814,17.805128 L112.577088,86.7346617 C112.549405,93.3666351 107.14935,98.7645108 100.527315,98.7911079 L17.1970575,99.1257999 C10.569835,99.1524178 5.21980394,93.809076 5.24753455,87.1657458 L5.53526046,18.236212 Z"/>
+    <filter id="deepin-image-viewer-b" width="111.2%" height="112.9%" x="-5.6%" y="-6.4%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+    <rect id="deepin-image-viewer-e" width="106.81" height="92.621" x="6.103" y="6.175" rx="12"/>
+    <filter id="deepin-image-viewer-d" width="111.2%" height="113%" x="-5.6%" y="-6.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+    <linearGradient id="deepin-image-viewer-h" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF3E7"/>
+    </linearGradient>
+    <rect id="deepin-image-viewer-g" width="107.375" height="92.905" x="0" y="0" rx="12"/>
+    <filter id="deepin-image-viewer-f" width="111.2%" height="112.9%" x="-5.6%" y="-6.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+    <linearGradient id="deepin-image-viewer-j" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#D14848"/>
+      <stop offset="100%" stop-color="#FF9E00"/>
+    </linearGradient>
+    <rect id="deepin-image-viewer-i" width="96.637" height="67.098" x="0" y="0" rx="8"/>
+    <linearGradient id="deepin-image-viewer-l" x1="50%" x2="41.314%" y1="35.207%" y2="68.714%">
+      <stop offset="0%" stop-color="#FF3C14" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#4A00C1" stop-opacity=".899"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer-m" x1="50%" x2="50%" y1="11.914%" y2="89.546%">
+      <stop offset="0%" stop-color="#FFD332" stop-opacity=".3"/>
+      <stop offset="100%" stop-color="#002DFF" stop-opacity=".5"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-image-viewer-a)" transform="translate(5 11)">
+    <g opacity=".5" transform="rotate(6 59.056 52.485)">
+      <use fill="#000" filter="url(#deepin-image-viewer-b)" xlink:href="#deepin-image-viewer-c"/>
+      <use fill="#FFF" fill-opacity=".8" xlink:href="#deepin-image-viewer-c"/>
     </g>
+    <g opacity=".5">
+      <use fill="#000" filter="url(#deepin-image-viewer-d)" xlink:href="#deepin-image-viewer-e"/>
+      <use fill="#FFF" fill-opacity=".8" xlink:href="#deepin-image-viewer-e"/>
+    </g>
+    <g transform="rotate(-6 113.941 -1.757)">
+      <use fill="#000" filter="url(#deepin-image-viewer-f)" xlink:href="#deepin-image-viewer-g"/>
+      <use fill="url(#deepin-image-viewer-h)" xlink:href="#deepin-image-viewer-g"/>
+      <g transform="translate(5.369 5.161)">
+        <mask id="deepin-image-viewer-k" fill="#fff">
+          <use xlink:href="#deepin-image-viewer-i"/>
+        </mask>
+        <use fill="url(#deepin-image-viewer-j)" xlink:href="#deepin-image-viewer-i"/>
+        <circle cx="80.162" cy="12.742" r="5" fill="#FFF7A1" mask="url(#deepin-image-viewer-k)"/>
+        <path fill="url(#deepin-image-viewer-l)" d="M-2.68437155,67.0982405 L35.2853123,20.639494 C38.7771033,16.3670268 44.4458094,16.3760745 47.9302059,20.639494 L85.8998897,67.0982405 L-2.68437155,67.0982405 Z" mask="url(#deepin-image-viewer-k)"/>
+        <path fill="url(#deepin-image-viewer-m)" d="M26.8437155,72.2596436 L59.54576,31.0635858 C62.9817129,26.7351801 68.5507566,26.7329924 71.9884462,31.0635858 L104.690491,72.2596436 L26.8437155,72.2596436 Z" mask="url(#deepin-image-viewer-k)"/>
+      </g>
+    </g>
+  </g>
 </svg>

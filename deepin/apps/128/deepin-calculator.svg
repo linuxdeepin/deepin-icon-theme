@@ -1,40 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-calculator</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="92.6181353%" id="linearGradient-1">
-            <stop stop-color="#35C7FF" offset="0%"></stop>
-            <stop stop-color="#00A7FF" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.2173151%" id="linearGradient-2">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-calculator">
-            <g id="Group-3" transform="translate(7.000000, 9.000000)">
-                <image id="Bitmap" x="0" y="0" width="114" height="114" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHIAAAByCAYAAACP3YV9AAAAAXNSR0IArs4c6QAAA+ZJREFUeAHt1MFu01AUhOGGFjbw/m/KipZwx+pYJ84s2KTxSL8lc6+PnWaYT87l5f643I+YnLCB68w00eZez8zruZ+fZ/81DUy0ude3b9cG8qob3mud+3lPe47HN2C0uc69E1zfvPtcjTfXb+veEfTwMS4f1MBE+7u+Q9c+9ZW+/yLIiWRA4b2u8+c6v49n1pbjCQ0I7M86f6/zY51C9aF7F2FNSAEa8dfa/xj315bjSQ3ISFZ68d5Hhps3UnO/iVqNefzZHZ9n+6QGZCIfAW5v4meOq4Y+jOk3Utcc52pAJnozZWSvLeGE1EDXhtwe4J/TNWDIGztfWNer56f7XxDo5m201zY8dqObQB5bOc+1bGR0c0ww63q9eZCL0zRgH69bsAnppHqA49wN3BklyHP/F0gXGwAy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmBjLW0jcEss8sJgYy1tI3BLLPLCYGMtbSNwSyzywmTpDX+CTDMzVwZzQhdfN4nik8We59dtAJ6aJ0868vWE/XgGx2QKcz5PFN1MNguqXzrHY5er28HTL6wY81f1/nZZ165nWdQtepGcfjG/Avo0zsIRPt7bSnmJBW9gcNprk+bETP9z/C5iENTA+ZCHFC+v725YbUUIdWfUhY+pCveRtXGU843L9frvk26p7Pu59Wf1CZ/ZBhhetT9zke24D79yqHeWq+H/6ZnKuxvPonVR/yc/sfYPPQBoylVYhGnasCXA3jVUPvtc79vKc9x+MbmJD6NgN67wQ7pAZG8815Pfe+z/p1DRhU3zj3+3UCSrOvi8w3/W8DN6D/APP7huE3kQ0MAAAAAElFTkSuQmCC"></image>
-                <path d="M10,4 L104,4 L104,4 C106.209139,4 108,5.790861 108,8 L108,102 L108,102 C108,104.209139 106.209139,106 104,106 L10,106 L10,106 C7.790861,106 6,104.209139 6,102 L6,8 L6,8 C6,5.790861 7.790861,4 10,4 Z" id="Mask" fill="url(#linearGradient-1)"></path>
-                <path d="M108,54.4999961 L108,102 C108,104.209139 106.209139,106 104,106 L10,106 L10,106 C7.790861,106 6,104.209139 6,102 L6,54.4999961 L6,101 C6,103.209139 7.790861,105 10,105 L10,105 L104,105 C106.209139,105 108,103.209139 108,101 L108,54.4999961 Z" id="Combined-Shape" fill="#248FF4"></path>
-                <path d="M108,55.4999961 L108,7.9999922 C108,5.7908532 106.209139,3.9999922 104,3.9999922 L104,3.9999922 L10,3.9999922 L10,3.9999922 C7.790861,3.9999922 6,5.7908532 6,7.9999922 L6,7.9999922 L6,55.4999961 L6,8.9999922 L6,8.9999922 C6,6.7908532 7.790861,4.9999922 10,4.9999922 L10,4.9999922 L104,4.9999922 L104,4.9999922 C106.209139,4.9999922 108,6.7908532 108,8.9999922 L108,55.4999961 Z" id="Combined-Shape" fill="#5FD1FF"></path>
-                <g id="Group" transform="translate(17.000000, 63.000000)" fill="#FFFFFF">
-                    <path d="M16.4558441,15.9705627 L16.4558441,5.97056275 L14.4558441,5.97056275 L14.4558441,15.9705627 L4.45584412,15.9705627 L4.45584412,17.9705627 L14.4558441,17.9705627 L14.4558441,27.9705627 L16.4558441,27.9705627 L16.4558441,17.9705627 L26.4558441,17.9705627 L26.4558441,15.9705627 L16.4558441,15.9705627 Z" id="Combined-Shape" transform="translate(15.556349, 15.556349) rotate(45.000000) translate(-15.556349, -15.556349) "></path>
-                </g>
-                <g id="Group" transform="translate(7.000000, 5.000000)">
-                    <path d="M3,0 L50,0 L50,50 L0,50 L0,3 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="数字背景" fill="url(#linearGradient-2)"></path>
-                    <path d="M26,24 L26,14 L24,14 L24,24 L14,24 L14,26 L24,26 L24,36 L26,36 L26,26 L36,26 L36,24 L26,24 Z" id="Combined-Shape" fill="#2ABFF9"></path>
-                </g>
-                <g id="Group" transform="translate(72.000000, 30.000000)" fill="#FFFFFF">
-                    <rect id="Rectangle-3" x="0" y="0" width="22" height="2"></rect>
-                </g>
-                <g id="Group-2" transform="translate(57.000000, 55.000000)">
-                    <path d="M0,0 L50,0 L50,47 L50,47 C50,48.6568542 48.6568542,50 47,50 L0,50 L0,0 Z" id="数字背景" fill="#FFFFFF"></path>
-                    <path d="M16,20 L34,20 L34,22 L16,22 L16,20 Z M16,28 L34,28 L34,30 L16,30 L16,28 Z" id="Combined-Shape" fill="#2ABFF9"></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <filter id="deepin-calculator-a" width="129.1%" height="129.1%" x="-14.5%" y="-14.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-calculator-b" cx="50%" cy="9.268%" r="92.618%" fx="50%" fy="9.268%">
+      <stop offset="0%" stop-color="#35DCFF"/>
+      <stop offset="100%" stop-color="#0068FF"/>
+    </radialGradient>
+    <linearGradient id="deepin-calculator-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-calculator-a)" transform="translate(9 9)">
+    <path fill="url(#deepin-calculator-b)" d="M16,0 L94,0 C102.836556,-1.623249e-15 110,7.163444 110,16 L110,94 C110,102.836556 102.836556,110 94,110 L16,110 C7.163444,110 1.082166e-15,102.836556 0,94 L0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z"/>
+    <polygon fill="#FFF" points="29.152 82.252 36.171 75.233 34.767 73.829 27.748 80.848 20.728 73.829 19.324 75.233 26.344 82.252 19.324 89.272 20.728 90.676 27.748 83.656 34.767 90.676 36.171 89.272 29.152 82.252"/>
+    <path fill="url(#deepin-calculator-c)" d="M110,55 L110,94 C110,102.836556 102.836556,110 94,110 L55,110 L55,55 L110,55 Z M92,85 L74,85 L74,87 L92,87 L92,85 Z M92,77 L74,77 L74,79 L92,79 L92,77 Z M55,0 L55,55 L0,55 L0,16 C0,7.163444 7.163444,0 16,0 L55,0 Z M29,17 L27,17 L27,27 L17,27 L17,29 L27,29 L27,39 L29,39 L29,29 L39,29 L39,27 L29,27 L29,17 Z"/>
+    <rect width="22" height="2" x="71" y="27" fill="#FFF"/>
+  </g>
 </svg>

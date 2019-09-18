@@ -1,33 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
-    <title>multipart-encrypted</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="49.9996875%" y1="0.948205128%" x2="49.9996875%" y2="99.0382051%" id="linearGradient-1">
-            <stop stop-color="#DADEF0" offset="0%"></stop>
-            <stop stop-color="#F5F5FA" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="multipart-encrypted">
-            <g id="Group" transform="translate(4.000000, 3.000000)">
-                <image id="Bitmap" x="0" y="0" width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAABGdBTUEAA1teXP8meAAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="></image>
-                <path d="M22,26 L2,26 C1,26 1,25 1,25 L1,1 C1,1 1,0 2,0 L16,0 L23,7 L23,25 C23,26 22,26 22,26 Z" id="path14361" fill="url(#linearGradient-1)"></path>
-                <path d="M17,7.01866667 C16,7.01866667 16,6 16,6 L16,0 L23,7.01866667 L17,7.01866667 Z" id="path14363" fill="#FFFFFF"></path>
-            </g>
-            <polygon id="Combined-Shape" fill="#6E79E0" points="15 11 13 11 13 12 14 12 14 14 13 14 13 15 16 15 16 14 15 14"></polygon>
-            <polygon id="Combined-Shape" fill="#6E79E0" points="11 16 9 16 9 17 10 17 10 19 9 19 9 20 12 20 12 19 11 19"></polygon>
-            <polygon id="Combined-Shape" fill="#6E79E0" points="11 21 9 21 9 22 10 22 10 24 9 24 9 25 12 25 12 24 11 24"></polygon>
-            <polygon id="Combined-Shape" fill="#6E79E0" points="15 16 13 16 13 17 14 17 14 19 13 19 13 20 16 20 16 19 15 19"></polygon>
-            <polygon id="Combined-Shape" fill="#6E79E0" points="22 16 20 16 20 17 21 17 21 19 20 19 20 20 23 20 23 19 22 19"></polygon>
-            <polygon id="Combined-Shape" fill="#6E79E0" points="22 21 20 21 20 22 21 22 21 24 20 24 20 25 23 25 23 24 22 24"></polygon>
-            <path d="M10.5,12 C10.7748056,12 11,12.3013385 11,12.6672218 L11,13.3327782 C11,13.7028484 10.7778524,14 10.5,14 C10.2251944,14 10,13.6986615 10,13.3327782 L10,12.6672218 C10,12.2971516 10.2221476,12 10.5,12 Z M9,13.3993338 C9,14.2795804 9.6729745,15 10.5,15 C11.3315334,15 12,14.2846706 12,13.3993338 L12,12.6006662 C12,11.7204196 11.3270255,11 10.5,11 C9.66846656,11 9,11.7153294 9,12.6006662 L9,13.3993338 Z" id="Rectangle-6" fill="#6E79E0"></path>
-            <path d="M17.5,12 C17.7748056,12 18,12.3013385 18,12.6672218 L18,13.3327782 C18,13.7028484 17.7778524,14 17.5,14 C17.2251944,14 17,13.6986615 17,13.3327782 L17,12.6672218 C17,12.2971516 17.2221476,12 17.5,12 Z M16,13.3993338 C16,14.2795804 16.6729745,15 17.5,15 C18.3315334,15 19,14.2846706 19,13.3993338 L19,12.6006662 C19,11.7204196 18.3270255,11 17.5,11 C16.6684666,11 16,11.7153294 16,12.6006662 L16,13.3993338 Z" id="Rectangle-6" fill="#6E79E0"></path>
-            <path d="M17.5,17 C17.7748056,17 18,17.3013385 18,17.6672218 L18,18.3327782 C18,18.7028484 17.7778524,19 17.5,19 C17.2251944,19 17,18.6986615 17,18.3327782 L17,17.6672218 C17,17.2971516 17.2221476,17 17.5,17 Z M16,18.3993338 C16,19.2795804 16.6729745,20 17.5,20 C18.3315334,20 19,19.2846706 19,18.3993338 L19,17.6006662 C19,16.7204196 18.3270255,16 17.5,16 C16.6684666,16 16,16.7153294 16,17.6006662 L16,18.3993338 Z" id="Rectangle-6" fill="#6E79E0"></path>
-            <path d="M17.5,22 C17.7748056,22 18,22.3013385 18,22.6672218 L18,23.3327782 C18,23.7028484 17.7778524,24 17.5,24 C17.2251944,24 17,23.6986615 17,23.3327782 L17,22.6672218 C17,22.2971516 17.2221476,22 17.5,22 Z M16,23.3993338 C16,24.2795804 16.6729745,25 17.5,25 C18.3315334,25 19,24.2846706 19,23.3993338 L19,22.6006662 C19,21.7204196 18.3270255,21 17.5,21 C16.6684666,21 16,21.7153294 16,22.6006662 L16,23.3993338 Z" id="Rectangle-6" fill="#6E79E0"></path>
-            <path d="M13.5,22 C13.7748056,22 14,22.3013385 14,22.6672218 L14,23.3327782 C14,23.7028484 13.7778524,24 13.5,24 C13.2251944,24 13,23.6986615 13,23.3327782 L13,22.6672218 C13,22.2971516 13.2221476,22 13.5,22 Z M12,23.3993338 C12,24.2795804 12.6729745,25 13.5,25 C14.3315334,25 15,24.2846706 15,23.3993338 L15,22.6006662 C15,21.7204196 14.3270255,21 13.5,21 C12.6684666,21 12,21.7153294 12,22.6006662 L12,23.3993338 Z" id="Rectangle-6" fill="#6E79E0"></path>
-            <path d="M21.5,12 C21.7748056,12 22,12.3013385 22,12.6672218 L22,13.3327782 C22,13.7028484 21.7778524,14 21.5,14 C21.2251944,14 21,13.6986615 21,13.3327782 L21,12.6672218 C21,12.2971516 21.2221476,12 21.5,12 Z M20,13.3993338 C20,14.2795804 20.6729745,15 21.5,15 C22.3315334,15 23,14.2846706 23,13.3993338 L23,12.6006662 C23,11.7204196 22.3270255,11 21.5,11 C20.6684666,11 20,11.7153294 20,12.6006662 L20,13.3993338 Z" id="Rectangle-6" fill="#6E79E0"></path>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="multipart-encrypted-c" x1="50%" x2="50%" y1="0%" y2="98.947%">
+      <stop offset="0%" stop-color="#F7F7F7"/>
+      <stop offset="100%" stop-color="#F6F6F6"/>
+    </linearGradient>
+    <path id="multipart-encrypted-b" d="M15,0 L22,7 L22,22 C22,24.209139 20.209139,26 18,26 L4,26 C1.790861,26 2.705415e-16,24.209139 0,22 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L15,0 Z"/>
+    <filter id="multipart-encrypted-a" width="136.4%" height="130.8%" x="-18.2%" y="-11.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="multipart-encrypted-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="multipart-encrypted-e" d="M15,0 L22,7 L17.25,7 C16.0073593,7 15,5.99264069 15,4.75 L15,0 Z"/>
+    <filter id="multipart-encrypted-d" width="157.1%" height="157.1%" x="-28.6%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(5 3)">
+      <use fill="#000" filter="url(#multipart-encrypted-a)" xlink:href="#multipart-encrypted-b"/>
+      <path fill="url(#multipart-encrypted-c)" stroke="#000" stroke-opacity=".1" stroke-width=".5" d="M15.1767767,-0.176776695 L22.1767767,6.8232233 L22.25,7 L22.25,22 C22.25,24.3472102 20.3472102,26.25 18,26.25 L4,26.25 C1.65278981,26.25 -0.25,24.3472102 -0.25,22 L-0.25,4 C-0.25,1.65278981 1.65278981,-0.25 4,-0.25 L15,-0.25 L15.1767767,-0.176776695 Z"/>
+      <use fill="#000" filter="url(#multipart-encrypted-d)" xlink:href="#multipart-encrypted-e"/>
+      <use fill="url(#multipart-encrypted-f)" xlink:href="#multipart-encrypted-e"/>
     </g>
+    <g fill="#6E79E0" transform="translate(9 11)">
+      <polygon points="6 0 4 0 4 1 5 1 5 3 4 3 4 4 7 4 7 3 6 3"/>
+      <polygon points="2 5 0 5 0 6 1 6 1 8 0 8 0 9 3 9 3 8 2 8"/>
+      <polygon points="2 10 0 10 0 11 1 11 1 13 0 13 0 14 3 14 3 13 2 13"/>
+      <polygon points="6 5 4 5 4 6 5 6 5 8 4 8 4 9 7 9 7 8 6 8"/>
+      <polygon points="13 5 11 5 11 6 12 6 12 8 11 8 11 9 14 9 14 8 13 8"/>
+      <polygon points="13 10 11 10 11 11 12 11 12 13 11 13 11 14 14 14 14 13 13 13"/>
+      <path fill-rule="nonzero" d="M1.5 1C1.77480558 1 2 1.30133846 2 1.66722182L2 2.33277818C2 2.70284844 1.7778524 3 1.5 3 1.22519442 3 1 2.69866154 1 2.33277818L1 1.66722182C1 1.29715156 1.2221476 1 1.5 1zM0 2.39933381C0 3.27958039.672974497 4 1.5 4 2.33153344 4 3 3.28467062 3 2.39933381L3 1.60066619C3 .720419611 2.3270255 0 1.5 0 .668466565 0 0 .715329379 0 1.60066619L0 2.39933381zM8.5 1C8.77480558 1 9 1.30133846 9 1.66722182L9 2.33277818C9 2.70284844 8.7778524 3 8.5 3 8.22519442 3 8 2.69866154 8 2.33277818L8 1.66722182C8 1.29715156 8.2221476 1 8.5 1zM7 2.39933381C7 3.27958039 7.6729745 4 8.5 4 9.33153344 4 10 3.28467062 10 2.39933381L10 1.60066619C10 .720419611 9.3270255 0 8.5 0 7.66846656 0 7 .715329379 7 1.60066619L7 2.39933381zM8.5 6C8.77480558 6 9 6.30133846 9 6.66722182L9 7.33277818C9 7.70284844 8.7778524 8 8.5 8 8.22519442 8 8 7.69866154 8 7.33277818L8 6.66722182C8 6.29715156 8.2221476 6 8.5 6zM7 7.39933381C7 8.27958039 7.6729745 9 8.5 9 9.33153344 9 10 8.28467062 10 7.39933381L10 6.60066619C10 5.72041961 9.3270255 5 8.5 5 7.66846656 5 7 5.71532938 7 6.60066619L7 7.39933381zM8.5 11C8.77480558 11 9 11.3013385 9 11.6672218L9 12.3327782C9 12.7028484 8.7778524 13 8.5 13 8.22519442 13 8 12.6986615 8 12.3327782L8 11.6672218C8 11.2971516 8.2221476 11 8.5 11zM7 12.3993338C7 13.2795804 7.6729745 14 8.5 14 9.33153344 14 10 13.2846706 10 12.3993338L10 11.6006662C10 10.7204196 9.3270255 10 8.5 10 7.66846656 10 7 10.7153294 7 11.6006662L7 12.3993338zM4.5 11C4.77480558 11 5 11.3013385 5 11.6672218L5 12.3327782C5 12.7028484 4.7778524 13 4.5 13 4.22519442 13 4 12.6986615 4 12.3327782L4 11.6672218C4 11.2971516 4.2221476 11 4.5 11zM3 12.3993338C3 13.2795804 3.6729745 14 4.5 14 5.33153344 14 6 13.2846706 6 12.3993338L6 11.6006662C6 10.7204196 5.3270255 10 4.5 10 3.66846656 10 3 10.7153294 3 11.6006662L3 12.3993338zM12.5 1C12.7748056 1 13 1.30133846 13 1.66722182L13 2.33277818C13 2.70284844 12.7778524 3 12.5 3 12.2251944 3 12 2.69866154 12 2.33277818L12 1.66722182C12 1.29715156 12.2221476 1 12.5 1zM11 2.39933381C11 3.27958039 11.6729745 4 12.5 4 13.3315334 4 14 3.28467062 14 2.39933381L14 1.60066619C14 .720419611 13.3270255 0 12.5 0 11.6684666 0 11 .715329379 11 1.60066619L11 2.39933381z"/>
+    </g>
+  </g>
 </svg>

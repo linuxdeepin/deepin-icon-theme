@@ -1,62 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>steam</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="2.86790497%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#8C8C91" offset="0%"></stop>
-            <stop stop-color="#69696F" offset="100%"></stop>
-        </linearGradient>
-        <circle id="path-2" cx="56" cy="56" r="56"></circle>
-        <linearGradient x1="50%" y1="2.86790497%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#484848" offset="0%"></stop>
-            <stop stop-color="#4C4C56" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="97.8834503%" y1="2.11654974%" x2="0%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#DFE9F1" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="63.7417843%" y1="40.0924374%" x2="50%" y2="78.8776617%" id="linearGradient-6">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#DFE9F1" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.4788744%" id="linearGradient-7">
-            <stop stop-color="#ADAEBD" offset="0%"></stop>
-            <stop stop-color="#555865" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="steam">
-            <g id="Group-2" transform="translate(8.000000, 8.000000)">
-                <image id="Bitmap" x="-6" y="-4" width="124" height="124" xlink:href="data:image/png;base64,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"></image>
-                <mask id="mask-3" fill="white">
-                    <use xlink:href="#path-2"></use>
-                </mask>
-                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
-                <circle id="Mask" fill="url(#linearGradient-4)" mask="url(#mask-3)" cx="56" cy="56" r="36"></circle>
-                <g id="Group" mask="url(#mask-3)">
-                    <g transform="translate(-17.363636, 35.636364)">
-                        <path d="M49.4190629,58.4579785 C45.4592378,60.7198529 40.3265151,60.1607837 36.9465021,56.7807707 C33.3640016,53.1982702 32.9505592,47.6467694 35.7061748,43.6097997 C36.0656786,43.0831275 54.9972951,9.93144687 58.964371,5.964371 C66.9168657,-1.98812367 79.8104071,-1.98812367 87.7629017,5.964371 C95.7153964,13.9168657 95.7153964,26.8104071 87.7629017,34.7629017 C83.7958259,38.7299776 50.2038416,58.0097085 49.4190629,58.4579785 Z M73.3636364,33.0909091 C80.392715,33.0909091 86.0909091,27.392715 86.0909091,20.3636364 C86.0909091,13.3345577 80.392715,7.63636364 73.3636364,7.63636364 C66.3345577,7.63636364 60.6363636,13.3345577 60.6363636,20.3636364 C60.6363636,27.392715 66.3345577,33.0909091 73.3636364,33.0909091 Z M73.3636364,26.9070836 C69.7497902,26.9070836 66.8201891,23.9774825 66.8201891,20.3636364 C66.8201891,16.7497902 69.7497902,13.8201891 73.3636364,13.8201891 C76.9774825,13.8201891 79.9070836,16.7497902 79.9070836,20.3636364 C79.9070836,23.9774825 76.9774825,26.9070836 73.3636364,26.9070836 Z M45.3636364,56.3181818 C49.7568105,56.3181818 53.3181818,52.7568105 53.3181818,48.3636364 C53.3181818,43.9704622 49.7568105,40.4090909 45.3636364,40.4090909 C40.9704622,40.4090909 37.4090909,43.9704622 37.4090909,48.3636364 C37.4090909,52.7568105 40.9704622,56.3181818 45.3636364,56.3181818 Z M45.3636364,50.9090909 C43.9578206,50.9090909 42.8181818,49.7694521 42.8181818,48.3636364 C42.8181818,46.9578206 43.9578206,45.8181818 45.3636364,45.8181818 C46.7694521,45.8181818 47.9090909,46.9578206 47.9090909,48.3636364 C47.9090909,49.7694521 46.7694521,50.9090909 45.3636364,50.9090909 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
-                        <g id="Group-3" stroke-width="1" fill="none" transform="translate(33.000000, -0.000000)">
-                            <path d="M0.957124178,50.4478114 C0.729233775,48.0815325 1.31225064,45.6518949 2.70617478,43.6097997 C3.06567858,43.0831275 21.9972951,9.93144687 25.964371,5.964371 C33.9168657,-1.98812367 46.8104071,-1.98812367 54.7629017,5.964371 C58.9935561,10.1950254 60.9735411,15.8240664 60.7028566,21.3636364 C60.464727,16.4903017 58.484742,11.6862113 54.7629017,7.964371 C46.8104071,0.0118763331 33.9168657,0.0118763331 25.964371,7.964371 C21.9972951,11.9314469 3.06567858,45.0831275 2.70617478,45.6097997 C1.70398709,47.078002 1.12097022,48.7465312 0.957124178,50.4478114 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-                            <path d="M27.6750716,21.3636364 C27.6494261,21.6935992 27.6363636,22.0270924 27.6363636,22.3636364 C27.6363636,29.392715 33.3345577,35.0909091 40.3636364,35.0909091 C47.392715,35.0909091 53.0909091,29.392715 53.0909091,22.3636364 C53.0909091,22.0270924 53.0778467,21.6935992 53.0522011,21.3636364 C52.5422125,27.9252982 47.056171,33.0909091 40.3636364,33.0909091 C33.6711017,33.0909091 28.1850602,27.9252982 27.6750716,21.3636364 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-                            <path d="M33.8961197,21.3636364 C33.8461227,21.0376069 33.8201891,20.7036502 33.8201891,20.3636364 C33.8201891,16.7497902 36.7497902,13.8201891 40.3636364,13.8201891 C43.9774825,13.8201891 46.9070836,16.7497902 46.9070836,20.3636364 C46.9070836,20.7036502 46.88115,21.0376069 46.831153,21.3636364 C46.3497552,18.2244525 43.6374687,15.8201891 40.3636364,15.8201891 C37.0898041,15.8201891 34.3775175,18.2244525 33.8961197,21.3636364 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-                            <path d="M4.43663124,49.030303 C4.41839247,49.2501099 4.40909091,49.4724535 4.40909091,49.6969697 C4.40909091,54.0901438 7.97046222,57.6515152 12.3636364,57.6515152 C16.7568105,57.6515152 20.3181818,54.0901438 20.3181818,49.6969697 C20.3181818,49.4724535 20.3088803,49.2501099 20.2906415,49.030303 C19.9519967,53.1115216 16.5322943,56.3181818 12.3636364,56.3181818 C8.19497838,56.3181818 4.77527603,53.1115216 4.43663124,49.030303 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-                        </g>
-                        <g id="Group-3" stroke-width="1" fill="none" transform="translate(33.000000, 7.333333)" fill-opacity="0.2">
-                            <path d="M0.957124178,43.1447811 C0.67045908,46.1213417 1.66691838,49.1981567 3.94650207,51.4777404 C7.32651507,54.8577534 12.4592378,55.4168226 16.4190629,53.1549482 C17.2038416,52.7066782 50.7958259,33.4269473 54.7629017,29.4598714 C58.9935561,25.229217 60.9735411,19.600176 60.7028566,14.0606061 C60.464727,18.9339407 58.484742,23.7380311 54.7629017,27.4598714 C50.7958259,31.4269473 17.2038416,50.7066782 16.4190629,51.1549482 C12.4592378,53.4168226 7.32651507,52.8577534 3.94650207,49.4777404 C2.17620421,47.7074425 1.17974492,45.456343 0.957124178,43.1447811 Z" id="Combined-Shape" fill="#000000"></path>
-                            <path d="M27.6750716,14.0275762 C27.6494261,13.6976133 27.6363636,13.3641202 27.6363636,13.0275762 C27.6363636,5.99849758 33.3345577,0.300303488 40.3636364,0.300303488 C47.392715,0.300303488 53.0909091,5.99849758 53.0909091,13.0275762 C53.0909091,13.3641202 53.0778467,13.6976133 53.0522011,14.0275762 C52.5422125,7.46591437 47.056171,2.30030349 40.3636364,2.30030349 C33.6711017,2.30030349 28.1850602,7.46591437 27.6750716,14.0275762 Z" id="Combined-Shape" fill="#000000"></path>
-                            <path d="M33.8961197,14.030303 C33.8461227,14.3563325 33.8201891,14.6902892 33.8201891,15.030303 C33.8201891,18.6441491 36.7497902,21.5737503 40.3636364,21.5737503 C43.9774825,21.5737503 46.9070836,18.6441491 46.9070836,15.030303 C46.9070836,14.6902892 46.88115,14.3563325 46.831153,14.030303 C46.3497552,17.1694869 43.6374687,19.5737503 40.3636364,19.5737503 C37.0898041,19.5737503 34.3775175,17.1694869 33.8961197,14.030303 Z" id="Combined-Shape" fill="#000000"></path>
-                            <path d="M4.47134358,41.9848485 C4.43025873,41.657293 4.40909091,41.3235428 4.40909091,40.9848485 C4.40909091,36.5916743 7.97046222,33.030303 12.3636364,33.030303 C16.7568105,33.030303 20.3181818,36.5916743 20.3181818,40.9848485 C20.3181818,41.3235428 20.297014,41.657293 20.2559291,41.9848485 C19.7641059,38.0637102 16.4181162,35.030303 12.3636364,35.030303 C8.30915649,35.030303 4.96316683,38.0637102 4.47134358,41.9848485 Z" id="Combined-Shape" fill="#000000"></path>
-                        </g>
-                        <path d="M44.6078369,52.7802008 C45.4683465,52.9971088 46.4007431,52.9674464 47.2974767,52.6410621 C49.6811663,51.77347 50.9102062,49.1377854 50.0426141,46.7540958 C49.5543682,45.412651 48.5061697,44.4368822 47.2580494,43.9946744 L47.2598437,43.9882994 L2.12655125,20.5067722 L1.35808712,26.2142184 L0.697350719,31.3078043 L7.524323,46.1894226 L44.6078369,52.7802008 L44.6078369,52.7802008 Z" id="Combined-Shape" fill="url(#linearGradient-6)"></path>
-                        <path d="M0.899600136,31.7486731 L0.697350719,33.3078043 L7.524323,48.1894226 L44.6078369,54.7802008 L44.6078369,54.7802008 C45.4683465,54.9971088 46.4007431,54.9674464 47.2974767,54.6410621 C49.4920661,53.8422968 50.7079379,51.5448405 50.2099802,49.3251456 C49.8790145,50.8022466 48.8254734,52.0849167 47.2974767,52.6410621 C46.4007431,52.9674464 45.4683465,52.9971088 44.6078369,52.7802008 L44.6078369,52.7802008 L7.524323,46.1894226 L0.899600136,31.7486731 Z" id="Combined-Shape" fill-opacity="0.2" fill="#000000"></path>
-                        <path d="M0.899600136,31.7486731 L0.697350719,31.3078043 L1.35808712,26.2142184 L2.12655125,20.5067722 L47.2598437,43.9882994 L47.2580494,43.9946744 C48.5061697,44.4368822 49.5543682,45.412651 50.0426141,46.7540958 C50.3540609,47.6097886 50.3953242,48.4979549 50.2099802,49.3251456 C50.1670729,49.1338821 50.111441,48.943196 50.0426141,48.7540958 C49.5543682,47.412651 48.5061697,46.4368822 47.2580494,45.9946744 L47.2598437,45.9882994 L2.12655125,22.5067722 L1.35808712,28.2142184 L0.899600136,31.7486731 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-                    </g>
-                </g>
-            </g>
-            <path d="M64,8 C94.927946,8 120,33.072054 120,64 C120,94.927946 94.927946,120 64,120 C33.072054,120 8,94.927946 8,64 C8,33.072054 33.072054,8 64,8 Z M64,10 C34.1766235,10 10,34.1766235 10,64 C10,93.8233765 34.1766235,118 64,118 C93.8233765,118 118,93.8233765 118,64 C118,34.1766235 93.8233765,10 64,10 Z" id="Mask" fill="url(#linearGradient-7)" fill-rule="nonzero"></path>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <filter id="steam-a" width="127.1%" height="127.1%" x="-13.6%" y="-13.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="steam-c" x1="50%" x2="50%" y1="2.868%" y2="100%">
+      <stop offset="0%" stop-color="#8C8C91"/>
+      <stop offset="100%" stop-color="#69696F"/>
+    </linearGradient>
+    <circle id="steam-b" cx="59" cy="59" r="59"/>
+    <linearGradient id="steam-d" x1="50%" x2="50%" y1="2.868%" y2="100%">
+      <stop offset="0%" stop-color="#484848"/>
+      <stop offset="100%" stop-color="#4C4C56"/>
+    </linearGradient>
+    <linearGradient id="steam-h" x1="86.233%" x2="0%" y1="10.383%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="26.14%" stop-color="#CECECE"/>
+      <stop offset="43.549%" stop-color="#EFEFEF"/>
+      <stop offset="60.658%" stop-color="#A6A9AF"/>
+      <stop offset="84.44%" stop-color="#C6D5DD"/>
+      <stop offset="100%" stop-color="#96A5B0"/>
+    </linearGradient>
+    <path id="steam-g" d="M51.5397269,61.5896559 C47.3677684,63.9727022 41.9600784,63.3836828 38.3989932,59.8225977 C34.6245731,56.0481775 34.188982,50.1992749 37.0922199,45.9460389 C37.4709828,45.3911522 57.4167931,10.4634887 61.5963909,6.28389088 C69.974912,-2.09463029 83.5591789,-2.09463029 91.9377,6.28389088 C100.316221,14.662412 100.316221,28.2466789 91.9377,36.6252 C87.7581022,40.8047978 52.3665474,61.1173714 51.5397269,61.5896559 Z M76.7670455,34.8636364 C84.1726819,34.8636364 90.1761364,28.8601819 90.1761364,21.4545455 C90.1761364,14.048909 84.1726819,8.04545455 76.7670455,8.04545455 C69.361409,8.04545455 63.3579545,14.048909 63.3579545,21.4545455 C63.3579545,28.8601819 69.361409,34.8636364 76.7670455,34.8636364 Z M76.7670455,28.3485345 C72.9596004,28.3485345 69.8730564,25.2619905 69.8730564,21.4545455 C69.8730564,17.6471004 72.9596004,14.5605564 76.7670455,14.5605564 C80.5744905,14.5605564 83.6610345,17.6471004 83.6610345,21.4545455 C83.6610345,25.2619905 80.5744905,28.3485345 76.7670455,28.3485345 Z M47.2670455,59.3352273 C51.8955682,59.3352273 55.6477273,55.5830682 55.6477273,50.9545455 C55.6477273,46.3260227 51.8955682,42.5738636 47.2670455,42.5738636 C42.6385227,42.5738636 38.8863636,46.3260227 38.8863636,50.9545455 C38.8863636,55.5830682 42.6385227,59.3352273 47.2670455,59.3352273 Z M47.2670455,53.6363636 C45.7859182,53.6363636 44.5852273,52.4356727 44.5852273,50.9545455 C44.5852273,49.4734182 45.7859182,48.2727273 47.2670455,48.2727273 C48.7481727,48.2727273 49.9488636,49.4734182 49.9488636,50.9545455 C49.9488636,52.4356727 48.7481727,53.6363636 47.2670455,53.6363636 Z"/>
+    <filter id="steam-f" width="111.1%" height="111.1%" x="-5.6%" y="-4%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <filter id="steam-i" width="112.7%" height="112.7%" x="-6.3%" y="-4.8%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation="1.5"/>
+      <feOffset dy="-1" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.419607843   0 0 0 0 0.419607843   0 0 0 0 0.419607843  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="steam-l" x1="100%" x2="4.505%" y1="61.291%" y2="41.564%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="26.14%" stop-color="#CECECE"/>
+      <stop offset="43.549%" stop-color="#EFEFEF"/>
+      <stop offset="60.658%" stop-color="#9C9C9C"/>
+      <stop offset="84.44%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#DFE9F1"/>
+    </linearGradient>
+    <path id="steam-k" d="M46.4707568,55.6077115 C47.377365,55.8362396 48.3597115,55.8049881 49.3044844,55.4611189 C51.8158716,54.5470487 53.110753,51.7701668 52.1966828,49.2587795 C51.6822807,47.8454716 50.5779288,46.8174294 49.2629449,46.351532 L49.2648353,46.3448154 L1.71368792,21.6053492 L0.904056073,27.6185515 L0.207923079,32.9850081 L7.40062602,48.663856 L46.4707568,55.6077115 L46.4707568,55.6077115 Z"/>
+    <filter id="steam-j" width="113.4%" height="120.5%" x="-6.7%" y="-7.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <filter id="steam-m" width="115.3%" height="123.4%" x="-7.7%" y="-8.8%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation="1.5"/>
+      <feOffset dy="-1" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.419607843   0 0 0 0 0.419607843   0 0 0 0 0.419607843  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#steam-a)" transform="translate(5 5)">
+    <mask id="steam-e" fill="#fff">
+      <use xlink:href="#steam-b"/>
+    </mask>
+    <use fill="url(#steam-c)" xlink:href="#steam-b"/>
+    <circle cx="59" cy="59" r="37.929" fill="url(#steam-d)" mask="url(#steam-e)"/>
+    <g mask="url(#steam-e)">
+      <g transform="translate(-17.767 37.545)">
+        <use fill="#000" filter="url(#steam-f)" xlink:href="#steam-g"/>
+        <use fill="url(#steam-h)" xlink:href="#steam-g"/>
+        <use fill="#000" filter="url(#steam-i)" xlink:href="#steam-g"/>
+        <use fill="#000" filter="url(#steam-j)" xlink:href="#steam-k"/>
+        <use fill="url(#steam-l)" xlink:href="#steam-k"/>
+        <use fill="#000" filter="url(#steam-m)" xlink:href="#steam-k"/>
+      </g>
     </g>
+  </g>
 </svg>

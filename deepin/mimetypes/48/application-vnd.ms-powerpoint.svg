@@ -1,19 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
-    <title>application-vnd.ms-powerpoint</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="application-vnd.ms-powerpoint" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <image id="Bitmap" x="5.968" y="4" width="36" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAArCAYAAAAQVipNAAAABGdBTUEAA1teXP8meAAAAS5JREFUWAntmNsOgkAMRMFbvMT//08fTNAQnKnUwAsDctl9aJNBsGw5zC4ktCyKooQY/PV9+2OhTYM6Llny0J6xbwfVcsT0E46d2gQbjB2ydOUErQHDi78h3jAlZ8CB3CmMWSUqVB0FRSCGJP+eNms7CmpLIN6NhHKgWbc+cfAgVAqgrlNcu73lkgrIoXj9HlRKIIeiQz+o1ECEekGEsvdUDkAOxTd6mQsQoWzacgIylpyA7PHPCYjTVgSQ2TCwCYcGzLFUOBQOKQdUPtZQOKQcUPlYQ+GQckDlYw2FQ8oBlY81NNYh2YxUhRbIG4NPGQ8uCxT9t8QNAw2IX4uEOkN36AqxC7FlsPv7hB5QRSBvhbA17H0a+6zF8dpBVyi2jqnagbBvYFuB8HrdcLDmA609I3uLKTjDAAAAAElFTkSuQmCC"></image>
-        <path d="M39.000999,44 L8.92807193,44 C8.37662338,44 8,43.524 8,42.972 L8,5.972 C8,5.42 8.37662338,5 8.92807193,5 L30.00999,5 L40,15 L39.968032,42.971 C39.968032,43.524 39.4495504,44 38.8981019,44 L39.000999,44 Z" id="path14361" fill="#FF740F"></path>
-        <g id="Group-2" transform="translate(14.000000, 16.000000)" fill="#FFFFFF">
-            <path d="M14,6 C12.8954305,6 12,6.8954305 12,8 C12,9.1045695 12.8954305,10 14,10 C15.1045695,10 16,9.1045695 16,8 L14,8 L14,6 Z M0,2 L11,0 L11,19 L0,17 L0,2 Z M12,4 L19,4 L19,14 C19,14.5522847 18.5522847,15 18,15 L12,15 L12,4 Z M13,11 L13,12 L18,12 L18,11 L13,11 Z M13,13 L13,14 L18,14 L18,13 L13,13 Z M15,5 L15,7 L17,7 C16.9930622,5.89423534 16.1002897,5 15,5 Z" id="Combined-Shape"></path>
-            <path d="M20,10 L20,3.5 C20,3.22385763 19.7761424,3 19.5,3 L14,3 L14,2 L20,2 C20.5522847,2 21,2.44771525 21,3 L21,9 C21,9.55228475 20.5522847,10 20,10 Z" id="Combined-Shape"></path>
-        </g>
-        <text id="P" font-family="BanglaSangamMN-Bold, Bangla Sangam MN" font-size="14" font-weight="bold" fill="#FF740F">
-            <tspan x="15.6660156" y="31">P</tspan>
-        </text>
-        <path d="M30.929,15.028 C30.377,15.028 30,14.552 30,14 L30,5 L40,15 L30.929,15.028 Z" id="path14363" fill="#FF9C6E"></path>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="application-vnd.ms-powerpoint-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F75251"/>
+      <stop offset="100%" stop-color="#D14727"/>
+    </linearGradient>
+    <path id="application-vnd.ms-powerpoint-b" d="M21,0 L32,11 L32,34.5 C32,36.9852814 29.9852814,39 27.5,39 L4.5,39 C2.01471863,39 3.04359188e-16,36.9852814 0,34.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,2.23289562e-15 4.5,1.77635684e-15 L21,0 Z"/>
+    <filter id="application-vnd.ms-powerpoint-a" width="131.2%" height="125.6%" x="-15.6%" y="-10.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.6622226   0 0 0 0 0.106149536   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="application-vnd.ms-powerpoint-f" x1="50%" x2="12.223%" y1="50%" y2="88.513%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-vnd.ms-powerpoint-e" d="M21,0 L32,11 L25.5,11 C23.0147186,11 21,8.98528137 21,6.5 L21,0 Z"/>
+    <filter id="application-vnd.ms-powerpoint-d" width="163.6%" height="163.6%" x="-31.8%" y="-22.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8 5)">
+      <use fill="#000" filter="url(#application-vnd.ms-powerpoint-a)" xlink:href="#application-vnd.ms-powerpoint-b"/>
+      <use fill="url(#application-vnd.ms-powerpoint-c)" xlink:href="#application-vnd.ms-powerpoint-b"/>
+      <use fill="#000" filter="url(#application-vnd.ms-powerpoint-d)" xlink:href="#application-vnd.ms-powerpoint-e"/>
+      <use fill="url(#application-vnd.ms-powerpoint-f)" xlink:href="#application-vnd.ms-powerpoint-e"/>
     </g>
+    <polygon fill="#FFF" points="16 31 16 20 25 16 29.975 17.771 30 33 25 34.5 16 31 25 32 25 19 19 21 19 29"/>
+  </g>
 </svg>

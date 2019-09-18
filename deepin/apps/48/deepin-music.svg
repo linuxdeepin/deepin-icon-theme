@@ -1,27 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-music</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="-9.79501762%" y1="70.5378532%" x2="108.402%" y2="69.9246876%" id="linearGradient-1">
-            <stop stop-color="#3B6209" offset="0%"></stop>
-            <stop stop-color="#112400" offset="50.7829212%"></stop>
-            <stop stop-color="#0E2700" offset="82.4037083%"></stop>
-            <stop stop-color="#0D2500" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-music">
-            <g id="Group" transform="translate(1.000000, 4.000000)">
-                <image id="Bitmap" x="0" y="2.27373675e-13" width="46" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAoCAYAAACB4MgqAAAAAXNSR0IArs4c6QAAAhZJREFUWAnVmYtOg0AQRcG3Rk1Mo///j8b3o94z5RIgSIqBujPJsAvdwtnZOwO0dVVVtRyjdT8OrLTZ6rw45na3N2N70ow9bk7yNeO7fx3KtfDhtWZNghMcyc/l7/JDGIBc095d6b1XnIgz2JFX9yD22bkK1yeAMHw3rmZaRswa23umu+GLblkBJvIhdxBpJ5lKABdja0wA7RN92H6FN7jGFGPIhXwDHgmNwpcILtawN20BH4UvGRx64EdlUzo48MjmVN5L2AzgLpFEvrUM4MA6WeGNZM0CDrzLJP2oldFJsHHUQ+uZIu6HsGDOBI4oSFTqeiqpwGvwOlvESdC0UgE8XcSRS7o6DnQkJp1sGgc8ymI2cJ5XqCzbbOBnDXgqqZCUSIWSmCriVwL2O2mqiF8LnActNJ4GHGgkQsSpKimkgq5v5K9ywMMyVJV7kfLSbJmkqOMbAaPpF3kbbfWL1viD+KjbT3KiHdpWG9Z7c/bBf27RNNDYoxyZxN2SA7bSwG8FdidHGkQa6LjhqO1ZCeAUCICpHMiBKAPeS0bt98zgkam9T9bd4S54KecPBXRM4gFLyQO4rdfqj1oXnJM9j45a9iA3EzQMIO7oAovHnVHtZDB5cGGpLuQsFfAkx1qGXoElQI4soHZ1p4EZgMWPK2qBZclYAR9Td1FzOSOq/PswTLrJCA9JupDd/nDckvueAOecBduF+AGlV3CVZfuUAQAAAABJRU5ErkJggg=="></image>
-                <path d="M27,36.001 C36.3888407,36.001 44,28.3898407 44,19.001 C44,9.61215925 36.3888407,2.001 27,2.001 C17.6111593,2.001 10,9.61215925 10,19.001 C10,28.3898407 17.6111593,36.001 27,36.001 Z" id="circle13330" fill="#478500" transform="translate(27.000000, 19.001000) rotate(-270.000000) translate(-27.000000, -19.001000) "></path>
-                <path d="M27,35 C35.836556,35 43,27.836556 43,19 C43,10.163444 35.836556,3 27,3 C18.163444,3 11,10.163444 11,19 C11,27.836556 18.163444,35 27,35 Z" id="circle13330" fill="url(#linearGradient-1)" transform="translate(27.000000, 19.000000) rotate(-270.000000) translate(-27.000000, -19.000000) "></path>
-                <circle id="circle13353" fill="#000000" transform="translate(27.000000, 19.000000) rotate(-270.000000) translate(-27.000000, -19.000000) " cx="27" cy="19" r="9"></circle>
-                <circle id="circle13353" fill="#478500" transform="translate(27.000000, 19.000000) rotate(-270.000000) translate(-27.000000, -19.000000) " cx="27" cy="19" r="6"></circle>
-                <path d="M-2.5,6.49296544 C-2.5,5.94456577 -2.04482698,5.5 -1.49958056,5.5 L32.4995806,5.5 C33.052097,5.5 33.5,5.94610862 33.5,6.49296544 L33.5,31.5070346 C33.5,32.0554342 33.044827,32.5 32.4995806,32.5 L-1.49958056,32.5 C-2.05209696,32.5 -2.5,32.0538914 -2.5,31.5070346 L-2.5,6.49296544 Z" id="Rectangle-118" fill="#92DC00" transform="translate(15.500000, 19.000000) rotate(-270.000000) translate(-15.500000, -19.000000) "></path>
-                <path d="M15.0524335,11.4596593 C15.0524335,11.4596593 15.0524335,10.9606611 15.5452085,10.9596611 C16.0379835,10.9586611 16.0490351,11.4596593 16.0490351,11.4596593 C16.0490351,11.4596593 16.0179593,12.7636576 18.5541327,14.4596594 C19.0179593,14.7636576 23.5490355,17.4596591 21.3322085,22.3806611 C21.3322085,22.3806611 21.2122085,22.6336611 20.9472085,22.5276611 C20.7382085,22.4436611 20.8092085,22.1766611 20.8092085,22.1766611 C20.8092085,22.1766611 22.5490351,16.9596591 16.0490351,15.4596591 C16.0490351,15.4596591 16.0595497,22.5397683 16.0532421,24.475845 C16.0595495,25.9596596 15.0682722,27.3176311 13.283794,27.7957806 C11.3899893,28.303224 9.53609493,27.525324 9.14300494,26.0582922 C8.74991496,24.5912604 9.96648457,22.990632 11.8602892,22.4831886 C13.0611376,22.1614222 14.2459391,22.3564591 15.0524335,22.9162936 L15.0524335,11.4596593 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(15.504347, 19.455312) rotate(-360.000000) translate(-15.504347, -19.455312) "></path>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-music-a" width="129.5%" height="132.5%" x="-14.8%" y="-16.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-music-b" x1="98.016%" x2="0%" y1="38.451%" y2="41.845%">
+      <stop offset="0%" stop-color="#0BA186"/>
+      <stop offset="100%" stop-color="#68C639"/>
+    </linearGradient>
+    <linearGradient id="deepin-music-c" x1="50%" x2="50%" y1="0%" y2="98.031%">
+      <stop offset="0%" stop-color="#8DF34C"/>
+      <stop offset="100%" stop-color="#00CCB3"/>
+    </linearGradient>
+    <linearGradient id="deepin-music-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".7"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-music-a)" transform="translate(2 4)">
+    <circle cx="26" cy="20" r="17.5" fill="#151E25" stroke="url(#deepin-music-b)" transform="rotate(90 26 20)"/>
+    <path fill="url(#deepin-music-c)" d="M7.6916556,-3.10752092e-16 L28.3083444,3.10752092e-16 C30.9829006,-1.80555915e-16 31.9527593,0.278476833 32.9305371,0.801398111 C33.9083149,1.32431939 34.6756806,2.09168511 35.1986019,3.06946289 C35.7215232,4.04724067 36,5.01709938 36,7.6916556 L36,32.3083444 C36,34.9829006 35.7215232,35.9527593 35.1986019,36.9305371 C34.6756806,37.9083149 33.9083149,38.6756806 32.9305371,39.1986019 C31.9527593,39.7215232 30.9829006,40 28.3083444,40 L7.6916556,40 C5.01709938,40 4.04724067,39.7215232 3.06946289,39.1986019 C2.09168511,38.6756806 1.32431939,37.9083149 0.801398111,36.9305371 C0.278476833,35.9527593 -1.43077765e-16,34.9829006 2.46249008e-16,32.3083444 L2.07168062e-16,7.6916556 C-1.2037061e-16,5.01709938 0.278476833,4.04724067 0.801398111,3.06946289 C1.32431939,2.09168511 2.09168511,1.32431939 3.06946289,0.801398111 C4.04724067,0.278476833 5.01709938,1.80555915e-16 7.6916556,-3.10752092e-16 Z"/>
+    <path fill="url(#deepin-music-d)" stroke="#FFF" stroke-opacity=".3" d="M26.4571805,10.1540575 C26.2027311,8.79699422 24.896342,7.90314903 23.5392787,8.15759839 L13.5392787,10.0325984 C12.3568464,10.2543044 11.5,11.2867412 11.5,12.4897394 L11.5011777,27.4029961 L10.7506074,26.9684933 C10.2230043,26.6630655 9.62398785,26.5 9,26.5 C7.06700338,26.5 5.5,28.0670034 5.5,30 C5.5,31.9329966 7.06700338,33.5 9,33.5 C10.9329966,33.5 12.5,31.9329966 12.5,30 L12.5,14.4549263 C12.5,13.7331037 13.0141078,13.1136416 13.7235672,12.980618 L23.7235672,11.105618 C23.8147191,11.088527 23.9072596,11.0799263 24,11.0799263 C24.8284271,11.0799263 25.5,11.7514992 25.5,12.5798706 L25.5012058,23.4030124 L24.7506074,22.9684933 C24.2230043,22.6630655 23.6239878,22.5 23,22.5 C21.0670034,22.5 19.5,24.0670034 19.5,26 C19.5,27.9329966 21.0670034,29.5 23,29.5 C24.9329966,29.5 26.5,27.9329966 26.5,26 L26.5,10.6147789 C26.5,10.4602116 26.4856654,10.3059774 26.4571805,10.1540575 Z"/>
+  </g>
 </svg>

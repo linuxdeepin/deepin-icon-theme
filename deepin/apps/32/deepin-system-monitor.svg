@@ -1,36 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-system-monitor</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="56.4842886%" y1="100%" x2="38.7631206%" y2="0%" id="linearGradient-1">
-            <stop stop-color="#5F3EFF" offset="0%"></stop>
-            <stop stop-color="#6E62FF" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#1E007E" offset="0%"></stop>
-            <stop stop-color="#3721B2" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-system-monitor">
-            <g id="Group" transform="translate(1.000000, 2.000000)">
-                <image id="Bitmap" x="0" y="0" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAdBJREFUSA29ltlOwzAQRVt2xPIASCAkxP//GbyA2ARlK/eY3GnjNJQ2iS3d2vEyp3M9jToe/a+Nq23005Yj82tte1qONqcJtiEZ3NzRnFnnTC0KAVYB1g5XZ1vPb+a7qwNkSetqmbP/jTb3mYOdJcCu0DlM0zln5k22pk+oYzm2WdGzkDsQiz0MiN2AM7HVQ/BlIWAkuK3mwZYsO9xlHUZkzWC7S7QVz8IaO2P3K8ZYa3ti8VES6m+6ARSrvz1ToIeVrAb8VQBoBKwAR6V5dcAeVhRXid+wc0ks7pjf1pBvLAPdw5oavOvZAj2sAJe2emqL3Q9d3XZ24pfHm9I/LWAzDFhRVBTYjkSpf0hDtAMFJdEXKd0xEMCP0pk0xH0Tk9gwYNUa2R5K11KfLxRiEZPYEddFpbnUXFwXenqWur7DyRTog4TFES8Ha230LmHHpTSR1r1z7vRKupewOKAaz1LnoWrYQRHsS+cSLtxIqRrVL2t72oBjJHUrvUpASSZaeB4zswFr/Fs4lk4kDj5JWIYLdoI9iAyPJM7dSWTJnhpQz6n9BWYD64i7IhMKBCcAufo/NQZAZtQFzjAHcCFU8wutZj5v/gJ5zz4D8j6PUXv+AQPKTCYy2hjvAAAAAElFTkSuQmCC"></image>
-                <circle id="Oval-3" fill="url(#linearGradient-1)" cx="15" cy="14" r="14"></circle>
-                <circle id="Oval-3" fill="url(#linearGradient-2)" cx="15" cy="14" r="11"></circle>
-                <rect id="Rectangle" fill="#FFFFFF" opacity="0.5" x="13" y="25" width="4" height="1"></rect>
-                <path d="M3.5,13.5 L26.5,13.5" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M6.5,6.5 L23.5,6.5" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M18.5,25 L18.5,3.33333333" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M25.5,18.5 L25.5,7" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M11.5,25 L11.5,3" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M4.5,18.5 L4.5,9.5" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M5.5,20.5 L24.5,20.5" id="Path-6" stroke="#FFFFFF" opacity="0.1"></path>
-                <path d="M20.0481507,24.3356622 C23.8688496,22.4660476 26.5,18.5402929 26.5,14 C26.5,7.64872538 21.3512746,2.5 15,2.5 C8.64872538,2.5 3.5,7.64872538 3.5,14 C3.5,18.5502891 6.1427491,22.4833312 9.97710242,24.3479812" id="Oval-2" stroke="#FFFFFF" opacity="0.504359149" stroke-linecap="round"></path>
-                <path d="M15,2.5 C8.64872538,2.5 3.5,7.64872538 3.5,14 C3.5,18.5502891 6.1427491,22.4833312 9.97710242,24.3479812" id="Oval-2" stroke="#FFFFFF" stroke-linecap="round"></path>
-                <path d="M6,15.8421864 C6,15.8421864 6.66666667,17.4737834 8,17.4737834 C11,17.4737834 10,8.5 13,8.5 C16,8.5 14.3333333,17.4737834 17.3333333,17.4737834 C19.3333333,17.4737834 18.3333333,13.394791 20,13.394791 C21.6666667,13.394791 20.3333333,17.8816827 24,17.4737834" id="Path-5" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="deepin-system-monitor-a" width="128.6%" height="128.6%" x="-14.3%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-system-monitor-b" cx="38.256%" cy="21.126%" r="100.21%" fx="38.256%" fy="21.126%">
+      <stop offset="0%" stop-color="#665AFF"/>
+      <stop offset="100%" stop-color="#4300D7"/>
+    </radialGradient>
+    <radialGradient id="deepin-system-monitor-c" cx="50%" cy="52.28%" r="54.424%" fx="50%" fy="52.28%">
+      <stop offset="0%" stop-color="#00D8FF"/>
+      <stop offset="100%" stop-color="#3D00B5"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-system-monitor-a)" transform="translate(2 2)">
+    <circle cx="14" cy="14" r="14" fill="url(#deepin-system-monitor-b)"/>
+    <circle cx="14" cy="14" r="11" fill="url(#deepin-system-monitor-c)"/>
+    <polygon fill="#FFF" points="12 25 16 25 16 26 12 26" opacity=".5"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="2.5 14 25.5 14 25.5 13 2.5 13"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="5.5 7 22.5 7 22.5 6 5.5 6"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="18 25 18 3.333 17 3.333 17 25"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="25 18.5 25 7 24 7 24 18.5"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="11 25 11 3 10 3 10 25"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="4 18.5 4 9.5 3 9.5 3 18.5"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="4.5 21 23.5 21 23.5 20 4.5 20"/>
+    <path stroke="#FFF" stroke-linecap="round" d="M19.0481507,24.3356622 C22.8688496,22.4660476 25.5,18.5402929 25.5,14 C25.5,7.64872538 20.3512746,2.5 14,2.5 C7.64872538,2.5 2.5,7.64872538 2.5,14 C2.5,18.5502891 5.1427491,22.4833312 8.97710242,24.3479812" opacity=".504"/>
+    <path stroke="#FFF" stroke-linecap="round" d="M14,2.5 C7.64872538,2.5 2.5,7.64872538 2.5,14 C2.5,18.5502891 5.1427491,22.4833312 8.97710242,24.3479812"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M5,15.8421864 C5,15.8421864 5.66666667,17.4737834 7,17.4737834 C10,17.4737834 9,8.5 12,8.5 C15,8.5 13.3333333,17.4737834 16.3333333,17.4737834 C18.3333333,17.4737834 17.3333333,13.394791 19,13.394791 C20.6666667,13.394791 19.3333333,17.8816827 23,17.4737834"/>
+  </g>
 </svg>

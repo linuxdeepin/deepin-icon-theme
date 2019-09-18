@@ -1,23 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>文件管理器-48px</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="文件管理器-48px">
-            <g id="Group-2" transform="translate(4.000000, 2.000000)">
-                <g id="Group">
-                    <image id="Bitmap" x="0" y="0.475655648" width="40" height="45" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAtCAYAAADcMyneAAAABGdBTUEAA1teXP8meAAAAXhJREFUWAntmF1vwjAMRdcB0t73/38nk/jofNLdqhSYiK6n7sGWXKdp7BxuzEuGN9+GnxJEjccY45ji9Nb5VMHOtBmE/Pdw4jVcYMzhvGs+hv2wvYBaT9yxY9glHIhHBqTWsUbrXlZVGz4qvpzTOinDt3P4qxuRvycprAtUG0+p90++44ARAQLMMUBVC1hqPv2hLFyb5ogCoxBHmWkcPfWBEyj1b2AFwweNieqb3/qLnAwDcrmfAFtcQrEQx3r6a8rwn7Cs+3SG5Bcc/D3SKsAC04BikDPhNn+USDNYYLoB1Nmn7WIUgmUGpI56z6iZntqYBKY/S/ouRsHGJECjzt+mFqCrbylYCroKuPnVg6Wgq4CbXz1YCroKuPnVg6Wgq4CbXz1YCroKuPnVg6Wgq4Cbrx7kNkljt2ZGPiztto0bTQZc9X6Gc1e89UWSxDoGy6gr11O8MP4I31pJRPoKh6mphWI4gMD9B0Ag2z25jnMd4/um1vovCMZvcGRAezr0L+0AAAAASUVORK5CYII="></image>
-                    <path d="M2,14.8 L2,9.99705555 C2,9.44639697 2.41060871,8.81787777 2.91923552,8.59228039 L18.2079152,1.81110799 C19.2178816,1.36314542 20.8551483,1.36453152 21.8579011,1.81110799 L37.0844973,8.59228039 C37.5901155,8.81745771 38,9.45511627 38,9.99705555 L38,14.8 L38,40.9996793 C38,41.5521411 37.544827,42 36.9995806,42 L3.00041944,42 C2.44790304,42 2,41.5505869 2,40.9996793 L2,14.8 Z" id="Rectangle-239" fill="#00B8FF"></path>
-                    <polygon id="Rectangle-241" fill="#FFD245" transform="translate(19.948870, 24.081103) rotate(-368.000000) translate(-19.948870, -24.081103) " points="4.9391384 9.82027648 34.9586023 9.54193028 34.9586023 38.3419303 4.9391384 38.6202765"></polygon>
-                    <rect id="Rectangle-241" fill="#FFFFFF" x="5" y="11" width="30" height="28"></rect>
-                    <path d="M2,15 L38,15 L38,41.0070346 C38,41.5554342 37.544827,42 36.9995806,42 L3.00041944,42 C2.44790304,42 2,41.5538914 2,41.0070346 L2,15 Z" id="Rectangle-239" fill="#39D4FF" opacity="0.7"></path>
-                    <path d="M17.5,30 L17.5,22.5 C17.5,22.5 18,24.5 20,24.5 C22,24.5 22.5,22.5 22.5,22.5 L22.5,35" id="Path-1387" stroke="#FFFFFF" stroke-linejoin="round"></path>
-                    <circle id="Oval-231" fill="#FFFFFF" cx="20" cy="22" r="5"></circle>
-                    <circle id="Oval-231" fill="#4ED8FF" cx="20" cy="22" r="1"></circle>
-                </g>
-            </g>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="dde-file-manager-a" width="135.7%" height="131.8%" x="-17.9%" y="-14.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="dde-file-manager-b" x1="50%" x2="50%" y1="0%" y2="37.968%">
+      <stop offset="0%" stop-color="#00B8FF"/>
+      <stop offset="100%" stop-color="#2E5DFF"/>
+    </linearGradient>
+    <path id="dde-file-manager-d" d="M3.34800408,12.5270291 C3.32881805,10.3133173 5.09601235,8.51773172 7.30885856,8.51646857 L34.2975461,8.50106268 C36.5042516,8.49980303 38.308673,10.2910108 38.3278793,12.5070616 L38.5326934,36.1388076 C38.5518794,38.3525193 36.7846851,40.148105 34.5718389,40.1493681 L7.58315134,40.164774 C5.37644579,40.1660336 3.57202441,38.3748259 3.55281812,36.158775 L3.34800408,12.5270291 Z"/>
+    <filter id="dde-file-manager-c" width="116.8%" height="118.9%" x="-8.4%" y="-9.5%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <rect id="dde-file-manager-f" width="34.65" height="31" x="4.2" y="10" rx="4"/>
+    <filter id="dde-file-manager-e" width="117.3%" height="119.4%" x="-8.7%" y="-9.7%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <radialGradient id="dde-file-manager-g" cx="50%" cy="25.527%" r="96.89%" fx="50%" fy="25.527%" gradientTransform="matrix(0 1 -.71429 0 .682 -.245)">
+      <stop offset="0%" stop-color="#48D5FF"/>
+      <stop offset="100%" stop-color="#0056FF"/>
+    </radialGradient>
+    <linearGradient id="dde-file-manager-h" x1="50%" x2="50%" y1="3.549%" y2="100%">
+      <stop offset="0%" stop-color="#3ABDFF"/>
+      <stop offset="100%" stop-color="#38B9FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#dde-file-manager-a)" transform="translate(3 1)">
+    <path fill="url(#dde-file-manager-b)" d="M0,14.4671348 L0,12.1757967 C0,9.96328264 1.65118731,7.48809899 3.68944246,6.64673631 L17.3532821,1.00649801 C19.390905,0.165396358 22.7047243,0.172395761 24.7412229,1.01646092 L38.3015017,6.6367734 C40.3441259,7.48337742 42,9.95743696 42,12.1757967 L42,14.4671348 L42,40.0017101 C42,42.2099046 40.2087482,44 37.9918888,44 L4.00811116,44 C1.79449249,44 0,42.219095 0,40.0017101 L0,14.4671348 Z"/>
+    <g transform="rotate(-8 20.94 24.333)">
+      <use fill="#000" filter="url(#dde-file-manager-c)" xlink:href="#dde-file-manager-d"/>
+      <use fill="#FF517F" xlink:href="#dde-file-manager-d"/>
     </g>
+    <use fill="#000" filter="url(#dde-file-manager-e)" xlink:href="#dde-file-manager-f"/>
+    <use fill="#FFF" xlink:href="#dde-file-manager-f"/>
+    <path fill="url(#dde-file-manager-g)" d="M0,14 L42,14 L42,40.0007252 C42,42.2094637 40.2087482,44 37.9918888,44 L4.00811116,44 C1.79449249,44 0,42.2132053 0,40.0007252 L0,14 Z"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="17.5 31.125 17.5 23 25.5 23 25.5 36"/>
+    <circle cx="21.5" cy="22.5" r="5" fill="#FFF" stroke="url(#dde-file-manager-h)"/>
+    <circle cx="21.5" cy="22.5" r="1.5" fill="#00BFFF"/>
+  </g>
 </svg>

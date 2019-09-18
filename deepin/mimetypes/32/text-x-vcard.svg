@@ -1,20 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
-    <title>text-x-vcard</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="text-x-vcard">
-            <g id="Group" transform="translate(4.000000, 3.000000)">
-                <image id="Bitmap" x="0" y="0" width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAABGdBTUEAA1teXP8meAAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="></image>
-                <path d="M22,26 L2,26 C1,26 1,25 1,25 L1,1 C1,1 1,0 2,0 L16,0 L23,7 L23,25 C23,26 22,26 22,26 Z" id="path14361" fill="#9DA6C2"></path>
-                <path d="M17,7.01866667 C16,7.01866667 16,6 16,6 L16,0 L23,7.01866667 L17,7.01866667 Z" id="path14363" fill="#D5DCF3"></path>
-            </g>
-            <g id="Group-2" transform="translate(10.000000, 10.000000)" stroke="#FFFFFF">
-                <path d="M6,7.5 C3.65019048,7.5 0.5,8.90896642 0.5,12.5 L11.5,12.5 C11.5,8.90896642 8.37338095,7.5 6,7.5 Z" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
-                <circle id="Oval" cx="6" cy="4" r="3.5"></circle>
-            </g>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="text-x-vcard-c" x1="50%" x2="50%" y1="0%" y2="99.203%">
+      <stop offset="0%" stop-color="#A2A7B0"/>
+      <stop offset="98.472%" stop-color="#7B8991"/>
+    </linearGradient>
+    <path id="text-x-vcard-b" d="M15,0 L22,7 L22,22 C22,24.209139 20.209139,26 18,26 L4,26 C1.790861,26 2.705415e-16,24.209139 0,22 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L15,0 Z"/>
+    <filter id="text-x-vcard-a" width="131.8%" height="126.9%" x="-15.9%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.361595344   0 0 0 0 0.418797512   0 0 0 0 0.450973732  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="text-x-vcard-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-x-vcard-e" d="M15,0 L22,7 L17.25,7 C16.0073593,7 15,5.99264069 15,4.75 L15,0 Z"/>
+    <filter id="text-x-vcard-d" width="157.1%" height="157.1%" x="-28.6%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(5 3)">
+      <use fill="#000" filter="url(#text-x-vcard-a)" xlink:href="#text-x-vcard-b"/>
+      <use fill="url(#text-x-vcard-c)" xlink:href="#text-x-vcard-b"/>
+      <use fill="#000" filter="url(#text-x-vcard-d)" xlink:href="#text-x-vcard-e"/>
+      <use fill="url(#text-x-vcard-f)" xlink:href="#text-x-vcard-e"/>
     </g>
+    <g stroke="#FFF" transform="translate(10 10)">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M6,7.5 C3.65019048,7.5 0.5,8.90896642 0.5,12.5 L11.5,12.5 C11.5,8.90896642 8.37338095,7.5 6,7.5 Z"/>
+      <circle cx="6" cy="4" r="3.5"/>
+    </g>
+  </g>
 </svg>

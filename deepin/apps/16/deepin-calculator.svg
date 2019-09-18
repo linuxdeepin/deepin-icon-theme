@@ -1,27 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-calculator</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="92.6181353%" id="linearGradient-1">
-            <stop stop-color="#35C7FF" offset="0%"></stop>
-            <stop stop-color="#00A7FF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-calculator">
-            <g id="Group-3" transform="translate(1.000000, 1.000000)">
-                <image id="Bitmap" x="0" y="0" width="14" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAPCAYAAADUFP50AAAAAXNSR0IArs4c6QAAADlJREFUKBVjZGBgUAViPiAmBXxiAqomVRPIAj6QRrLAqEY8wTYaOAQC5x8eeVxSf0Gh+gWXLB7xrwAASQVDsPob1gAAAABJRU5ErkJggg=="></image>
-                <path d="M1,4.44058717e-16 L13,4.44058717e-16 L13,4.4408921e-16 C13.5522847,3.42634992e-16 14,0.44771525 14,1 L14,13 L14,13 C14,13.5522847 13.5522847,14 13,14 L1,14 L1,14 C0.44771525,14 -1.07971043e-16,13.5522847 -6.66133815e-16,13 L0,1 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01454218e-16 1,0 Z" id="Mask" fill="url(#linearGradient-1)"></path>
-                <polygon id="Combined-Shape" fill="#FFFFFF" points="4.16666667 10.5 5.5 9.16666667 4.83333333 8.5 3.5 9.83333333 2.16666667 8.5 1.5 9.16666667 2.83333333 10.5 1.5 11.8333333 2.16666667 12.5 3.5 11.1666667 4.83333333 12.5 5.5 11.8333333"></polygon>
-                <path d="M1,0 L7,0 L7,7 L0,7 L0,1 L-1.11022302e-16,1 C-1.78657678e-16,0.44771525 0.44771525,-9.5692398e-18 1,-1.11022302e-16 Z" id="数字背景" fill="#FFFFFF"></path>
-                <path d="M4,3 L4,1 L3,1 L3,3 L1,3 L1,4 L3,4 L3,6 L4,6 L4,4 L6,4 L6,3 L4,3 Z" id="Combined-Shape" fill="#2ABFF9"></path>
-                <rect id="Rectangle-3" fill="#FFFFFF" x="8" y="3" width="5" height="1"></rect>
-                <path d="M7,7 L14,7 L14,13 L14,13 C14,13.5522847 13.5522847,14 13,14 L7,14 L7,7 Z" id="数字背景" fill="#FFFFFF"></path>
-                <path d="M8,9 L13,9 L13,10 L8,10 L8,9 Z M8,11 L13,11 L13,12 L8,12 L8,11 Z" id="Combined-Shape" fill="#2ABFF9"></path>
-                <path d="M1,1 L1,13 L13,13 L13,1 L1,1 Z M1,4.44058717e-16 L13,4.44058717e-16 C13.5522847,3.42634992e-16 14,0.44771525 14,1 L14,13 C14,13.5522847 13.5522847,14 13,14 L1,14 C0.44771525,14 -1.07971043e-16,13.5522847 -6.66133815e-16,13 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01454218e-16 1,4.44058717e-16 Z" id="Mask" fill-opacity="0.2" fill="#0066EF" fill-rule="nonzero"></path>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <radialGradient id="deepin-calculator-a" cx="50%" cy="9.268%" r="92.618%" fx="50%" fy="9.268%">
+      <stop offset="0%" stop-color="#35DCFF"/>
+      <stop offset="100%" stop-color="#0068FF"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <path fill="url(#deepin-calculator-a)" d="M2,0 L12,0 C13.1045695,-2.02906125e-16 14,0.8954305 14,2 L14,12 C14,13.1045695 13.1045695,14 12,14 L2,14 C0.8954305,14 1.3527075e-16,13.1045695 0,12 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z"/>
+    <polygon fill="#FFF" points="4.167 10.5 5.5 9.167 4.833 8.5 3.5 9.833 2.167 8.5 1.5 9.167 2.833 10.5 1.5 11.833 2.167 12.5 3.5 11.167 4.833 12.5 5.5 11.833"/>
+    <path fill="#FFF" d="M14,7 L14,12 C14,13.1045695 13.1045695,14 12,14 L7,14 L7,7 L14,7 Z M13,11 L8,11 L8,12 L13,12 L13,11 Z M13,9 L8,9 L8,10 L13,10 L13,9 Z M7,0 L7,7 L0,7 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L7,0 Z M4,1 L3,1 L3,3 L1,3 L1,4 L3,4 L3,6 L4,6 L4,4 L6,4 L6,3 L4,3 L4,1 Z"/>
+    <rect width="5" height="1" x="8" y="3" fill="#FFF"/>
+    <path stroke="#000" stroke-opacity=".1" d="M2,-0.5 L12,-0.5 C13.3807119,-0.5 14.5,0.619288125 14.5,2 L14.5,12 C14.5,13.3807119 13.3807119,14.5 12,14.5 L2,14.5 C0.619288125,14.5 -0.5,13.3807119 -0.5,12 L-0.5,2 C-0.5,0.619288125 0.619288125,-0.5 2,-0.5 Z"/>
+  </g>
 </svg>

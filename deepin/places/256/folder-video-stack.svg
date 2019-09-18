@@ -1,57 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
   <defs>
-    <filter id="folder-video-stack-a" width="120.9%" height="126%" x="-10.5%" y="-12%" filterUnits="objectBoundingBox">
+    <filter id="folder-video-stack-256px-a" width="124.3%" height="128.1%" x="-12.2%" y="-14.1%" filterUnits="objectBoundingBox">
       <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
-      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
       <feMerge>
         <feMergeNode in="shadowMatrixOuter1"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <linearGradient id="folder-video-stack-b" x1="50%" x2="50%" y1="0%" y2="98.094%">
-      <stop offset="0%" stop-color="#656565"/>
-      <stop offset="100%" stop-color="#BEBEBE"/>
+    <linearGradient id="folder-video-stack-256px-b" x1="50%" x2="50%" y1="0%" y2="44.608%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="folder-video-stack-c" x1="50%" x2="50%" y1="0%" y2="97.197%">
+    <linearGradient id="folder-video-stack-256px-c" x1="50%" x2="50%" y1="0%" y2="38.223%">
+      <stop offset="0%" stop-color="#797979"/>
+      <stop offset="100%" stop-color="#8F6823"/>
+    </linearGradient>
+    <rect id="folder-video-stack-256px-d" width="202" height="83" x="10" y="32" rx="18"/>
+    <filter id="folder-video-stack-256px-e" width="101%" height="102.4%" x="-.5%" y="-1.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="folder-video-stack-256px-g" x1="50%" x2="50%" y1="0%" y2="97.197%">
       <stop offset="0%" stop-color="#414141"/>
       <stop offset="100%" stop-color="#2B2B2B"/>
     </linearGradient>
-    <linearGradient id="folder-video-stack-d" x1="35.805%" x2="50%" y1="0%" y2="100%">
+    <path id="folder-video-stack-256px-f" d="M0,0 L222,0 L222,118 C222,133.463973 209.463973,146 194,146 L28,146 C12.536027,146 1.8937905e-15,133.463973 0,118 L0,0 Z"/>
+    <filter id="folder-video-stack-256px-h" width="100.9%" height="101.4%" x="-.5%" y="-.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.1 0"/>
+    </filter>
+    <path id="folder-video-stack-256px-k" d="M4,96 L16,96 C18.209139,96 20,97.790861 20,100 L20,112 C20,114.209139 18.209139,116 16,116 L4,116 C1.790861,116 2.705415e-16,114.209139 0,112 L0,100 C-2.705415e-16,97.790861 1.790861,96 4,96 Z M4,64 L16,64 C18.209139,64 20,65.790861 20,68 L20,80 C20,82.209139 18.209139,84 16,84 L4,84 C1.790861,84 2.705415e-16,82.209139 0,80 L0,68 C-2.705415e-16,65.790861 1.790861,64 4,64 Z M4,32 L16,32 C18.209139,32 20,33.790861 20,36 L20,48 C20,50.209139 18.209139,52 16,52 L4,52 C1.790861,52 2.705415e-16,50.209139 0,48 L0,36 C-2.705415e-16,33.790861 1.790861,32 4,32 Z M4,0 L16,0 C18.209139,-4.05812251e-16 20,1.790861 20,4 L20,16 C20,18.209139 18.209139,20 16,20 L4,20 C1.790861,20 2.705415e-16,18.209139 0,16 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z"/>
+    <filter id="folder-video-stack-256px-j" width="110%" height="103.4%" x="-5%" y="-.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.05 0"/>
+    </filter>
+    <filter id="folder-video-stack-256px-l" width="110%" height="103.4%" x="-5%" y="-.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <path id="folder-video-stack-256px-n" d="M176,96 L188,96 C190.209139,96 192,97.790861 192,100 L192,112 C192,114.209139 190.209139,116 188,116 L176,116 C173.790861,116 172,114.209139 172,112 L172,100 C172,97.790861 173.790861,96 176,96 Z M176,64 L188,64 C190.209139,64 192,65.790861 192,68 L192,80 C192,82.209139 190.209139,84 188,84 L176,84 C173.790861,84 172,82.209139 172,80 L172,68 C172,65.790861 173.790861,64 176,64 Z M176,32 L188,32 C190.209139,32 192,33.790861 192,36 L192,48 C192,50.209139 190.209139,52 188,52 L176,52 C173.790861,52 172,50.209139 172,48 L172,36 C172,33.790861 173.790861,32 176,32 Z M176,0 L188,0 C190.209139,-4.05812251e-16 192,1.790861 192,4 L192,16 C192,18.209139 190.209139,20 188,20 L176,20 C173.790861,20 172,18.209139 172,16 L172,4 C172,1.790861 173.790861,4.05812251e-16 176,0 Z"/>
+    <filter id="folder-video-stack-256px-m" width="110%" height="103.4%" x="-5%" y="-.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.05 0"/>
+    </filter>
+    <filter id="folder-video-stack-256px-o" width="110%" height="103.4%" x="-5%" y="-.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="folder-video-stack-256px-p" x1="35.805%" x2="50%" y1="0%" y2="100%">
       <stop offset="0%" stop-color="#FFE00B"/>
       <stop offset="100%" stop-color="#D38700"/>
     </linearGradient>
-    <filter id="folder-video-stack-e" width="475%" height="372.7%" x="-187.5%" y="-136.4%" filterUnits="objectBoundingBox">
+    <filter id="folder-video-stack-256px-q" width="475%" height="372.7%" x="-187.5%" y="-136.4%" filterUnits="objectBoundingBox">
       <feGaussianBlur in="SourceGraphic" stdDeviation="20"/>
     </filter>
   </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#folder-video-stack-a)" transform="translate(18 46)">
-    <path fill="url(#folder-video-stack-b)" d="M189.990648,0 C193.309522,0 196,2.68786641 196,5.99166977 L196,173.333333 C196,176.30753 193.5557,178.666667 190.625,178.666667 L29.375,178.666667 C26.4052244,178.666667 24,176.358436 24,173.333333 L24,14.0065083 C24,10.689205 26.6827553,7.99999937 30.0024092,7.99999938 L130.184425,7.99999963 C132.395264,7.99999964 135.46503,6.73237592 137.030038,5.17949904 L139.407467,2.82050061 C140.977356,1.26278113 144.038361,0 146.246076,0 L189.990648,0 Z"/>
-    <path fill="#161616" d="M190.002209,2.00000004 C193.314697,2.00000004 196,4.67995012 196,7.99716779 L196,172.614736 L24,172.614736 L24,16.0047086 C24,12.6883993 26.6903783,9.99999941 29.9928595,9.99999941 L132.209759,9.99999956 C134.415235,9.99999956 137.480655,8.73237586 139.045663,7.179499 L141.423092,4.8205006 C142.992981,3.26278116 146.061466,2.00000004 148.260637,2.00000004 L190.002209,2.00000004 Z"/>
-    <path fill="#757575" d="M14,178 L14,24.0042685 C14,20.6882026 16.6775205,18 20.0098958,18 L199.990104,18 C203.309278,18 206,20.6766894 206,24.0042685 L206,178 L14,178 Z"/>
-    <path fill="#262626" d="M13.9999999,174.666667 L13.9999999,25.9919758 C13.9999999,22.6826989 16.6775205,20 20.0098958,20 L199.990104,20 C203.309278,20 206,22.6845296 206,25.9919758 L206,174.666667 L13.9999999,174.666667 Z"/>
-    <path fill="url(#folder-video-stack-c)" d="M5.99856619,192 C2.68564956,192 -7.77089155e-11,189.307184 -5.88984535e-13,185.993125 L3.53621304e-09,34.006875 C3.61341319e-09,30.6893696 2.6825699,28 5.99856619,28 L214.001434,28 C217.31435,28 220,30.6928165 220,34.006875 L220,185.993125 C220,189.31063 217.31743,192 214.001434,192 L5.99856619,192 Z"/>
-    <g transform="translate(12 30)">
-      <g transform="translate(0 10)">
-        <path fill="#1B1B1B" d="M0,120 L20,120 L20,140 L0,140 L0,120 Z M0,90 L20,90 L20,110 L0,110 L0,90 Z M0,60 L20,60 L20,80 L0,80 L0,60 Z M0,30 L20,30 L20,50 L0,50 L0,30 Z M0,0 L20,0 L20,20 L0,20 L0,0 Z"/>
-        <path fill="#000" d="M20,122 L0,122 L0,120 L20,120 L20,122 Z M20,92 L0,92 L0,90 L20,90 L20,92 Z M20,62 L0,62 L0,60 L20,60 L20,62 Z M20,32 L0,32 L0,30 L20,30 L20,32 Z M20,2 L0,2 L0,0 L20,0 L20,2 Z"/>
-        <path fill="#FFF" fill-opacity=".1" d="M20,142 L0,142 L0,140 L20,140 L20,142 Z M20,112 L0,112 L0,110 L20,110 L20,112 Z M20,82 L0,82 L0,80 L20,80 L20,82 Z M20,52 L0,52 L0,50 L20,50 L20,52 Z M20,22 L0,22 L0,20 L20,20 L20,22 Z"/>
+  <g fill="none" fill-rule="evenodd" filter="url(#folder-video-stack-256px-a)" transform="translate(17 45)">
+    <path fill="#262626" stroke="url(#folder-video-stack-256px-b)" stroke-width="2" d="M123.08293,11.8987261 C120.205537,5.28072125 113.67653,1 106.460064,1 L28,1 C13.0883118,1 1,13.0883118 1,28 L1,164 C1,178.911688 13.0883118,191 28,191 L194,191 C208.911688,191 221,178.911688 221,164 L221,51 C221,36.0883118 208.911688,24 194,24 L141.539936,24 C133.527217,24 126.27781,19.2469509 123.08293,11.8987261 Z"/>
+    <use fill="url(#folder-video-stack-256px-c)" xlink:href="#folder-video-stack-256px-d"/>
+    <use fill="#000" filter="url(#folder-video-stack-256px-e)" xlink:href="#folder-video-stack-256px-d"/>
+    <g transform="translate(0 46)">
+      <mask id="folder-video-stack-256px-i" fill="#fff">
+        <use xlink:href="#folder-video-stack-256px-f"/>
+      </mask>
+      <use fill="url(#folder-video-stack-256px-g)" xlink:href="#folder-video-stack-256px-f"/>
+      <use fill="#000" filter="url(#folder-video-stack-256px-h)" xlink:href="#folder-video-stack-256px-f"/>
+      <g mask="url(#folder-video-stack-256px-i)">
+        <g transform="translate(15)">
+          <g transform="translate(0 13)">
+            <use fill="#000" filter="url(#folder-video-stack-256px-j)" xlink:href="#folder-video-stack-256px-k"/>
+            <use fill="#1B1B1B" xlink:href="#folder-video-stack-256px-k"/>
+            <use fill="#000" filter="url(#folder-video-stack-256px-l)" xlink:href="#folder-video-stack-256px-k"/>
+            <use fill="#000" filter="url(#folder-video-stack-256px-m)" xlink:href="#folder-video-stack-256px-n"/>
+            <use fill="#1B1B1B" xlink:href="#folder-video-stack-256px-n"/>
+            <use fill="#000" filter="url(#folder-video-stack-256px-o)" xlink:href="#folder-video-stack-256px-n"/>
+          </g>
+          <rect width="120" height="20" x="36" fill="#000" fill-opacity=".2" rx="2"/>
+          <rect width="120" height="90" x="36" y="28" fill="#000" fill-opacity=".2" rx="2"/>
+          <rect width="120" height="20" x="36" y="126" fill="#000" fill-opacity=".2" rx="2"/>
+          <polygon fill="url(#folder-video-stack-256px-p)" points="116 74 84 96 84 52" filter="url(#folder-video-stack-256px-q)"/>
+          <polygon fill="url(#folder-video-stack-256px-p)" stroke="#FFD400" stroke-width="2" points="116 70 84 92 84 48"/>
+        </g>
       </g>
-      <g transform="translate(176 10)">
-        <path fill="#1B1B1B" d="M0,120 L20,120 L20,140 L0,140 L0,120 Z M0,90 L20,90 L20,110 L0,110 L0,90 Z M0,60 L20,60 L20,80 L0,80 L0,60 Z M0,30 L20,30 L20,50 L0,50 L0,30 Z M0,0 L20,0 L20,20 L0,20 L0,0 Z"/>
-        <path fill="#000" d="M20,122 L0,122 L0,120 L20,120 L20,122 Z M20,92 L0,92 L0,90 L20,90 L20,92 Z M20,62 L0,62 L0,60 L20,60 L20,62 Z M20,32 L0,32 L0,30 L20,30 L20,32 Z M20,2 L0,2 L0,0 L20,0 L20,2 Z"/>
-        <path fill="#FFF" fill-opacity=".1" d="M20,142 L0,142 L0,140 L20,140 L20,142 Z M20,112 L0,112 L0,110 L20,110 L20,112 Z M20,82 L0,82 L0,80 L20,80 L20,82 Z M20,52 L0,52 L0,50 L20,50 L20,52 Z M20,22 L0,22 L0,20 L20,20 L20,22 Z"/>
-      </g>
-      <rect width="132" height="26" x="32" fill="#000" fill-opacity=".2"/>
-      <rect width="132" height="101" x="32" y="30" fill="#000" fill-opacity=".2"/>
-      <rect width="132" height="25" x="32" y="135" fill="#000" fill-opacity=".2"/>
-      <polygon fill="url(#folder-video-stack-d)" points="118 84 86 106 86 62" filter="url(#folder-video-stack-e)"/>
-      <polygon fill="url(#folder-video-stack-d)" stroke="#FFD400" stroke-width="2" points="118 80 86 102 86 58"/>
-    </g>
-    <g transform="translate(0 28)">
-      <path fill="#FFF" fill-opacity=".3" d="M3.48948722e-09,8.00687504 L3.5360283e-09,6.00687504 C3.61322845e-09,2.68936956 2.6825699,-8.8817842e-15 5.99856619,-8.8817842e-15 L214.001434,-8.8817842e-15 C217.31435,-8.8817842e-15 220,2.69281647 220,6.00687504 L220,8.00687504 C220,4.69281647 217.31435,2 214.001434,2 L5.99856619,2 C2.6825699,2 3.61322845e-09,4.68936956 3.5360283e-09,8.00687504 Z"/>
-      <path fill="#FFF" fill-opacity=".06" d="M7.99856619-7.10542736e-15C4.6825699-7.10542736e-15 2 2.68936956 2 6.00687504L2 157.993125C2 161.307184 4.68564956 164 7.99856619 164L5.99856619 164C2.68564956 164-7.76784954e-11 161.307184-5.58564424e-13 157.993125L3.53624347e-9 6.00687504C3.61344361e-9 2.68936956 2.6825699-7.10542736e-15 5.99856619-7.10542736e-15L7.99856619-7.10542736e-15zM212.001434-7.10542736e-15L214.001434-7.10542736e-15C217.31435-7.10542736e-15 220 2.69281647 220 6.00687504L220 157.993125C220 161.31063 217.31743 164 214.001434 164L212.001434 164C215.31743 164 218 161.31063 218 157.993125L218 6.00687504C218 2.69281647 215.31435-7.10542736e-15 212.001434-7.10542736e-15z"/>
-      <path fill="#000" fill-opacity=".3" d="M-6.74249663e-13,155.993125 C-7.77941806e-11,159.307184 2.68564956,162 5.99856619,162 L214.001434,162 C217.31743,162 220,159.31063 220,155.993125 L220,157.993125 C220,161.31063 217.31743,164 214.001434,164 L5.99856619,164 C2.68564956,164 -7.77941806e-11,161.307184 -6.74249663e-13,157.993125 L4.58668293e-11,155.993125 Z"/>
     </g>
   </g>
 </svg>

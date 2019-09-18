@@ -1,34 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>chrome-32px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="49.9991752%" y1="-0.00154750851%" x2="49.9991752%" y2="100.000774%" id="linearGradient-1">
-            <stop stop-color="#F7503B" offset="0%"></stop>
-            <stop stop-color="#F34735" offset="21.74%"></stop>
-            <stop stop-color="#E72F25" offset="57.19%"></stop>
-            <stop stop-color="#D5090D" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="49.9979635%" y1="-0.000919624793%" x2="49.9979635%" y2="100.00092%" id="linearGradient-2">
-            <stop stop-color="#35C230" offset="0%"></stop>
-            <stop stop-color="#34BE30" offset="34.83%"></stop>
-            <stop stop-color="#31B331" offset="68.09%"></stop>
-            <stop stop-color="#2CA032" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="49.99875%" y1="0.00125%" x2="49.99875%" y2="100.00125%" id="linearGradient-3">
-            <stop stop-color="#47BAFF" offset="0%"></stop>
-            <stop stop-color="#3D8BFF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="chrome-32px">
-            <image id="Bitmap" x="1" y="2" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAA1teXP8meAAAAdBJREFUSA29ltlOwzAQRVt2xPIASCAkxP//GbyA2ARlK/eY3GnjNJQ2iS3d2vEyp3M9jToe/a+Nq23005Yj82tte1qONqcJtiEZ3NzRnFnnTC0KAVYB1g5XZ1vPb+a7qwNkSetqmbP/jTb3mYOdJcCu0DlM0zln5k22pk+oYzm2WdGzkDsQiz0MiN2AM7HVQ/BlIWAkuK3mwZYsO9xlHUZkzWC7S7QVz8IaO2P3K8ZYa3ti8VES6m+6ARSrvz1ToIeVrAb8VQBoBKwAR6V5dcAeVhRXid+wc0ks7pjf1pBvLAPdw5oavOvZAj2sAJe2emqL3Q9d3XZ24pfHm9I/LWAzDFhRVBTYjkSpf0hDtAMFJdEXKd0xEMCP0pk0xH0Tk9gwYNUa2R5K11KfLxRiEZPYEddFpbnUXFwXenqWur7DyRTog4TFES8Ha230LmHHpTSR1r1z7vRKupewOKAaz1LnoWrYQRHsS+cSLtxIqRrVL2t72oBjJHUrvUpASSZaeB4zswFr/Fs4lk4kDj5JWIYLdoI9iAyPJM7dSWTJnhpQz6n9BWYD64i7IhMKBCcAufo/NQZAZtQFzjAHcCFU8wutZj5v/gJ5zz4D8j6PUXv+AQPKTCYy2hjvAAAAAElFTkSuQmCC"></image>
-            <path d="M28.6066667,9.83533333 C26.316,5.21133333 21.5426667,2.03 16.024,2.03 C11.1913333,2.03 6.88266667,4.53933333 4.35866667,8.24866667 L10.804,19.262 L28.6066667,9.83533333 L28.6066667,9.83533333 Z" id="path11852" fill="url(#linearGradient-1)"></path>
-            <path d="M15.086,29.9966667 C20.2433333,30.3533333 25.2973333,27.786 28.08,23.0306667 C30.516,18.8673333 30.5446667,13.88 28.606,9.83533333 L15.9353333,9.80866667 L15.086,29.9966667 L15.086,29.9966667 Z" id="path11854" fill="#FFCF00"></path>
-            <path d="M10.804,19.262 L4.35866667,8.24866667 C2.86333333,10.474 1.99066667,13.1506667 1.99066667,16.0306667 C1.99066667,23.4486667 7.774,29.516 15.0866667,29.9966667 L21.6326667,18.844 L10.804,19.262 L10.804,19.262 Z" id="path11865" fill="url(#linearGradient-2)"></path>
-            <path d="M16,22.5 C12.4159,22.5 9.5,19.58345 9.5,15.99935 C9.5,12.41525 12.4159,9.5 16,9.5 C19.58345,9.5 22.5,12.41525 22.5,15.99935 C22.5,19.58345 19.58345,22.5 16,22.5 L16,22.5 Z" id="path11878" fill="#FFFFFF"></path>
-            <circle id="circle11885" fill="url(#linearGradient-3)" cx="16" cy="16" r="5"></circle>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="google-chrome-a" width="126.7%" height="126.7%" x="-13.3%" y="-13.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="google-chrome-b" x1="49.999%" x2="49.999%" y1="-.002%" y2="100.001%">
+      <stop offset="0%" stop-color="#FF624E"/>
+      <stop offset="57.19%" stop-color="#FF264F"/>
+      <stop offset="100%" stop-color="#E701B1"/>
+    </linearGradient>
+    <linearGradient id="google-chrome-c" x1="50%" x2="29.721%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFD000"/>
+      <stop offset="100%" stop-color="#A1EC00"/>
+    </linearGradient>
+    <linearGradient id="google-chrome-d" x1="49.998%" x2="49.998%" y1="-.001%" y2="100.001%">
+      <stop offset="0%" stop-color="#8FE820"/>
+      <stop offset="100%" stop-color="#009986"/>
+    </linearGradient>
+    <linearGradient id="google-chrome-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FCFCFC"/>
+      <stop offset="100%" stop-color="#C0FF89"/>
+    </linearGradient>
+    <linearGradient id="google-chrome-h" x1="48.272%" x2="45.602%" y1="0%" y2="104.425%">
+      <stop offset="0%" stop-color="#07C1FF"/>
+      <stop offset="100%" stop-color="#0038FB"/>
+    </linearGradient>
+    <circle id="google-chrome-g" cx="15.067" cy="14.933" r="5.3"/>
+    <filter id="google-chrome-f" width="137.7%" height="137.7%" x="-18.9%" y="-9.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0689125446   0 0 0 0 0.441933305   0 0 0 0 0.788318452  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#google-chrome-a)" transform="translate(1 1)">
+    <path fill="url(#google-chrome-b)" d="M28.5137778,8.35768889 C26.0704,3.42542222 20.9788444,0.032 15.0922667,0.032 C9.93742222,0.032 5.34151111,2.70862222 2.64924444,6.66524444 L9.52426667,18.4128 L28.5137778,8.35768889 L28.5137778,8.35768889 Z"/>
+    <path fill="url(#google-chrome-c)" d="M14.0917333,29.8631111 C19.5928889,30.2435556 24.9838222,27.5050667 27.952,22.4327111 C30.5504,17.9918222 30.5809778,12.672 28.5130667,8.35768889 L14.9976889,8.32924444 L14.0917333,29.8631111 L14.0917333,29.8631111 Z"/>
+    <path fill="url(#google-chrome-d)" d="M9.52426667,18.4128 L2.64924444,6.66524444 C1.05422222,9.03893333 0.123377778,11.8940444 0.123377778,14.9660444 C0.123377778,22.8785778 6.29226667,29.3504 14.0924444,29.8631111 L21.0748444,17.9669333 L9.52426667,18.4128 L9.52426667,18.4128 Z"/>
+    <path fill="url(#google-chrome-e)" d="M15.0666667,21.8666667 C11.2436267,21.8666667 8.13333333,18.75568 8.13333333,14.93264 C8.13333333,11.1096 11.2436267,8 15.0666667,8 C18.8890133,8 22,11.1096 22,14.93264 C22,18.75568 18.8890133,21.8666667 15.0666667,21.8666667 L15.0666667,21.8666667 Z"/>
+    <use fill="#000" filter="url(#google-chrome-f)" xlink:href="#google-chrome-g"/>
+    <use fill="url(#google-chrome-h)" xlink:href="#google-chrome-g"/>
+  </g>
 </svg>

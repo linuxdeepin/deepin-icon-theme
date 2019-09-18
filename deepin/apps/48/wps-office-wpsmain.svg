@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>wps-office-wpsmain</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50.0005263%" y1="0.348205128%" x2="50.0005263%" y2="97.3869566%" id="linearGradient-1">
-            <stop stop-color="#535CFF" offset="0%"></stop>
-            <stop stop-color="#3F4CFF" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50.0009126%" y1="2.32187651%" x2="50.0009126%" y2="96.4424467%" id="linearGradient-2">
-            <stop stop-color="#A2BAFF" offset="0%"></stop>
-            <stop stop-color="#93BDFF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="wps-office-wpsmain">
-            <image id="Bitmap" x="2" y="3" width="44" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAUFJREFUWAntmctuwkAMRZNCC4IN/f+/ZMGi5XWPiaVgWBpNRrKli8dR5FyOPJuZcRiGUSLIvrYHDX5u+iYiPD+q6Xc95ZXyr/Q91a3Svz58lMjEi2mMfkkbaS+1DvxspYt0fWfGDfPSz7sXGjxjLAFIPktPlN0wLyzFsKyYWfwwsowHpm1/zQ23nl95egkMAxPSNiLM79ID0wcJuLbhyEsPzDIiYw+EHSamuzJsm64nwt0ZttHoiXAZ9t380Vwj8VG8al6Ei3AgUCMRgKSXRTgdaWhYhAOQ9LIIpyMNDYtwAJJeFuF0pKFhEQ5A0ssinI40NCzCAUh62S3hp3uEdCw5Dc2jE6bwdU773C54M8Mcx7PgDoHLj51kR/PKSwmuwE6S3Shx5or8SJ4/4M+0bB7AdKB/Wl/m5ubr5k6DATc+3AHdhyHOdv742QAAAABJRU5ErkJggg=="></image>
-            <path d="M5,4 L36.8645964,4 L36.8645964,4 C37.0936578,4 37.315776,4.07863901 37.49381,4.22276756 L43.6292136,9.1897234 L43.6292136,9.1897234 C43.863744,9.37958903 44,9.66520516 44,9.96695585 L44,43 L44,43 C44,43.5522847 43.5522847,44 43,44 L5,44 L5,44 C4.44771525,44 4,43.5522847 4,43 L4,5 L4,5 C4,4.44771525 4.44771525,4 5,4 Z" id="Rectangle-118" fill="url(#linearGradient-1)"></path>
-            <g id="Group" transform="translate(12.000000, 12.000000)" fill-rule="nonzero">
-                <path d="M11.2758932,9.73310678 L1.025,19.984 L5.974,23.933 L11.2758932,18.6311068 L11.2758932,18.6311068 C11.6664175,18.2405825 12.2995825,18.2405825 12.6901068,18.6311068 L17.992,23.933 L22.941,19.984 L12.6901068,9.73310678 L12.6901068,9.73310678 C12.2995825,9.34258249 11.6664175,9.34258249 11.2758932,9.73310678 Z" id="Shape" fill="url(#linearGradient-2)"></path>
-                <path d="M1,4.6498043e-16 L5,4.6498043e-16 L5,4.4408921e-16 C5.55228475,3.42634992e-16 6,0.44771525 6,1 L6,24 L1,24 L1,24 C0.44771525,24 6.76353751e-17,23.5522847 0,23 L0,1 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01454218e-16 1,0 L1,4.6498043e-16 Z M19,-4.55538724e-14 L23,-4.55538724e-14 L23,-4.5519144e-14 C23.5522847,-4.61111252e-14 24,0.44771525 24,1 L24,23 C24,23.5522847 23.5522847,24 23,24 L18,24 L18,1 L18,1 C18,0.44771525 18.4477153,-4.60838236e-14 19,-4.61852778e-14 L19,-4.55538724e-14 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-            </g>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="wps-office-wpsmain-a" width="132.5%" height="132.5%" x="-16.2%" y="-16.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="wps-office-wpsmain-b" x1="50.001%" x2="50.001%" y1=".348%" y2="103.831%">
+      <stop offset="0%" stop-color="#4982FF"/>
+      <stop offset="100%" stop-color="#5600FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#wps-office-wpsmain-a)" transform="translate(4 4)">
+    <path fill="url(#wps-office-wpsmain-b)" d="M6,0 L31.0943902,0 C32.4687587,9.68216996e-16 33.801468,0.471834053 34.8696717,1.33660533 L37.7752815,3.68886061 C39.182464,4.8280544 40,6.54175115 40,8.35225528 L40,34 C40,37.3137085 37.3137085,40 34,40 L6,40 C2.6862915,40 4.05812251e-16,37.3137085 0,34 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z"/>
+    <g fill="#FFF" fill-rule="nonzero" transform="translate(8 8)">
+      <path d="M6.21190143,15.4136443 L1.025,20.8166667 L1.025,20.8166667 L5.974,24.9302083 L9.09745072,21.6766138 C10.6273498,20.082969 13.1594824,20.0312928 14.7531273,21.5611919 C14.7923824,21.5988767 14.8308644,21.6373588 14.8685493,21.6766138 L17.992,24.9302083 L17.992,24.9302083 L22.941,20.8166667 L17.7540986,15.4136443 C14.6943004,12.2263546 9.6300351,12.1230023 6.44274537,15.1828004 C6.3642352,15.2581702 6.2872712,15.3351342 6.21190143,15.4136443 Z" opacity=".6"/>
+      <path d="M3,-5.68449356e-05 C4.65685425,-5.68449356e-05 6,1.34308891 6,2.99994316 L6,25 C2.6862915,25 4.05812251e-16,22.3137085 0,19 L0,2.99994316 C-2.02906125e-16,1.34308891 1.34314575,-5.68449356e-05 3,-5.68449356e-05 Z M21,-5.68449356e-05 C22.6568542,-5.68449356e-05 24,1.34308891 24,2.99994316 L24,19 C24,22.2383969 21.4344251,24.8775718 18.2249383,24.9958615 L18,25 L18,2.99994316 C18,1.34308891 19.3431458,-5.68449356e-05 21,-5.68449356e-05 Z"/>
     </g>
+  </g>
 </svg>

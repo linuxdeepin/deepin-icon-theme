@@ -1,17 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
-    <title>text-x-c++</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="text-x-c++">
-            <image id="Bitmap" x="6" y="4" width="36" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAArCAYAAAAQVipNAAAABGdBTUEAA1teXP8meAAAAS5JREFUWAntmNsOgkAMRMFbvMT//08fTNAQnKnUwAsDctl9aJNBsGw5zC4ktCyKooQY/PV9+2OhTYM6Llny0J6xbwfVcsT0E46d2gQbjB2ydOUErQHDi78h3jAlZ8CB3CmMWSUqVB0FRSCGJP+eNms7CmpLIN6NhHKgWbc+cfAgVAqgrlNcu73lkgrIoXj9HlRKIIeiQz+o1ECEekGEsvdUDkAOxTd6mQsQoWzacgIylpyA7PHPCYjTVgSQ2TCwCYcGzLFUOBQOKQdUPtZQOKQcUPlYQ+GQckDlYw2FQ8oBlY81NNYh2YxUhRbIG4NPGQ8uCxT9t8QNAw2IX4uEOkN36AqxC7FlsPv7hB5QRSBvhbA17H0a+6zF8dpBVyi2jqnagbBvYFuB8HrdcLDmA609I3uLKTjDAAAAAElFTkSuQmCC"></image>
-            <path d="M39.000999,44 L9,44 C8.37662338,44 8,43.524 8,43 L8,6 C8,5.42 8.37662338,5 9,5 L30.00999,5 L40,15 L40,43 C39.968032,44 39.000999,44 39.000999,44 Z" id="path14361" fill="#68A52E"></path>
-            <path d="M16.7,20.38 C15.16,20.38 13.94,20.92 13.06,22.02 C12.24,23.02 11.84,24.3 11.84,25.88 C11.84,27.46 12.24,28.74 13.06,29.72 C13.92,30.76 15.12,31.28 16.68,31.28 C17.96,31.28 18.98,30.94 19.76,30.28 C20.56,29.6 21.06,28.58 21.3,27.26 L19.7,27.26 C19.46,29.04 18.44,29.94 16.68,29.94 C15.64,29.94 14.84,29.56 14.3,28.84 C13.74,28.12 13.48,27.12 13.48,25.86 C13.48,24.6 13.76,23.6 14.32,22.86 C14.9,22.1 15.7,21.72 16.7,21.72 C17.52,21.72 18.18,21.9 18.7,22.3 C19.2,22.7 19.52,23.3 19.66,24.1 L21.24,24.1 C21.06,22.84 20.58,21.9 19.78,21.28 C19,20.68 17.98,20.38 16.7,20.38 L16.7,20.38 Z" id="c" fill="#F2F2F2"></path>
-            <path d="M30.929,15.028 C30.377,15.028 30,14.552 30,14 L30,5 L40,15 L30.929,15.028 Z" id="path14363" fill="#8FE042"></path>
-            <polygon id="Combined-Shape" fill="#FFFFFF" points="25 26 23 26 23 27 25 27 25 29 26 29 26 27 28 27 28 26 26 26 26 24 25 24"></polygon>
-            <polygon id="Combined-Shape" fill="#FFFFFF" points="32 26 30 26 30 27 32 27 32 29 33 29 33 27 35 27 35 26 33 26 33 24 32 24"></polygon>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="text-x-c++-c" x1="50%" x2="50%" y1="0%" y2="98.501%">
+      <stop offset="0%" stop-color="#7FCB10"/>
+      <stop offset="100%" stop-color="#50A100"/>
+    </linearGradient>
+    <path id="text-x-c++-b" d="M21,0 L32,11 L32,34.5 C32,36.9852814 29.9852814,39 27.5,39 L4.5,39 C2.01471863,39 3.04359188e-16,36.9852814 0,34.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,2.23289562e-15 4.5,1.77635684e-15 L21,0 Z"/>
+    <filter id="text-x-c++-a" width="131.2%" height="125.6%" x="-15.6%" y="-10.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.46370117   0 0 0 0 0.679376132   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="text-x-c++-f" x1="50%" x2="12.223%" y1="50%" y2="88.513%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-x-c++-e" d="M21,0 L32,11 L25.5,11 C23.0147186,11 21,8.98528137 21,6.5 L21,0 Z"/>
+    <filter id="text-x-c++-d" width="163.6%" height="163.6%" x="-31.8%" y="-22.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8 5)">
+      <use fill="#000" filter="url(#text-x-c++-a)" xlink:href="#text-x-c++-b"/>
+      <use fill="url(#text-x-c++-c)" xlink:href="#text-x-c++-b"/>
+      <use fill="#000" filter="url(#text-x-c++-d)" xlink:href="#text-x-c++-e"/>
+      <use fill="url(#text-x-c++-f)" xlink:href="#text-x-c++-e"/>
     </g>
+    <path fill="#FFF" d="M16.7,20.38 C17.98,20.38 19,20.68 19.78,21.28 C20.58,21.9 21.06,22.84 21.24,24.1 L19.66,24.1 C19.52,23.3 19.2,22.7 18.7,22.3 C18.18,21.9 17.52,21.72 16.7,21.72 C15.7,21.72 14.9,22.1 14.32,22.86 C13.76,23.6 13.48,24.6 13.48,25.86 C13.48,27.12 13.74,28.12 14.3,28.84 C14.84,29.56 15.64,29.94 16.68,29.94 C18.44,29.94 19.46,29.04 19.7,27.26 L21.3,27.26 C21.06,28.58 20.56,29.6 19.76,30.28 C18.98,30.94 17.96,31.28 16.68,31.28 C15.12,31.28 13.92,30.76 13.06,29.72 C12.24,28.74 11.84,27.46 11.84,25.88 C11.84,24.3 12.24,23.02 13.06,22.02 C13.94,20.92 15.16,20.38 16.7,20.38 Z M25,26 L25,24 L26,24 L26,26 L28,26 L28,27 L26,27 L26,29 L25,29 L25,27 L23,27 L23,26 L25,26 Z M32,26 L32,24 L33,24 L33,26 L35,26 L35,27 L33,27 L33,29 L32,29 L32,27 L30,27 L30,26 L32,26 Z"/>
+  </g>
 </svg>

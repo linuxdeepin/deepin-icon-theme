@@ -1,32 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>深度商店-256px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFBE3F" offset="0%"></stop>
-            <stop stop-color="#FF7702" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#FF9B27" offset="0%"></stop>
-            <stop stop-color="#FF5400" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="深度商店-256px">
-            <image id="Bitmap" x="18" y="35" width="220" height="220" xlink:href="data:image/png;base64,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"></image>
-            <path d="M32,47.9952465 C32,45.236448 34.2393978,43 37.000063,43 L218.999937,43 C221.761396,43 224,45.23813 224,47.9952465 L224,101 L32,101 L32,47.9952465 Z" id="Rectangle-124" fill="#FFFFFF"></path>
-            <path d="M32,49.9953151 C32,47.2364787 34.2393978,45 37.000063,45 L218.999937,45 C221.761396,45 224,47.2402674 224,49.9953151 L224,109 L32,109 L32,49.9953151 Z" id="Rectangle-124" fill="#EFEFEF"></path>
-            <path d="M32,230.001908 L32,96 L224,96 C224,96 224,225 224,230 C224,235 219.001196,234.996942 219.001196,234.996942 C219.001196,234.996942 42.1523437,234.884552 37.0761719,235 C32,235.115448 32,230.001908 32,230.001908 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
-            <path d="M32,228.003784 L32,98 L224,98 L224,228 C224,233 218.999102,233 218.999102,233 C218.999102,233 42.074707,233 37.0373535,233 C32,233 32,228.003784 32,228.003784 Z" id="Rectangle" fill="#FFA737"></path>
-            <path d="M197.666667,96 L197.666667,235 L169.666667,235 L169.666667,96 L197.666667,96 Z M143,96 L143,235 L115,235 L115,96 L143,96 Z M88,96 L88,235 L60,235 L60,96 L88,96 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
-            <path d="M198,98 L198,233 L170,233 L170,98 L198,98 Z M143,98 L143,233 L115,233 L115,98 L143,98 Z M88,98 L88,233 L60,233 L60,98 L88,98 Z" id="Combined-Shape" fill="#FF7300"></path>
-            <path d="M81,74 C81,69.0294373 76.9705627,65 72,65 C67.0294373,65 63,69.0294373 63,74 C63,78.9705627 67.0294373,83 72,83 C76.9705627,83 81,78.9705627 81,74 Z M193,74 C193,69.0294373 188.970563,65 184,65 C179.029437,65 175,69.0294373 175,74 C175,78.9705627 179.029437,83 184,83 C188.970563,83 193,78.9705627 193,74 Z" id="Combined-Shape" fill="#D6D6D6"></path>
-            <path d="M81,72 C81,67.0294373 76.9705627,63 72,63 C67.0294373,63 63,67.0294373 63,72 C63,76.9705627 67.0294373,81 72,81 C76.9705627,81 81,76.9705627 81,72 Z M193,72 C193,67.0294373 188.970563,63 184,63 C179.029437,63 175,67.0294373 175,72 C175,76.9705627 179.029437,81 184,81 C188.970563,81 193,76.9705627 193,72 Z" id="Combined-Shape" fill="#A5988E"></path>
-            <path d="M79,72 C79,68.1340068 75.8659932,65 72,65 C68.1340068,65 65,68.1340068 65,72 C65,75.8659932 68.1340068,79 72,79 C75.8659932,79 79,75.8659932 79,72 Z M191,72 C191,68.1340068 187.865993,65 184,65 C180.134007,65 177,68.1340068 177,72 C177,75.8659932 180.134007,79 184,79 C187.865993,79 191,75.8659932 191,72 Z" id="Combined-Shape" fill="#4F3826"></path>
-            <path d="M184,148 C184,112.653776 167.5,78.6666667 128,78.6666667 C88.5,78.6666667 72,112.653776 72,148" id="Oval-27" stroke="#000000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="0.100000001" transform="translate(128.000000, 113.333333) scale(1, -1) translate(-128.000000, -113.333333) "></path>
-            <path d="M184,141 C184,105.653776 167.5,71.6666667 128,71.6666667 C88.5,71.6666667 72,105.653776 72,141" id="Oval-27" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" transform="translate(128.000000, 106.333333) scale(1, -1) translate(-128.000000, -106.333333) "></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <filter id="deepin-appstore-a" width="124.3%" height="124.3%" x="-12.2%" y="-12.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-appstore-b" x1="50%" x2="50%" y1="12.873%" y2="100%">
+      <stop offset="0%" stop-color="#F8F8F8"/>
+      <stop offset="100%" stop-color="#FFE4C5"/>
+    </linearGradient>
+    <radialGradient id="deepin-appstore-c" cx="50%" cy="0%" r="100%" fx="50%" fy="0%" gradientTransform="matrix(0 1 -.6937 0 .5 -.5)">
+      <stop offset="0%" stop-color="#FFB558"/>
+      <stop offset="100%" stop-color="#FF631C"/>
+    </radialGradient>
+    <linearGradient id="deepin-appstore-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F80"/>
+      <stop offset="100%" stop-color="#FF3F00"/>
+    </linearGradient>
+    <linearGradient id="deepin-appstore-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFEBEB"/>
+      <stop offset="2.077%" stop-color="#FFF"/>
+      <stop offset="6.675%" stop-color="#FFEAEA"/>
+      <stop offset="100%" stop-color="#FFD2D2"/>
+    </linearGradient>
+    <path id="deepin-appstore-f" d="M176.875184,35.2883015 C176.875184,33.0888944 178.658155,31.3059227 180.857562,31.3059227 C183.05697,31.3059227 184.839941,33.0888944 184.839941,35.2883015 C184.839941,59.167253 179.969025,79.8966563 169.728271,95.1574139 C157.762377,112.988974 138.97032,122.679393 113.488987,122.679393 C88.007654,122.679393 69.2155966,112.988974 57.2497024,95.1574139 C47.0089489,79.8966563 42.1380323,59.167253 42.1380323,35.2883015 C42.1380323,33.0888944 43.9210041,31.3059227 46.1204112,31.3059227 C48.3198183,31.3059227 50.10279,33.0888944 50.10279,35.2883015 C50.10279,57.7176955 54.6210992,76.9464902 63.8633666,90.7193049 C74.3266056,106.31161 90.6220961,114.714635 113.488987,114.714635 C136.355877,114.714635 152.651368,106.31161 163.114607,90.7193049 C172.356874,76.9464902 176.875184,57.7176955 176.875184,35.2883015 Z"/>
+    <filter id="deepin-appstore-e" width="116.8%" height="126.3%" x="-8.4%" y="-6.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.788235294   0 0 0 0 0.290196078   0 0 0 0 0  0 0 0 0.4 0"/>
+    </filter>
+    <filter id="deepin-appstore-h" width="111.9%" height="118.6%" x="-6%" y="-2.7%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1"/>
+      <feOffset dy="-2" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 0.568627451   0 0 0 0 0.243137255  0 0 0 0.501217165 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation="1.5"/>
+      <feOffset dy="2" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" filter="url(#deepin-appstore-a)" transform="translate(17 17)">
+    <path fill="url(#deepin-appstore-b)" d="M31.8590308,0 L190.140969,0 C207.736226,-6.78490993e-15 222,14.263774 222,31.8590308 L222,68 L222,68 L0,68 L0,31.8590308 C-2.1547975e-15,14.263774 14.263774,-3.20517427e-16 31.8590308,0 Z M45,44 C49.7467051,44 54,39.5228475 54,34 C54,28.4771525 49.7467051,24 45,24 C39.2532949,24 35,28.4771525 35,34 C35,39.5228475 39.2532949,44 45,44 Z M178,44 C182.746705,44 187,39.5228475 187,34 C187,28.4771525 182.746705,24 178,24 C172.253295,24 168,28.4771525 168,34 C168,39.5228475 172.253295,44 178,44 Z"/>
+    <path fill="url(#deepin-appstore-c)" d="M0,68 L222,68 L222,190.140969 C222,207.736226 207.736226,222 190.140969,222 L31.8590308,222 C14.263774,222 2.06268023e-14,207.736226 0,190.140969 L0,68 L0,68 Z"/>
+    <path fill="url(#deepin-appstore-d)" d="M192,68 L192,222 L160,222 L160,68 L192,68 Z M129,68 L129,222 L94,222 L94,68 L129,68 Z M62,68 L62,222 L30,222 L30,68 L62,68 Z"/>
+    <use fill="#000" filter="url(#deepin-appstore-e)" xlink:href="#deepin-appstore-f"/>
+    <use fill="url(#deepin-appstore-g)" xlink:href="#deepin-appstore-f"/>
+    <use fill="#000" filter="url(#deepin-appstore-h)" xlink:href="#deepin-appstore-f"/>
+  </g>
 </svg>

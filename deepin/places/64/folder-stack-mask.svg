@@ -1,9 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#000" fill-opacity=".5" stroke="#FFF" stroke-opacity=".4" d="M8.49999999,17.4952273 L8.49999999,19.5 L6.50062916,19.5 C5.94240756,19.5 5.5,19.9425079 5.5,20.4950437 L5.5,57.5049563 C5.5,58.0491793 5.95081003,58.5 6.50062916,58.5 L57.4993708,58.5 C58.0575924,58.5 58.5,58.0574921 58.5,57.5049563 L58.5,20.4950437 C58.5,19.9508207 58.04919,19.5 57.4993708,19.5 L55.5,19.5 L55.5,17.4952273 C55.5,16.9510274 55.0484842,16.5 54.497526,16.5 L52.5419815,16.5 L52.5114874,12.5064765 C52.5072202,11.9476427 52.0586252,11.5 51.5087337,11.5 L40.4937416,11.5 C40.3563477,11.5 40.1024775,11.6046299 40.0051806,11.7019268 L38.7019274,13.0051799 C38.4164925,13.2906149 37.9121516,13.4999999 37.5083167,13.4999999 L12.4900966,13.4999999 C11.9431556,13.4999999 11.4923962,13.9521797 11.4879236,14.5110858 L11.4720073,16.5 L9.50247396,16.5 C8.95182178,16.5 8.49999999,16.948434 8.49999999,17.4952273 Z"/>
-    <g transform="translate(22 27)">
-      <circle cx="10" cy="10" r="11" fill="#000" fill-opacity=".4" stroke="#FFF" stroke-opacity=".5" stroke-width="2"/>
-      <path fill="#FFF" d="M8,4.99999999 L8,11 L14,11 L14,13 L6,13 L6,4.99999999 L8,4.99999999 Z" transform="rotate(-45 10 9)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="folder-stack-mask-a" width="128.6%" height="133.3%" x="-14.3%" y="-16.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="folder-stack-mask-b" d="M31.2792793,3 L31.2792793,3 C32.0434808,4.81770784 33.8230705,6 35.7948884,6 L49,6 C52.8659932,6 56,9.13400675 56,13 L56,41 C56,44.8659932 52.8659932,48 49,48 L7,48 C3.13400675,48 4.73447626e-16,44.8659932 0,41 L-1.77635684e-15,7 C-2.24980447e-15,3.13400675 3.13400675,-2.68233596e-14 7,-2.7533531e-14 L26.7636702,-1.77635684e-14 C28.735488,-1.81257855e-14 30.5150778,1.18229216 31.2792793,3 Z"/>
+    <filter id="folder-stack-mask-c" width="101.8%" height="102.1%" x="-.9%" y="-1%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.4 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#folder-stack-mask-a)" transform="translate(4 11)">
+    <mask id="folder-stack-mask-d" fill="#fff">
+      <use xlink:href="#folder-stack-mask-b"/>
+    </mask>
+    <use fill="#000" fill-opacity=".5" xlink:href="#folder-stack-mask-b"/>
+    <use fill="#000" filter="url(#folder-stack-mask-c)" xlink:href="#folder-stack-mask-b"/>
+    <g mask="url(#folder-stack-mask-d)">
+      <g transform="translate(18 16)">
+        <circle cx="10" cy="10" r="11" fill="#000" fill-opacity=".4" stroke="#FFF" stroke-opacity=".5" stroke-width="2"/>
+        <path fill="#FFF" d="M8,4.99999999 L8,11 L14,11 L14,13 L6,13 L6,4.99999999 L8,4.99999999 Z" transform="rotate(-45 10 9)"/>
+      </g>
     </g>
   </g>
 </svg>

@@ -1,29 +1,128 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>folder-documents-96px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#99D5FC" offset="0%"></stop>
-            <stop stop-color="#50B4F7" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="57.1541174%" y1="0%" x2="57.154119%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#6AC4FF" offset="0%"></stop>
-            <stop stop-color="#6CCDFC" offset="96.2651467%"></stop>
-            <stop stop-color="#6AC4FF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-documents-96px">
-            <image id="Bitmap" x="2" y="14" width="92" height="82" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABSCAYAAADZ5bMoAAAABGdBTUEAA1teXP8meAAABA5JREFUeAHt3cly2zAQhGE72zXHvP9Tpiqbgx9RKyMurc2TOHGjCgKIAYfUR5DyiX58+H/L45mvdi5ed3+qG4u+iy2mPjxcc9DVzi94oH4v9dVy2rV/6deosOqrJUft7+a85cC7yV5IQN+JdqtymppzzSkDuleV5yz6LQd2+7iYTupPtJyH6pvR/zHqt1HPgow55wp53x0mkVcXgaGz+bXjYX/bVEz11bJj7dtEzUHOQ/Xt6AP99RmPCer3UT8ccoJOOYvNpEvBK6a+zFZLzr9d6nkB/aXhhEDGTqv7ImzO41Jw5lL0ZbhNKc91m/7K9m99cvcAT8XlInTBjfm7hWQUWuZzIC4Ut9VFBxnz/seCAx4y1GK031WTtybVBOpXcD27tvZ9DWMVvDrKatOgTqwT2EmFvqC1uvWDoTmvseUuX6Iv3VYudUINapyWSmJafoRe+8oeBCeFxfh+VB6veszqUav2uAOQtQiYMfp1ZfNrH2xkTguo1K27vnrOvfRXCgEVTRI4c6ifNSHtSoCFKEv+cqPoQtDK94lJ2mCSsFnZWt3M4ZZJ8QLViEcLF0FPBNApjwKeGwyMCjQtz2tNHN2UKwTw03MddK3244+h4LWqg32F7s5UkOuqn9MAVtHq5hGiW0GxtNcLYIilnhgzg8C1wvmrZfmXy5yYj5sE5Cnfqa9MGgy4RO5vsZTrzKYVzgYBtusY4ym3C8gT21kY0BXQoNrDlDR3CMjyaLxczQrccYzsWgRWnkvwMjfdDoGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianEvw4xskzT4JXS6w8gRcg7QU2rxKb1Lc9YFhNZ3OdYUzwNskqR9H5a2SKbcJYIehPAV/gjqvwJikf5nyafTZcfU6zzGWshbQguV11lTet06V6+j+XsUaBJtVz8t+KVwhdmZM7+Ab3ZQNAYHLDEM8qfJdrXBNJh+TdAFW799jQsqJgFAxFDSLlW1is+g5rQGCFLaFr+d8Vvik2f2ohvRBx1DgM75cudreanePlMBRANS9Oidp1aplUH21dWzulI9dgbmKD1H11TL8VFEZWG4zpuJimvOa2wq7dDjGfgKj454lDzyVhQAAAABJRU5ErkJggg=="></image>
-            <path d="M78.009205,17 C79.1086907,17 80,17.8941241 80,18.998668 L80,82 C80,83.1153237 79.0904928,84 78,84 L18,84 C16.8949672,84 16,83.1344135 16,82 L16,21.99263 C16,20.8921307 16.8944731,19.9999998 18.0052699,19.9999998 L56.0068273,19.9999999 C56.555342,19.9999999 57.3210535,19.6789473 57.7109591,19.2890418 L59.2890428,17.7109581 C59.6816942,17.3183068 60.4553065,17 60.991804,17 L78.009205,17 Z" id="Combined-Shape" fill="#82CEFF"></path>
-            <path d="M77.9943894,18 C79.1020576,18 80,18.9044488 80,20.0026891 L80,81.980526 L16,81.980526 L16,22.9942613 C16,21.8928611 16.8913231,20.9999998 17.9996239,20.9999998 L56.7591517,20.9999998 C57.3063826,20.9999998 58.0710535,20.6789473 58.4609591,20.2890418 L60.0390428,18.7109581 C60.4316942,18.3183068 61.1882325,18 61.7578612,18 L77.9943894,18 Z" id="Combined-Shape" fill="#6AC4FF"></path>
-            <path d="M12,84.0073698 L12,25.9965526 C12,24.893887 12.8973133,24 14.0008389,24 L81.9991611,24 C83.1041939,24 84,24.8948403 84,25.9965526 L84,84.0073698 L12,84.0073698 Z" id="Rectangle-279" fill="#FFFFFF"></path>
-            <path d="M12,83 L12,26.9964913 C12,25.8938596 12.8973133,25 14.0008389,25 L81.9991611,25 C83.1041939,25 84,25.8878321 84,26.9964913 L84,83 L12,83 Z" id="Rectangle-279" fill="#EDF5F6"></path>
-            <path d="M9.00661467,89 C7.89839199,89 7,88.1141708 7,87.0051016 L7,29.9948984 C7,28.8931464 7.8929514,28 9.00661468,28 L86.9933853,28 C88.101608,28 89,28.8858292 89,29.9948984 L89,87.0051016 C89,88.1068536 88.1070486,89 86.9933853,89 L9.00661467,89 Z" id="Rectangle-279" fill="url(#linearGradient-1)"></path>
-            <path d="M9.00661467,88 C7.89839199,88 7,87.0968604 7,86.003157 L7,30.996843 C7,29.8940171 7.8929514,29 9.00661468,29 L86.9933853,29 C88.101608,29 89,29.9031396 89,30.996843 L89,86.003157 C89,87.1059829 88.1070486,88 86.9933853,88 L9.00661467,88 Z" id="Rectangle-279" fill="url(#linearGradient-2)"></path>
-            <path d="M52,49 C52,49.5197668 52.4872009,50 53,50 L60,50.0000002 C60.5,50.0000002 61.5,49.5000002 60.5,48.5000002 L52.9999999,41.5 C52.5,41 52,41.1615508 52,42 L52,49 Z M35.9285049,72 L60.0696336,72 C60.5824327,72 60.9981386,71.5786458 60.9981386,71.058879 L60.9981384,53.0000003 C60.9981384,52.4802336 60.5127991,52.0000003 60,52.0000003 L51.999615,52.0000003 C50.8952581,52.0000003 50,51.1075093 50,50.0010379 L50,41.9430077 C50,41.4232409 49.5127991,41.0018867 49,41.0018867 L35.9285049,41.0018867 C35.4157058,41.0018867 35,41.4232409 35,41.9430077 L35,71.058879 C35,71.5786458 35.4157058,72 35.9285049,72 Z M39,66 C39,65.4477153 39.5192928,65 40.1259806,65 L55.8740194,65 C56.4958813,65 57,65.4638672 57,66 C57,66.5522847 56.4807072,67 55.8740194,67 L40.1259806,67 C39.5041187,67 39,66.5361328 39,66 L39,66 Z M39,62 C39,61.4477153 39.5192928,61 40.1259806,61 L55.8740194,61 C56.4958813,61 57,61.4638672 57,62 C57,62.5522847 56.4807072,63 55.8740194,63 L40.1259806,63 C39.5041187,63 39,62.5361328 39,62 L39,62 Z M39,58 C39,57.4477153 39.5192928,57 40.1259806,57 L55.8740194,57 C56.4958813,57 57,57.4638672 57,58 C57,58.5522847 56.4807072,59 55.8740194,59 L40.1259806,59 C39.5041187,59 39,58.5361328 39,58 L39,58 Z" id="Combined-Shape" fill="#3AB0FC"></path>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="folder-documents-96px-a" width="129.3%" height="133.8%" x="-14.6%" y="-16.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="folder-documents-96px-c" x1="50%" x2="50%" y1="0%" y2="37.968%">
+      <stop offset="0%" stop-color="#00B8FF"/>
+      <stop offset="100%" stop-color="#2E5DFF"/>
+    </linearGradient>
+    <path id="folder-documents-96px-b" d="M46,4.5 L46,4.5 C47.2162027,7.23645617 49.9298769,9 52.9244289,9 L71.6576577,9 C77.3695756,9 82,13.6304244 82,19.3423423 L82,60.6576577 C82,66.3695756 77.3695756,71 71.6576577,71 L10.3423423,71 C4.63042439,71 -4.37094128e-14,66.3695756 -4.4408921e-14,60.6576577 L-4.26325641e-14,10.3423423 C-4.33320723e-14,4.63042439 4.63042439,-2.38197334e-14 10.3423423,-2.48689958e-14 L39.0755711,-2.7533531e-14 C42.0701231,-2.80836213e-14 44.7837973,1.76354383 46,4.5 Z"/>
+    <linearGradient id="folder-documents-96px-g" x1="50%" x2="50%" y1="0%" y2="11.796%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#CEF5FF"/>
+    </linearGradient>
+    <rect id="folder-documents-96px-f" width="74" height="31" x="4" y="12" rx="6.649"/>
+    <filter id="folder-documents-96px-e" width="108.1%" height="119.4%" x="-4.1%" y="-9.7%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="folder-documents-96px-h" width="106.8%" height="116.1%" x="-3.4%" y="-8.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="folder-documents-96px-i" cx="50%" cy="0%" r="117.588%" fx="50%" fy="0%" gradientTransform="matrix(.06172 .9956 -.65551 .09375 .47 -.498)">
+      <stop offset="0%" stop-color="#48D5FF"/>
+      <stop offset="100%" stop-color="#0083F6"/>
+    </radialGradient>
+    <linearGradient id="folder-documents-96px-l" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".6"/>
+    </linearGradient>
+    <path id="folder-documents-96px-k" d="M3,0.955752212 L27,0.955752212 C28.6568542,0.955752212 30,2.29889796 30,3.95575221 L30,34.9557522 C30,36.6126065 28.6568542,37.9557522 27,37.9557522 L3,37.9557522 C1.34314575,37.9557522 -4.54544445e-13,36.6126065 -4.54747351e-13,34.9557522 L-4.54747351e-13,3.95575221 C-4.54950257e-13,2.29889796 1.34314575,0.955752212 3,0.955752212 Z M18,5.95575221 L18,6.95575221 L28,6.95575221 L28,5.95575221 L18,5.95575221 Z M18,8.95575221 L18,9.95575221 L28,9.95575221 L28,8.95575221 L18,8.95575221 Z M18,11.9557522 L18,12.9557522 L28,12.9557522 L28,11.9557522 L18,11.9557522 Z M18,14.9557522 L18,15.9557522 L28,15.9557522 L28,14.9557522 L18,14.9557522 Z M3,17.9557522 L3,18.9557522 L28,18.9557522 L28,17.9557522 L3,17.9557522 Z M3,20.9557522 L3,21.9557522 L28,21.9557522 L28,20.9557522 L3,20.9557522 Z M3,23.9557522 L3,24.9557522 L28,24.9557522 L28,23.9557522 L3,23.9557522 Z M3,26.9557522 L3,27.9557522 L28,27.9557522 L28,26.9557522 L3,26.9557522 Z M3,29.9557522 L3,30.9557522 L17,30.9557522 L17,29.9557522 L3,29.9557522 Z M3,32.9557522 L3,33.9557522 L28,33.9557522 L28,32.9557522 L3,32.9557522 Z"/>
+    <filter id="folder-documents-96px-j" width="133.3%" height="127%" x="-16.7%" y="-10.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.42905776   0 0 0 0 0.968670281  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="folder-documents-96px-m" cx="79.957%" cy="71.832%" r="100%" fx="79.957%" fy="71.832%" gradientTransform="matrix(0 -1 .71429 0 .286 1.518)">
+      <stop offset="0%" stop-color="#FA9361"/>
+      <stop offset="100%" stop-color="#5F1CF7"/>
+    </radialGradient>
+    <linearGradient id="folder-documents-96px-n" x1="50%" x2="50%" y1="20.953%" y2="100%">
+      <stop offset="0%" stop-color="#0E3BAC"/>
+      <stop offset="100%" stop-color="#1A0570"/>
+    </linearGradient>
+    <filter id="folder-documents-96px-o" width="261.1%" height="110.6%" x="-80.5%" y="-5.3%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation=".75"/>
+    </filter>
+    <linearGradient id="folder-documents-96px-p" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#242424"/>
+      <stop offset="100%"/>
+    </linearGradient>
+    <linearGradient id="folder-documents-96px-q" x1="29.396%" x2="100%" y1="60.605%" y2="60.605%">
+      <stop offset="0%" stop-color="#F6F6F6"/>
+      <stop offset="100%" stop-color="#939393"/>
+    </linearGradient>
+    <linearGradient id="folder-documents-96px-r" x1="32.652%" x2="100%" y1="35.518%" y2="42.518%">
+      <stop offset="0%" stop-color="#FCAFD2"/>
+      <stop offset="100%" stop-color="#FF4B8D"/>
+    </linearGradient>
+    <path id="folder-documents-96px-s" d="M0.725490196,40 L3.7254902,40 L3.7254902,41.25 C3.7254902,41.6642136 3.38970376,42 2.9754902,42 L1.4754902,42 C1.06127663,42 0.725490196,41.6642136 0.725490196,41.25 L0.725490196,40 Z"/>
+    <filter id="folder-documents-96px-t" width="200%" height="250%" x="-50%" y="-75%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1"/>
+      <feOffset dx="-1" dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.376992985   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="folder-documents-96px-u" x1="50.24%" x2="49.954%" y1="45.328%" y2="60.059%">
+      <stop offset="0%" stop-color="#463417"/>
+      <stop offset="100%" stop-color="#281212"/>
+    </linearGradient>
+    <linearGradient id="folder-documents-96px-v" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="100%" stop-color="#481D1D"/>
+    </linearGradient>
+    <linearGradient id="folder-documents-96px-w" x1="11.779%" x2="76.358%" y1="79.249%" y2="79.249%">
+      <stop offset="0%" stop-color="#6A6A6A"/>
+      <stop offset="100%" stop-color="#0A0A0A"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#folder-documents-96px-a)" transform="translate(7 18)">
+      <mask id="folder-documents-96px-d" fill="#fff">
+        <use xlink:href="#folder-documents-96px-b"/>
+      </mask>
+      <use fill="url(#folder-documents-96px-c)" xlink:href="#folder-documents-96px-b"/>
+      <g mask="url(#folder-documents-96px-d)">
+        <use fill="#000" filter="url(#folder-documents-96px-e)" xlink:href="#folder-documents-96px-f"/>
+        <use fill="url(#folder-documents-96px-g)" xlink:href="#folder-documents-96px-f"/>
+        <use fill="#000" filter="url(#folder-documents-96px-h)" xlink:href="#folder-documents-96px-f"/>
+      </g>
+      <g fill="url(#folder-documents-96px-i)" mask="url(#folder-documents-96px-d)">
+        <path d="M0,0 L82,0 L82,43.647241 C82,49.3591589 77.3695756,53.9895833 71.6576577,53.9895833 L10.3423423,53.9895833 C4.63042439,53.9895833 -1.07684864e-15,49.3591589 -1.77635684e-15,43.647241 L0,0 Z" transform="translate(0 17.01)"/>
+      </g>
     </g>
+    <g transform="translate(29 40)">
+      <g transform="translate(0 2.044)">
+        <use fill="#000" filter="url(#folder-documents-96px-j)" xlink:href="#folder-documents-96px-k"/>
+        <use fill="url(#folder-documents-96px-l)" xlink:href="#folder-documents-96px-k"/>
+        <polygon fill="url(#folder-documents-96px-m)" points="3 5.956 17 5.956 17 15.956 3 15.956"/>
+        <path fill="#FF5151" d="M13,12.9557522 C13.5522847,12.9557522 14,12.508037 14,11.9557522 C14,11.4034675 13.5522847,10.9557522 13,10.9557522 C12.4477153,10.9557522 12,11.4034675 12,11.9557522 C12,12.508037 12.4477153,12.9557522 13,12.9557522 Z"/>
+        <path fill="url(#folder-documents-96px-n)" d="M4,14.9557522 L12,14.9557522 L10.096134,12.3450793 C9.97410195,12.1777431 9.73952265,12.1410169 9.57218646,12.2630489 C9.56287156,12.2698419 9.55387489,12.2770608 9.54522509,12.2846827 L8.54260032,13.1681591 C8.38721215,13.3050815 8.15024764,13.290112 8.01332526,13.1347238 C7.99341669,13.1121303 7.97630203,13.087221 7.96235107,13.0605342 L6.92126181,11.0690302 C6.82531323,10.8854897 6.59874262,10.8144825 6.41520219,10.9104311 C6.35240216,10.9432608 6.30018952,10.9932125 6.26461386,11.0544988 L4,14.9557522 Z"/>
+      </g>
+      <g transform="translate(33.275)">
+        <polygon fill="#00267B" fill-opacity=".3" points="1.931 5.561 3.328 .381 4.725 5.561 4.725 42.802 1.931 42.802" filter="url(#folder-documents-96px-o)"/>
+        <polygon fill="url(#folder-documents-96px-p)" points=".725 5 2.725 5 2.725 38 .725 38"/>
+        <rect width="3" height="2" x=".725" y="38" fill="url(#folder-documents-96px-q)"/>
+        <use fill="url(#folder-documents-96px-r)" xlink:href="#folder-documents-96px-s"/>
+        <use fill="#000" filter="url(#folder-documents-96px-t)" xlink:href="#folder-documents-96px-s"/>
+        <polygon fill="url(#folder-documents-96px-u)" points=".725 5 1.725 5 1.725 38 .725 38"/>
+        <polygon fill="url(#folder-documents-96px-v)" points="2.725 5 3.725 5 3.725 38 2.725 38"/>
+        <polygon fill="#FFDCAC" points="2.225 0 3.725 5 .725 5"/>
+        <polygon fill="#D8915B" points="2.225 0 2.725 5 1.725 5"/>
+        <polygon fill="#965600" points="2.225 0 3.725 5 2.725 5"/>
+        <polygon fill="url(#folder-documents-96px-w)" points="2.525 1 1.925 1 2.225 0"/>
+      </g>
+    </g>
+  </g>
 </svg>

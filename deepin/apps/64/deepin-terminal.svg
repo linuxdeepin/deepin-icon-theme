@@ -1,29 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>深度终端-64px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.4056122%" id="linearGradient-1">
-            <stop stop-color="#FF5E70" offset="0%"></stop>
-            <stop stop-color="#CA2935" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#EC3F4C" offset="0%"></stop>
-            <stop stop-color="#DE434E" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="深度终端-64px">
-            <image id="Bitmap" x="2" y="7" width="60" height="54" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA2CAYAAACbZ/oUAAAABGdBTUEAA1teXP8meAAAAV9JREFUaAXtm1tOAzEMRTs8BB/sf60gaAefIY6CdDeQq2spdeL0o8cnn+5x+4tjZNK6X8rbbs/ll5/ANeDT2Hfu+vL9rbaAsh5Lvr0MBCCfx8X3yONq64Q0GOEjHr3h4rXWT631CdRx64AFJtiuF9vPl0wnnGAL5wqY2vKxGuZJuwZs0zCQHK4CB8OYfG3YkFEjBVj3xacawz4uNUkM6774VGPYx6UmiWHdF59qDPu41CQxrPviU41hH5eaJIZ1X3yqMezjUpPEsO6LTzWGfVxqkhjWffGpxrCPS00Sw7ovPtUY9nGpSWJY98WnGsM+LjVJDOu++FRj2MelJmnDzCOyHKfxYGq+OVZL4V7rwwwaWJhgg3HOWDJ8+VbrfWTGbdt+bbcMBsOZ/f6q9TnyvQfEoeeSYL54Tp9elT0/+tXCM4fe55RpFTHKuTP7nQNg1r+/ADRUZwDXPefdA+iO8xep/i6Id1qjEwAAAABJRU5ErkJggg=="></image>
-            <rect id="Rectangle-118" fill="url(#linearGradient-1)" x="5" y="9" width="54" height="48" rx="1.5"></rect>
-            <rect id="Rectangle-118" fill="url(#linearGradient-2)" x="5" y="10" width="54" height="46" rx="1.5"></rect>
-            <path d="M21.5890516,24.9614977 L11.7441935,30.7043316 C11.0286156,31.1217521 10.7869112,32.0402287 11.2043316,32.7558065 C11.6217521,33.4713844 12.5402287,33.7130888 13.2558065,33.2956684 L25.2558065,26.2956684 C26.2480645,25.7168512 26.2480645,24.2831488 25.2558065,23.7043316 L13.2558065,16.7043316 C12.5402287,16.2869112 11.6217521,16.5286156 11.2043316,17.2441935 C10.7869112,17.9597713 11.0286156,18.8782479 11.7441935,19.2956684 L21.5890516,24.9614977 Z" id="Path-4" fill="#CA353F"></path>
-            <path d="M21.5890516,23.9614977 L11.7441935,29.7043316 C11.0286156,30.1217521 10.7869112,31.0402287 11.2043316,31.7558065 C11.6217521,32.4713844 12.5402287,32.7130888 13.2558065,32.2956684 L25.2558065,25.2956684 C26.2480645,24.7168512 26.2480645,23.2831488 25.2558065,22.7043316 L13.2558065,15.7043316 C12.5402287,15.2869112 11.6217521,15.5286156 11.2043316,16.2441935 C10.7869112,16.9597713 11.0286156,17.8782479 11.7441935,18.2956684 L21.5890516,23.9614977 Z" id="Path-4" fill="#FFF0F0"></path>
-            <path d="M20.7261233,24.4648726 L11.7441935,29.7043316 C11.1114106,30.073455 10.8491873,30.8343943 11.0856253,31.5003632 C11.1997085,31.1769117 11.424726,30.8906877 11.7441935,30.7043316 L21.5890516,24.9614977 L20.7261233,24.4648726 L20.7261233,24.4648726 L20.7261233,24.4648726 Z M25.9156518,24.5 C26.138912,23.8598638 25.9189636,23.0911733 25.2558065,22.7043316 L13.2558065,15.7043316 C12.5402287,15.2869112 11.6217521,15.5286156 11.2043316,16.2441935 C10.9732673,16.6403038 10.9441726,17.0985866 11.0856253,17.4996368 C11.1165614,17.4124997 11.1560346,17.3269884 11.2043316,17.2441935 C11.6217521,16.5286156 12.5402287,16.2869112 13.2558065,16.7043316 L25.2558065,23.7043316 C25.5849074,23.8963072 25.8048558,24.1823235 25.9156518,24.5 L25.9156518,24.5 L25.9156518,24.5 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-            <path d="M37.6363636,39 C38.3894792,39 39,38.3284271 39,37.5 C39,36.6715729 38.3894792,36 37.6363636,36 L24.3636364,36 C23.6105208,36 23,36.6715729 23,37.5 C23,38.3284271 23.6105208,39 24.3636364,39 L37.6363636,39 Z" id="Path" fill="#CA3540"></path>
-            <path d="M37.6363636,38 C38.3894792,38 39,37.3284271 39,36.5 C39,35.6715729 38.3894792,35 37.6363636,35 L24.3636364,35 C23.6105208,35 23,35.6715729 23,36.5 C23,37.3284271 23.6105208,38 24.3636364,38 L37.6363636,38 Z" id="Path" fill="#FFF0F0"></path>
-            <path d="M38.9224065,37 C38.9726572,36.8436105 39,36.6753177 39,36.5 C39,35.6715729 38.3894792,35 37.6363636,35 L24.3636364,35 C23.6105208,35 23,35.6715729 23,36.5 C23,36.6753177 23.0273428,36.8436105 23.0775935,37 C23.2647919,36.4174038 23.7699005,36 24.3636364,36 L37.6363636,36 C38.2300995,36 38.7352081,36.4174038 38.9224065,37 L38.9224065,37 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="deepin-terminal-a" width="127.6%" height="130.8%" x="-13.8%" y="-15.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-terminal-b" cx="50%" cy="0%" r="100%" fx="50%" fy="0%" gradientTransform="matrix(0 1 -.89655 0 .5 -.5)">
+      <stop offset="0%" stop-color="#FF774D"/>
+      <stop offset="100%" stop-color="#BA0E55"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-terminal-a)" transform="translate(3 6)">
+    <rect width="58" height="52" fill="url(#deepin-terminal-b)" rx="8"/>
+    <path fill="#FFF0F0" fill-rule="nonzero" d="M34.6363636,29 C35.3894792,29 36,29.6715729 36,30.5 C36,31.3284271 35.3894792,32 34.6363636,32 L34.6363636,32 L21.3636364,32 C20.6105208,32 20,31.3284271 20,30.5 C20,29.6715729 20.6105208,29 21.3636364,29 L21.3636364,29 Z M8.20433165,10.2441935 C8.62175207,9.52861559 9.54022867,9.28691122 10.2558065,9.70433165 L10.2558065,9.70433165 L22.2558065,16.7043316 C23.2480645,17.2831488 23.2480645,18.7168512 22.2558065,19.2956684 L22.2558065,19.2956684 L10.2558065,26.2956684 C9.54022867,26.7130888 8.62175207,26.4713844 8.20433165,25.7558065 C7.78691122,25.0402287 8.02861559,24.1217521 8.74419346,23.7043316 L8.74419346,23.7043316 L18.5890516,17.9614977 L8.74419346,12.2956684 C8.02861559,11.8782479 7.78691122,10.9597713 8.20433165,10.2441935 Z"/>
+  </g>
 </svg>
