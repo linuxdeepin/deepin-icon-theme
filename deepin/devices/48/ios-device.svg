@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>ios-device-48px</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="ios-device-48px">
-            <g id="Group" transform="translate(10.000000, 1.000000)">
-                <image id="Bitmap" x="0" y="0" width="28" height="46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAuCAYAAAA7v3kyAAAABGdBTUEAA1teXP8meAAAAQ9JREFUWAntmMsOwjAMBFseAsSF//9QONASdqza5dw6J2xpiduI3WRu9TisNap1rW/3d00WLgvAkqAjjeqzyB52/hz0f0TNUiPEw9h481LKKry4wEkipxFCc5Y4Qa/Cm4zRAzlB70C7pfP1tdcN8bUMDwJr77IMD+wdFv4VGCiymkKaRTJ8CmmgyGoKaRbJ8CmkgSKrKaRZJMOnkAaKrKaQZpEMn0IaKLKaQppFMnz+BynTBr7BexXeNh1xpIw27r3SFm8ybBjEtzfBBF6kSbJNrXuLUclDwvclTYQhBkRXidDb8mxDAPVbC4SMYgh6Luvsph7KieDNjX1P7abyKRTEmHAR3n5N6V1q04pg1/AF5RonorquZc8AAAAASUVORK5CYII="></image>
-                <rect id="Rectangle-134" fill="#C0C0C0" x="2" y="1" width="24" height="42" rx="3"></rect>
-                <rect id="Rectangle-134" fill="#FFFFFF" x="3" y="2" width="22" height="40" rx="2"></rect>
-                <circle id="Oval-20" fill="#BABABA" cx="14" cy="39" r="2"></circle>
-                <polygon id="Rectangle-135" fill="#1A1A1A" points="4 7 24 7 24 36 4 36"></polygon>
-                <circle id="Oval-21" fill="#A4A4A4" cx="10.5" cy="4.5" r="0.5"></circle>
-                <path d="M12.5,4.5 L16.5,4.5" id="Path-102" stroke="#979797" stroke-width="0.5" stroke-linecap="round"></path>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="ios-device-48px-a" width="154.2%" height="131%" x="-27.1%" y="-15.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#ios-device-48px-a)" transform="translate(12 2)">
+    <rect width="24" height="42" fill="silver" rx="4"/>
+    <rect width="22" height="40" x="1" y="1" fill="#000" rx="4"/>
+    <circle cx="9" cy="2.5" r="1" fill="#A4A4A4"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width=".5" d="M11,2.5 L15,2.5"/>
+    <path fill="#232323" d="M6.81481481,2.82686482 L6.81481481,2.91346089 C6.81481481,3.63394784 7.39518642,4.21801792 8.11111111,4.21801792 L15.5185185,4.21801792 C16.2344432,4.21801792 16.8148148,3.63394784 16.8148148,2.91346089 L16.8148148,2.75795217 C16.8148148,2.34811283 17.1435649,2.01513714 17.5508007,2.01250637 L19.0381699,2.00015368 C20.6739435,1.99013812 22,3.31799871 22,4.96488387 L22,37.0169042 C22,38.6645074 20.6722554,40.0001537 19.0381699,40.0001537 C17.9487796,40.0001537 13.2566664,40.0001537 4.96183013,40.0001537 C3.32605652,40.0001537 2,38.6655244 2,37.0190638 L2,5.09097961 C2,3.44456911 3.32774469,2.10137518 4.96183013,2.09089618 L6.06935405,2.08141879 C6.47844556,2.07879539 6.81219298,2.41041625 6.81479978,2.82211472 C6.81740657,3.23381319 6.81481481,2.41515799 6.81481481,2.82686482 Z"/>
+  </g>
 </svg>

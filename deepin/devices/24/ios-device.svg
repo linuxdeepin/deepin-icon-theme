@@ -1,18 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>ios-device</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="ios-device">
-            <image id="Bitmap" x="5" y="0" width="14" height="23" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAXCAYAAAA7kX6CAAAABGdBTUEAA1teXP8meAAAAHRJREFUOBHtlEEKwCAQA9cWvLT+/7W2zYjuRaj7ABeCQTOt5GAysyQdXfi/eXX4dNkpU6QVpEjL3FphLPcNfGT4QeaKDFeITssOMAp5boNexWx2OXMnvrPL8SpmM8qJPBuDblnAKl1SBCZDtmIQH0Ar2F+5D2/2CmwhRwdgAAAAAElFTkSuQmCC"></image>
-            <rect id="Rectangle-134" fill="#C0C0C0" x="6" y="1" width="12" height="21" rx="1.5"></rect>
-            <path d="M6.99999968,2.74482252 C6.99999967,2.3334684 7.33271757,2 7.75162499,2 L16.2483747,2 C16.6634859,2 17,2.32978058 17,2.74482252 L17,20.2551775 C17,20.6665316 16.6672821,21 16.2483747,21 L7.7516253,21 C7.33651411,21 6.99999999,20.6702194 6.99999999,20.2551775 L6.99999968,2.74482252 Z" id="Rectangle-134" fill="#FFFFFF"></path>
-            <rect id="Rectangle-135" fill="#1A1A1A" x="8" y="5" width="8" height="13"></rect>
-            <circle id="Oval-21" fill="#A4A4A4" cx="9.5" cy="3.5" r="0.5"></circle>
-            <path d="M11.5,3.5 L13.5,3.5" id="Path-102" stroke="#979797" stroke-linecap="round"></path>
-            <circle id="Oval-3" fill="#979797" cx="12" cy="19.5" r="1"></circle>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd">
+    <image width="14" height="23" x="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAXCAYAAAA7kX6CAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAADqADAAQAAAABAAAAFwAAAADQAMwJAAAAdElEQVQ4Ee2UQQrAIBAD1xa8tP7/tbbNiO5FqPsAF4JBM63kYDKzJB1d+L95dfh02SlTpBWkSMvcWmEs9w18ZPhB5ooMV4hOyw4wCnlug17FbHY5cye+s8vxKmYzyok8G4NuWcAqXVIEJkO2YhAfQCvYX7kPb/YKbCFHB2AAAAAASUVORK5CYII="/>
+    <rect width="12" height="21" x="6" y="1" fill="silver" rx="3"/>
+    <path fill="#000" d="M6.9999997,3.99742191 C6.99999968,2.89427625 7.88743299,2 8.99961472,2 L15.0003849,2 C16.1047418,2 17,2.89092539 17,3.99742191 L17,19.0025781 C17,20.1057238 16.1125667,21 15.000385,21 L8.99961498,21 C7.89525812,21 6.99999998,20.1090746 6.99999996,19.0025781 L6.9999997,3.99742191 Z"/>
+    <path fill="#232323" d="M9.81676413,3.36984446 L9.81676413,3.40858481 C9.81676413,3.73090792 10.0611311,3.99220243 10.3625731,3.99220243 L13.4814815,3.99220243 C13.7829234,3.99220243 14.0272904,3.73090792 14.0272904,3.40858481 L14.0272904,3.33901512 C14.0272904,3.15566594 14.1657116,3.00670313 14.3371792,3.0055262 L14.96344,3 C15.6521867,2.99551936 16.2105263,3.58956225 16.2105263,4.32632667 L16.2105263,18.6653884 C16.2105263,19.402474 15.6514759,20 14.96344,20 C14.5047493,20 12.5291227,20 9.03656005,20 C8.34781327,20 7.78947368,19.402929 7.78947368,18.6663545 L7.78947368,4.38273792 C7.78947368,3.64618585 8.34852408,3.0452833 9.03656005,3.04059533 L9.50288592,3.03635545 C9.67513497,3.03518182 9.8156602,3.18353852 9.8167578,3.36771941 C9.8178554,3.55190031 9.81676413,3.18565982 9.81676413,3.36984446 Z"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width=".5" d="M11,3.5 L13,3.5"/>
+  </g>
 </svg>

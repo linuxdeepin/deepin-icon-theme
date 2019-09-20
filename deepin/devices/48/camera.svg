@@ -1,34 +1,81 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>camera-48px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
-            <stop stop-color="#8D959E" offset="0%"></stop>
-            <stop stop-color="#ABB5C0" offset="4.36645508%"></stop>
-            <stop stop-color="#9BA4AD" offset="9.1015625%"></stop>
-            <stop stop-color="#7E8A97" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="camera-48px">
-            <image id="Bitmap" x="2" y="9" width="44" height="31" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAfCAYAAACcai8CAAAABGdBTUEAA1teXP8meAAAAPFJREFUWAntmMEKwjAQRFsVFcH//1BBVCw6L+nashd7iDGFHZhm12j6GHvp9t2kfixZrZ52c/XSgpGtuat0ncNtdM+dfP9y74P2B7km8CcoA96OAIC0KPhgHUiVYk8jtyrYYOwNmEehdcGYgAEl5daVGEkYrQ44Y6/gagmvADUjBvCv/6pIOBJ2CcQj4QIp3kbCxSN1B0bCLpDibSRcPFJ3YCTsAineRsLFI3UHWsI1hyIOYXGbGOfAp8U/rf9F2BIwb8tAH+WzzAZTlpbEEOUqX+QbwBhIJitpWDF+puXvspnaUyQPeTBgyOY1fUsy8O4N3qIcZU0/KHEAAAAASUVORK5CYII="></image>
-            <rect id="Rectangle-145" fill="url(#linearGradient-1)" x="4" y="11" width="40" height="26" rx="1"></rect>
-            <circle id="Oval-23" fill="#CDD1D5" cx="30.5" cy="24.5" r="10.5"></circle>
-            <circle id="Oval-23" fill="#CDD1D5" cx="30" cy="24" r="12"></circle>
-            <circle id="Oval-23" stroke="#ADADAD" fill="#FFFFFF" cx="30" cy="24" r="9"></circle>
-            <circle id="Oval-23" fill="#B3B4B5" cx="30" cy="24" r="6"></circle>
-            <rect id="Rectangle-156" fill="#E9EEFF" x="12" y="13" width="8" height="1" rx="0.5"></rect>
-            <rect id="Rectangle-157" fill="#858585" x="6" y="10" width="8" height="1"></rect>
-            <rect id="Rectangle-158" fill="#696567" x="26" y="21" width="8" height="6" rx="3"></rect>
-            <g id="Group" transform="translate(27.000000, 21.000000)">
-                <circle id="Oval-28" fill="#434343" cx="3" cy="3" r="2.4"></circle>
-                <circle id="Oval-28" fill="#2D2D2D" cx="3" cy="3" r="1.8"></circle>
-                <circle id="Oval-28" fill="#000000" cx="3" cy="3" r="1.2"></circle>
-                <circle id="Oval-28" fill="#7ED321" opacity="0.300139925" cx="3" cy="3" r="3"></circle>
-            </g>
-            <circle id="Oval-29" fill="#4EE136" cx="41" cy="14" r="1"></circle>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="camera-48px-c" x1="0%" x2="100%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#BBB"/>
+      <stop offset="23.101%" stop-color="#BBB"/>
+      <stop offset="100%" stop-color="#858585"/>
+    </linearGradient>
+    <path id="camera-48px-b" d="M8,10.9979131 C8,9.89449617 8.88670635,9 9.99810135,9 L14.0018986,9 C15.1054196,9 16,9.89826062 16,10.9979131 L16,15 L8,15 L8,10.9979131 Z"/>
+    <filter id="camera-48px-a" width="225%" height="266.7%" x="-62.5%" y="-66.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="camera-48px-d" x1="0%" x2="100%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#8D959E"/>
+      <stop offset="4.366%" stop-color="#ABB5C0"/>
+      <stop offset="9.102%" stop-color="#9BA4AD"/>
+      <stop offset="100%" stop-color="#7E8A97"/>
+    </linearGradient>
+    <circle id="camera-48px-e" cx="30" cy="24" r="12"/>
+    <filter id="camera-48px-f" width="102.1%" height="102.1%" x="-1%" y="-1%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.874509804   0 0 0 0 0.894117647   0 0 0 0 0.909803922  0 0 0 1 0"/>
+      <feOffset dy="-.5" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.419607843   0 0 0 0 0.466666667   0 0 0 0 0.517647059  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <circle id="camera-48px-g" cx="30" cy="24" r="9"/>
+    <filter id="camera-48px-h" width="102.8%" height="102.8%" x="-1.4%" y="-1.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+    </filter>
+    <circle id="camera-48px-i" cx="30" cy="24" r="6"/>
+    <filter id="camera-48px-j" width="104.2%" height="104.2%" x="-2.1%" y="-2.1%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.603921569   0 0 0 0 0.603921569   0 0 0 0 0.603921569  0 0 0 1 0"/>
+      <feOffset dy="-.5" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="camera-48px-k" cx="50%" cy="0%" r="100%" fx="50%" fy="0%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#3DDF23"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#camera-48px-a)" xlink:href="#camera-48px-b"/>
+    <use fill="url(#camera-48px-c)" xlink:href="#camera-48px-b"/>
+    <image width="44" height="31" x="2" y="9" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAfCAYAAACcai8CAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAALKADAAQAAAABAAAAHwAAAAAa7yX1AAAA8UlEQVRYCe2YwQrCMBBEWxUVwf//UEFULDov6dqyF3uIMYUdmGbXaPoYe+n23aR+LFmtnnZz9dKCka25q3Sdw210z518/3Lvg/YHuSbwJygD3o4AgLQo+GAdSJViTyO3Kthg7A2YR6F1wZiAASXl1pUYSRitDjhjr+BqCa8ANSMG8K//qkg4EnYJxCPhAineRsLFI3UHRsIukOJtJFw8UndgJOwCKd5GwsUjdQdawjWHIg5hcZsY58CnxT+t/0XYEjBvy0Af5bPMBlOWlsQQ5Spf5BvAGEgmK2lYMX6m5e+ymdpTJA95MGDI5jV9SzLw7g3eohxlTT8ocQAAAABJRU5ErkJggg=="/>
+    <rect width="40" height="26" x="4" y="11" fill="url(#camera-48px-d)" rx="4"/>
+    <circle cx="30.5" cy="24.5" r="10.5" fill="#CDD1D5"/>
+    <use fill="#CDD1D5" xlink:href="#camera-48px-e"/>
+    <use fill="#000" filter="url(#camera-48px-f)" xlink:href="#camera-48px-e"/>
+    <circle cx="30" cy="24" r="10" fill="#868686"/>
+    <use fill="#EAEDF0" xlink:href="#camera-48px-g"/>
+    <use fill="#000" filter="url(#camera-48px-h)" xlink:href="#camera-48px-g"/>
+    <use fill="#B3B4B5" xlink:href="#camera-48px-i"/>
+    <use fill="#000" filter="url(#camera-48px-j)" xlink:href="#camera-48px-i"/>
+    <rect width="8" height="1" x="12" y="13" fill="#E8EEFF" rx=".5"/>
+    <rect width="8" height="1" x="12" y="14" fill="#758393" rx=".5"/>
+    <rect width="8" height="6" x="26" y="21" fill="#696567" rx="3"/>
+    <g transform="translate(27 21)">
+      <circle cx="3" cy="3" r="2.4" fill="#434343"/>
+      <circle cx="3" cy="3" r="1.8" fill="#2E2E2E"/>
+      <circle cx="3" cy="3" r="1.2" fill="#000"/>
+      <circle cx="3" cy="3" r="3" fill="#7ED321" opacity=".3"/>
     </g>
+    <circle cx="41" cy="14" r="1" fill="url(#camera-48px-k)"/>
+  </g>
 </svg>
