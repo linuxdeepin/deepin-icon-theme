@@ -25,17 +25,31 @@
       <stop offset="87.648%" stop-color="#FFF" stop-opacity=".9"/>
       <stop offset="100%" stop-color="#FFF" stop-opacity=".5"/>
     </linearGradient>
-    <radialGradient id="drive-removable-media-scsi-96px-d" cx="48.239%" cy="19.103%" r="78.654%" fx="48.239%" fy="19.103%" gradientTransform="matrix(0 1 -.7372 0 .623 -.291)">
+    <rect id="drive-removable-media-scsi-96px-d" width="68" height="21" x="0" y="57" rx="6"/>
+    <filter id="drive-removable-media-scsi-96px-e" width="101.5%" height="104.8%" x="-.7%" y="-2.4%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="drive-removable-media-scsi-96px-f" cx="48.239%" cy="19.103%" r="78.654%" fx="48.239%" fy="19.103%" gradientTransform="matrix(0 1 -.7372 0 .623 -.291)">
       <stop offset="0%" stop-color="#E6B3FF"/>
       <stop offset="100%" stop-color="#72A3FF"/>
     </radialGradient>
-    <linearGradient id="drive-removable-media-scsi-96px-g" x1="50%" x2="50%" y1="0%" y2="100%">
+    <path id="drive-removable-media-scsi-96px-g" d="M0,73 C0,69.1340068 3.14340248,66 7.00519134,66 L60.9948087,66 C64.863669,66 68,69.1418733 68,73 L68,73 C68,76.8659932 64.8565975,80 60.9948087,80 L7.00519134,80 C3.13633099,80 0,76.8581267 0,73 L0,73 Z"/>
+    <filter id="drive-removable-media-scsi-96px-h" width="101.5%" height="107.1%" x="-.7%" y="-3.6%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0.239215686   0 0 0 0 0.611764706  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="drive-removable-media-scsi-96px-k" x1="50%" x2="50%" y1="0%" y2="100%">
       <stop offset="0%" stop-color="#0174FF"/>
       <stop offset="50.85%" stop-color="#01C2FF"/>
       <stop offset="100%" stop-color="#0056FF"/>
     </linearGradient>
-    <path id="drive-removable-media-scsi-96px-f" d="M21.974,0.5 C22.5262847,0.5 22.974,0.943716645 22.974,1.49980749 L22.974,4.50019251 C22.974,5.01292962 22.5912798,5.43551958 22.0913326,5.49327356 L21.974,5.5 C21.4217153,5.5 20.974,5.05628335 20.974,4.50019251 L20.974,1.49980749 C20.974,0.987070378 21.3567202,0.564480424 21.8566674,0.506726436 L21.974,0.5 Z M17.974,0.5 C18.5262847,0.5 18.974,0.943716645 18.974,1.49980749 L18.974,4.50019251 C18.974,5.01292962 18.5912798,5.43551958 18.0913326,5.49327356 L17.974,5.5 C17.4217153,5.5 16.974,5.05628335 16.974,4.50019251 L16.974,1.49980749 C16.974,0.987070378 17.3567202,0.564480424 17.8566674,0.506726436 L17.974,0.5 Z M13.974,0.5 C14.5262847,0.5 14.974,0.943716645 14.974,1.49980749 L14.974,4.50019251 C14.974,5.01292962 14.5912798,5.43551958 14.0913326,5.49327356 L13.974,5.5 C13.4217153,5.5 12.974,5.05628335 12.974,4.50019251 L12.974,1.49980749 C12.974,0.987070378 13.3567202,0.564480424 13.8566674,0.506726436 L13.974,0.5 Z M9.974,0.5 C10.5262847,0.5 10.974,0.943716645 10.974,1.49980749 L10.974,4.50019251 C10.974,5.01292962 10.5912798,5.43551958 10.0913326,5.49327356 L9.974,5.5 C9.42171525,5.5 8.974,5.05628335 8.974,4.50019251 L8.974,1.49980749 C8.974,0.987070378 9.35672018,0.564480424 9.85666744,0.506726436 L9.974,0.5 Z M5.974,0.5 C6.52628475,0.5 6.974,0.943716645 6.974,1.49980749 L6.974,4.50019251 C6.974,5.01292962 6.59127982,5.43551958 6.09133256,5.49327356 L5.974,5.5 C5.42171525,5.5 4.974,5.05628335 4.974,4.50019251 L4.974,1.49980749 C4.974,0.987070378 5.35672018,0.564480424 5.85666744,0.506726436 L5.974,0.5 Z M1.974,0.5 C2.52628475,0.5 2.974,0.943716645 2.974,1.49980749 L2.974,4.50019251 C2.974,5.01292962 2.59127982,5.43551958 2.09133256,5.49327356 L1.974,5.5 C1.42171525,5.5 0.974,5.05628335 0.974,4.50019251 L0.974,1.49980749 C0.974,0.987070378 1.35672018,0.564480424 1.85666744,0.506726436 L1.974,0.5 Z"/>
-    <filter id="drive-removable-media-scsi-96px-e" width="104.5%" height="140%" x="-2.3%" y="-10%" filterUnits="objectBoundingBox">
+    <path id="drive-removable-media-scsi-96px-j" d="M21.974,0.5 C22.5262847,0.5 22.974,0.943716645 22.974,1.49980749 L22.974,4.50019251 C22.974,5.01292962 22.5912798,5.43551958 22.0913326,5.49327356 L21.974,5.5 C21.4217153,5.5 20.974,5.05628335 20.974,4.50019251 L20.974,1.49980749 C20.974,0.987070378 21.3567202,0.564480424 21.8566674,0.506726436 L21.974,0.5 Z M17.974,0.5 C18.5262847,0.5 18.974,0.943716645 18.974,1.49980749 L18.974,4.50019251 C18.974,5.01292962 18.5912798,5.43551958 18.0913326,5.49327356 L17.974,5.5 C17.4217153,5.5 16.974,5.05628335 16.974,4.50019251 L16.974,1.49980749 C16.974,0.987070378 17.3567202,0.564480424 17.8566674,0.506726436 L17.974,0.5 Z M13.974,0.5 C14.5262847,0.5 14.974,0.943716645 14.974,1.49980749 L14.974,4.50019251 C14.974,5.01292962 14.5912798,5.43551958 14.0913326,5.49327356 L13.974,5.5 C13.4217153,5.5 12.974,5.05628335 12.974,4.50019251 L12.974,1.49980749 C12.974,0.987070378 13.3567202,0.564480424 13.8566674,0.506726436 L13.974,0.5 Z M9.974,0.5 C10.5262847,0.5 10.974,0.943716645 10.974,1.49980749 L10.974,4.50019251 C10.974,5.01292962 10.5912798,5.43551958 10.0913326,5.49327356 L9.974,5.5 C9.42171525,5.5 8.974,5.05628335 8.974,4.50019251 L8.974,1.49980749 C8.974,0.987070378 9.35672018,0.564480424 9.85666744,0.506726436 L9.974,0.5 Z M5.974,0.5 C6.52628475,0.5 6.974,0.943716645 6.974,1.49980749 L6.974,4.50019251 C6.974,5.01292962 6.59127982,5.43551958 6.09133256,5.49327356 L5.974,5.5 C5.42171525,5.5 4.974,5.05628335 4.974,4.50019251 L4.974,1.49980749 C4.974,0.987070378 5.35672018,0.564480424 5.85666744,0.506726436 L5.974,0.5 Z M1.974,0.5 C2.52628475,0.5 2.974,0.943716645 2.974,1.49980749 L2.974,4.50019251 C2.974,5.01292962 2.59127982,5.43551958 2.09133256,5.49327356 L1.974,5.5 C1.42171525,5.5 0.974,5.05628335 0.974,4.50019251 L0.974,1.49980749 C0.974,0.987070378 1.35672018,0.564480424 1.85666744,0.506726436 L1.974,0.5 Z"/>
+    <filter id="drive-removable-media-scsi-96px-i" width="104.5%" height="140%" x="-2.3%" y="-10%" filterUnits="objectBoundingBox">
       <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.226675725 0"/>
     </filter>
@@ -43,11 +57,13 @@
   <g fill="none" fill-rule="evenodd">
     <g filter="url(#drive-removable-media-scsi-96px-a)" transform="translate(14 8)">
       <path fill="url(#drive-removable-media-scsi-96px-b)" d="M0,11.9931386 C0,5.36951103 5.36423345,0 12.0005049,0 L55.9994951,0 C62.6271909,0 68,5.3678643 68,11.9931386 L68,73 L0,73 L0,11.9931386 Z"/>
-      <rect width="67" height="20" x=".5" y="57.5" fill="url(#drive-removable-media-scsi-96px-c)" stroke="#FFF" stroke-opacity=".5" rx="6"/>
-      <path fill="url(#drive-removable-media-scsi-96px-d)" stroke="#003D9C" stroke-opacity=".2" d="M0.5,73 C0.5,76.5847051 3.41519402,79.5 7.00519134,79.5 L60.9948087,79.5 C64.5830583,79.5 67.5,76.587251 67.5,73 C67.5,69.4152949 64.584806,66.5 60.9948087,66.5 L7.00519134,66.5 C3.41694169,66.5 0.5,69.412749 0.5,73 Z"/>
+      <use fill="url(#drive-removable-media-scsi-96px-c)" xlink:href="#drive-removable-media-scsi-96px-d"/>
+      <use fill="#000" filter="url(#drive-removable-media-scsi-96px-e)" xlink:href="#drive-removable-media-scsi-96px-d"/>
+      <use fill="url(#drive-removable-media-scsi-96px-f)" xlink:href="#drive-removable-media-scsi-96px-g"/>
+      <use fill="#000" filter="url(#drive-removable-media-scsi-96px-h)" xlink:href="#drive-removable-media-scsi-96px-g"/>
       <g transform="translate(39 70)">
-        <use fill="#000" filter="url(#drive-removable-media-scsi-96px-e)" xlink:href="#drive-removable-media-scsi-96px-f"/>
-        <use fill="url(#drive-removable-media-scsi-96px-g)" xlink:href="#drive-removable-media-scsi-96px-f"/>
+        <use fill="#000" filter="url(#drive-removable-media-scsi-96px-i)" xlink:href="#drive-removable-media-scsi-96px-j"/>
+        <use fill="url(#drive-removable-media-scsi-96px-k)" xlink:href="#drive-removable-media-scsi-96px-j"/>
       </g>
       <path fill="#F076FF" stroke="#A50AFF" d="M8,75.5 C9.38071187,75.5 10.5,74.3807119 10.5,73 C10.5,71.6192881 9.38071187,70.5 8,70.5 C6.61928813,70.5 5.5,71.6192881 5.5,73 C5.5,74.3807119 6.61928813,75.5 8,75.5 Z"/>
     </g>

@@ -20,17 +20,31 @@
     </linearGradient>
     <linearGradient id="drive-optical-64px-c" x1="100%" x2="0%" y1="56.43%" y2="56.43%">
       <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
-      <stop offset="8.389%" stop-color="#FFF"/>
-      <stop offset="52.356%" stop-color="#FFF" stop-opacity=".8"/>
-      <stop offset="88.168%" stop-color="#FFF"/>
+      <stop offset="9.936%" stop-color="#FFF" stop-opacity=".9"/>
+      <stop offset="52.356%" stop-color="#FFF" stop-opacity=".7"/>
+      <stop offset="87.648%" stop-color="#FFF" stop-opacity=".9"/>
       <stop offset="100%" stop-color="#FFF" stop-opacity=".5"/>
     </linearGradient>
-    <radialGradient id="drive-optical-64px-d" cx="48.239%" cy="19.103%" r="78.654%" fx="48.239%" fy="19.103%" gradientTransform="matrix(0 1 -.77841 0 .631 -.291)">
+    <path id="drive-optical-64px-d" d="M1.8905378e-09,42.5067504 C1.5811549e-09,40.0177409 2.0061411,38 4.49442825,38 L41.5055718,38 C43.9877759,38 46,40.0058586 46,42.5067503 L46,47.4932496 C46,49.982259 43.9938589,51.9999999 41.5055718,51.9999999 L4.49442825,52.0000001 C2.01222407,52.0000001 2.82121756e-09,49.9941415 2.51035771e-09,47.4932498 L1.8905378e-09,42.5067504 Z"/>
+    <filter id="drive-optical-64px-e" width="102.2%" height="107.1%" x="-1.1%" y="-3.6%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="drive-optical-64px-f" cx="48.239%" cy="19.103%" r="78.654%" fx="48.239%" fy="19.103%" gradientTransform="matrix(0 1 -.77841 0 .631 -.291)">
       <stop offset="0%" stop-color="#7CFFFE"/>
       <stop offset="100%" stop-color="#D6CDE6"/>
     </radialGradient>
-    <rect id="drive-optical-64px-f" width="38" height="2" x="4" y="48" rx="1"/>
-    <filter id="drive-optical-64px-e" width="102.6%" height="200%" x="-1.3%" y="-25%" filterUnits="objectBoundingBox">
+    <path id="drive-optical-64px-g" d="M-1.06570042e-09,49 C-1.06570042e-09,46.2385763 2.23422109,44 4.99939301,44 L41.0006054,44 C43.7616939,44 45.9999984,46.2441952 45.9999984,49 L45.9999984,49 C45.9999984,51.7614237 43.7657773,54 41.0006054,54 L4.99939301,54 C2.23830449,54 -1.06570042e-09,51.7558048 -1.06570042e-09,49 L-1.06570042e-09,49 Z"/>
+    <filter id="drive-optical-64px-h" width="102.2%" height="110%" x="-1.1%" y="-5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0.239215686   0 0 0 0 0.611764706  0 0 0 0.2 0"/>
+    </filter>
+    <rect id="drive-optical-64px-j" width="38" height="2" x="4" y="48" rx="1"/>
+    <filter id="drive-optical-64px-i" width="102.6%" height="200%" x="-1.3%" y="-25%" filterUnits="objectBoundingBox">
       <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
     </filter>
@@ -38,10 +52,12 @@
   <g fill="none" fill-rule="evenodd">
     <g filter="url(#drive-optical-64px-a)" transform="translate(9 5)">
       <path fill="url(#drive-optical-64px-b)" d="M-3.48450158e-10,7.99953111 C-3.48450158e-10,3.58151207 3.59038265,4.06657819e-10 7.99944794,4.06657819e-10 L38.0005511,4.06657819e-10 C42.4185242,4.06657819e-10 45.9999991,3.59057045 45.9999992,7.99953111 L46,47 L-3.48450158e-10,47 L-3.48450158e-10,7.99953111 Z"/>
-      <path fill="url(#drive-optical-64px-c)" stroke="#FFF" stroke-opacity=".5" d="M0.500000002,42.5067504 L0.500000003,47.4932498 C0.500000003,49.7139977 2.2843689,51.5000001 4.49442825,51.5000001 L41.5055718,51.4999999 C43.7152037,51.4999999 45.5,49.7086356 45.5,47.4932496 L45.5,42.5067503 C45.5,40.2860024 43.7156311,38.5 41.5055718,38.5 L4.49442825,38.5 C2.28479633,38.5 0.500000002,40.2913643 0.500000002,42.5067504 Z"/>
-      <path fill="url(#drive-optical-64px-d)" stroke="#003D9C" stroke-opacity=".2" d="M0.499999999,49 C0.499999999,51.4817034 2.51648624,53.5 4.99939301,53.5 L41.0006054,53.5 C43.4881479,53.5 45.4999984,51.4867694 45.4999984,49 C45.4999984,46.5182966 43.4835122,44.5 41.0006054,44.5 L4.99939301,44.5 C2.51185054,44.5 0.499999999,46.5132306 0.499999999,49 Z"/>
-      <use fill="#000" filter="url(#drive-optical-64px-e)" xlink:href="#drive-optical-64px-f"/>
-      <use fill="#008BFF" xlink:href="#drive-optical-64px-f"/>
+      <use fill="url(#drive-optical-64px-c)" xlink:href="#drive-optical-64px-d"/>
+      <use fill="#000" filter="url(#drive-optical-64px-e)" xlink:href="#drive-optical-64px-d"/>
+      <use fill="url(#drive-optical-64px-f)" xlink:href="#drive-optical-64px-g"/>
+      <use fill="#000" filter="url(#drive-optical-64px-h)" xlink:href="#drive-optical-64px-g"/>
+      <use fill="#000" filter="url(#drive-optical-64px-i)" xlink:href="#drive-optical-64px-j"/>
+      <use fill="#008BFF" xlink:href="#drive-optical-64px-j"/>
     </g>
     <g transform="translate(21 14)">
       <path d="M10.668 1.564C12 1.564 13.2613333 1.85733333 14.4013333 2.372L14.4186667 2.33333333C13.2693333 1.812 11.9986667 1.51333333 10.6573333 1.51333333 5.616 1.51333333 1.516 5.616 1.516 10.6613333 1.516 12.0026667 1.81333333 13.2746667 2.33466667 14.424L2.38266667 14.4026667C1.86666667 13.2613333 1.572 11.9973333 1.572 10.6626667 1.57066667 5.63733333 5.644 1.564 10.668 1.564L10.668 1.564zM18.952 6.916C19.4706667 8.06 19.7653333 9.32533333 19.7653333 10.6626667 19.7653333 15.6866667 15.692 19.76 10.668 19.76 9.328 19.76 8.06 19.4626667 6.91466667 18.9426667L6.89333333 18.9893333C8.04266667 19.5106667 9.31466667 19.8093333 10.656 19.8093333 15.6973333 19.8093333 19.7973333 15.7066667 19.7973333 10.6613333 19.7973333 9.32 19.5 8.05066667 18.98 6.90133333L18.952 6.916 18.952 6.916z"/>

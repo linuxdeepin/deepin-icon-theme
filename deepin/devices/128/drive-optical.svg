@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <filter id="drive-optical-a" width="134.8%" height="129.6%" x="-17.4%" y="-14.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="drive-optical-b" x1="102.549%" x2="-2.652%" y1="57.682%" y2="57.682%">
+      <stop offset="0%" stop-color="#0067BC"/>
+      <stop offset="4.571%" stop-color="#30EA7F"/>
+      <stop offset="9.931%" stop-color="#00D887"/>
+      <stop offset="88.945%" stop-color="#00B160"/>
+      <stop offset="93.793%" stop-color="#00C165"/>
+      <stop offset="100%" stop-color="#008CBD"/>
+    </linearGradient>
+    <linearGradient id="drive-optical-c" x1="100%" x2="0%" y1="56.43%" y2="56.43%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="9.936%" stop-color="#FFF" stop-opacity=".9"/>
+      <stop offset="52.356%" stop-color="#FFF" stop-opacity=".7"/>
+      <stop offset="87.648%" stop-color="#FFF" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".5"/>
+    </linearGradient>
+    <path id="drive-optical-d" d="M3.77867661e-09,84.9942007 C3.16123574e-09,80.0268408 4.02713307,76 9.00988618,76 L82.9901138,76 C87.9661366,76 92,80.0266167 92,84.9942005 L92,95.0057992 C92,99.973159 87.9728669,104 82.9901138,104 L9.00988619,104 C4.03386345,104 5.64058313e-09,99.9733835 5.0231144e-09,95.0057996 L3.77867661e-09,84.9942007 Z"/>
+    <filter id="drive-optical-e" width="101.1%" height="103.6%" x="-.5%" y="-1.8%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="drive-optical-f" cx="48.239%" cy="19.103%" r="78.654%" fx="48.239%" fy="19.103%" gradientTransform="matrix(0 1 -.77841 0 .631 -.291)">
+      <stop offset="0%" stop-color="#7CFFFE"/>
+      <stop offset="100%" stop-color="#D6CDE6"/>
+    </radialGradient>
+    <path id="drive-optical-g" d="M-2.13140083e-09,98 C-2.13140083e-09,92.4771525 4.46844219,88 9.99878601,88 L82.0012108,88 C87.5233878,88 91.9999968,92.4759382 91.9999968,98 L91.9999968,98 C91.9999968,103.522847 87.5315546,108 82.0012108,108 L9.99878601,108 C4.47660898,108 -2.13140083e-09,103.524062 -2.13140083e-09,98 L-2.13140083e-09,98 Z"/>
+    <filter id="drive-optical-h" width="101.1%" height="105%" x="-.5%" y="-2.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0.239215686   0 0 0 0 0.611764706  0 0 0 0.2 0"/>
+    </filter>
+    <path id="drive-optical-j" d="M7.00307313,98.2157648 C7.00133297,97.065677 7.7222815,96.1327128 8.62905587,96.1319172 L83.3704401,96.0663393 C84.2701857,96.0655498 85.0009844,96.9973128 85.0027245,98.1473281 L85.0023759,97.9169128 C85.004116,99.0670006 84.2831675,99.9999648 83.3763931,100.00076 L8.63500889,100.066338 C7.73526326,100.067128 7.00446454,99.1353648 7.00272449,97.9853495 L7.00307313,98.2157648 L7.00307313,98.2157648 Z"/>
+    <filter id="drive-optical-i" width="101.3%" height="150%" x="-.6%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <filter id="drive-optical-k" width="101.3%" height="150%" x="-.6%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.031372549   0 0 0 0 0.380392157   0 0 0 0 1  0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#drive-optical-a)" transform="translate(18 10)">
+      <path fill="url(#drive-optical-b)" d="M-3.48450158e-10,16.0022588 C-3.48450158e-10,7.16445529 7.1616376,4.06657819e-10 15.9988959,4.06657819e-10 L76.0011022,4.06657819e-10 C84.8370484,4.06657819e-10 91.9999982,7.16764125 91.9999984,16.0022588 L92,99.9437452 L-3.48450158e-10,99.9437452 L-3.48450158e-10,16.0022588 Z"/>
+      <use fill="url(#drive-optical-c)" xlink:href="#drive-optical-d"/>
+      <use fill="#000" filter="url(#drive-optical-e)" xlink:href="#drive-optical-d"/>
+      <use fill="url(#drive-optical-f)" xlink:href="#drive-optical-g"/>
+      <use fill="#000" filter="url(#drive-optical-h)" xlink:href="#drive-optical-g"/>
+      <use fill="#000" filter="url(#drive-optical-i)" xlink:href="#drive-optical-j"/>
+      <use fill="#009CFF" xlink:href="#drive-optical-j"/>
+      <use fill="#000" filter="url(#drive-optical-k)" xlink:href="#drive-optical-j"/>
+    </g>
+    <g transform="translate(43 29)">
+      <path d="M21.5026875 3.1524375C24.1875 3.1524375 26.729875 3.7436875 29.0276875 4.7810625L29.062625 4.703125C26.746 3.6523125 24.1848125 3.0503125 21.4811875 3.0503125 11.31975 3.0503125 3.0556875 11.31975 3.0556875 21.48925 3.0556875 24.192875 3.655 26.75675 4.7058125 29.073375L4.8025625 29.030375C3.7625 26.729875 3.1685625 24.182125 3.1685625 21.4919375 3.165875 11.36275 11.3761875 3.1524375 21.5026875 3.1524375L21.5026875 3.1524375zM38.200125 13.9400625C39.2455625 16.2459375 39.8395 18.796375 39.8395 21.4919375 39.8395 31.6184375 31.6291875 39.82875 21.5026875 39.82875 18.80175 39.82875 16.2459375 39.2294375 13.937375 38.1813125L13.894375 38.275375C16.211 39.3261875 18.774875 39.9281875 21.4785 39.9281875 31.6399375 39.9281875 39.904 31.65875 39.904 21.48925 39.904 18.785625 39.3046875 16.227125 38.2565625 13.9105L38.200125 13.9400625 38.200125 13.9400625z"/>
+      <circle cx="21.481" cy="21.489" r="3.075" fill="#FFF"/>
+      <path fill="#FFF" d="M31.180375 17.5574375L39.2885625 13.44825C37.329375 9.1240625 33.846375 5.6464375 29.5195 3.692625L25.472125 11.6664375C28.030625 12.8758125 31.191125 17.5843125 31.180375 17.5574375L31.180375 17.5574375zM12.1045 25.241L3.7114375 29.5221875C5.6625625 33.8383125 9.132125 37.3105625 13.4455625 39.26975L17.7831875 31.1078125C15.2623125 29.9145625 13.2359375 27.8344375 12.1045 25.241L12.1045 25.241z" opacity=".5"/>
+      <path fill="#FFF" d="M31.3685,17.119375 C31.4882,17.398875 31.55204,17.70525 31.65046,17.9981875 C31.5547,17.70525 31.48554,17.4015625 31.3685,17.119375 L31.3685,17.119375 Z"/>
+      <circle cx="21.511" cy="21.492" r="20.156" stroke="#FFF" stroke-width="2.66"/>
+      <circle cx="21.511" cy="21.492" r="9.406" stroke="#FFF" stroke-width="2.66"/>
+    </g>
+  </g>
+</svg>

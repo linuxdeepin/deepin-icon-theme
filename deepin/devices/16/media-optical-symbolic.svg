@@ -1,8 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#536076; } .ColorScheme-Highlight { color:#ffffff; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M8,1 C11.8659932,1 15,4.13400675 15,8 C15,11.8659932 11.8659932,15 8,15 C4.13400675,15 1,11.8659932 1,8 C1,4.13400675 4.13400675,1 8,1 Z M8,5 C6.34314575,5 5,6.34314575 5,8 C5,9.65685425 6.34314575,11 8,11 C9.65685425,11 11,9.65685425 11,8 C11,6.34314575 9.65685425,5 8,5 Z M8,6 C9.1045695,6 10,6.8954305 10,8 C10,9.1045695 9.1045695,10 8,10 C6.8954305,10 6,9.1045695 6,8 C6,6.8954305 6.8954305,6 8,6 Z M8,7 C7.44771525,7 7,7.44771525 7,8 C7,8.55228475 7.44771525,9 8,9 C8.55228475,9 9,8.55228475 9,8 C9,7.44771525 8.55228475,7 8,7 Z M8,3 C5.23857625,3 3,5.23857625 3,8 C3,8.27614237 3.22385763,8.5 3.5,8.5 C3.77614237,8.5 4,8.27614237 4,8 C4,5.790861 5.790861,4 8,4 C8.27614237,4 8.5,3.77614237 8.5,3.5 C8.5,3.22385763 8.27614237,3 8,3 Z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>media-optical-symbolic-normal-16px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="media-optical-symbolic-normal-16px">
+            <rect id="Rectangle-1" fill-opacity="0.5" fill="#A1A1A1" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <g id="Group" transform="translate(1.000000, 1.000000)" stroke="#303030" stroke-linecap="round" stroke-linejoin="round">
+                <circle id="Oval-14" cx="7" cy="7" r="6.5"></circle>
+                <path d="M7,9.5 C8.38071187,9.5 9.5,8.38071187 9.5,7 C9.5,5.61928813 8.38071187,4.5 7,4.5 C5.61928813,4.5 4.5,5.61928813 4.5,7 C4.5,8.38071187 5.61928813,9.5 7,9.5 Z" id="Oval-14"></path>
+                <path d="M7,2.5 C4.51471863,2.5 2.5,4.51471863 2.5,7" id="Oval-14"></path>
+            </g>
+        </g>
+    </g>
 </svg>
