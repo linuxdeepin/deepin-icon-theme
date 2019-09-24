@@ -1,23 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>deepin-screen-recorder</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FF7C44" offset="0%"></stop>
-            <stop stop-color="#FF4E5A" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="deepin-screen-recorder">
-            <g id="Group" transform="translate(0.000000, 3.000000)">
-                <image id="Bitmap" x="0.186741731" y="0.801718744" width="47" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAArCAYAAADottG6AAAABGdBTUEAA1teXP8meAAAAmpJREFUWAnVmNtu2zAMQJut2x4G7P+/s0/tbh2P0kNQspulQNbRBFhSlBwd0rTc5HTXV04L2vMyvrtfA+8wXqHWsQjGV+gc3xreDQGovkBa5wTB6rtmtbD+qsFr4d3Ma9fxXlyYa8C8/pKF9Xeon5ttU2GqXz/MuBffCqruccl3/1xDNgTVCiRkLv7PjoyJ8eEF3CS8Ld3AAd4wCf85Jj+xorEAP1UfeORjKAl0FuDlHZx1QAKdxcono/D0end4GDdtQ0abrDK9Pg4vKIs9qBxs+qkPc5LAOInw3JLDCfC2DfAm0zkR+n6IsCRAT137v8756vf/O7WO8LQN2h2ecuWJIzwZHQEezqltCAjf/azfwAf7ECa8Ey+hdobuSMZ0IngU+Fd7vibTruwBROWnnhdy6ieDzSyMKbXSTmRmuaqfMxiFB5xbgu1+4mQphScA+KHesiv8kV5Upz347m1Dhwxu4QmoR4CfHthgH0LbdIf3rN+0DdXvflTm10Hb5lz3c+t0h6fAQ1Z4b4nzrW2F94EFuMa7JjD1PJAkcJSzflNhwLu/ZXkmx4m4fmftUHlalh99q8KJMvcj9CF0+sJtz1P9f3XWr0CMBWNPfCprEbV2xPeYewwlgWcWr8IFb31gL1WLPQBDLVCFqmD4e+p1zP0MpbU38H4oP3d73rP5WjFiQmFfqxabPYXuARFzvwqnX20sHWsnKyBBhAp+Cf0W+jUUaMQPqhBkX8erX6/Z84kh2vPo72PXZXUNkAyVJAHUW13B2IzxHhBxRCBtjY0FZY3jN9u18oxR7gCKL6Q2QgmHj1TIvfFYdOs/fwAZtMqbQ4xnrwAAAABJRU5ErkJggg=="></image>
-                <rect id="Rectangle-183" fill="url(#linearGradient-1)" transform="translate(24.000000, 21.500000) rotate(-6.000000) translate(-24.000000, -21.500000) " x="4" y="4" width="40" height="35" rx="1"></rect>
-                <path d="M28.0054865,18.5116359 L34.0613247,15.5472284 C34.5606126,15.3028208 34.9667466,15.5521787 34.9684471,16.1031916 L35.0024049,27.1061869 C35.0041068,27.6576445 34.6014583,27.9128141 34.098751,27.6740756 L28.0054865,24.7803513 L28.0054865,26.1019291 C28.0054865,27.208023 27.1154281,28.1046892 26.0053804,28.1046892 L13.0055927,28.1046892 C11.9009646,28.1046892 11.0054865,27.2111466 11.0054865,26.1019291 L11.0054865,17.1074494 C11.0054865,16.0013555 11.8955449,15.1046892 13.0055927,15.1046892 L26.0053804,15.1046892 C27.1100085,15.1046892 28.0054865,15.9982319 28.0054865,17.1074494 L28.0054865,18.5116359 Z M28.0054865,18.5116359 L22.4095274,21.250927 C21.908314,21.4962772 21.9114459,21.8862585 22.4122221,22.1240798 L28.0054865,24.7803513 L28.0054865,18.5116359 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(23.003948, 21.604689) rotate(-6.000000) translate(-23.003948, -21.604689) "></path>
-                <polygon id="Path-48" fill="#FFFFFF" opacity="0.3" transform="translate(38.420567, 19.984337) rotate(-6.000000) translate(-38.420567, -19.984337) " points="32.9205675 14.4843373 43.9205675 8.98433728 43.9205675 30.9843373 32.9205675 25.4843373"></polygon>
-            </g>
-            <circle id="Oval" fill="#FFFFFF" cx="38.5" cy="9.5" r="1.5"></circle>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-screenshot&amp;record-a" width="129.5%" height="135.1%" x="-14.8%" y="-17.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-screenshot&amp;record-b" x1="50%" x2="50%" y1="0%" y2="96.107%">
+      <stop offset="0%" stop-color="#F0EDFF"/>
+      <stop offset="100%" stop-color="#BBA7F6"/>
+    </linearGradient>
+    <path id="deepin-screenshot&amp;record-c" d="M39.2071748,20 L39.2071748,26 L32,26 L32,20 L39.2071748,20 Z M6,20 L6,26 L0,26 L0,20 L6,20 Z M38,0 L38,6 L32,6 L32,0 L38,0 Z M6,0 L6,6 L-7.10542736e-15,6 L-7.10542736e-15,0 L6,0 Z"/>
+    <linearGradient id="deepin-screenshot&amp;record-g" x1="39.277%" x2="39.277%" y1="15.304%" y2="105.982%">
+      <stop offset="0%" stop-color="#6B6386"/>
+      <stop offset="72.102%" stop-color="#302B42"/>
+      <stop offset="100%" stop-color="#72639E"/>
+    </linearGradient>
+    <linearGradient id="deepin-screenshot&amp;record-h" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".15"/>
+      <stop offset="100%" stop-opacity=".328"/>
+    </linearGradient>
+    <circle id="deepin-screenshot&amp;record-f" cx="12" cy="12" r="12"/>
+    <filter id="deepin-screenshot&amp;record-e" width="116.7%" height="116.7%" x="-8.3%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <radialGradient id="deepin-screenshot&amp;record-i" cx="50%" cy="91.243%" r="23.464%" fx="50%" fy="91.243%" gradientTransform="matrix(0 1 -1.57176 0 1.934 .412)">
+      <stop offset="0%" stop-color="#8462FF"/>
+      <stop offset="100%" stop-color="#232129"/>
+    </radialGradient>
+    <circle id="deepin-screenshot&amp;record-j" cx="12" cy="12" r="8"/>
+    <radialGradient id="deepin-screenshot&amp;record-k" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#F53E84"/>
+      <stop offset="100%" stop-color="#4F2CA2"/>
+    </radialGradient>
+    <linearGradient id="deepin-screenshot&amp;record-l" x1="100%" x2="0%" y1="27.849%" y2="67.669%">
+      <stop offset="0%" stop-color="#4B003F"/>
+      <stop offset="14.589%" stop-color="#33036D"/>
+      <stop offset="51.448%" stop-color="#C30B9D"/>
+      <stop offset="80.605%" stop-color="#591A85"/>
+      <stop offset="100%" stop-color="#470437"/>
+    </linearGradient>
+    <linearGradient id="deepin-screenshot&amp;record-m" x1="50%" x2="50%" y1="0%" y2="50%">
+      <stop offset="0%" stop-color="#FEE" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#FF578A" stop-opacity=".7"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-screenshot&amp;record-a)" transform="translate(2 6)">
+    <path fill="url(#deepin-screenshot&amp;record-b)" d="M10.0813636,2.70486767 L10.2744126,2.29513233 L10.2744126,2.29513233 C10.9345276,0.894075958 12.3441193,-8.8817842e-16 13.8928965,-8.8817842e-16 L30.1071035,-8.8817842e-16 C31.6558807,-8.8817842e-16 33.0654724,0.894075958 33.7255874,2.29513233 L33.9186364,2.70486767 C34.5787514,4.10592404 35.9883431,5 37.5371204,5 L38,5 L38,5 C41.3137085,5 44,7.6862915 44,11 L44,31 C44,34.3137085 41.3137085,37 38,37 L6,37 C2.6862915,37 0,34.3137085 0,31 L0,11 C0,7.6862915 2.6862915,5 6,5 L6.46287965,5 C8.01165685,5 9.42124857,4.10592404 10.0813636,2.70486767 Z"/>
+    <g transform="translate(3 8)">
+      <mask id="deepin-screenshot&amp;record-d" fill="#fff">
+        <use xlink:href="#deepin-screenshot&amp;record-c"/>
+      </mask>
+      <path stroke="#000" stroke-opacity=".4" d="M3,0.5 C1.61928813,0.5 0.5,1.61928813 0.5,3 L0.5,23 C0.5,24.3807119 1.61928813,25.5 3,25.5 L35,25.5 C36.3807119,25.5 37.5,24.3807119 37.5,23 L37.5,3 C37.5,1.61928813 36.3807119,0.5 35,0.5 L3,0.5 Z" mask="url(#deepin-screenshot&amp;record-d)"/>
     </g>
+    <circle cx="37" cy="12" r="1" fill="#F55" stroke="#D51818"/>
+    <g transform="translate(10 9)">
+      <use fill="#000" filter="url(#deepin-screenshot&amp;record-e)" xlink:href="#deepin-screenshot&amp;record-f"/>
+      <circle cx="12" cy="12" r="11.5" fill="url(#deepin-screenshot&amp;record-g)" stroke="url(#deepin-screenshot&amp;record-h)" stroke-linejoin="square"/>
+      <use fill="url(#deepin-screenshot&amp;record-i)" xlink:href="#deepin-screenshot&amp;record-j"/>
+      <circle cx="12" cy="12" r="8.5" stroke="#000"/>
+      <circle cx="12" cy="12" r="7.5" stroke="#FFF" stroke-linejoin="square" stroke-opacity=".05"/>
+      <circle cx="12" cy="12" r="5.5" fill="url(#deepin-screenshot&amp;record-k)" stroke="#080808"/>
+      <circle cx="12" cy="12" r="3.5" fill="url(#deepin-screenshot&amp;record-l)"/>
+      <circle cx="12" cy="12" r="2.5" fill="#38000E"/>
+      <ellipse cx="11.5" cy="9" fill="url(#deepin-screenshot&amp;record-m)" opacity=".5" rx="4.5" ry="4"/>
+    </g>
+  </g>
 </svg>
