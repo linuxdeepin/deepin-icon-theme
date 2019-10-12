@@ -1,13 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>go-next</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="go-next" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="28" transform="translate(12.000000, 11.500000) scale(-1, 1) translate(-12.000000, -11.500000) translate(6.000000, 5.000000)" fill="#303030" fill-rule="nonzero">
-            <rect id="Rectangle" x="2" y="6" width="10" height="1"></rect>
-            <path d="M3.61120929,9.16832593 L10.6112093,9.16832593 L10.6112093,10.1683259 L3.61120929,10.1683259 L2.61120929,10.1683259 L2.61120929,2.16832593 L3.61120929,2.16832593 L3.61120929,9.16832593 Z" id="Combined-Shape" transform="translate(6.257656, 6.521879) rotate(45.000000) translate(-6.257656, -6.521879) "></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#536076; } .ColorScheme-Highlight { color:#ffffff; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M5.7576559,0.865025069 L6.46476268,1.57213185 L2.03680165,5.99902507 L11,6 L11,7 L1.99280165,6.99902507 L6.46476268,11.4716268 L5.7576559,12.1787336 L0.100801646,6.52187932 L5.7576559,0.865025069 Z" transform="matrix(-1 0 0 1 17 5)"/>
 </svg>

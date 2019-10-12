@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>distribute-unclump</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="distribute-unclump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M5,6.0097656 L5,18.009766 L7,18.009766 L7,6.0097656 L5,6.0097656 Z M4,5.0097656 L8,5.0097656 L8,19.009766 L4,19.009766 L4,5.0097656 Z" id="Path" fill="#303030" fill-rule="nonzero"></path>
-        <path d="M15,6.0097656 L15,8.0097656 L18,8.0097656 L18,6.0097656 L15,6.0097656 Z M14,5.0097656 L19,5.0097656 L19,9.0097656 L14,9.0097656 L14,5.0097656 Z" id="Path" fill="#303030" fill-rule="nonzero"></path>
-        <polygon id="Path" fill="#303030" fill-rule="nonzero" points="9 6.0097656 9 7.0097656 13 7.0097656 13 6.0097656"></polygon>
-        <polygon id="Path" fill="#303030" fill-rule="nonzero" points="16 10.0097656 16 14.009766 17 14.009766 17 10.0097656"></polygon>
-        <path d="M15,18.009766 L18,18.009766 L18,16.009766 L15,16.009766 L15,18.009766 Z M14,15.009766 L19,15.009766 L19,19.009766 L14,19.009766 L14,15.009766 Z" id="Path" fill="#303030" fill-rule="nonzero"></path>
-        <polygon id="Path" fill="#303030" fill-rule="nonzero" points="9 17.009766 9 18.009766 13 18.009766 13 17.009766"></polygon>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#536076" fill-rule="nonzero" d="M5 6.0097656L5 18.0097656 7 18.0097656 7 6.0097656 5 6.0097656zM4 5.0097656L8 5.0097656 8 19.0097656 4 19.0097656 4 5.0097656zM15 6.0097656L15 8.0097656 18 8.0097656 18 6.0097656 15 6.0097656zM14 5.0097656L19 5.0097656 19 9.0097656 14 9.0097656 14 5.0097656z"/>
+    <polygon fill="#536076" fill-rule="nonzero" points="9 6.01 9 7.01 13 7.01 13 6.01"/>
+    <polygon fill="#536076" fill-rule="nonzero" points="16 10.01 16 14.01 17 14.01 17 10.01"/>
+    <path fill="#536076" fill-rule="nonzero" d="M15,18.009766 L18,18.009766 L18,16.009766 L15,16.009766 L15,18.009766 Z M14,15.009766 L19,15.009766 L19,19.009766 L14,19.009766 L14,15.009766 Z"/>
+    <polygon fill="#536076" fill-rule="nonzero" points="9 17.01 9 18.01 13 18.01 13 17.01"/>
+  </g>
 </svg>

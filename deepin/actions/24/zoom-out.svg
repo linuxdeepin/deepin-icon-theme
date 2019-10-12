@@ -1,13 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>zoom-out</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="zoom-out" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="152" transform="translate(6.000000, 6.000000)" fill="#303030" fill-rule="nonzero">
-            <path d="M0.916666667,0 L10.0833333,0 C10.5911667,0 11,0.408833333 11,0.916666667 L11,10.0833333 C11,10.5911667 10.5911667,11 10.0833333,11 L0.916666667,11 C0.408833333,11 0,10.5911667 0,10.0833333 L0,0.916666667 C0,0.408833333 0.408833333,0 0.916666667,0 Z M0.916666667,0.916666667 L0.916666667,10.0833333 L10.0833333,10.0833333 L10.0833333,0.916666667 L0.916666667,0.916666667 Z" id="Combined-Shape"></path>
-            <polygon id="Path" points="3 5 8 5 8 6 3 6"></polygon>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#536076" fill-rule="nonzero" d="M7,7 L7,16 L16,16 L16,7 L7,7 Z M6.91666667,6 L16.0833333,6 C16.5911667,6 17,6.40883333 17,6.91666667 L17,16.0833333 C17,16.5911667 16.5911667,17 16.0833333,17 L6.91666667,17 C6.40883333,17 6,16.5911667 6,16.0833333 L6,6.91666667 C6,6.40883333 6.40883333,6 6.91666667,6 Z"/>
+    <polygon fill="#536076" fill-rule="nonzero" points="9 11 14 11 14 12 9 12"/>
+  </g>
 </svg>

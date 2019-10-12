@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>distribute-horizontal-left</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="distribute-horizontal-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="218" transform="translate(4.000000, 5.000000)" fill="#303030" fill-rule="nonzero">
-            <path d="M9,0 L10,0 L10,2 L16,2 L16,6 L10,6 L10,8 L16,8 L16,12 L10,12 L10,14 L9,14 L9,0 Z M10,3 L10,5 L15,5 L15,3 L10,3 Z M10,9 L10,11 L15,11 L15,9 L10,9 Z" id="Combined-Shape"></path>
-            <path d="M0,0 L1,0 L1,2 L7,2 L7,6 L1,6 L1,8 L7,8 L7,12 L1,12 L1,14 L0,14 L0,0 Z M1,3 L1,5 L6,5 L6,3 L1,3 Z M1,9 L1,11 L6,11 L6,9 L1,9 Z" id="Combined-Shape-Copy"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path fill="#536076" d="M10 0L10 2 16 2 16 6 10 6 10 8 16 8 16 12 10 12 10 14 9 14 9 0 10 0zM15 9L10 9 10 11 15 11 15 9zM15 3L10 3 10 5 15 5 15 3zM1 0L1 2 7 2 7 6 1 6 1 8 7 8 7 12 1 12 1 14 0 14 0 0 1 0zM6 9L1 9 1 11 6 11 6 9zM6 3L1 3 1 5 6 5 6 3z" transform="translate(4 5)"/>
 </svg>

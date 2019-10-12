@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>go-up</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="go-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="28" transform="translate(11.500000, 12.000000) rotate(90.000000) translate(-11.500000, -12.000000) translate(5.500000, 5.500000)" fill="#303030" fill-rule="nonzero">
-            <rect id="Rectangle" x="2" y="6" width="10" height="1"></rect>
-            <path d="M3.61120929,9.16832593 L10.6112093,9.16832593 L10.6112093,10.1683259 L3.61120929,10.1683259 L2.61120929,10.1683259 L2.61120929,2.16832593 L3.61120929,2.16832593 L3.61120929,9.16832593 Z" id="Combined-Shape" transform="translate(6.257656, 6.521879) rotate(45.000000) translate(-6.257656, -6.521879) "></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path fill="#536076" d="M5.7576559,0.865025069 L6.46476268,1.57213185 L2.03680165,5.99902507 L11,6 L11,7 L1.99280165,6.99902507 L6.46476268,11.4716268 L5.7576559,12.1787336 L0.100801646,6.52187932 L5.7576559,0.865025069 Z" transform="rotate(90 6 12)"/>
 </svg>
