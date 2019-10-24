@@ -1,10 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="text-x-install-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#079473"/>
+      <stop offset="100%" stop-color="#005F56"/>
+    </linearGradient>
+    <path id="text-x-install-b" d="M22,22 C22,24.209139 20.209139,26 18,26 L4,26 C1.790861,26 2.705415e-16,24.209139 0,22 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L15,0 L22,7 L22,22 Z"/>
+    <filter id="text-x-install-a" width="131.8%" height="126.9%" x="-15.9%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.150370695   0 0 0 0 0.486016757   0 0 0 0 0.407212899  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="text-x-install-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="text-x-install-e" d="M15,0 L22,7 L17.25,7 C16.0073593,7 15,5.99264069 15,4.75 L15,0 L15,0 Z"/>
+    <filter id="text-x-install-d" width="200%" height="200%" x="-50%" y="-35.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
   <g fill="none" fill-rule="evenodd">
-    <g transform="translate(4 3)">
-      <image width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAABGdBTUEAALGOfPtRkwAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="/>
-      <path fill="#005813" d="M22,26 L2,26 C1,26 1,25 1,25 L1,1 C1,1 1,0 2,0 L16,0 L23,7 L23,25 C23,26 22,26 22,26 Z"/>
-      <path fill="#FFF" fill-opacity=".25" d="M17,7.01866667 C16,7.01866667 16,6 16,6 L16,0 L23,7.01866667 L17,7.01866667 Z"/>
+    <g transform="translate(5 3)">
+      <use fill="#000" filter="url(#text-x-install-a)" xlink:href="#text-x-install-b"/>
+      <use fill="url(#text-x-install-c)" xlink:href="#text-x-install-b"/>
+      <use fill="#000" filter="url(#text-x-install-d)" xlink:href="#text-x-install-e"/>
+      <use fill="url(#text-x-install-f)" xlink:href="#text-x-install-e"/>
     </g>
-    <path fill="#FFF" fill-opacity=".6" d="M16,24 C12.1340068,24 9,20.8659932 9,17 C9,13.1340068 12.1340068,10 16,10 C19.8659932,10 23,13.1340068 23,17 C23,20.8659932 19.8659932,24 16,24 Z M16,23 C19.3137085,23 22,20.3137085 22,17 C22,13.6862915 19.3137085,11 16,11 C12.6862915,11 10,13.6862915 10,17 C10,20.3137085 12.6862915,23 16,23 Z M18,13 L18,17 L20.5,17 L16,22 L11.5,17 L14,17 L14,13 L18,13 Z"/>
+    <circle cx="16" cy="17" r="6.5" stroke="#FFF" stroke-opacity=".6"/>
+    <polygon fill="#FFF" fill-opacity=".6" points="18 13 14 13 14 17 11.5 17 16 22 20.5 17 18 17"/>
   </g>
 </svg>

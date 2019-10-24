@@ -1,26 +1,105 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
   <defs>
-    <linearGradient id="folder-desktop-a" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#43A5FF"/>
-      <stop offset="100%" stop-color="#005BD5"/>
+    <filter id="folder-desktop-a" width="128.8%" height="133.3%" x="-14.4%" y="-16.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="folder-desktop-c" x1="50%" x2="50%" y1="0%" y2="37.968%">
+      <stop offset="0%" stop-color="#147ADD"/>
+      <stop offset="100%" stop-color="#0D00E9"/>
     </linearGradient>
-    <linearGradient id="folder-desktop-b" x1="57.154%" x2="57.154%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#008ECF"/>
-      <stop offset="100%" stop-color="#0088D3"/>
+    <path id="folder-desktop-b" d="M62,6 C63.5138782,9.63330765 67.0639167,12 71,12 L97,12 C104.731986,12 111,18.2680135 111,26 L111,82 C111,89.7319865 104.731986,96 97,96 L14,96 C6.2680135,96 -5.58965236e-14,89.7319865 -5.68434189e-14,82 L-5.68434189e-14,14 C-5.77903141e-14,6.2680135 6.2680135,-2.70013666e-14 14,-2.84217094e-14 L53,-2.84217094e-14 C56.9360833,-2.91447562e-14 60.4861218,2.36669235 62,6 Z"/>
+    <linearGradient id="folder-desktop-g" x1="50%" x2="50%" y1="0%" y2="77.929%">
+      <stop offset="0%" stop-color="#B5B7B8"/>
+      <stop offset="100%" stop-color="#80B0BD"/>
     </linearGradient>
+    <rect id="folder-desktop-f" width="101" height="41.5" x="5" y="16" rx="9"/>
+    <filter id="folder-desktop-e" width="117.8%" height="143.4%" x="-8.9%" y="-21.7%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="folder-desktop-h" width="113.9%" height="133.7%" x="-6.9%" y="-16.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.82745098   0 0 0 0 0.82745098   0 0 0 0 0.82745098  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="folder-desktop-i" cx="50%" cy="0%" r="117.589%" fx="50%" fy="0%" gradientTransform="scale(.65766 1) rotate(84.615 .63 .143)">
+      <stop offset="0%" stop-color="#1D95E9"/>
+      <stop offset="100%" stop-color="#0B43D8"/>
+    </radialGradient>
+    <linearGradient id="folder-desktop-l" x1="52.084%" x2="52.084%" y1="4.908%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".6"/>
+    </linearGradient>
+    <path id="folder-desktop-j" d="M5.68434189e-14,3.99789262 C5.68434189e-14,1.78991749 1.79426827,0 4.00718972,0 L45.9928103,0 C48.2059201,0 50,1.7837733 50,3.99789262 L50,31.0021074 C50,33.2100825 48.2057317,35 45.9928103,35 L4.00718972,35 C1.79407995,35 5.68434189e-14,33.2162267 5.68434189e-14,31.0021074 L5.68434189e-14,3.99789262 Z"/>
+    <filter id="folder-desktop-k" width="152%" height="174.3%" x="-26%" y="-31.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="folder-desktop-m" x1=".258%" x2="100%" y1="49.75%" y2="49.75%">
+      <stop offset="0%" stop-color="#9005FF"/>
+      <stop offset="45.847%" stop-color="#E7F100"/>
+      <stop offset="100%" stop-color="#06B9FF"/>
+    </linearGradient>
+    <linearGradient id="folder-desktop-q" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F5515F"/>
+      <stop offset="100%" stop-color="#AF001A"/>
+    </linearGradient>
+    <rect id="folder-desktop-p" width="5" height="5" x="3" y="3" rx="2"/>
+    <filter id="folder-desktop-o" width="620%" height="620%" x="-260%" y="-220%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="folder-desktop-t" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B4EC51"/>
+      <stop offset="100%" stop-color="#429321"/>
+    </linearGradient>
+    <rect id="folder-desktop-s" width="5" height="5" x="3" y="13" rx="2"/>
+    <filter id="folder-desktop-r" width="620%" height="620%" x="-260%" y="-220%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0"/>
+    </filter>
   </defs>
   <g fill="none" fill-rule="evenodd">
-    <g transform="translate(2 19)">
-      <image width="124" height="109" xlink:href="data:image/png;base64,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"/>
-      <path fill="#007CD0" d="M101.995324,4 C103.654761,4 105,5.3439332 105,7.00843101 L105,90.6666667 C105,92.1537649 103.77785,93.3333333 102.3125,93.3333333 L21.6875,93.3333333 C20.2026122,93.3333333 19,92.179218 19,90.6666667 L19,10.9909877 C19,9.33911063 20.3345771,7.99999969 22.0012046,7.99999969 L72.1003874,7.99999982 C73.2012919,7.99999982 74.7236341,7.37499985 75.5150192,6.58974952 L76.7037333,5.4102503 C77.4886779,4.63139057 79.0191806,4 80.1230379,4 L101.995324,4 Z"/>
-      <path fill="#006BAE" d="M102.007435,5.00000002 C103.660183,5.00000002 105,6.33997506 105,7.99858389 L105,90.307368 L19,90.307368 L19,11.9902 C19,10.338758 20.3451892,8.9999997 21.9964297,8.99999971 L73.1048794,8.99999978 C74.2076177,8.99999978 75.7314466,8.37499982 76.5228317,7.5897495 L77.7115458,6.4102503 C78.4964904,5.63139058 80.0232209,5.00000002 81.1410442,5.00000002 L102.007435,5.00000002 Z"/>
-      <path fill="#919191" d="M14,93 L14,15.9900874 C14,14.3387077 15.3387603,13 17.0049479,13 L106.995052,13 C108.654639,13 110,14.3383447 110,15.9900874 L110,93 L14,93 Z"/>
-      <path fill="#626262" d="M14,91.3333333 L14,17.0078236 C14,15.3466485 15.3387603,14 17.0049479,14 L106.995052,14 C108.654639,14 110,15.3422648 110,17.0078236 L110,91.3333333 L14,91.3333333 Z"/>
-      <path fill="url(#folder-desktop-a)" d="M9.99928309,100 C8.34282478,100 7,98.6620071 7,97.0087752 L7,20.9912248 C7,19.339217 8.3511209,18 9.9992831,18 L114.000717,18 C115.657175,18 117,19.3379929 117,20.9912248 L117,97.0087752 C117,98.660783 115.648879,100 114.000717,100 L9.99928309,100 Z"/>
-      <path fill="url(#folder-desktop-b)" d="M9.99928309,99 C8.34282478,99 7,97.6616553 7,96.0099126 L7,21.9900874 C7,20.3387077 8.3511209,19 9.9992831,19 L114.000717,19 C115.657175,19 117,20.3383447 117,21.9900874 L117,96.0099126 C117,97.6612923 115.648879,99 114.000717,99 L9.99928309,99 Z"/>
+    <g filter="url(#folder-desktop-a)" transform="translate(9 22)">
+      <mask id="folder-desktop-d" fill="#fff">
+        <use xlink:href="#folder-desktop-b"/>
+      </mask>
+      <use fill="url(#folder-desktop-c)" xlink:href="#folder-desktop-b"/>
+      <g mask="url(#folder-desktop-d)">
+        <use fill="#000" filter="url(#folder-desktop-e)" xlink:href="#folder-desktop-f"/>
+        <use fill="url(#folder-desktop-g)" xlink:href="#folder-desktop-f"/>
+        <use fill="#000" filter="url(#folder-desktop-h)" xlink:href="#folder-desktop-f"/>
+      </g>
+      <g fill="url(#folder-desktop-i)" mask="url(#folder-desktop-d)">
+        <path d="M0,0 L111,0 L111,59 C111,66.7319865 104.731986,73 97,73 L14,73 C6.2680135,73 9.46895252e-16,66.7319865 0,59 L0,0 L0,0 Z" transform="translate(0 23)"/>
+      </g>
     </g>
-    <path fill="#0062BA" d="M41,93 C41,93 41,95 43,95 L84,95 C86,95 86,93 86,93 L86,61 C86,61 86,59 84,59 L43,59 C43,59 41,59 41,61 L41,93 Z M79,92 L44,92 L44,62 L79,62.0400009 L79,92 Z M77,88.5 C77,87 75.53968,87 75.53968,87 L47.526984,87 C47.526984,87 46,87 46,88.5 C46,90 47.526984,90 47.526984,90 L75.53968,90 C75.53968,90 77,90 77,88.5 Z"/>
-    <path fill="#0057A8" d="M44,92 L79,92 L79,93 L44,93 L44,92 Z M46.067042,89 C46.0244041,88.8552858 46,88.6896293 46,88.5 C46,87 47.526984,87 47.526984,87 L75.53968,87 C75.53968,87 77,87 77,88.5 C77,88.6896293 76.9766613,88.8552858 76.9358849,89 C76.6541127,88 75.53968,88 75.53968,88 L47.526984,88 C47.526984,88 46.3616771,88 46.067042,89 Z M86,61 L86,62 C86,62 86,60 84,60 L43,60 C43,60 41,60 41,62 L41,61 C41,59 43,59 43,59 L84,59 C86,59 86,61 86,61 Z"/>
-    <path fill="#32A2FB" fill-opacity=".5" d="M46.067042,89 C46.3616771,90 47.526984,90 47.526984,90 L75.53968,90 C75.53968,90 76.6541127,90 76.9358849,89 C76.9766613,89.1447142 77,89.3103707 77,89.5 C77,91 75.53968,91 75.53968,91 L47.526984,91 C47.526984,91 46,91 46,89.5 C46,89.3103707 46.0244041,89.1447142 46.067042,89 Z M44,62 L79,62 L79,63 L44,63 L44,62 Z M86,94 C86,94 86,96 84,96 L43,96 C43,96 41,96 41,94 L41,93 C41,95 43,95 43,95 L84,95 C86,95 86,93 86,93 L86,94 Z"/>
+    <g opacity=".6" transform="translate(39 62)">
+      <mask id="folder-desktop-n" fill="#fff">
+        <use xlink:href="#folder-desktop-j"/>
+      </mask>
+      <use fill="#000" filter="url(#folder-desktop-k)" xlink:href="#folder-desktop-j"/>
+      <use fill="url(#folder-desktop-l)" xlink:href="#folder-desktop-j"/>
+      <rect width="46" height="5" x="2" y="28" fill="url(#folder-desktop-m)" mask="url(#folder-desktop-n)" rx="2"/>
+      <g mask="url(#folder-desktop-n)">
+        <use fill="#000" filter="url(#folder-desktop-o)" xlink:href="#folder-desktop-p"/>
+        <use fill="url(#folder-desktop-q)" xlink:href="#folder-desktop-p"/>
+      </g>
+      <g mask="url(#folder-desktop-n)">
+        <use fill="#000" filter="url(#folder-desktop-r)" xlink:href="#folder-desktop-s"/>
+        <use fill="url(#folder-desktop-t)" xlink:href="#folder-desktop-s"/>
+      </g>
+    </g>
   </g>
 </svg>

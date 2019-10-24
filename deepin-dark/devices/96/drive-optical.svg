@@ -1,25 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
   <defs>
-    <linearGradient id="drive-optical-a" x1="50%" x2="50%" y1="0%" y2="93.905%">
-      <stop offset="0%" stop-color="#08957A"/>
-      <stop offset="1.942%" stop-color="#01617A"/>
-      <stop offset="100%" stop-color="#006F6C"/>
+    <filter id="drive-optical-a" width="135.3%" height="130%" x="-17.6%" y="-15%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="drive-optical-b" x1="102.549%" x2="-2.652%" y1="57.682%" y2="57.682%">
+      <stop offset="0%" stop-color="#00285D"/>
+      <stop offset="4.571%" stop-color="#17A167"/>
+      <stop offset="9.931%" stop-color="#138D6D"/>
+      <stop offset="88.945%" stop-color="#0B673E"/>
+      <stop offset="93.793%" stop-color="#19734E"/>
+      <stop offset="100%" stop-color="#002472"/>
     </linearGradient>
-    <linearGradient id="drive-optical-b" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#5F5F5F"/>
-      <stop offset="100%" stop-color="#2C2C2C"/>
+    <linearGradient id="drive-optical-c" x1="100%" x2="0%" y1="56.43%" y2="56.43%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".29"/>
+      <stop offset="8.389%" stop-color="#CDCDCD" stop-opacity=".94"/>
+      <stop offset="52.356%" stop-color="#FFF" stop-opacity=".55"/>
+      <stop offset="88.168%" stop-color="#CDCDCD" stop-opacity=".94"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".24"/>
     </linearGradient>
+    <radialGradient id="drive-optical-d" cx="48.239%" cy="19.103%" r="78.654%" fx="48.239%" fy="19.103%" gradientTransform="matrix(0 1 -.7372 0 .623 -.291)">
+      <stop offset="0%" stop-color="#47A9E0"/>
+      <stop offset="100%" stop-color="#967B99"/>
+    </radialGradient>
+    <rect id="drive-optical-f" width="56" height="2" x="0" y="0" rx="1"/>
+    <filter id="drive-optical-e" width="101.8%" height="200%" x="-.9%" y="-25%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.1 0"/>
+    </filter>
   </defs>
   <g fill="none" fill-rule="evenodd">
-    <g transform="translate(9 5)">
-      <image width="78" height="90" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAABaCAYAAAAW7WCQAAAABGdBTUEAALGOfPtRkwAAAtRJREFUeAHt3cly3DAUQ9F2pm2W+f/fzOQIDCFTkoG9W5dVDMkHyhWdemv1y+M4Xo7Hw6llh4sf/PBa/v97ZgyvesZ7r2ut/M2ninag7a2896oXfRXOGci186oH7jKElOYw+LJIGOrTrP2eDy9XbreViYy0/p1vPzrv8yyuaKqBNpXm8vV4fDzcXaoLT2cJW3fb3n7IQiaykdEYhnPHqds0GUcBu9jp0nEKgDui6SSTHU0Fd5z2CnRea6oz3lxkNIaQLOmi13mFZRoJYrc6d5cDtI4CF5cz3PE6pygAXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131ieobzF+XjAzcNLi6Cc3F8NX6e+fr0W4fIYrUZXmvHqaAPomt+3+b6kwXb8ZZDBrKwiwEPOENyu/Rnm9+2+WObevDyZfmt9szDDaSfZtD8Oad9xru7q1wUmrrw10j/S+th1e7yKW/Dqcv07rKQi6adLh3ny9udccmQl09W68KTDuPIwmAC1FnZGGvHqaBQw+ruNtXu1HF6X0MJT3ufB965k3x+b9Ufu8tw1723DgN3kVcVvfe61sZDN/hndNV8T++9qjx+Xmp1WLHWuvYtO9/9yOcV6Pwee/YPNAZo00AQgSIAAAAASUVORK5CYII="/>
-      <path fill="url(#drive-optical-a)" d="M5,5.00079916 C5,3.8957883 5.897203,3 6.99828427,3 L71.0017157,3 C72.1053377,3 73,3.89781616 73,5.00079916 L73,73 L5,73 L5,5.00079916 Z"/>
-      <rect width="68" height="6" x="5" y="62" fill="#00575A"/>
-      <rect width="68" height="12" x="5" y="63" fill="#585858"/>
-      <rect width="68" height="13" x="5" y="70" fill="url(#drive-optical-b)" rx="2"/>
-      <path fill="#3C3C3C" d="M5,72.992017 C5,71.8918564 5.897203,71 6.99828427,71 L71.0017157,71 C72.1053377,71 73,71.9001762 73,72.992017 L73,80.007983 C73,81.1081436 72.102797,82 71.0017157,82 L6.99828427,82 C5.89466234,82 5,81.0998238 5,80.007983 L5,72.992017 Z"/>
-      <path fill="#17CCFF" d="M10.0031314,77.1993724 C10.0013983,76.6018332 10.4839819,76.1174322 11.0813685,76.1174324 L66.918143,76.1174487 C67.51537,76.1174489 68.0009222,76.6015892 68.002656,77.1993894 L68.0021807,77.0354918 C68.0039137,77.633031 67.5213301,78.1174321 66.9239435,78.1174319 L11.087169,78.1174155 C10.4899421,78.1174153 10.0043898,77.633275 10.002656,77.0354748 L10.0031314,77.1993724 L10.0031314,77.1993724 Z"/>
-      <path fill="#13A7F9" d="M10.0208692,77 C10.1129048,76.4976977 10.5520752,76.1174322 11.0813685,76.1174324 L66.918143,76.1174487 C67.4473135,76.1174488 67.8888107,76.4975364 67.983766,77 L10.0208692,77 L10.0208692,77 Z"/>
+    <g filter="url(#drive-optical-a)" transform="translate(14 8)">
+      <rect width="68" height="79" fill="url(#drive-optical-b)" rx="12"/>
+      <rect width="67" height="20" x=".5" y="57.5" fill="url(#drive-optical-c)" stroke="#FFF" stroke-opacity=".2" rx="6"/>
+      <path fill="url(#drive-optical-d)" stroke="#003D9C" stroke-opacity=".2" d="M0.5,73 C0.5,76.5847051 3.41519402,79.5 7.00519134,79.5 L60.9948087,79.5 C64.5830583,79.5 67.5,76.587251 67.5,73 C67.5,69.4152949 64.584806,66.5 60.9948087,66.5 L7.00519134,66.5 C3.41694169,66.5 0.5,69.412749 0.5,73 Z"/>
+      <g transform="translate(6 72)">
+        <use fill="#000" filter="url(#drive-optical-e)" xlink:href="#drive-optical-f"/>
+        <use fill="#105DBA" xlink:href="#drive-optical-f"/>
+      </g>
     </g>
     <g opacity=".6" transform="translate(32 21)">
       <path d="M16.002 2.346C18 2.346 19.892 2.786 21.602 3.558L21.628 3.5C19.904 2.718 17.998 2.27 15.986 2.27 8.424 2.27 2.274 8.424 2.274 15.992 2.274 18.004 2.72 19.912 3.502 21.636L3.574 21.604C2.8 19.892 2.358 17.996 2.358 15.994 2.356 8.456 8.466 2.346 16.002 2.346L16.002 2.346zM28.428 10.374C29.206 12.09 29.648 13.988 29.648 15.994 29.648 23.53 23.538 29.64 16.002 29.64 13.992 29.64 12.09 29.194 10.372 28.414L10.34 28.484C12.064 29.266 13.972 29.714 15.984 29.714 23.546 29.714 29.696 23.56 29.696 15.992 29.696 13.98 29.25 12.076 28.47 10.352L28.428 10.374 28.428 10.374z"/>

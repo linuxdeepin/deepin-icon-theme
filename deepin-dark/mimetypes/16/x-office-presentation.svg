@@ -1,6 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="x-office-presentation-c" x1="50%" x2="50%" y1="0%" y2="99.372%">
+      <stop offset="0%" stop-color="#BB8200"/>
+      <stop offset="100%" stop-color="#916500"/>
+    </linearGradient>
+    <path id="x-office-presentation-b" d="M4.0085302,15 C2.8992496,15 2,14.1029399 2,12.9941413 L2,3.00585866 C2,1.89805351 2.90195036,1 4.0085302,1 L11.9914698,1 C13.1007504,1 14,1.89706013 14,3.00585866 L14,12.9941413 C14,14.1019465 13.0980496,15 11.9914698,15 L4.0085302,15 Z"/>
+    <filter id="x-office-presentation-a" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.874509804   0 0 0 0 0.498039216   0 0 0 0 0.0588235294  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
   <g fill="none" fill-rule="evenodd">
-    <polygon fill="#9E5900" points="2 15 2 1 14 1 14 15"/>
-    <path fill="#FFF" fill-opacity=".6" d="M7.50005054,11.2070562 L5.85355339,12.8535534 C5.65829124,13.0488155 5.34170876,13.0488155 5.14644661,12.8535534 C4.95118446,12.6582912 4.95118446,12.3417088 5.14644661,12.1464466 L6.29289322,11 L4.83762455,11 C4.37385859,11 4,10.6266704 4,10.1602228 L4,5 L3.5,5 C3.22385763,5 3,4.77614237 3,4.5 C3,4.22385763 3.22385763,4 3.5,4 L12.5,4 C12.7761424,4 13,4.22385763 13,4.5 C13,4.77614237 12.7761424,5 12.5,5 L12,5 L12,10.1602228 C12,10.623924 11.6300947,11 11.1623755,11 L9.70710678,11 L10.8535534,12.1464466 C11.0488155,12.3417088 11.0488155,12.6582912 10.8535534,12.8535534 C10.6582912,13.0488155 10.3417088,13.0488155 10.1464466,12.8535534 L8.50005059,11.2071574 L8.50048827,12.9998779 C8.50055568,13.2760203 8.27675272,13.4999326 8.00061035,13.5 C7.72446798,13.5000674 7.50055571,13.2762644 7.5004883,13.0001221 L7.50005054,11.2070562 Z M11,5 L5,5 L5,10 L11,10 L11,5 Z M6.00012068,8.4889043 L5.99987796,6.50006102 C5.99984426,6.22391865 6.22367457,6.0000337 6.49981694,6 C6.77595931,5.9999663 6.99984426,6.22379661 6.99987796,6.49993898 L7.00006102,8 L7.99999999,8 L7.99987797,7.50012204 C7.99981057,7.22397967 8.22361355,7.00006742 8.49975592,7.00000001 C8.77589829,6.99993261 8.99981054,7.22373559 8.99987794,7.49987796 L9.00000001,8 L9.5,8 C9.77614237,8 10,8.22385763 10,8.5 C10,8.77614237 9.77614237,9 9.5,9 L6.5,9 C6.22385763,9 6,8.77614237 6,8.5 C6,8.49629187 6.00004037,8.49259316 6.00012068,8.4889043 Z"/>
+    <g opacity=".9">
+      <use fill="#000" filter="url(#x-office-presentation-a)" xlink:href="#x-office-presentation-b"/>
+      <use fill="url(#x-office-presentation-c)" xlink:href="#x-office-presentation-b"/>
+    </g>
+    <path stroke="#FFF" stroke-opacity=".6" d="M4.5,4.83977723 C4.5,4.65212345 4.64620495,4.5 4.83762455,4.5 L11.1623755,4.5 C11.3488403,4.5 11.5,4.64831543 11.5,4.83977723 L11.5,10.1602228 C11.5,10.3478766 11.3537951,10.5 11.1623755,10.5 L4.83762455,10.5 C4.65115966,10.5 4.5,10.3516846 4.5,10.1602228 L4.5,4.83977723 Z"/>
+    <path stroke="#DAC599" stroke-linecap="round" stroke-linejoin="round" d="M3.5,4.5 L12.5,4.5"/>
+    <path stroke="#D8C599" stroke-linecap="round" stroke-linejoin="round" d="M6.5,8.5 L9.5,8.5"/>
+    <path stroke="#D5C299" stroke-linecap="round" stroke-linejoin="round" d="M7.5,10.5 L5.5,12.5"/>
+    <path stroke="#D5C299" stroke-linecap="round" stroke-linejoin="round" d="M10.5,10.5 L8.5,12.5" transform="matrix(-1 0 0 1 19 0)"/>
+    <path stroke="#D5C299" stroke-linecap="round" stroke-linejoin="round" d="M8,11 L8.00048828,13"/>
+    <path stroke="#D8C499" stroke-linecap="round" stroke-linejoin="round" d="M6.49987796 6.5L6.50012204 8.5M8.49987796 7.5L8.50012204 8.5"/>
   </g>
 </svg>

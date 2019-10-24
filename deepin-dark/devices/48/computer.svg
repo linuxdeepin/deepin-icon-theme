@@ -1,47 +1,78 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>计算机-48px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="6.44132653%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#0E004D" offset="0%"></stop>
-            <stop stop-color="#4735E4" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="计算机-48px">
-            <image id="Bitmap" x="2" y="6" width="44" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAoCAYAAACFFRgXAAAABGdBTUEAA1teXP8meAAAAXVJREFUWAntmGFqwzAMRpN1HWthu0fvf5gdZGMr7bpWz4mCEcSNmQoOSKDElmX5+bN/ue+6rhfH+Gs7BRr6XIUFnyA3Y+BCsEGDDzEvT2PjhY54qwYbjL0CP7dKmnHBmICJtXp3M96BEYWx1QEP2Cv4qsIrQB0QA/jRRxUKh8JGgbgSRhD3bijsLqkpGAobQdy7obC7pKZgKGwEce+Gwu6SmoKhsBHEvRsKu0tqCobCRhD3riqcnjLdq/sWTIw58N63vms12Kb3YaBfxd/EGeAttsZ4l+Nl8ePOpIOM/4rXniZPrd/in+JHFqLAaQz8yB+A0uOgHdcNy7SipQUl4y/LYu3SBnScjcJ4zRfP21nNqck46rNjCngYgmnNJeDpKDVR/3MgKMkCeu/n8mri1EIIVM+Vn60BQK29y4SduM5lQax0Qnq05KkwnBJX8IvgUtPFluSTy/FtRy8B3qunGzhLIs41040U59YCU+w/oBZGwYkvAr4BOQw5TpoeIqkAAAAASUVORK5CYII="></image>
-            <rect id="Rectangle-4" fill="#AFC0C8" x="20" y="37" width="8" height="5"></rect>
-            <rect id="Rectangle-3" fill="#F6FCFF" x="4" y="7" width="40" height="32" rx="2"></rect>
-            <path d="M14,42 C14,41.4477153 14.4553056,41 14.9918031,41 L33.0081969,41 C33.5559546,41 34,41.4438648 34,42 L34,42 C34,42.5522847 33.5446944,43 33.0081969,43 L14.9918031,43 C14.4440454,43 14,42.5561352 14,42 L14,42 Z" id="Rectangle-6" fill="#F6FCFF"></path>
-            <rect id="Rectangle-7" fill="#000000" x="5" y="8" width="38" height="25" rx="0.5"></rect>
-            <rect id="Rectangle-7" fill="url(#linearGradient-1)" x="6" y="9" width="36" height="23"></rect>
-            <g id="Group" transform="translate(6.000000, 15.000000)">
-                <path d="M36,9.39473684 L33,8 L29,3.57894737 L27,4.47368421 L23,0 L21,1.78947368 L19,0 L10.9278093,8.57670263 L3.5,9.39473684 L0,11.1842105 L0,17 L34.9995806,17 C35.552097,17 36,16.5470319 36,16.0057447 L36,9.39473684 Z" id="Path-3" fill="#3612C1"></path>
-                <polygon id="Path-4" fill="#4224CA" points="12 17 31 12.5263158 36 15.2105263 36 17"></polygon>
-                <polygon id="Path-7" fill="#5042EC" points="26.5 9.39473684 29 3.57894737 31 12.5263158"></polygon>
-                <polygon id="Path-10" fill="#AB76EF" points="19 0 16 6 13 9.84210526 8 11.6315789"></polygon>
-                <polygon id="Path-12" fill="#4531D8" points="21 4.47368421 19 5.36842105 24 6.71052632 25 5.9052635 23 3.57894737"></polygon>
-                <polygon id="Path-13" fill="#7365EE" points="20 2.68421053 16 5.99999999 19 5.36842105 23 3.57894737"></polygon>
-                <polygon id="Path-14" fill="#5241EB" points="16 6 18.5 10.4684217 13 9.84210526"></polygon>
-                <polygon id="Path-15" fill="#6C51EF" points="13 9.84210526 8 11.6315789 11 13.6000007"></polygon>
-                <polygon id="Path-5" fill="#3E2BCD" points="5 13.689473 11 13.6000007 12 17"></polygon>
-                <polygon id="Path-5" fill="#593EF3" points="11 13.6000007 20 9.84210526 22 8.05263158 22.5 9.84210526 12 17"></polygon>
-                <polygon id="Path-5" fill="#4735E4" points="0 17 5 13.689473 12 17"></polygon>
-                <polygon id="Path-16" fill="#523DE0" points="20 2.68421053 19 0 17 4"></polygon>
-                <polygon id="Path-6" fill="#654AF8" points="12 17 21 9.84210526 26.5 9.39473684 31 12.5263158"></polygon>
-                <polygon id="Path-8" fill="#7F5EF1" points="22 8.05263158 27 4.47368421 29 3.57894737 26.5 9.39473684 20 10.7368421"></polygon>
-                <polygon id="Path-9" fill="#B57BFF" points="22 8.05263158 20 10.7368421 24.5 8.5 29 3.57894737 27 4.47368421"></polygon>
-                <polygon id="Path-11" fill="#AB76EF" points="23 0 20 2.68421053 23 3.57894737"></polygon>
-                <polygon id="Path-17" fill="#442AE7" points="19 5.36842105 22 8.05263158 20 9.84210526 18.3999996 10.378946"></polygon>
-                <polygon id="Path-18" fill="#7F5EF1" points="8 11.6315789 3.5 9.39473684 11 8.5"></polygon>
-                <polygon id="Path-2" fill="#593EF3" points="3.5 9.39473684 0 11.1842105 8 11.6315789"></polygon>
-                <polygon id="Path-19" fill="#452AC5" points="6 12.0789474 5 13.689473 0 17 0 13.4210526"></polygon>
-                <polygon id="Path-21" fill="#411BCE" points="26.5 9.39473684 26 13.689473 31 12.5263158"></polygon>
-                <polygon id="Path-20" fill="#6F4EE6" points="0 13.4210526 0 11.1842105 8 11.6315789"></polygon>
-            </g>
-            <polygon id="Rectangle-8" fill="#FFFFFF" opacity="0.122959422" points="6 9 15.5 9 28 32 6 32"></polygon>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="computer-a" width="129.5%" height="136.1%" x="-14.8%" y="-18.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="computer-b" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#CFDAFC"/>
+      <stop offset="100%" stop-color="#CDCFD2"/>
+    </linearGradient>
+    <polygon id="computer-c" points="18 32 26 32 26 36 18 36"/>
+    <filter id="computer-d" width="125%" height="150%" x="-12.5%" y="-25%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.305544245   0 0 0 0 0.316030326   0 0 0 0 0.533769248  0 0 0 0.178130463 0"/>
+    </filter>
+    <linearGradient id="computer-e" x1="50%" x2="50%" y1="0%" y2="80.104%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#EBF4FF"/>
+    </linearGradient>
+    <linearGradient id="computer-f" x1="39.599%" x2="75.302%" y1="23.554%" y2="76.446%">
+      <stop offset="0%" stop-color="#D7E4FF"/>
+      <stop offset="100%" stop-color="#F4F9FF"/>
+    </linearGradient>
+    <linearGradient id="computer-h" x1="46.826%" x2="46.826%" y1=".565%" y2="99.664%">
+      <stop offset="0%" stop-color="#4F5D73"/>
+      <stop offset="100%" stop-color="#313A46"/>
+    </linearGradient>
+    <rect id="computer-g" width="42" height="30" x=".5" y=".688" rx="3.5"/>
+    <linearGradient id="computer-j" x1="0%" x2="100%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#A09AD3"/>
+      <stop offset="49.618%" stop-color="#988DD9"/>
+      <stop offset="100%" stop-color="#1654D2"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#computer-a)" transform="translate(2 6)">
+    <use fill="url(#computer-b)" xlink:href="#computer-c"/>
+    <use fill="#000" filter="url(#computer-d)" xlink:href="#computer-c"/>
+    <path fill="url(#computer-e)" d="M14.5,35 L29.5,35 C29.7761424,35 30,35.2238576 30,35.5 C30,35.7761424 29.7761424,36 29.5,36 L14.5,36 C14.2238576,36 14,35.7761424 14,35.5 C14,35.2238576 14.2238576,35 14.5,35 Z"/>
+    <rect width="44" height="32" fill="url(#computer-f)" rx="4.688"/>
+    <g transform="translate(.5 .313)">
+      <mask id="computer-i" fill="#fff">
+        <use xlink:href="#computer-g"/>
+      </mask>
+      <use fill="url(#computer-h)" xlink:href="#computer-g"/>
+      <g mask="url(#computer-i)">
+        <g transform="translate(-.906 -4.813)">
+          <path fill="#1C4186" d="M32.5349688,4.03125 C28.8571011,12.54388 27.3730492,17.2696415 28.0828131,18.2085345 C29.147459,19.6168741 28.7603151,23.1846675 27.3085252,25.1563429 C25.8567353,27.1280182 21.3077936,28.4424684 20.8238636,30.0385866 C20.3399337,31.6347047 8.14489856,32.7613763 6.98346664,34.0758265 C5.82203472,35.3902767 7.85454058,34.9208302 7.85454058,35.3902767 C7.85454058,35.7032411 19.6946937,35.7032411 43.375,35.3902767 L43.375,4.03125 L32.5349688,4.03125 Z"/>
+          <path fill="#E080A9" d="M33.0872682,4.22180482 C34.8947919,4.22180482 34.4751882,6.72361509 31.828457,11.7272356 C27.8583603,19.2326664 26.6963808,22.047203 25.5344012,24.0173785 C24.3724217,25.9875541 19.0466822,33.9620744 16.8195548,34.6187996 C14.5924273,35.2755247 8.39520319,34.8064353 7.13639203,34.8064353 C6.29718459,34.8064353 6.49084785,26.1439173 7.7173818,8.81888119 L16.0449018,0 L33.0872682,4.22180482 Z"/>
+          <path fill="#101852" d="M15.5,5.25 C14.2723818,7.375 13.9170186,10.34375 14.4339105,14.15625 C15.2092483,19.875 10.0726351,25.875 11.1387247,30.1875 C12.2048142,34.5 6.6875,38.71875 6.6875,38.71875 C6.6875,38.71875 4.84375,37.75 1.15625,35.8125 L0.40625,9.65625 L3.57918074,4.5 L15.5,5.25 Z"/>
+          <path fill="#7A6C9F" d="M30.2650491,12.3078802 C28.0726072,13.9145629 26.9763862,15.7077695 26.9763862,17.6875 C26.9763862,21.53125 25.043127,25.84375 21.8532491,26.875 C18.6633713,27.90625 15.3768305,27.625 14.6035268,30.625 C13.830223,33.625 11.5103119,31.1875 10.2536933,32.40625 C8.99707481,33.625 9.29369447,36.25 7.84375,36.71875 C6.87712035,37.03125 13.5124337,36.90625 27.74969,36.34375 C28.6518776,30.53125 30.7784629,26.4375 34.1294456,24.0625 C39.1559198,20.5 29.5862863,19.46875 33.5494678,16.375 C36.1915889,14.3125 36.4771829,10.1875 34.40625,4 L33.339577,7.85403963 C32.8446917,9.64212829 31.7615404,11.2112095 30.2650491,12.3078802 Z"/>
         </g>
+      </g>
+      <g mask="url(#computer-i)">
+        <g transform="translate(2.5 24.688)">
+          <rect width="38" height="4" fill="url(#computer-j)" rx=".938"/>
+          <rect width="2" height="2" x="5" y="1" fill="#00C98F" rx=".469"/>
+          <rect width="2" height="2" x="14" y="1" fill="#75FFAC" rx=".469"/>
+          <rect width="2" height="2" x="8" y="1" fill="#FF7D52" rx=".469"/>
+          <rect width="2" height="2" x="17" y="1" fill="#FFB656" rx=".469"/>
+          <rect width="2" height="2" x="23" y="1" fill="#FF796E" rx=".469"/>
+          <rect width="2" height="2" x="31" y="1" fill="#000" fill-opacity=".3" rx=".469"/>
+          <rect width="2" height="2" x="28" y="1" fill="#000" fill-opacity=".3" rx=".469"/>
+          <rect width="2" height="2" x="34" y="1" fill="#000" fill-opacity=".3" rx=".469"/>
+          <circle cx="3" cy="2" r="1" fill="#326CFF"/>
+          <circle cx="21" cy="2" r="1" fill="#482AC5"/>
+        </g>
+      </g>
     </g>
+  </g>
 </svg>

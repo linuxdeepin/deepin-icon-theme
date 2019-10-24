@@ -1,10 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="application-vnd.ms-powerpoint-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E03A39"/>
+      <stop offset="100%" stop-color="#A42F14"/>
+    </linearGradient>
+    <path id="application-vnd.ms-powerpoint-b" d="M16,17.75 C16,18.9926407 14.9926407,20 13.75,20 L2.25,20 C1.00735931,20 1.52179594e-16,18.9926407 0,17.75 L0,2.25 C-1.52179594e-16,1.00735931 1.00735931,2.28269391e-16 2.25,0 L10.5,0 L16,5.5 L16,17.75 Z"/>
+    <filter id="application-vnd.ms-powerpoint-a" width="143.8%" height="135%" x="-21.9%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.662745098   0 0 0 0 0.105882353   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="application-vnd.ms-powerpoint-f" x1="50%" x2="14.088%" y1="50%" y2="88.513%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-vnd.ms-powerpoint-e" d="M9.5,0 L15,5.64102564 L11.75,5.64102564 C10.5073593,5.64102564 9.5,4.63366633 9.5,3.39102564 L9.5,0 L9.5,0 Z"/>
+    <filter id="application-vnd.ms-powerpoint-d" width="227.3%" height="224.1%" x="-63.6%" y="-44.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
   <g fill="none" fill-rule="evenodd">
-    <g transform="translate(3 1)">
-      <image width="18" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAWCAYAAADNX8xBAAAABGdBTUEAALGOfPtRkwAAAHtJREFUOBHtlEsOwCAIRLG/dNP7n1bbGRMXYqOoW0lmwccnQYMTEQft0AZZzKMoQK8uPhC4dbDiP8idEBvI7Mo8m/MLGwHxugI2CipgM6AE42PJLCgyrE/O4qotUHU8MblmtGbUnkC7gv+I+7dn1Woqzwbu3d7lr0FsxH86jAe4hpwiTgAAAABJRU5ErkJggg=="/>
-      <path fill="#7D0000" d="M16,21 L2,21 C2,21 1,21 1,20 L1,2 C1,1 2,1 2,1 L12.004995,1 L17,6 L17,20 C17,21 16,21 16,21 Z"/>
-      <path fill="#FFF" fill-opacity=".25" d="M13,6 C13,6 12,6 12,5 L12,1 L17,6 L13,6 Z"/>
+    <g transform="translate(5 2)">
+      <use fill="#000" filter="url(#application-vnd.ms-powerpoint-a)" xlink:href="#application-vnd.ms-powerpoint-b"/>
+      <use fill="url(#application-vnd.ms-powerpoint-c)" xlink:href="#application-vnd.ms-powerpoint-b"/>
+      <use fill="#000" filter="url(#application-vnd.ms-powerpoint-d)" xlink:href="#application-vnd.ms-powerpoint-e"/>
+      <use fill="url(#application-vnd.ms-powerpoint-f)" xlink:href="#application-vnd.ms-powerpoint-e"/>
     </g>
-    <path fill="#FFF" fill-opacity=".6" d="M9,4 C8.44771525,4 8,4.44771525 8,5 C8,5.55228475 8.44771525,6 9,6 C9.55228475,6 10,5.55228475 10,5 L9,5 L9,4 Z M8,8 L11,8 L11,7 L8,7 L8,3 L12,3 L12,8.5 C12,8.77614237 11.7761424,9 11.5,9 L8,9 L8,8 Z M0,1.25523702 L7,1.17239551e-13 L7,13 L0,11.744763 L0,1.25523702 Z M1.7109375,3.55078125 L1.7109375,9 L2.6328125,9 L2.6328125,6.80859375 L3.8671875,6.80859375 C4.14583473,6.80859375 4.39322809,6.76237025 4.609375,6.66992187 C4.82552191,6.5774735 5.00781176,6.45507889 5.15625,6.30273437 C5.30468824,6.15038986 5.41731732,5.97591244 5.49414062,5.77929687 C5.57096393,5.58268131 5.609375,5.38151145 5.609375,5.17578125 C5.609375,4.98046777 5.57096393,4.7864593 5.49414062,4.59375 C5.41731732,4.4010407 5.30533928,4.22721432 5.15820312,4.07226562 C5.01106697,3.91731693 4.82942816,3.79166715 4.61328125,3.6953125 C4.39713434,3.59895785 4.14843891,3.55078125 3.8671875,3.55078125 L1.7109375,3.55078125 Z M2.6328125,6.03515625 L2.6328125,4.328125 L3.671875,4.328125 C3.83593832,4.328125 3.98111916,4.34895812 4.10742188,4.390625 C4.23372459,4.43229187 4.33984332,4.490234 4.42578125,4.56445312 C4.51171918,4.63867225 4.5768227,4.72721303 4.62109375,4.83007812 C4.6653648,4.93294322 4.6875,5.04427023 4.6875,5.1640625 C4.6875,5.28645895 4.66992205,5.4003901 4.63476562,5.50585937 C4.5996092,5.61132865 4.54231811,5.70312461 4.46289062,5.78125 C4.38346314,5.85937539 4.27929752,5.92122373 4.15039062,5.96679687 C4.02148373,6.01237002 3.86198012,6.03515625 3.671875,6.03515625 L2.6328125,6.03515625 Z" transform="translate(6 6)"/>
+    <polygon fill="#FFF" fill-opacity=".6" points="7 17 7 9.5 13 6.5 15.984 7.847 16 18 13 19.5 7 17 13 17.5 13 9 9 10 9 15.5"/>
   </g>
 </svg>

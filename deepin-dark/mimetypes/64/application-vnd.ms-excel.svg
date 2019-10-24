@@ -1,9 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="application-vnd.ms-excel-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0A804A"/>
+      <stop offset="100%" stop-color="#005D33"/>
+    </linearGradient>
+    <path id="application-vnd.ms-excel-b" d="M42,47.5 C42,49.9852814 39.9852814,52 37.5,52 L4.5,52 C2.01471863,52 3.04359188e-16,49.9852814 0,47.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,4.56538782e-16 4.5,0 L29,0 L42,13 L42,47.5 Z"/>
+    <filter id="application-vnd.ms-excel-a" width="131%" height="125%" x="-15.5%" y="-10.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.00784313725   0 0 0 0 0.42745098   0 0 0 0 0.168627451  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="application-vnd.ms-excel-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-vnd.ms-excel-e" d="M29,0 L42,13 L33.5,13 C31.0147186,13 29,10.9852814 29,8.5 L29,0 L29,0 Z"/>
+    <filter id="application-vnd.ms-excel-d" width="200%" height="200%" x="-50%" y="-42.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
   <g fill="none" fill-rule="evenodd">
-    <image width="48" height="58" x="8" y="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAA6CAYAAAD2mdrhAAAABGdBTUEAALGOfPtRkwAAAbpJREFUaAXtmutOwzAMhSk3IQHv/6pcBsNf1lP5B6MNo9iRbMmyl6bxOceRVimZrk42zZHgcze8W3p0K/vcDZ9PASvA13OuqPHzb1/2BLDyT8txrIuECAD6Zn750LuIzb/E7u1lcHyYQ0KkLF03gGMscGf+3+Cp/Wau+t3d1wvEW/Ou9tn8v7IXW4jaiChMkFo1JmNMZgtF2q9IeAKbGO/MsJuECOyMq2v5LhIZCcB2M4msBDaTyExgE4nsBFZJjEDgRxKjEPiOBGPTSAQ8Cf50G/bRCIiEPjlOLBgdzPhu48thuC0kndk57dNnxC0EiaY+yagEwN6sCEiJqFgdiFJedasDUiIqVgeilFfd6oCUiIrVgSjlVbc6ICWiYnUgSnnVrQ5IiahYHYhSXnWrA1IiKlYHopRX3eqAlIiK1YEo5VW3OiAlomJ1IEp51VUHdEsqw40VYTsXwSi8ywkNA1z5ejIXKUvTGeAfzcEK5uWWFnfVuG72YP5szjHmcg5leQYD47v5qzm3Wdr9Oo4rMdjwEIMIB8nZtpN2CfjA2jrgVWbr8FsxIwFA62YjcVHZg/U5c7JZU34GdfwCNsxKg6edvMcAAAAASUVORK5CYII="/>
-    <path fill="#002B00" d="M51.5,59 L12.5,59 C11.5,59 11,58.5 11,57.5 L11,8.5 C11,7.5 11.5,7 12.5,7 L40,7 L53,20 L53,57.5 C53,59 51.5,59 51.5,59 Z"/>
-    <path fill="#000" fill-opacity=".2" d="M0,0.5 C0,1.5 0.5,2 1.5,2 L40.5,2 C40.5,2 42,2 42,0.5 L42,0 C42,1.5 40.5,1.5 40.5,1.5 L1.5,1.5 C0.5,1.5 0,1 0,0 L0,0.5 Z" transform="translate(11 57)"/>
-    <path fill="#FFF" fill-opacity=".25" d="M41.2386667,20.0373333 C40.5026667,20.0373333 40,19.4026667 40,18.6666667 L40,7 L53,20.0373333 L41.2386667,20.0373333 Z"/>
-    <path fill="#FFF" fill-opacity=".6" d="M40,28 L40,31 L44,31 L44,28 L40,28 Z M39,28 L35,28 L35,26 L45,26 C45.5522847,26 46,26.4477153 46,27 L46,44 C46,44.5522847 45.5522847,45 45,45 L35,45 L35,43 L39,43 L39,40 L35,40 L35,39 L39,39 L39,36 L35,36 L35,35 L39,35 L39,32 L35,32 L35,31 L39,31 L39,28 Z M40,43 L44,43 L44,40 L40,40 L40,43 Z M40,39 L44,39 L44,36 L40,36 L40,39 Z M40,35 L44,35 L44,32 L40,32 L40,35 Z M18,24.6070307 L34,22 L34,49 L18,46.3929693 L18,24.6070307 Z M27.0234375,35.5390625 L30.5625,30.1015625 L28.484375,30.1015625 L26,33.9453125 L23.515625,30.1015625 L21.46875,30.1015625 L24.96875,35.53125 L21.4453125,41 L23.515625,41 L26.015625,37.15625 L28.484375,41 L30.5625,41 L27.0234375,35.5390625 Z"/>
+    <g transform="translate(11 7)">
+      <use fill="#000" filter="url(#application-vnd.ms-excel-a)" xlink:href="#application-vnd.ms-excel-b"/>
+      <use fill="url(#application-vnd.ms-excel-c)" xlink:href="#application-vnd.ms-excel-b"/>
+      <use fill="#000" filter="url(#application-vnd.ms-excel-d)" xlink:href="#application-vnd.ms-excel-e"/>
+      <use fill="url(#application-vnd.ms-excel-f)" xlink:href="#application-vnd.ms-excel-e"/>
+    </g>
+    <polygon fill="#FFF" fill-opacity=".6" points="21 41 21 26.333 33 21 39.967 23.695 40 44 33 46 21 41 33 43 33 25.667 25 28.333 25 39"/>
   </g>
 </svg>

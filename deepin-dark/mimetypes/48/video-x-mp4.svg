@@ -1,8 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="video-x-mp4-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#005CC2"/>
+      <stop offset="100%" stop-color="#004DA3"/>
+    </linearGradient>
+    <path id="video-x-mp4-b" d="M32,34.5 C32,36.9852814 29.9852814,39 27.5,39 L4.5,39 C2.01471863,39 3.04359188e-16,36.9852814 0,34.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,2.23289562e-15 4.5,0 L21,0 L32,11 L32,34.5 Z"/>
+    <filter id="video-x-mp4-a" width="131.2%" height="125.6%" x="-15.6%" y="-10.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.22745098   0 0 0 0 0.494117647   0 0 0 0 0.960784314  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="video-x-mp4-f" x1="50%" x2="12.223%" y1="50%" y2="88.513%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="video-x-mp4-e" d="M21,0 L32,11 L25.5,11 C23.0147186,11 21,8.98528137 21,6.5 L21,0 L21,0 Z"/>
+    <filter id="video-x-mp4-d" width="190.9%" height="190.9%" x="-45.5%" y="-36.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
   <g fill="none" fill-rule="evenodd">
-    <image width="36" height="43" x="6" y="4" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAArCAYAAAAQVipNAAAABGdBTUEAALGOfPtRkwAAAS5JREFUWAntmNsOgkAMRMFbvMT//08fTNAQnKnUwAsDctl9aJNBsGw5zC4ktCyKooQY/PV9+2OhTYM6Llny0J6xbwfVcsT0E46d2gQbjB2ydOUErQHDi78h3jAlZ8CB3CmMWSUqVB0FRSCGJP+eNms7CmpLIN6NhHKgWbc+cfAgVAqgrlNcu73lkgrIoXj9HlRKIIeiQz+o1ECEekGEsvdUDkAOxTd6mQsQoWzacgIylpyA7PHPCYjTVgSQ2TCwCYcGzLFUOBQOKQdUPtZQOKQcUPlYQ+GQckDlYw2FQ8oBlY81NNYh2YxUhRbIG4NPGQ8uCxT9t8QNAw2IX4uEOkN36AqxC7FlsPv7hB5QRSBvhbA17H0a+6zF8dpBVyi2jqnagbBvYFuB8HrdcLDmA609I3uLKTjDAAAAAElFTkSuQmCC"/>
-    <path fill="#004DA3" d="M39.000999,44 L9,44 C8.37662338,44 8,43.524 8,43 L8,6 C8,5.42 8.37662338,5 9,5 L30.00999,5 L40,15 L40,43 C39.968032,44 39.000999,44 39.000999,44 Z"/>
-    <path fill="#FFF" fill-opacity=".6" d="M9,22 L9,24 L10,24 C10.5560877,24 11,23.5549039 11,23 C11,22.4439123 10.5549039,22 10,22 L9,22 Z M10,21 C11.3807119,21 12,22 12,23 C12,24 11.3903379,25 10,25 L9.00115609,25 L9.00115609,27 L8,27 L8,21 L10,21 Z M4.5,26 L4,26 L3,23.5 L3,27 L2,27 L2,21 L2.5,21 L3,21 L4.5,24.75 L6,21 L6.5,21 L7,21 L7,27 L6,27 L6,23.5 L5,26 L4.5,26 Z M9,18 C4.0374,18 0,13.9626 0,9 C0,4.0374 4.0374,0 9,0 C13.9626,0 18,4.0374 18,9 C18,13.9626 13.9626,18 9,18 Z M9,1 C4.58933333,1 1,4.58844444 1,9 C1,13.4115556 4.58933333,17 9,17 C13.4106667,17 17,13.4115556 17,9 C17,4.58844444 13.4115556,1 9,1 Z M14.924,8.765 C15.127,8.88 15.127,9.173 14.924,9.287 L10.744,11.646 L6.493,14.024 C6.293,14.135 6.081,13.99 6.081,13.762 L6.081,9.021 L6.081,4.281 C6.081,4.052 6.293,3.908 6.493,4.019 L10.761,6.397 L14.924,8.765 Z M16,25 L17,25 L17,26 L16,26 L16,27 L15,27 L15,26 L12,26 L12,25 L15,21 L16,21 L16,25 Z M15,25 L15,22.7962959 L13.2999992,25 L15,25 Z" transform="translate(15 13)"/>
-    <path fill="#FFF" fill-opacity=".25" d="M30.929,15.028 C30.377,15.028 30,14.552 30,14 L30,5 L40,15 L30.929,15.028 Z"/>
+    <g transform="translate(8 5)">
+      <use fill="#000" filter="url(#video-x-mp4-a)" xlink:href="#video-x-mp4-b"/>
+      <use fill="url(#video-x-mp4-c)" xlink:href="#video-x-mp4-b"/>
+      <use fill="#000" filter="url(#video-x-mp4-d)" xlink:href="#video-x-mp4-e"/>
+      <use fill="url(#video-x-mp4-f)" xlink:href="#video-x-mp4-e"/>
+    </g>
+    <path fill="#FFF" fill-opacity=".6" d="M25,34 C26.3807119,34 27,35 27,36 C27,37 26.3903379,38 25,38 L24.0011561,38 L24.0011561,40 L23,40 L23,34 L25,34 Z M30.5,34 L30.5,38 L31.5,38 L31.5,39 L30.5,39 L30.5,40 L29.5,40 L29.5,39 L27,39 L27,38 L29.5,34 L30.5,34 Z M18,34 L19.5,37.75 L21,34 L22,34 L22,40 L21,40 L21,36.5 L20,39 L19,39 L18,36.5 L18,40 L17,40 L17,34 L18,34 Z M29.5,35.869 L28.1699993,38 L29.5,38 L29.5,35.869 Z M25,35 L24,35 L24,37 L25,37 C25.5560877,37 26,36.5549039 26,36 C26,35.4439123 25.5549039,35 25,35 Z M24,14 C28.9626,14 33,18.0374 33,23 C33,27.9626 28.9626,32 24,32 C19.0374,32 15,27.9626 15,23 C15,18.0374 19.0374,14 24,14 Z M24,15 C19.5893333,15 16,18.5884444 16,23 C16,27.4115556 19.5893333,31 24,31 C28.4106667,31 32,27.4115556 32,23 C32,18.5884444 28.4106667,15 24,15 Z M21.493,18.019 L25.761,20.397 L29.924,22.765 C30.127,22.88 30.127,23.173 29.924,23.287 L25.744,25.646 L21.493,28.024 C21.293,28.135 21.081,27.99 21.081,27.762 L21.081,18.281 C21.081,18.052 21.293,17.908 21.493,18.019 Z"/>
   </g>
 </svg>

@@ -1,29 +1,68 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>folder-home-96px</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#99D5FC" offset="0%"></stop>
-            <stop stop-color="#50B4F7" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="57.1541174%" y1="0%" x2="57.154119%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#6AC4FF" offset="0%"></stop>
-            <stop stop-color="#6CCDFC" offset="96.2651467%"></stop>
-            <stop stop-color="#6AC4FF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-home-96px">
-            <image id="Bitmap" x="2" y="14" width="92" height="82" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABSCAYAAADZ5bMoAAAABGdBTUEAA1teXP8meAAABA5JREFUeAHt3cly2zAQhGE72zXHvP9Tpiqbgx9RKyMurc2TOHGjCgKIAYfUR5DyiX58+H/L45mvdi5ed3+qG4u+iy2mPjxcc9DVzi94oH4v9dVy2rV/6deosOqrJUft7+a85cC7yV5IQN+JdqtymppzzSkDuleV5yz6LQd2+7iYTupPtJyH6pvR/zHqt1HPgow55wp53x0mkVcXgaGz+bXjYX/bVEz11bJj7dtEzUHOQ/Xt6AP99RmPCer3UT8ccoJOOYvNpEvBK6a+zFZLzr9d6nkB/aXhhEDGTqv7ImzO41Jw5lL0ZbhNKc91m/7K9m99cvcAT8XlInTBjfm7hWQUWuZzIC4Ut9VFBxnz/seCAx4y1GK031WTtybVBOpXcD27tvZ9DWMVvDrKatOgTqwT2EmFvqC1uvWDoTmvseUuX6Iv3VYudUINapyWSmJafoRe+8oeBCeFxfh+VB6veszqUav2uAOQtQiYMfp1ZfNrH2xkTguo1K27vnrOvfRXCgEVTRI4c6ifNSHtSoCFKEv+cqPoQtDK94lJ2mCSsFnZWt3M4ZZJ8QLViEcLF0FPBNApjwKeGwyMCjQtz2tNHN2UKwTw03MddK3244+h4LWqg32F7s5UkOuqn9MAVtHq5hGiW0GxtNcLYIilnhgzg8C1wvmrZfmXy5yYj5sE5Cnfqa9MGgy4RO5vsZTrzKYVzgYBtusY4ym3C8gT21kY0BXQoNrDlDR3CMjyaLxczQrccYzsWgRWnkvwMjfdDoGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianAE3OB2hgHeompwBNzgdoYB3qJqcATc4HaGAd6ianEvw4xskzT4JXS6w8gRcg7QU2rxKb1Lc9YFhNZ3OdYUzwNskqR9H5a2SKbcJYIehPAV/gjqvwJikf5nyafTZcfU6zzGWshbQguV11lTet06V6+j+XsUaBJtVz8t+KVwhdmZM7+Ab3ZQNAYHLDEM8qfJdrXBNJh+TdAFW799jQsqJgFAxFDSLlW1is+g5rQGCFLaFr+d8Vvik2f2ohvRBx1DgM75cudreanePlMBRANS9Oidp1aplUH21dWzulI9dgbmKD1H11TL8VFEZWG4zpuJimvOa2wq7dDjGfgKj454lDzyVhQAAAABJRU5ErkJggg=="></image>
-            <path d="M78.009205,17 C79.1086907,17 80,17.8941241 80,18.998668 L80,82 C80,83.1153237 79.0904928,84 78,84 L18,84 C16.8949672,84 16,83.1344135 16,82 L16,21.99263 C16,20.8921307 16.8944731,19.9999998 18.0052699,19.9999998 L56.0068273,19.9999999 C56.555342,19.9999999 57.3210535,19.6789473 57.7109591,19.2890418 L59.2890428,17.7109581 C59.6816942,17.3183068 60.4553065,17 60.991804,17 L78.009205,17 Z" id="Combined-Shape" fill="#82CEFF"></path>
-            <path d="M77.9943894,18 C79.1020576,18 80,18.9044488 80,20.0026891 L80,81.980526 L16,81.980526 L16,22.9942613 C16,21.8928611 16.8913231,20.9999998 17.9996239,20.9999998 L56.7591517,20.9999998 C57.3063826,20.9999998 58.0710535,20.6789473 58.4609591,20.2890418 L60.0390428,18.7109581 C60.4316942,18.3183068 61.1882325,18 61.7578612,18 L77.9943894,18 Z" id="Combined-Shape" fill="#6AC4FF"></path>
-            <path d="M12,84.0073698 L12,25.9965526 C12,24.893887 12.8973133,24 14.0008389,24 L81.9991611,24 C83.1041939,24 84,24.8948403 84,25.9965526 L84,84.0073698 L12,84.0073698 Z" id="Rectangle-279" fill="#FFFFFF"></path>
-            <path d="M12,83 L12,26.9964913 C12,25.8938596 12.8973133,25 14.0008389,25 L81.9991611,25 C83.1041939,25 84,25.8878321 84,26.9964913 L84,83 L12,83 Z" id="Rectangle-279" fill="#EDF5F6"></path>
-            <path d="M9.00661467,89 C7.89839199,89 7,88.1141708 7,87.0051016 L7,29.9948984 C7,28.8931464 7.8929514,28 9.00661468,28 L86.9933853,28 C88.101608,28 89,28.8858292 89,29.9948984 L89,87.0051016 C89,88.1068536 88.1070486,89 86.9933853,89 L9.00661467,89 Z" id="Rectangle-279" fill="url(#linearGradient-1)"></path>
-            <path d="M9.00661467,88 C7.89839199,88 7,87.0968604 7,86.003157 L7,30.996843 C7,29.8940171 7.8929514,29 9.00661468,29 L86.9933853,29 C88.101608,29 89,29.9031396 89,30.996843 L89,86.003157 C89,87.1059829 88.1070486,88 86.9933853,88 L9.00661467,88 Z" id="Rectangle-279" fill="url(#linearGradient-2)"></path>
-            <path d="M35,72 C35,72.4142135 35,73 36,73 L60.0000008,73 C60.9999988,73 60.9999988,72 60.9999988,72 L60.9999988,60 L65.9999988,60 C66.6755294,60.0000001 66.987318,58.9678626 66.4999988,58.5 L48.5193587,40.2089595 C48.2291596,39.9303468 47.7708404,39.9303468 47.4806413,40.2089595 L29.5,58.5 C29.0126808,58.9678626 29.3244695,60 30,60 L35,60 L35,72 Z M41.8269171,54.7064106 C40.0585124,56.4792585 40.0585124,59.3510881 41.8267836,61.1238022 L47.4695983,66.7797341 C47.7626221,67.073439 48.2384125,67.0734187 48.5314112,66.7796887 L54.173212,61.1238066 C55.9414876,59.3510881 55.9414876,56.4792585 54.1732164,54.7065444 C52.5688723,53.0977978 49.9648555,53.0977978 48.3604503,54.7066057 L47.9805696,55.0474318 L47.6403875,54.7064789 C46.034994,53.0978628 43.4322424,53.0978628 41.8269171,54.7064106 Z" id="Combined-Shape" fill="#3AB0FC"></path>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="user-home-a" width="129.3%" height="133.8%" x="-14.6%" y="-16.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="user-home-c" x1="50%" x2="50%" y1="0%" y2="37.968%">
+      <stop offset="0%" stop-color="#147ADD"/>
+      <stop offset="100%" stop-color="#0D00E9"/>
+    </linearGradient>
+    <path id="user-home-b" d="M46,4.5 C47.2162027,7.23645617 49.9298769,9 52.9244289,9 L71.6576577,9 C77.3695756,9 82,13.6304244 82,19.3423423 L82,60.6576577 C82,66.3695756 77.3695756,71 71.6576577,71 L10.3423423,71 C4.63042439,71 -4.37094128e-14,66.3695756 -4.26325641e-14,60.6576577 L-4.26325641e-14,10.3423423 C-4.33320723e-14,4.63042439 4.63042439,-2.38197334e-14 10.3423423,-2.84217094e-14 L39.0755711,-2.84217094e-14 C42.0701231,-2.80836213e-14 44.7837973,1.76354383 46,4.5 Z"/>
+    <linearGradient id="user-home-g" x1="50%" x2="50%" y1="0%" y2="77.929%">
+      <stop offset="0%" stop-color="#B5B7B8"/>
+      <stop offset="100%" stop-color="#80B0BD"/>
+    </linearGradient>
+    <rect id="user-home-f" width="74" height="31" x="4" y="12" rx="6.649"/>
+    <filter id="user-home-e" width="112.2%" height="129%" x="-6.1%" y="-14.5%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="user-home-h" width="109.5%" height="122.6%" x="-4.7%" y="-11.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.827247509   0 0 0 0 0.827247509   0 0 0 0 0.827247509  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="user-home-i" cx="50%" cy="0%" r="117.588%" fx="50%" fy="0%" gradientTransform="matrix(.06172 .9956 -.65551 .09375 .47 -.498)">
+      <stop offset="0%" stop-color="#1D95E9"/>
+      <stop offset="100%" stop-color="#0B43D8"/>
+    </radialGradient>
+    <linearGradient id="user-home-l" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".6"/>
+    </linearGradient>
+    <path id="user-home-k" d="M34,61.8868183 L34,76 L62,76 L62,61.8868183 L48,49 L34,61.8868183 Z M51,73 L45,73 L45,64 L51,64 L51,73 Z M66,57.7931499 L63.9585,60 L48,45.1124237 L32.0415,59.9774043 L30,57.7705542 L48,41 L66,57.7931499 Z"/>
+    <filter id="user-home-j" width="136.1%" height="137.1%" x="-18.1%" y="-15.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.42905776   0 0 0 0 0.968670281  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#user-home-a)" transform="translate(7 18)">
+      <mask id="user-home-d" fill="#fff">
+        <use xlink:href="#user-home-b"/>
+      </mask>
+      <use fill="url(#user-home-c)" xlink:href="#user-home-b"/>
+      <g mask="url(#user-home-d)">
+        <use fill="#000" filter="url(#user-home-e)" xlink:href="#user-home-f"/>
+        <use fill="url(#user-home-g)" xlink:href="#user-home-f"/>
+        <use fill="#000" filter="url(#user-home-h)" xlink:href="#user-home-f"/>
+      </g>
+      <g fill="url(#user-home-i)" mask="url(#user-home-d)">
+        <path d="M0,0 L82,0 L82,43.647241 C82,49.3591589 77.3695756,53.9895833 71.6576577,53.9895833 L10.3423423,53.9895833 C4.63042439,53.9895833 -1.07684864e-15,49.3591589 0,43.647241 L0,0 L0,0 Z" transform="translate(0 17.01)"/>
+      </g>
     </g>
+    <g opacity=".6">
+      <use fill="#000" filter="url(#user-home-j)" xlink:href="#user-home-k"/>
+      <use fill="url(#user-home-l)" xlink:href="#user-home-k"/>
+    </g>
+  </g>
 </svg>

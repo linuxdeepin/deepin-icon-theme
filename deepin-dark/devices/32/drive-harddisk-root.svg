@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="drive-harddisk-root-a" width="133.3%" height="129.6%" x="-16.7%" y="-14.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="drive-harddisk-root-b" x1="102.549%" x2="-2.652%" y1="57.682%" y2="57.682%">
+      <stop offset="0%" stop-color="#0067BC"/>
+      <stop offset="4.571%" stop-color="#30EA7F"/>
+      <stop offset="9.931%" stop-color="#00D887"/>
+      <stop offset="88.945%" stop-color="#00B160"/>
+      <stop offset="93.793%" stop-color="#00C165"/>
+      <stop offset="100%" stop-color="#008CBD"/>
+    </linearGradient>
+    <linearGradient id="drive-harddisk-root-c" x1="100%" x2="0%" y1="56.43%" y2="56.43%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="9.936%" stop-color="#FFF" stop-opacity=".9"/>
+      <stop offset="52.356%" stop-color="#FFF" stop-opacity=".7"/>
+      <stop offset="87.648%" stop-color="#FFF" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".5"/>
+    </linearGradient>
+    <path id="drive-harddisk-root-d" d="M1.77916518e-09,21.2533752 C1.61774802e-09,20.0088704 1.00069463,19 2.25786173,19 L21.7421383,19 C22.9891209,19 24,20.0029293 24,21.2533752 L24,23.7466248 C24,24.9911295 22.9993054,25.9999999 21.7421383,26 L2.25786174,26.0000001 C1.01087913,26.0000001 2.26473723e-09,24.9970707 2.10254948e-09,23.7466249 L1.77916518e-09,21.2533752 Z"/>
+    <filter id="drive-harddisk-root-e" width="104.2%" height="114.3%" x="-2.1%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <radialGradient id="drive-harddisk-root-f" cx="48.239%" cy="19.103%" r="78.654%" fx="48.239%" fy="19.103%" gradientTransform="matrix(0 1 -.74598 0 .625 -.291)">
+      <stop offset="0%" stop-color="#7CFFFE"/>
+      <stop offset="100%" stop-color="#D6CDE6"/>
+    </radialGradient>
+    <path id="drive-harddisk-root-g" d="M-1.06570042e-09,24.5 C-1.06570042e-09,23.1192881 1.1253794,22 2.50050156,22 L21.4994976,22 C22.8804865,22 23.9999992,23.1096621 23.9999992,24.5 L23.9999992,24.5 C23.9999992,25.8807119 22.8746198,27 21.4994976,27 L2.50050156,27 C1.11951268,27 -1.06570042e-09,25.8903379 -1.06570042e-09,24.5 L-1.06570042e-09,24.5 Z"/>
+    <filter id="drive-harddisk-root-h" width="104.2%" height="120%" x="-2.1%" y="-10%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0.239215686   0 0 0 0 0.611764706  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="drive-harddisk-root-i" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0174FF"/>
+      <stop offset="50.85%" stop-color="#01C2FF"/>
+      <stop offset="100%" stop-color="#0056FF"/>
+    </linearGradient>
+    <radialGradient id="drive-harddisk-root-j" cx="50%" cy="37.643%" r="62.357%" fx="50%" fy="37.643%">
+      <stop offset="0%" stop-color="#B0FF58"/>
+      <stop offset="100%" stop-color="#37EC00"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#drive-harddisk-root-a)" transform="translate(4 2)">
+      <path fill="url(#drive-harddisk-root-b)" d="M-3.48450158e-10,3.99976556 C-3.48450158e-10,1.79075604 1.78429324,4.06657819e-10 3.99005293,4.06657819e-10 L20.0099466,4.06657819e-10 C22.213592,4.06657819e-10 23.9999995,1.7856077 23.9999996,3.99976556 L24,23.5 L-3.48450158e-10,23.5 L-3.48450158e-10,3.99976556 Z"/>
+      <use fill="url(#drive-harddisk-root-c)" xlink:href="#drive-harddisk-root-d"/>
+      <use fill="#000" filter="url(#drive-harddisk-root-e)" xlink:href="#drive-harddisk-root-d"/>
+      <use fill="url(#drive-harddisk-root-f)" xlink:href="#drive-harddisk-root-g"/>
+      <use fill="#000" filter="url(#drive-harddisk-root-h)" xlink:href="#drive-harddisk-root-g"/>
+      <path fill="url(#drive-harddisk-root-i)" d="M15,24 L15,25 L14,25 L14,24 L15,24 Z M17,24 L17,25 L16,25 L16,24 L17,24 Z M19,24 L19,25 L18,25 L18,24 L19,24 Z M21,24 L21,25 L20,25 L20,24 L21,24 Z"/>
+      <path fill="url(#drive-harddisk-root-j)" d="M3,25.5 C3.55228475,25.5 4,25.0522847 4,24.5 C4,23.9477153 3.55228475,23.5 3,23.5 C2.44771525,23.5 2,23.9477153 2,24.5 C2,25.0522847 2.44771525,25.5 3,25.5 Z"/>
+    </g>
+    <path fill="#FFF" d="M16,17 C15.6738462,17 15.3546154,16.9684615 15.0461538,16.9084615 C16.3430769,16.5453846 17.8838462,15.6484615 18.6161538,14.2084615 C18.6161538,14.2084615 20.1176923,11.7476923 17.5769231,9.53307692 C17.5769231,9.53307692 18.23,10.5607692 18.25,11.5946154 C18.25,11.5946154 18.4053846,12.9538462 17.2030769,13.8030769 C15.43,15.0546154 12.6676923,14.4907692 11.4923077,14.1661538 C11.1769231,13.5107692 11,12.7761538 11,12 C11,10.8384615 11.3961538,9.77 12.0607692,8.92076923 C12.3884615,10.5030769 13.0653846,11.8246154 13.5207692,12.3153846 C14.1276923,12.9684615 15.0215385,13.6623077 16.1692308,13.3761538 C17.3161538,13.0892308 17.55,11.8346154 17.55,11.8346154 C17.8038462,10.7676923 17.4423077,9.5 17.4230769,9.47307692 C17.4038462,9.44615385 17.2315385,9.41692308 17.2315385,9.41692308 C17.4115385,11.0976923 16.9692308,11.8415385 16.9692308,11.8415385 C16.3261538,13.1592308 15.3815385,12.7515385 15.3815385,12.7515385 C14.3315385,12.2161538 14.3807692,10.7076923 14.3807692,10.7076923 C14.35,9.69615385 14.7353846,8.04846154 15.4784615,7.02692308 C15.65,7.00923077 15.8238462,7 16,7 C16.6692308,7 17.3076923,7.13153846 17.8915385,7.37076923 C17.2715385,7.89153846 16.3161538,8.86615385 16.3161538,8.86615385 C14.7684615,10.3007692 15.0684615,11.5076923 15.0684615,11.5076923 C15.3146154,12.7753846 16.0823077,11.9215385 16.0823077,11.9215385 C16.8892308,11.0876923 16.8292308,9.42692308 16.8292308,9.42692308 C16.5023077,9.48 16.2953846,9.66 16.2953846,9.66 C16.2553846,10.7676923 15.6015385,11.4546154 15.6015385,11.4546154 C15.3484615,11.7346154 15.1684615,11.4676923 15.1684615,11.4676923 C15.0353846,11.2676923 15.3015385,11.1276923 15.3015385,11.1276923 C15.6753846,10.8007692 15.7869231,10.2430769 15.7823077,10.0338462 C15.7769231,9.82384615 15.8884615,9.76692308 15.8884615,9.76692308 C16.4161538,9.36 16.9430769,9.12 16.9430769,9.12 C17.65,8.75923077 18.9107692,8.69923077 18.9107692,8.69923077 C19.2092308,8.70923077 19.4953846,8.69769231 19.7376923,8.67923077 C20.5230769,9.56230769 21,10.7253846 21,12 C21,14.7615385 18.7615385,17 16,17 M10,12 C10,15.3137143 12.6862857,18 16,18 C19.3137143,18 22,15.3137143 22,12 C22,8.68628571 19.3137143,6 16,6 C12.6862857,6 10,8.68628571 10,12 Z"/>
+  </g>
+</svg>

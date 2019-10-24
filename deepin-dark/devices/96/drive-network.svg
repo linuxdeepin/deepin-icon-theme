@@ -1,26 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
   <defs>
-    <linearGradient id="drive-network-a" x1="50%" x2="50%" y1="0%" y2="93.905%">
-      <stop offset="0%" stop-color="#08957A"/>
-      <stop offset="1.942%" stop-color="#01617A"/>
-      <stop offset="100%" stop-color="#006F6C"/>
+    <filter id="drive-network-a" width="135.3%" height="130%" x="-17.6%" y="-15%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="drive-network-b" x1="102.549%" x2="-2.652%" y1="57.682%" y2="57.682%">
+      <stop offset="0%" stop-color="#00285D"/>
+      <stop offset="4.571%" stop-color="#17A167"/>
+      <stop offset="9.931%" stop-color="#138D6D"/>
+      <stop offset="88.945%" stop-color="#0B673E"/>
+      <stop offset="93.793%" stop-color="#19734E"/>
+      <stop offset="100%" stop-color="#002472"/>
     </linearGradient>
-    <linearGradient id="drive-network-b" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#5F5F5F"/>
-      <stop offset="100%" stop-color="#2C2C2C"/>
+    <linearGradient id="drive-network-c" x1="100%" x2="0%" y1="56.43%" y2="56.43%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".29"/>
+      <stop offset="8.389%" stop-color="#CDCDCD" stop-opacity=".94"/>
+      <stop offset="52.356%" stop-color="#FFF" stop-opacity=".55"/>
+      <stop offset="88.168%" stop-color="#CDCDCD" stop-opacity=".94"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".24"/>
     </linearGradient>
+    <radialGradient id="drive-network-d" cx="48.239%" cy="19.103%" r="78.654%" fx="48.239%" fy="19.103%" gradientTransform="matrix(0 1 -.7372 0 .623 -.291)">
+      <stop offset="0%" stop-color="#47A9E0"/>
+      <stop offset="100%" stop-color="#967B99"/>
+    </radialGradient>
+    <linearGradient id="drive-network-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0A2CBC"/>
+      <stop offset="50.85%" stop-color="#116CB9"/>
+      <stop offset="100%" stop-color="#0904C1"/>
+    </linearGradient>
+    <path id="drive-network-f" d="M21.974,0.5 C22.5262847,0.5 22.974,0.943716645 22.974,1.49980749 L22.974,4.50019251 C22.974,5.01292962 22.5912798,5.43551958 22.0913326,5.49327356 L21.974,5.5 C21.4217153,5.5 20.974,5.05628335 20.974,4.50019251 L20.974,1.49980749 C20.974,0.987070378 21.3567202,0.564480424 21.8566674,0.506726436 L21.974,0.5 Z M17.974,0.5 C18.5262847,0.5 18.974,0.943716645 18.974,1.49980749 L18.974,4.50019251 C18.974,5.01292962 18.5912798,5.43551958 18.0913326,5.49327356 L17.974,5.5 C17.4217153,5.5 16.974,5.05628335 16.974,4.50019251 L16.974,1.49980749 C16.974,0.987070378 17.3567202,0.564480424 17.8566674,0.506726436 L17.974,0.5 Z M13.974,0.5 C14.5262847,0.5 14.974,0.943716645 14.974,1.49980749 L14.974,4.50019251 C14.974,5.01292962 14.5912798,5.43551958 14.0913326,5.49327356 L13.974,5.5 C13.4217153,5.5 12.974,5.05628335 12.974,4.50019251 L12.974,1.49980749 C12.974,0.987070378 13.3567202,0.564480424 13.8566674,0.506726436 L13.974,0.5 Z M9.974,0.5 C10.5262847,0.5 10.974,0.943716645 10.974,1.49980749 L10.974,4.50019251 C10.974,5.01292962 10.5912798,5.43551958 10.0913326,5.49327356 L9.974,5.5 C9.42171525,5.5 8.974,5.05628335 8.974,4.50019251 L8.974,1.49980749 C8.974,0.987070378 9.35672018,0.564480424 9.85666744,0.506726436 L9.974,0.5 Z M5.974,0.5 C6.52628475,0.5 6.974,0.943716645 6.974,1.49980749 L6.974,4.50019251 C6.974,5.01292962 6.59127982,5.43551958 6.09133256,5.49327356 L5.974,5.5 C5.42171525,5.5 4.974,5.05628335 4.974,4.50019251 L4.974,1.49980749 C4.974,0.987070378 5.35672018,0.564480424 5.85666744,0.506726436 L5.974,0.5 Z M1.974,0.5 C2.52628475,0.5 2.974,0.943716645 2.974,1.49980749 L2.974,4.50019251 C2.974,5.01292962 2.59127982,5.43551958 2.09133256,5.49327356 L1.974,5.5 C1.42171525,5.5 0.974,5.05628335 0.974,4.50019251 L0.974,1.49980749 C0.974,0.987070378 1.35672018,0.564480424 1.85666744,0.506726436 L1.974,0.5 Z"/>
+    <filter id="drive-network-e" width="104.5%" height="140%" x="-2.3%" y="-10%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.1 0"/>
+    </filter>
+    <radialGradient id="drive-network-h" cx="50%" cy="37.643%" r="62.357%" fx="50%" fy="37.643%">
+      <stop offset="0%" stop-color="#8ED63F"/>
+      <stop offset="100%" stop-color="#28AC00"/>
+    </radialGradient>
   </defs>
   <g fill="none" fill-rule="evenodd">
-    <g transform="translate(9 5)">
-      <image width="78" height="90" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAABaCAYAAAAW7WCQAAAABGdBTUEAALGOfPtRkwAAAtRJREFUeAHt3cly3DAUQ9F2pm2W+f/fzOQIDCFTkoG9W5dVDMkHyhWdemv1y+M4Xo7Hw6llh4sf/PBa/v97ZgyvesZ7r2ut/M2ninag7a2896oXfRXOGci186oH7jKElOYw+LJIGOrTrP2eDy9XbreViYy0/p1vPzrv8yyuaKqBNpXm8vV4fDzcXaoLT2cJW3fb3n7IQiaykdEYhnPHqds0GUcBu9jp0nEKgDui6SSTHU0Fd5z2CnRea6oz3lxkNIaQLOmi13mFZRoJYrc6d5cDtI4CF5cz3PE6pygAXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131iClyk6QFw3SemwEWaHgDXfWIKXKTpAXDdJ6bARZoeANd9YgpcpOkBcN0npsBFmh4A131ieobzF+XjAzcNLi6Cc3F8NX6e+fr0W4fIYrUZXmvHqaAPomt+3+b6kwXb8ZZDBrKwiwEPOENyu/Rnm9+2+WObevDyZfmt9szDDaSfZtD8Oad9xru7q1wUmrrw10j/S+th1e7yKW/Dqcv07rKQi6adLh3ny9udccmQl09W68KTDuPIwmAC1FnZGGvHqaBQw+ruNtXu1HF6X0MJT3ufB965k3x+b9Ufu8tw1723DgN3kVcVvfe61sZDN/hndNV8T++9qjx+Xmp1WLHWuvYtO9/9yOcV6Pwee/YPNAZo00AQgSIAAAAASUVORK5CYII="/>
-      <path fill="url(#drive-network-a)" d="M5,5.00079916 C5,3.8957883 5.897203,3 6.99828427,3 L71.0017157,3 C72.1053377,3 73,3.89781616 73,5.00079916 L73,73 L5,73 L5,5.00079916 Z"/>
-      <rect width="68" height="6" x="5" y="62" fill="#00575A"/>
-      <rect width="68" height="12" x="5" y="63" fill="#585858"/>
-      <rect width="68" height="13" x="5" y="70" fill="url(#drive-network-b)" rx="2"/>
-      <path fill="#3C3C3C" d="M5,72.992017 C5,71.8918564 5.897203,71 6.99828427,71 L71.0017157,71 C72.1053377,71 73,71.9001762 73,72.992017 L73,80.007983 C73,81.1081436 72.102797,82 71.0017157,82 L6.99828427,82 C5.89466234,82 5,81.0998238 5,80.007983 L5,72.992017 Z"/>
-      <path fill="#17CCFF" d="M20.974,0.992 L22.974,0.992 L22.974,4.992 L20.974,4.992 L20.974,0.992 Z M16.974,0.992 L18.974,0.992 L18.974,4.992 L16.974,4.992 L16.974,0.992 Z M12.974,0.992 L14.974,0.992 L14.974,4.992 L12.974,4.992 L12.974,0.992 Z M8.974,0.992 L10.974,0.992 L10.974,4.992 L8.974,4.992 L8.974,0.992 Z M4.974,0.992 L6.974,0.992 L6.974,4.992 L4.974,4.992 L4.974,0.992 Z M0.974,0.992 L2.974,0.992 L2.974,4.992 L0.974,4.992 L0.974,0.992 Z" transform="translate(44 74)"/>
-      <path fill="#1B3C76" d="M15,79 C16.1045695,79 17,78.1045695 17,77 C17,75.8954305 16.1045695,75 15,75 C13.8954305,75 13,75.8954305 13,77 C13,78.1045695 13.8954305,79 15,79 Z"/>
-      <path fill="#17CCFF" d="M15,78 C15.5522847,78 16,77.5522847 16,77 C16,76.4477153 15.5522847,76 15,76 C14.4477153,76 14,76.4477153 14,77 C14,77.5522847 14.4477153,78 15,78 Z"/>
+    <g filter="url(#drive-network-a)" transform="translate(14 8)">
+      <rect width="68" height="79" fill="url(#drive-network-b)" rx="12"/>
+      <path fill="url(#drive-network-c)" stroke="#FFF" stroke-opacity=".2" d="M0.5,65.0022064 L0.5,73.0000398 C0.5,73.2720258 0.727046199,73.5 1.00071311,73.5 L66.9992869,73.5 C67.2734941,73.5 67.5,73.2743153 67.5,73.0000398 L67.5,65.0022064 C67.5,60.8599755 64.1412887,57.5 59.9995753,57.5 L8.00042472,57.5 C3.85946723,57.5 0.5,60.8595913 0.5,65.0022064 Z"/>
+      <path fill="url(#drive-network-d)" stroke="#003D9C" stroke-opacity=".2" d="M0.5,73 C0.5,76.5847051 3.41519402,79.5 7.00519134,79.5 L60.9948087,79.5 C64.5830583,79.5 67.5,76.587251 67.5,73 C67.5,69.4152949 64.584806,66.5 60.9948087,66.5 L7.00519134,66.5 C3.41694169,66.5 0.5,69.412749 0.5,73 Z"/>
+      <g transform="translate(39 70)">
+        <use fill="#000" filter="url(#drive-network-e)" xlink:href="#drive-network-f"/>
+        <use fill="url(#drive-network-g)" xlink:href="#drive-network-f"/>
+      </g>
+      <path fill="url(#drive-network-h)" stroke="#338400" d="M8,75.5 C9.38071187,75.5 10.5,74.3807119 10.5,73 C10.5,71.6192881 9.38071187,70.5 8,70.5 C6.61928813,70.5 5.5,71.6192881 5.5,73 C5.5,74.3807119 6.61928813,75.5 8,75.5 Z"/>
     </g>
     <g opacity=".6" transform="translate(31.5 20)">
       <path stroke="#FFF" stroke-width="1.888" d="M32.9475771,16.9190057 C32.9475771,25.7705486 25.7705486,32.9475771 16.9190057,32.9475771 C8.06746286,32.9475771 0.890434286,25.7705486 0.890434286,16.9190057 C0.890434286,8.06746286 8.06746286,0.890434286 16.9190057,0.890434286 C25.7705486,0.890434286 32.9475771,8.06746286 32.9475771,16.9190057 L32.9475771,16.9190057 Z"/>

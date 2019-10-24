@@ -1,10 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="application-msword-template-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00458F"/>
+      <stop offset="100%" stop-color="#001AA5"/>
+    </linearGradient>
+    <path id="application-msword-template-b" d="M22,22 C22,24.209139 20.209139,26 18,26 L4,26 C1.790861,26 2.705415e-16,24.209139 0,22 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L15,0 L22,7 L22,22 Z"/>
+    <filter id="application-msword-template-a" width="131.8%" height="126.9%" x="-15.9%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.133333333   0 0 0 0 0.215686275   0 0 0 0 0.650980392  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="application-msword-template-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
+    </linearGradient>
+    <path id="application-msword-template-e" d="M15,0 L22,7 L17.25,7 C16.0073593,7 15,5.99264069 15,4.75 L15,0 L15,0 Z"/>
+    <filter id="application-msword-template-d" width="200%" height="200%" x="-50%" y="-35.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
   <g fill="none" fill-rule="evenodd">
-    <g transform="translate(4 3)">
-      <image width="24" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAABGdBTUEAALGOfPtRkwAAAJ9JREFUSA3tllEKgDAIhlfrqS7Q/Y/WHXpc5Q8zCJPF0JdQEEHnPvdHYE4pDdUpdNnY6ppaBz7UM53BoMJAb04gumSi1HsExOJyxr1CLAEACYg1QEA8AA+IF+CGeAIAyd4Ak38Ak6oWL1Cl4UJIxEqoMSRSpeFCSMRKqPE/Es3qG/sLC1qxdB3kKzkSYq+hXI+d1LSTb7w2YjOz/h4YvFxpcQxXbdXF/QAAAABJRU5ErkJggg=="/>
-      <path fill="#002267" d="M22,26 L2,26 C1,26 1,25 1,25 L1,1 C1,1 1,0 2,0 L16,0 L23,7 L23,25 C23,26 22,26 22,26 Z"/>
-      <path fill="#FFF" fill-opacity=".25" d="M17,7.01866667 C16,7.01866667 16,6 16,6 L16,0 L23,7.01866667 L17,7.01866667 Z"/>
+    <g transform="translate(5 3)">
+      <use fill="#000" filter="url(#application-msword-template-a)" xlink:href="#application-msword-template-b"/>
+      <use fill="url(#application-msword-template-c)" xlink:href="#application-msword-template-b"/>
+      <use fill="#000" filter="url(#application-msword-template-d)" xlink:href="#application-msword-template-e"/>
+      <use fill="url(#application-msword-template-f)" xlink:href="#application-msword-template-e"/>
     </g>
-    <path fill="#FFF" fill-opacity=".6" d="M3,9.33333333 L4.5,9.33333333 L4.5,10.3333333 L3,10.3333333 L3,11.8333333 L2,11.8333333 L2,10.3333333 L0.5,10.3333333 L0.5,9.33333333 L2,9.33333333 L2,3.33333333 L0.5,3.33333333 L0.5,2.33333333 L2,2.33333333 L2,0.833333333 L3,0.833333333 L3,2.33333333 L9,2.33333333 L9,0.833333333 L10,0.833333333 L10,2.33333333 L11.5,2.33333333 L11.5,3.33333333 L10,3.33333333 L10,4.83333333 L9,4.83333333 L9,3.33333333 L3,3.33333333 L3,9.33333333 Z M6,11.8333333 L6,7.83333333 L8.99589202,6.33333333 L11,7.33333333 L11,12.3333333 L9,13.3333333 L6,11.8333333 L8.99589202,11.8333333 L8.99589202,7.83333333 L7,8.33333333 L7,11.3333333 L6,11.8333333 Z" transform="translate(10 10.667)"/>
+    <g transform="translate(10 10.667)">
+      <path stroke="#99ADD5" stroke-linejoin="round" d="M0.5,2.83333333 L11.5,2.83333333"/>
+      <path stroke="#99A8D8" stroke-linejoin="round" d="M2.5,0.833333333 L2.5,11.8333333"/>
+      <path stroke="#99A9D8" stroke-linejoin="round" d="M9.5,0.833333333 L9.5,4.83333333"/>
+      <path stroke="#99A9D7" stroke-linejoin="round" d="M0.5,9.83333333 L4.5,9.83333333"/>
+      <polygon fill="#FFF" fill-opacity=".6" points="6 11.833 6 7.833 8.996 6.333 11 7.333 11 12.333 9 13.333 6 11.833 8.996 11.833 8.996 7.833 7 8.333 7 11.333"/>
+    </g>
   </g>
 </svg>
