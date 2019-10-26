@@ -5,9 +5,9 @@
       <stop offset="100%" stop-color="#004C9C"/>
     </linearGradient>
     <path id="emblem-checked-b" d="M9,0 C4.05,0 0,4.05 0,9 C0,13.95 4.05,18 9,18 C13.95,18 18,13.95 18,9 C18,4.05 13.95,0 9,0 L9,0 Z"/>
-    <filter id="emblem-checked-a" width="188.9%" height="188.9%" x="-44.4%" y="-22.2%" filterUnits="objectBoundingBox">
-      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+    <filter id="emblem-checked-a" width="144.4%" height="144.4%" x="-22.2%" y="-11.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
       <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
       <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.568627451   0 0 0 0 1  0 0 0 0.1 0"/>
     </filter>

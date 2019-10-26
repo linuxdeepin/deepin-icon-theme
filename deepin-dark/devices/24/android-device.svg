@@ -1,10 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
-  <g fill="none" fill-rule="evenodd">
-    <image width="14" height="23" x="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAXCAYAAAA7kX6CAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAADqADAAQAAAABAAAAFwAAAADQAMwJAAAAWElEQVQ4EWNkYGBgBGIWKA2kCIL/QBV/QJpYgRhE/wJiYgAbUBFIMwOIQSpgYyJVB0z9qEZYSGChRwMHS6DAhEYDBxYSWOiBCRxQ+UFK8QEuc0CFFFmlHADOYQhHP/y+rgAAAABJRU5ErkJggg=="/>
-    <path fill="#776A5D" d="M5.99999999,1.74740112 C5.99999999,1.33462288 6.33347314,1 6.75065372,1 L17.2493459,1 C17.6639205,1 17.9999997,1.32985985 17.9999997,1.74740112 L17.9999997,21.2525989 C17.9999997,21.6653771 17.6665265,22 17.2493459,22 L6.7506534,22 C6.33607878,22 5.99999966,21.6701401 5.99999967,21.2525989 L5.99999999,1.74740112 Z"/>
-    <path fill="#AD9F91" d="M7.00000002,2.37953221 C7.00000002,2.16992236 7.17356875,1.99999999 7.37980082,1.99999998 L16.6201992,1.99999954 C16.8299574,1.99999953 17,2.16425562 17,2.37953173 L17,20.6204678 C17,20.8300776 16.8264313,21 16.6201992,21 L7.3798008,21.0000005 C7.17004261,21.0000005 7,20.8357444 7,20.6204683 L7.00000002,2.37953221 Z"/>
-    <rect width="8" height="14" x="8" y="5" fill="#1A1A1A"/>
-    <circle cx="14.5" cy="3.5" r="1" fill="#000"/>
-    <path stroke="#40372E" stroke-linecap="round" d="M10.5,3.5 L12.5,3.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="android-device-a" width="141.7%" height="123.8%" x="-20.8%" y="-11.9%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#android-device-a)" transform="translate(6 1)">
+    <path fill="#776A5D" d="M3.1959499e-07,0.747401118 C3.26358412e-07,0.334622879 0.333473468,0 0.750654054,0 L11.2493463,0 C11.6639209,0 12,0.329859853 12,0.747401118 L12,20.2525989 C12,20.6653771 11.6665268,21 11.2493462,21 L0.750653731,21 C0.336079116,21 -6.84152237e-09,20.6701401 -5.77315973e-14,20.2525989 L3.1959499e-07,0.747401118 Z"/>
+    <path fill="#AD9F91" d="M1.00000035,1.37953221 C1.00000035,1.16992236 1.17356908,0.999999992 1.37980115,0.999999982 L10.6201995,0.99999954 C10.8299577,0.99999953 11.0000003,1.16425562 11.0000003,1.37953173 L11.0000003,19.6204678 C11.0000003,19.8300776 10.8264316,20 10.6201995,20 L1.37980113,20.0000005 C1.17004294,20.0000005 1.00000033,19.8357444 1.00000033,19.6204683 L1.00000035,1.37953221 Z"/>
+    <rect width="8" height="14" x="2" y="4" fill="#1A1A1A"/>
+    <circle cx="8.5" cy="2.5" r="1" fill="#000"/>
+    <line x1="4.5" x2="6.5" y1="2.5" y2="2.5" stroke="#40372E" stroke-linecap="round"/>
   </g>
 </svg>

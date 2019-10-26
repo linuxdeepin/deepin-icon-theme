@@ -1,10 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" fill-rule="evenodd">
-    <image width="18" height="29" x="7" y="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAdCAYAAACnmDyCAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEqADAAQAAAABAAAAHQAAAAAY+SWEAAAAcUlEQVRIDWNkYGBgBGIQ+A+hSCZh+hlYSNaKqYGFCSgGwpQCJmoYAnbEqEGE42I0jEbDiHAIEFYxmo5Gw4hwCBBWMXjTES9hx+NUAdYLqm5BNa0MEIME4NUvkE0MAFXzn4H4CUgjCDMDMbnh9Q+o9y8Ald0GYjgHTfMAAAAASUVORK5CYII="/>
-    <path fill="#776A5D" d="M8,2.99296544 C8,2.44456577 8.44463085,2 9.00087163,2 L22.9991279,2 C23.551894,2 23.9999995,2.44610862 23.9999996,2.99296544 L24,28.0070346 C24,28.5554342 23.5553691,29 22.9991283,29 L9.00087166,29 C8.4481055,29 8,28.5538914 8,28.0070346 L8,2.99296544 Z"/>
-    <path fill="#AD9F91" d="M9,3.49938449 C9,3.22358205 9.21990657,3 9.49826741,3 L22.5017326,3 C22.7769181,3 23,3.21612645 23,3.49938449 L23,27.5006161 C23,27.7764186 22.7800935,28.0000006 22.5017326,28.0000006 L9.49826741,28.0000006 C9.22308192,28.0000006 9,27.7838742 9,27.5006161 L9,3.49938449 Z"/>
-    <polygon fill="#1A1A1A" points="10 6 22 6 22 26 10 26"/>
-    <circle cx="19.5" cy="4.5" r="1" fill="#000"/>
-    <path stroke="#40372E" stroke-linecap="round" d="M14.5,4.5 L17.5,4.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="android-device-a" width="150%" height="129.6%" x="-25%" y="-14.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#android-device-a)" transform="translate(8 2)">
+    <path fill="#776A5D" d="M6.1284311e-14,0.992965445 C6.1284311e-14,0.444565773 0.444630849,7.10542736e-15 1.00087163,7.10542736e-15 L14.9991279,7.10542736e-15 C15.551894,7.10542736e-15 15.9999995,0.446108624 15.9999996,0.992965445 L16,26.0070346 C16,26.5554342 15.5553691,27 14.9991283,27 L1.00087166,27 C0.448105505,27 6.1284311e-14,26.5538914 6.1284311e-14,26.0070346 L6.1284311e-14,0.992965445 Z"/>
+    <path fill="#AD9F91" d="M1,1.49938449 C1,1.22358205 1.21990657,1 1.49826741,1 L14.5017326,1 C14.7769181,1 15,1.21612645 15,1.49938449 L15,25.5006161 C15,25.7764186 14.7800935,26.0000006 14.5017326,26.0000006 L1.49826741,26.0000006 C1.22308192,26.0000006 1,25.7838742 1,25.5006161 L1,1.49938449 Z"/>
+    <polygon fill="#1A1A1A" points="2 4 14 4 14 24 2 24"/>
+    <circle cx="11.5" cy="2.5" r="1" fill="#000"/>
+    <line x1="6.5" x2="9.5" y1="2.5" y2="2.5" stroke="#40372E" stroke-linecap="round"/>
   </g>
 </svg>
