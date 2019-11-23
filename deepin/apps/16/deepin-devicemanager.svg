@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="deepin-devicemanager16-a" x1="26.256%" x2="66.07%" y1="13.265%" y2="85.349%">
+      <stop offset="0%" stop-color="#2F2F2F"/>
+      <stop offset="100%" stop-color="#1E1E1E"/>
+    </linearGradient>
+    <path id="deepin-devicemanager16-c" d="M12.75,7 C12.8880712,7 13,7.11192881 13,7.25 L13,7.75 C13,7.88807119 12.8880712,8 12.75,8 L1.25,8 C1.11192881,8 1,7.88807119 1,7.75 L1,7.25 C1,7.11192881 1.11192881,7 1.25,7 L12.75,7 Z M12.75,5 C12.8880712,5 13,5.11192881 13,5.25 L13,5.75 C13,5.88807119 12.8880712,6 12.75,6 L1.25,6 C1.11192881,6 1,5.88807119 1,5.75 L1,5.25 C1,5.11192881 1.11192881,5 1.25,5 L12.75,5 Z M12.75,3 C12.8880712,3 13,3.11192881 13,3.25 L13,3.75 C13,3.88807119 12.8880712,4 12.75,4 L1.25,4 C1.11192881,4 1,3.88807119 1,3.75 L1,3.25 C1,3.11192881 1.11192881,3 1.25,3 L12.75,3 Z"/>
+    <filter id="deepin-devicemanager16-b" width="133.3%" height="180%" x="-16.7%" y="-20%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.230741914 0"/>
+    </filter>
+    <linearGradient id="deepin-devicemanager16-d" x1="0%" x2="100%" y1="47.368%" y2="52.629%">
+      <stop offset="0%" stop-color="#E2D46C"/>
+      <stop offset="18.149%" stop-color="#D7BC26"/>
+      <stop offset="38.886%" stop-color="#CFB009"/>
+      <stop offset="56.473%" stop-color="#E7BF00"/>
+      <stop offset="70.402%" stop-color="#D5B630"/>
+      <stop offset="83.443%" stop-color="#C9A10A"/>
+      <stop offset="100%" stop-color="#C2A422"/>
+    </linearGradient>
+    <path id="deepin-devicemanager16-e" d="M3.75,10 C3.88807119,10 4,10.1119288 4,10.25 L4,11.75 C4,11.8880712 3.88807119,12 3.75,12 L3.25,12 C3.11192881,12 3,11.8880712 3,11.75 L3,10.25 C3,10.1119288 3.11192881,10 3.25,10 L3.75,10 Z M5.75,10 C5.88807119,10 6,10.1119288 6,10.25 L6,11.75 C6,11.8880712 5.88807119,12 5.75,12 L5.25,12 C5.11192881,12 5,11.8880712 5,11.75 L5,10.25 C5,10.1119288 5.11192881,10 5.25,10 L5.75,10 Z M8.75,10 C8.88807119,10 9,10.1119288 9,10.25 L9,11.75 C9,11.8880712 8.88807119,12 8.75,12 L8.25,12 C8.11192881,12 8,11.8880712 8,11.75 L8,10.25 C8,10.1119288 8.11192881,10 8.25,10 L8.75,10 Z M10.75,10 C10.8880712,10 11,10.1119288 11,10.25 L11,11.75 C11,11.8880712 10.8880712,12 10.75,12 L10.25,12 C10.1119288,12 10,11.8880712 10,11.75 L10,10.25 C10,10.1119288 10.1119288,10 10.25,10 L10.75,10 Z"/>
+    <filter id="deepin-devicemanager16-f" width="112.5%" height="150%" x="-6.2%" y="-25%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.926828578   0 0 0 0 0.558558022   0 0 0 0 0  0 0 0 0.55 0"/>
+    </filter>
+    <linearGradient id="deepin-devicemanager16-g" x1="25.707%" x2="75.49%" y1="14.689%" y2="86.214%">
+      <stop offset=".069%" stop-color="#AAFBE7"/>
+      <stop offset="100%" stop-color="#6CACFF"/>
+    </linearGradient>
+    <rect id="deepin-devicemanager16-h" width="10" height="8" x="2" y="2" rx="1.25"/>
+    <filter id="deepin-devicemanager16-i" width="120%" height="125%" x="-10%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0.0510136902   0 0 0 0 0.262143342  0 0 0 0.250573645 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.838719512   0 0 0 0 1   0 0 0 0 0.9690462  0 0 0 0.568209135 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 2)">
+    <path fill="url(#deepin-devicemanager16-a)" d="M12.5,0 C13.3284271,-1.52179594e-16 14,0.671572875 14,1.5 L14,3 L14,3 C13.4477153,3 13,3.44771525 13,4 C13,4.55228475 13.4477153,5 14,5 L14,10.5 C14,11.3284271 13.3284271,12 12.5,12 L1.5,12 C0.671572875,12 1.01453063e-16,11.3284271 0,10.5 L0,5 L0,5 C0.55228475,5 1,4.55228475 1,4 C1,3.44771525 0.55228475,3 0,3 L0,1.5 C-1.01453063e-16,0.671572875 0.671572875,1.52179594e-16 1.5,0 L12.5,0 Z M1.5,10 C1.22385763,10 1,10.2238576 1,10.5 C1,10.7761424 1.22385763,11 1.5,11 C1.77614237,11 2,10.7761424 2,10.5 C2,10.2238576 1.77614237,10 1.5,10 Z M12.5,10 C12.2238576,10 12,10.2238576 12,10.5 C12,10.7761424 12.2238576,11 12.5,11 C12.7761424,11 13,10.7761424 13,10.5 C13,10.2238576 12.7761424,10 12.5,10 Z M1.5,1 C1.22385763,1 1,1.22385763 1,1.5 C1,1.77614237 1.22385763,2 1.5,2 C1.77614237,2 2,1.77614237 2,1.5 C2,1.22385763 1.77614237,1 1.5,1 Z M12.5,1 C12.2238576,1 12,1.22385763 12,1.5 C12,1.77614237 12.2238576,2 12.5,2 C12.7761424,2 13,1.77614237 13,1.5 C13,1.22385763 12.7761424,1 12.5,1 Z"/>
+    <use fill="#000" filter="url(#deepin-devicemanager16-b)" xlink:href="#deepin-devicemanager16-c"/>
+    <use fill="#000" fill-opacity=".4" xlink:href="#deepin-devicemanager16-c"/>
+    <use fill="url(#deepin-devicemanager16-d)" xlink:href="#deepin-devicemanager16-e"/>
+    <use fill="#000" filter="url(#deepin-devicemanager16-f)" xlink:href="#deepin-devicemanager16-e"/>
+    <use fill="url(#deepin-devicemanager16-g)" xlink:href="#deepin-devicemanager16-h"/>
+    <use fill="#000" filter="url(#deepin-devicemanager16-i)" xlink:href="#deepin-devicemanager16-h"/>
+    <path fill="#000" fill-opacity=".33" fill-rule="nonzero" d="M5.02631579,5 C5.11351864,5 5.18421053,5.07110772 5.18421053,5.15882353 L5.18421053,5.15882353 L5.18421053,6.58823529 C5.18421053,7.20224599 4.68936736,7.7 4.07894737,7.7 L4.07894737,7.7 L3.60526316,7.7 C2.99484317,7.7 2.5,7.20224599 2.5,6.58823529 L2.5,6.58823529 L2.5,5.15882353 C2.5,5.07110772 2.57069188,5 2.65789474,5 C2.74509759,5 2.81578947,5.07110772 2.81578947,5.15882353 L2.81578947,5.15882353 L2.81578947,6.58823529 C2.81578947,7.02681436 3.16924888,7.38235294 3.60526316,7.38235294 L3.60526316,7.38235294 L4.07894737,7.38235294 C4.51496164,7.38235294 4.86842105,7.02681436 4.86842105,6.58823529 L4.86842105,6.58823529 L4.86842105,5.15882353 C4.86842105,5.07110772 4.93911293,5 5.02631579,5 Z M7.39473684,5 C8.00515683,5 8.5,5.49775401 8.5,6.11176471 L8.5,6.58823529 C8.5,7.20224599 8.00515683,7.7 7.39473684,7.7 L6.92105263,7.7 C6.31063264,7.7 5.81578947,7.20224599 5.81578947,6.58823529 L5.81578947,6.11176471 C5.81578947,5.49775401 6.31063264,5 6.92105263,5 L7.39473684,5 Z M11.2257618,5 C11.3129646,5 11.3836565,5.07110772 11.3836565,5.15882353 C11.3836565,5.24653934 11.3129646,5.31764706 11.2257618,5.31764706 L11.2257618,5.31764706 L9.72368421,5.31764706 C9.48387636,5.31764706 9.28947368,5.51319328 9.28947368,5.75441176 C9.28947368,5.99563025 9.48387636,6.19117647 9.72368421,6.19117647 L9.72368421,6.19117647 L10.75,6.19117647 C11.1642136,6.19117647 11.5,6.52893812 11.5,6.94558824 C11.5,7.36223835 11.1642136,7.7 10.75,7.7 L10.75,7.7 L9.24792244,7.7 C9.16071958,7.7 9.0900277,7.62889228 9.0900277,7.54117647 C9.0900277,7.45346066 9.16071958,7.38235294 9.24792244,7.38235294 L9.24792244,7.38235294 L10.75,7.38235294 C10.9898079,7.38235294 11.1842105,7.18680672 11.1842105,6.94558824 C11.1842105,6.70436975 10.9898079,6.50882353 10.75,6.50882353 L10.75,6.50882353 L9.72368421,6.50882353 C9.30947065,6.50882353 8.97368421,6.17106188 8.97368421,5.75441176 C8.97368421,5.33776165 9.30947065,5 9.72368421,5 L9.72368421,5 Z M7.39473684,5.31764706 L6.92105263,5.31764706 C6.48503836,5.31764706 6.13157895,5.67318564 6.13157895,6.11176471 L6.13157895,6.58823529 C6.13157895,7.02681436 6.48503836,7.38235294 6.92105263,7.38235294 L7.39473684,7.38235294 C7.83075112,7.38235294 8.18421053,7.02681436 8.18421053,6.58823529 L8.18421053,6.11176471 C8.18421053,5.67318564 7.83075112,5.31764706 7.39473684,5.31764706 Z"/>
+  </g>
+</svg>
