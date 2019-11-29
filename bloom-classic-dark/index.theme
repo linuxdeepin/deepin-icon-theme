@@ -1,7 +1,6 @@
 [Icon Theme]
-Name=deepin-dark
-Comment=Default icon theme for deepin
-Inherits=deepin,Papirus
+Name=bloom-dark
+Inherits=bloom,Papirus
 
 Example=x-directory-normal
 

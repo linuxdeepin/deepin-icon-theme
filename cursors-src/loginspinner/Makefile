@@ -1,3 +1,3 @@
 all: 
-	xcursorgen spinner_48.conf ../../deepin/cursors/loginspinner
-	xcursorgen spinner_96.conf ../../deepin/cursors/loginspinner@2x
+	xcursorgen spinner_48.conf ../../bloom/cursors/loginspinner
+	xcursorgen spinner_96.conf ../../bloom/cursors/loginspinner@2x
