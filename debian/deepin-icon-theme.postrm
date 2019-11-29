@@ -4,7 +4,7 @@ set -e
 case "$1" in
   remove|deconfigure|failed-upgrade)
   update-alternatives --remove x-cursor-theme \
-      /usr/share/icons/deepin/cursor.theme	
+      /usr/share/icons/bloom/cursor.theme	
   ;;
 esac
 
