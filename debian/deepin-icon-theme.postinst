@@ -2,6 +2,6 @@
 set -e
 
 update-alternatives --install /usr/share/icons/default/index.theme \
-    x-cursor-theme /usr/share/icons/deepin/cursor.theme 99
+    x-cursor-theme /usr/share/icons/bloom/cursor.theme 99
 
 #DEBHELPER#

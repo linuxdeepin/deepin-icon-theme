@@ -1,4 +1,5 @@
 usr/share/icons/hicolor /usr/share/icons/
-deepin /usr/share/icons/
-deepin-dark /usr/share/icons/
-deepin-classic /usr/share/icons/
+bloom /usr/share/icons/
+bloom-dark /usr/share/icons/
+bloom-classic /usr/share/icons/
+bloom-classic-dark /usr/share/icons/
