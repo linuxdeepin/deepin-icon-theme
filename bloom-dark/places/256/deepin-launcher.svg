@@ -1,25 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
   <defs>
-    <filter id="deepin-launcher-a" width="126.3%" height="126.3%" x="-13.1%" y="-13.1%" filterUnits="objectBoundingBox">
-      <feOffset dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+    <filter id="deepin-launcher-256px-a" width="122.9%" height="122.9%" x="-11.4%" y="-11.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
       <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
       <feMerge>
         <feMergeNode in="shadowMatrixOuter1"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <radialGradient id="deepin-launcher-b" cx="36.374%" cy="10.403%" r="83.143%" fx="36.374%" fy="10.403%">
-      <stop offset="0%" stop-color="#00ABFF"/>
-      <stop offset="100%" stop-color="#4021FF"/>
-    </radialGradient>
-    <linearGradient id="deepin-launcher-c" x1="49.999%" x2="49.999%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFF"/>
-      <stop offset="100%" stop-color="#04ACF7"/>
+    <linearGradient id="deepin-launcher-256px-b" x1="36.374%" x2="36.374%" y1="10.403%" y2="93.072%">
+      <stop offset="0%" stop-color="#787878"/>
+      <stop offset="100%" stop-color="#464E4F"/>
+    </linearGradient>
+    <linearGradient id="deepin-launcher-256px-c" x1="100%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ECD935"/>
+      <stop offset="100%" stop-color="#3BCAB9"/>
+    </linearGradient>
+    <linearGradient id="deepin-launcher-256px-d" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00B8E8"/>
+      <stop offset="100%" stop-color="#4B5EFF"/>
+    </linearGradient>
+    <linearGradient id="deepin-launcher-256px-e" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFC823"/>
+      <stop offset="100%" stop-color="#FF2F78"/>
+    </linearGradient>
+    <linearGradient id="deepin-launcher-256px-f" x1="81.903%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#DE00C0"/>
+      <stop offset="100%" stop-color="#8720FF"/>
     </linearGradient>
   </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#deepin-launcher-a)" transform="translate(10 10)">
-    <path fill="url(#deepin-launcher-b)" d="M0,118 C0,52.8302857 52.8302857,0 118,0 C183.169714,0 236,52.8302857 236,118 C236,183.169714 183.169714,236 118,236 C52.8302857,236 0,183.169714 0,118 Z"/>
-    <path fill="url(#deepin-launcher-c)" fill-rule="nonzero" d="M118.5,10 C178.422297,10 227,58.5796029 227,118.50224 C227,178.424089 178.423086,227 118.5,227 C58.5769139,227 10,178.424089 10,118.50224 C10,58.5796029 58.5777025,10 118.5,10 Z M118.5,19.5735294 C114.395673,19.5735294 110.349718,19.8234961 106.376526,20.3090357 C91.6592161,40.5904983 84.0298119,73.6704428 84.6367679,93.9129803 C84.6367679,93.9129803 83.6692665,123.909966 104.185366,134.549758 C104.185366,134.549758 122.622816,142.652169 135.187659,116.452651 C135.187659,116.452651 143.823349,101.66704 140.308234,68.2510426 C140.308234,68.2510426 143.671252,68.8445314 144.051493,69.3778111 C144.431734,69.9067903 151.478862,95.1042585 146.527283,116.323632 C146.527283,116.323632 141.968619,141.258761 119.555541,146.961414 C97.1509125,152.664066 79.6894136,138.867603 67.8343528,125.87106 C59.0058723,116.193008 45.8992387,90.2031786 39.4437914,59.0268582 C26.9684284,75.5801622 19.5735294,96.1778419 19.5735294,118.502247 C19.5735294,133.918687 23.1000486,148.511448 29.3904209,161.517883 C51.2331056,167.969432 106.726272,180.538467 142.029943,154.664809 C165.399617,137.53411 162.388517,110.100544 162.388517,110.100544 C162.001615,89.2328731 149.296957,68.504902 149.296957,68.504902 C198.698353,113.19577 169.499929,162.845984 169.499929,162.845984 C155.907168,190.609075 127.966009,208.366112 103.522149,216.297768 C108.406244,217.041798 113.408196,217.426471 118.5,217.426471 C173.135772,217.426471 217.426471,173.136778 217.426471,118.502247 C217.426471,95.3930997 209.502547,74.1342062 196.223599,57.2946698 C191.388754,57.629429 185.772898,57.8244503 179.94622,57.6332267 C179.94622,57.6332267 153.662744,58.860622 138.924515,66.2117488 C138.924515,66.2117488 127.933981,71.1124999 116.947957,79.4217014 C116.947957,79.4217014 114.616358,80.5872854 114.729105,84.8699238 C114.828322,89.1393169 112.492213,100.521422 104.708191,107.192625 C104.708191,107.192625 99.1520413,110.049188 101.930116,114.137563 C101.930116,114.137563 105.682322,119.585785 110.96788,113.863827 C110.96788,113.863827 124.596683,99.8414978 125.431008,77.2450615 C125.431008,77.2450615 129.742436,73.5628755 136.552328,72.4767631 C136.552328,72.4767631 137.806069,106.375833 120.984284,123.396009 C120.984284,123.396009 104.983293,140.822374 99.8420502,114.954355 C99.8420502,114.954355 93.5823616,90.3093161 125.850425,61.0416771 C125.850425,61.0416771 147.60149,39.3194288 160.386949,29.1470588 C162.152714,29.8830429 163.894039,30.6645219 165.609374,31.4899904 C151.602609,23.8898686 135.555274,19.5735294 118.5,19.5735294 Z"/>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-launcher-256px-a)" transform="translate(10 10)">
+    <path fill="url(#deepin-launcher-256px-b)" d="M0,118 C0,52.8302857 52.8302857,0 118,0 C183.169714,0 236,52.8302857 236,118 C236,183.169714 183.169714,236 118,236 C52.8302857,236 0,183.169714 0,118 Z"/>
+    <rect width="44" height="44" x="52.159" y="96" fill="url(#deepin-launcher-256px-c)" rx="8" transform="rotate(-45 74.16 118)"/>
+    <rect width="44" height="44" x="96" y="139.841" fill="url(#deepin-launcher-256px-d)" rx="8" transform="rotate(-45 118 161.84)"/>
+    <rect width="44" height="44" x="96" y="52.159" fill="url(#deepin-launcher-256px-e)" rx="8" transform="rotate(-45 118 74.16)"/>
+    <rect width="44" height="44" x="139.841" y="96" fill="url(#deepin-launcher-256px-f)" rx="8" transform="rotate(-45 161.84 118)"/>
   </g>
 </svg>

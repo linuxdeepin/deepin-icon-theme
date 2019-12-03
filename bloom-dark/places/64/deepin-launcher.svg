@@ -1,25 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
   <defs>
-    <filter id="deepin-launcher-a" width="136.2%" height="136.2%" x="-18.1%" y="-18.1%" filterUnits="objectBoundingBox">
-      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+    <filter id="deepin-launcher-64px-a" width="127.6%" height="127.6%" x="-13.8%" y="-13.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
       <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
       <feMerge>
         <feMergeNode in="shadowMatrixOuter1"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <radialGradient id="deepin-launcher-b" cx="36.374%" cy="10.403%" r="83.143%" fx="36.374%" fy="10.403%">
-      <stop offset="0%" stop-color="#00ABFF"/>
-      <stop offset="100%" stop-color="#4021FF"/>
-    </radialGradient>
-    <linearGradient id="deepin-launcher-c" x1="49.999%" x2="49.999%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFF"/>
-      <stop offset="100%" stop-color="#04ACF7"/>
+    <linearGradient id="deepin-launcher-64px-b" x1="36.374%" x2="36.374%" y1="10.403%" y2="93.072%">
+      <stop offset="0%" stop-color="#787878"/>
+      <stop offset="100%" stop-color="#464E4F"/>
+    </linearGradient>
+    <linearGradient id="deepin-launcher-64px-c" x1="100%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ECD935"/>
+      <stop offset="100%" stop-color="#3BCAB9"/>
+    </linearGradient>
+    <linearGradient id="deepin-launcher-64px-d" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00B8E8"/>
+      <stop offset="100%" stop-color="#4B5EFF"/>
+    </linearGradient>
+    <linearGradient id="deepin-launcher-64px-e" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFC823"/>
+      <stop offset="100%" stop-color="#FF2F78"/>
+    </linearGradient>
+    <linearGradient id="deepin-launcher-64px-f" x1="81.903%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#DE00C0"/>
+      <stop offset="100%" stop-color="#8720FF"/>
     </linearGradient>
   </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#deepin-launcher-a)" transform="translate(3 3)">
-    <path fill="url(#deepin-launcher-b)" d="M0,29 C0,12.9837143 12.9837143,0 29,0 C45.0162857,0 58,12.9837143 58,29 C58,45.0162857 45.0162857,58 29,58 C12.9837143,58 0,45.0162857 0,29 Z"/>
-    <path fill="url(#deepin-launcher-c)" fill-rule="nonzero" d="M29,2 C43.9115395,2 56,14.0889334 56,29.0005575 C56,43.9119853 43.9117357,56 29,56 C14.0882643,56 2,43.9119853 2,29.0005575 C2,14.0889334 14.0884605,2 29,2 Z M29,4.38235294 C27.9787684,4.38235294 26.972059,4.4445418 25.9834521,4.56533898 C22.320725,9.61238895 20.4221652,17.8442597 20.5732049,22.8815711 C20.5732049,22.8815711 20.3324442,30.3462589 25.437833,32.9939489 C25.437833,32.9939489 30.0259542,35.0102172 33.1526894,28.4905215 C33.1526894,28.4905215 35.3016628,24.8111528 34.4269339,16.4956512 C34.4269339,16.4956512 35.263814,16.6433396 35.3584361,16.7760452 C35.4530582,16.9076805 37.2067214,23.1780182 35.9745312,28.4584153 C35.9745312,28.4584153 34.8401172,34.6634704 29.2626691,36.0825638 C23.6873239,37.5016571 19.3420661,34.0684358 16.3919588,30.8342729 C14.1949273,28.4258194 10.9332063,21.9579092 9.32684556,14.1993585 C6.22266507,18.3191897 4.38235294,23.445016 4.38235294,29.0005592 C4.38235294,32.8366841 5.25981743,36.4678625 6.8249918,39.7043439 C12.2591745,41.3100034 26.0696237,44.4385165 34.8553776,37.9995377 C40.6708725,33.7365988 39.9215663,26.9098128 39.9215663,26.9098128 C39.8252868,21.7169362 36.663759,16.5588235 36.663759,16.5588235 C48.9571939,27.6800533 41.6912265,40.0354061 41.6912265,40.0354061 C38.3087565,46.9440706 31.3558446,51.3628381 25.2731182,53.3366663 C26.4888324,53.5219714 27.7332424,53.6176471 29,53.6176471 C42.5959987,53.6176471 53.6176471,42.596249 53.6176471,29.0005592 C53.6176471,23.2498526 51.6457654,17.9595848 48.3412822,13.7690862 C47.1390224,13.8524566 45.7411397,13.901029 44.2907645,13.8534297 C44.2907645,13.8534297 37.750176,14.1588645 34.0825982,15.9881771 C34.0825982,15.9881771 31.3476266,17.2077189 28.6137773,19.2754464 C28.6137773,19.2754464 28.0335638,19.5654996 28.0616206,20.6312253 C28.0863105,21.6936549 27.5049747,24.5260681 25.567937,26.1861831 C25.567937,26.1861831 24.1853006,26.8970331 24.8766188,27.9144166 C24.8766188,27.9144166 25.8103473,29.2701954 27.1256475,27.846298 C27.1256475,27.846298 30.517147,24.3568704 30.7247669,18.7337941 C30.7247669,18.7337941 31.7976568,17.8174897 33.4922843,17.5472129 C33.4922843,17.5472129 33.8042753,25.9829261 29.6182088,30.2183617 C29.6182088,30.2183617 25.6363955,34.5548764 24.3570079,28.1176735 C24.3570079,28.1176735 22.7992974,21.9848068 30.829138,14.7016155 C30.829138,14.7016155 36.2418453,9.29607905 39.4234803,6.76470588 C39.869182,6.95047773 40.3086266,7.14789757 40.741411,7.35657445 C37.2509776,5.46008919 33.2513237,4.38235294 29,4.38235294 Z"/>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-launcher-64px-a)" transform="translate(3 3)">
+    <path fill="url(#deepin-launcher-64px-b)" d="M0,29 C0,12.9837143 12.9837143,0 29,0 C45.0162857,0 58,12.9837143 58,29 C58,45.0162857 45.0162857,58 29,58 C12.9837143,58 0,45.0162857 0,29 Z"/>
+    <g transform="translate(10 10)">
+      <rect width="11" height="11" x="2.5" y="13.46" fill="url(#deepin-launcher-64px-c)" rx="2" transform="rotate(-45 8 18.96)"/>
+      <rect width="11" height="11" x="13.46" y="24.42" fill="url(#deepin-launcher-64px-d)" rx="2" transform="rotate(-45 18.96 29.92)"/>
+      <rect width="11" height="11" x="13.46" y="2.5" fill="url(#deepin-launcher-64px-e)" rx="2" transform="rotate(-45 18.96 8)"/>
+      <rect width="11" height="11" x="24.42" y="13.46" fill="url(#deepin-launcher-64px-f)" rx="2" transform="rotate(-45 29.92 18.96)"/>
+    </g>
   </g>
 </svg>
