@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
   <defs>
-    <filter id="deepin-calendar-128px-a" width="124.1%" height="266%" x="-12.1%" y="-139%" filterUnits="objectBoundingBox">
+    <filter id="dde-calendar128-a" width="130.8%" height="131.8%" x="-15%" y="-15%" filterUnits="objectBoundingBox">
       <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
       <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
       <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
       <feMerge>
@@ -10,23 +10,42 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <linearGradient id="deepin-calendar-128px-b" x1="50%" x2="50%" y1="31.469%" y2="99.385%">
-      <stop offset="0%" stop-color="#FFF"/>
-      <stop offset="100%" stop-color="#F3F3F3"/>
+    <radialGradient id="dde-calendar128-b" cx="54.324%" cy="55.779%" r="61.914%" fx="54.324%" fy="55.779%" gradientTransform="matrix(-.81914 -.50611 .72543 -.9141 .584 1.343)">
+      <stop offset="0%"/>
+      <stop offset="100%" stop-opacity=".148"/>
+    </radialGradient>
+    <path id="dde-calendar128-d" d="M50.25,76.5 L50.25,70.8840136 L35.0012034,70.8840136 L47.8408544,55.0840136 C49.4469515,53.0776644 50.25,50.7846939 50.25,48.205102 C50.2134978,44.9806122 49.1093061,42.3204082 46.9374248,40.2244898 C44.8020457,38.1106576 42.0187525,37.0358277 38.5875451,37 C35.5213598,37.0358277 32.9388287,38.0927438 30.8399519,40.1707483 C28.7593261,42.3024943 27.6460088,44.9985261 27.5,48.2588435 L27.5,48.2588435 L33.1943442,48.2588435 C33.3951063,46.4674603 34.0338949,45.0791383 35.11071,44.0938776 C36.1510229,43.1086168 37.4559767,42.6159864 39.0255716,42.6159864 C40.7959286,42.6518141 42.1647613,43.2160998 43.1320698,44.3088435 C44.0628761,45.4015873 44.5282792,46.6824263 44.5282792,48.1513605 C44.5282792,48.7066893 44.4552748,49.2978458 44.3092659,49.9248299 C44.0902527,50.5876417 43.6796029,51.304195 43.0773165,52.0744898 L43.0773165,52.0744898 L27.5,71.2064626 L27.5,76.5 L50.25,76.5 Z M65.7096386,76.25 L79.25,42.6263717 L79.25,37 L56.5,37 L56.5,48.3065844 L62.2286145,48.3065844 L62.2286145,42.6263717 L72.8361446,42.6263717 L59.3231928,76.25 L65.7096386,76.25 Z"/>
+    <filter id="dde-calendar128-c" width="134.8%" height="145.6%" x="-17.4%" y="-15.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.000854821203   0 0 0 0 0.168099661   0 0 0 0 0.309386322  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="dde-calendar128-g" x1="69.176%" x2="56.777%" y1="71.097%" y2="57.701%">
+      <stop offset="0%" stop-color="#C6C6C6"/>
+      <stop offset="53.052%" stop-color="#E7E7E7"/>
+      <stop offset="100%" stop-color="#F4F4F4"/>
     </linearGradient>
+    <path id="dde-calendar128-f" d="M107,72 C107,72 105.565849,80.9538519 103.75,83.875 C100.875,88.5 98.75,86.75 94.75,91.625 C90.75,96.5 93.5,97.375 87.5,102.5 C84.2845809,105.246504 76.5,107 76.5,107 C101.375,107 107,85.375 107,72 Z"/>
+    <filter id="dde-calendar128-e" width="113.1%" height="111.4%" x="-6.6%" y="-2.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
   </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#deepin-calendar-128px-a)" transform="translate(8 67)">
-    <path fill="#EE3B67" d="M0,0.5 L112,0.5 L112,34 C112,42.836556 104.836556,50 96,50 L16,50 C7.163444,50 1.082166e-15,42.836556 0,34 L0,0.5 L0,0.5 Z"/>
-    <path fill="url(#deepin-calendar-128px-b)" d="M16,-56 L96,-56 C104.836556,-56 112,-48.836556 112,-40 L112,0.5 L112,0.5 L0,0.5 L0,-40 C-1.082166e-15,-48.836556 7.163444,-56 16,-56 Z"/>
-    <text fill="#F22C5F" font-family="PingFangSC-Semibold, PingFang SC" font-size="13" font-weight="500">
-      <tspan x="8.5" y="-38.5">JUN</tspan>
+  <g fill="none" fill-rule="evenodd" filter="url(#dde-calendar128-a)" transform="rotate(-8 130.503 -20.154)">
+    <rect width="107" height="107" fill="#FFF" rx="19.5"/>
+    <path fill="url(#dde-calendar128-b)" fill-opacity=".39" d="M107,73 L107,87.5 C107,98.2695526 98.2695526,107 87.5,107 L77,107 C87.25,105.75 94.4583333,101.791667 98.625,95.125 C102.791667,88.4583333 105.583333,81.0833333 107,73 Z"/>
+    <text fill="#E06164" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="17.5" font-weight="400">
+      <tspan x="23" y="26">MARCH</tspan>
     </text>
-    <text fill="#8B8B8B" font-family="PingFangSC-Semibold, PingFang SC" font-size="13" font-weight="500">
-      <tspan x="75.27" y="-38.5">2019</tspan>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#dde-calendar128-c)" xlink:href="#dde-calendar128-d"/>
+      <use fill="#2D394F" xlink:href="#dde-calendar128-d"/>
+    </g>
+    <text fill="#2D394F" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="10" font-weight="400">
+      <tspan x="32.25" y="93">MONDAY</tspan>
     </text>
-    <path fill="#313131" fill-rule="nonzero" d="M33.8336616,-0.478393876 C36.8627193,-2.22634331 38.9660486,-3.70269025 40.1192208,-4.86926269 C41.8392336,-6.59727036 42.6719208,-8.51228209 42.6719208,-10.6864997 C42.6719208,-13.31464 41.9092417,-15.318147 40.391668,-16.7942805 C38.8637972,-18.28043 36.8109466,-19.0292276 34.1458792,-19.0292276 C30.185526,-19.0292276 27.602825,-17.6273439 26.1485433,-14.7811273 C25.3396648,-13.1965598 24.8716704,-10.896154 24.7806077,-7.89089486 C24.7560527,-7.08052907 24.0920336,-6.43632568 23.2812958,-6.43632568 L16.6094208,-6.43632568 C15.7715104,-6.43632568 15.0960751,-7.12276642 15.1096167,-7.96056745 C15.1862969,-12.7046579 16.0797584,-16.6245705 17.8200455,-19.7127851 C20.9500996,-25.2358364 26.4797884,-28 34.1823375,-28 C40.5645232,-28 45.3506669,-26.2425287 48.4265019,-22.6651198 C51.4146168,-19.1897355 52.9271292,-15.2746203 52.9271292,-10.9759916 C52.9271292,-6.42864992 51.2985612,-2.5011371 48.0798786,0.719939923 C46.2404694,2.57171577 42.1974039,5.3361383 37.7268,7.81218461 C37.6758387,7.84040953 37.6232765,7.86564171 37.5693804,7.88775293 C37.4756581,7.9262031 37.2849937,8.00851239 37.011424,8.13331522 C36.5470902,8.34514487 36.027539,8.59685444 35.4668716,8.88697794 C33.8641832,9.71630666 32.2618675,10.682863 30.7738131,11.7719257 C28.1073907,13.7234006 26.1421674,15.8221845 25.1062138,18 L51.0000458,18 C51.828473,18 52.5000458,18.6715729 52.5000458,19.5 L52.5000458,25.5 C52.5000458,26.3284271 51.828473,27 51.0000458,27 L15.0000458,27 C14.1395656,27 13.4554728,26.2776377 13.5022653,25.4184307 C13.6849109,22.0646817 14.4539999,18.467026 16.0511828,14.9921101 C18.2551541,10.197033 21.7853882,6.24384581 26.8558525,3.52556888 L33.8336616,-0.478393876 Z M60.5000458,-19 C59.6716187,-19 59.0000458,-19.6715729 59.0000458,-20.5 L59.0000458,-26.5 C59.0000458,-27.3284271 59.6716187,-28 60.5000458,-28 L96.5000458,-28 C97.328473,-28 98.0000458,-27.3284271 98.0000458,-26.5 L98.0000458,-20.5 C98.0000458,-20.0978828 97.8385917,-19.7126034 97.5519144,-19.4306205 C96.0672181,-17.970236 91.4925162,-11.4301016 87.8019021,-4.77862542 C82.1839826,5.34637202 78.2571126,15.7558341 76.9401798,25.6969883 C76.8413854,26.4427594 76.2054573,27 75.4531708,27 L68.5000458,27 C67.574874,27 66.8702699,26.1706513 67.0197554,25.257636 C68.0592464,18.9087203 70.0124964,11.5081808 72.8269038,4.17688662 C76.0691097,-4.26878681 80.247183,-12.119796 85.4207994,-19 L60.5000458,-19 Z"/>
-    <polygon fill="#000" fill-opacity=".1" fill-rule="nonzero" points="0 1.25 112 1.25 112 .25 0 .25"/>
-    <rect width="2.5" height="6" x="5" y="-2" fill="#C7C7C7" rx="1.25"/>
-    <rect width="2.5" height="6" x="104.5" y="-2" fill="#C7C7C7" rx="1.25"/>
+    <use fill="#000" filter="url(#dde-calendar128-e)" xlink:href="#dde-calendar128-f"/>
+    <use fill="url(#dde-calendar128-g)" xlink:href="#dde-calendar128-f"/>
   </g>
 </svg>
