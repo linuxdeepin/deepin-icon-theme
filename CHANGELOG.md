@@ -1,3 +1,5 @@
+## 15.12.74
+   Update device manager icons and several other icons
 ## 15.12.73
     update 
 ## 15.12.72
