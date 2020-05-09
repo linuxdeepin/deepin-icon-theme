@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>twinkle_twinkle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-17.7%" y="-18.9%" width="135.4%" height="139.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="36.2505462%" y1="34.6505568%" x2="62.7968455%" y2="98.4505689%" id="linearGradient-2">
+            <stop stop-color="#FDF900" offset="0%"></stop>
+            <stop stop-color="#FFBC0F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="30.3354557%" x2="12.8211222%" y2="81.9475562%" id="linearGradient-3">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#632EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="twinkle_twinkle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(9.000000, 11.000000)">
+            <path d="M61.7306387,74.5210991 L39.5139745,63.9304447 L18.2599877,74.5027028 C17.6418791,74.8101653 16.9576631,74.8379823 16.3511086,74.6344066 C15.7445541,74.4308309 15.2156611,73.9958624 14.9081986,73.3777539 C14.6853169,72.9296827 14.6020401,72.4250324 14.6691448,71.929108 L17.9036791,48.0248977 L0.468409853,31.5923497 C-0.0339781404,31.1188546 -0.29688329,30.4865522 -0.315817663,29.8470267 C-0.334752035,29.2075011 -0.10971563,28.5607523 0.363779485,28.0583643 C0.747962101,27.6507387 1.25790734,27.3839422 1.81183497,27.3007612 L26.1892917,23.6400973 L37.2570947,1.1597196 C37.5620258,0.540358392 38.0891349,0.103229834 38.6948515,-0.102825632 C39.3005681,-0.308881097 39.9848922,-0.283863469 40.6042534,0.0210676969 C41.0989994,0.264646837 41.4993262,0.664973613 41.7429053,1.1597196 L52.7869479,23.5918364 L77.0508182,25.8690908 C77.7381535,25.9335998 78.3342715,26.2705994 78.7424284,26.7633056 C79.1505852,27.2560119 79.370781,27.9044247 79.306272,28.5917601 C79.2526916,29.1626533 79.004491,29.697777 78.6032751,30.1074303 L61.1160664,47.962389 L65.2694119,71.8358969 C65.3877379,72.5160368 65.2191807,73.179749 64.8510072,73.7030077 C64.4828336,74.2262664 63.9150436,74.6090716 63.2349037,74.7273976 C62.7242203,74.8162427 62.1985477,74.7441507 61.7306387,74.5210991 Z" id="路径-102" stroke="#000000" stroke-width="3" fill="url(#linearGradient-2)"></path>
+            <circle id="椭圆形" fill="url(#linearGradient-3)" cx="40" cy="40" r="12"></circle>
+        </g>
+    </g>
+</svg>

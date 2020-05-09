@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>x11vnc_computer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-18.8%" y="-17.1%" width="139.1%" height="134.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50.0003306%" y1="36.4880693%" x2="50%" y2="62.5%" id="linearGradient-2">
+            <stop stop-color="#F0F0F0" offset="0%"></stop>
+            <stop stop-color="#BCBCBC" offset="54.1844155%"></stop>
+            <stop stop-color="#DADADA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22.5475995,42 L22.5475995,47.8068533 C22.5475995,49.059055 22.077743,50.2656759 21.2309345,51.1881316 L18.4369652,54.2316921 C18.1559325,54.53783 18,54.9382745 18,55.3538462 C18,55.7107071 18.2892929,56 18.6461538,56 L45.3538462,56 C45.7107071,56 46,55.7107071 46,55.3538462 C46,54.9382745 45.8440675,54.53783 45.5630348,54.2316921 L42.7690655,51.1881316 C41.922257,50.2656759 41.4524005,49.059055 41.4524005,47.8068533 L41.4524005,42 L41.4524005,42 L22.5475995,42 Z" id="path-3"></path>
+        <filter x="-1.8%" y="-3.6%" width="103.6%" height="107.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.0069679%" id="linearGradient-5">
+            <stop stop-color="#DEDEDE" offset="0%"></stop>
+            <stop stop-color="#C9C9C9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#2A65B4" offset="0%"></stop>
+            <stop stop-color="#4D94ED" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-7" x="3" y="3" width="58" height="37" rx="1"></rect>
+        <filter x="-3.4%" y="-5.4%" width="106.9%" height="110.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#D8D8D8" offset="0%"></stop>
+            <stop stop-color="#EEEEEE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M6.23606798,60 L57.763932,60 C58.5214761,60 59.2140024,60.4280048 59.5527864,61.1055728 L62.5527864,67.1055728 C63.0467649,68.0935298 62.6463162,69.2948759 61.6583592,69.7888544 C61.3806483,69.9277098 61.0744222,70 60.763932,70 L3.23606798,70 C2.13149848,70 1.23606798,69.1045695 1.23606798,68 C1.23606798,67.6895098 1.30835816,67.3832837 1.4472136,67.1055728 L4.4472136,61.1055728 C4.78599762,60.4280048 5.47852386,60 6.23606798,60 Z" id="path-11"></path>
+        <filter x="1.2%" y="-5.0%" width="97.7%" height="110.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="x11vnc_computer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" filter="url(#filter-1)" transform="translate(16.000000, 13.000000)">
+            <path d="M41,49 C44,53.3333333 48.1666667,55.5 53.5,55.5 C61.5,55.5 64,55.5 64,56.5 C64,57.5 56,56.5 53.5,57.5 C51.8333333,58.1666667 51.6666667,59.5 53,61.5" id="路径-167" stroke="#B0B0B0"></path>
+            <g id="路径-6">
+                <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            </g>
+            <rect id="矩形" fill="url(#linearGradient-5)" x="0" y="0" width="64" height="43" rx="4"></rect>
+            <g id="矩形备份">
+                <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+            </g>
+            <path d="M39.493,3 L30,34.5 L32.5,34.5 L48.5,3 L60,3 C60.5522847,3 61,3.44771525 61,4 L61,27.667 L55.5,40 L24.5,40 L30,3 L39.493,3 Z" id="形状结合" fill="url(#linearGradient-9)" opacity="0.126139323"></path>
+            <g id="矩形">
+                <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-11"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+            </g>
+            <g id="编组" opacity="0.766508557" transform="translate(5.000000, 62.000000)" fill="#A2A4A1" stroke="#808080">
+                <rect id="矩形" x="11.5" y="3.5" width="15" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-19" x="0.5" y="1.5" width="4" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-27" x="12.5" y="1.5" width="4" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-33" x="11.5" y="-0.5" width="4" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-23" x="1.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-24" x="4.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-25" x="7.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-20" x="4.5" y="1.5" width="2" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-29" x="16.5" y="1.5" width="2" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-34" x="15.5" y="-0.5" width="2" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-21" x="6.5" y="1.5" width="2" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-31" x="18.5" y="1.5" width="2" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-35" x="17.5" y="-0.5" width="2" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-22" x="8.5" y="1.5" width="4" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-32" x="20.5" y="1.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-36" x="19.5" y="-0.5" width="4" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-2" x="8.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-6" x="39.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-10" x="52.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-13" x="51.5" y="1.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-26" x="38.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-37" x="23.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-40" x="26.5" y="-0.5" width="2" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-41" x="28.5" y="-0.5" width="2" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-42" x="26.5" y="3.5" width="5" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-16" x="50.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-3" x="5.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-7" x="36.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-11" x="49.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-14" x="48.5" y="1.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-28" x="35.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-38" x="26.5" y="1.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-17" x="47.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-9" x="36.5" y="1.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-4" x="2.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-8" x="33.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-12" x="46.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-15" x="45.5" y="1.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-30" x="32.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-39" x="23.5" y="1.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-18" x="44.5" y="-0.5" width="3" height="2" rx="0.2"></rect>
+                <rect id="矩形备份-5" x="-0.5" y="3.5" width="3" height="2" rx="0.2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

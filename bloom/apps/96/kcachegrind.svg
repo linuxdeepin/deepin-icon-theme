@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>kcachegrind_kcachegrind</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-15.2%" y="-17.1%" width="130.4%" height="134.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#549FE8" offset="0%"></stop>
+            <stop stop-color="#285FC3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.0918722%" y1="1.39042815%" x2="86.6131073%" y2="92.202881%" id="linearGradient-3">
+            <stop stop-color="#00E3FF" offset="0%"></stop>
+            <stop stop-color="#008FF2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="27.9847058%" x2="62.3710979%" y2="79.5660173%" id="linearGradient-4">
+            <stop stop-color="#276BD7" offset="0%"></stop>
+            <stop stop-color="#0833C2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E8E8F1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.8776394%" id="linearGradient-6">
+            <stop stop-color="#EDEDF5" offset="0%"></stop>
+            <stop stop-color="#E6E6EE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="24.0199675%" y1="18.772001%" x2="92.8617338%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#9696A5" offset="0%"></stop>
+            <stop stop-color="#AFAFC7" offset="11.0392565%"></stop>
+            <stop stop-color="#A3A5BB" offset="87.5634301%"></stop>
+            <stop stop-color="#DDDFFA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="36.8105988%" x2="16.8331861%" y2="36.8105988%" id="linearGradient-8">
+            <stop stop-color="#FFC657" offset="0%"></stop>
+            <stop stop-color="#E7DD67" offset="30.970228%"></stop>
+            <stop stop-color="#DB9126" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="78.5691757%" y1="13.1355002%" x2="31.1978357%" y2="92.9728204%" id="linearGradient-9">
+            <stop stop-color="#D1D2DA" offset="0%"></stop>
+            <stop stop-color="#7C7B97" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="kcachegrind_kcachegrind" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-3" filter="url(#filter-1)" transform="translate(8.650677, 13.000000)">
+            <g id="编组" transform="translate(0.000000, 13.101449)">
+                <path d="M19.256675,6.8869521 C24.1993381,6.89183553 29.1167245,7.9212311 34.008834,9.97513878 C38.9009435,12.0290465 43.9578538,15.1872686 49.1795647,19.4498052 L49.1795647,19.4498052 L55.6106509,38.6917518 L49.0314007,41.3245933 L47.877213,45.2943253 L42.2073286,53.812596 L39.3493227,53.812596 L34.008834,48.3985507 L29.3493227,55.8784621 L19.9949956,52.7293457 L19.9949956,45.560414 L16.2679553,42.5230371 L11.1351482,47.6105128 L6.25320748,43.171562 L7.8493227,35.8985507 L8.74247829,34.3991732 L5.67138558,30.9792945 L-1.20792265e-13,30.9792945 L-1.20792265e-13,24.9436139 L0.849322703,16.8985507 L2.5959999,16.8985507 L3.8493227,8.39855066 Z M15.3589416,16.8985507 C13.0117315,20.964038 16.9249334,27.617631 24.0993227,31.7597666 C31.2737121,35.9019022 38.9924936,35.964038 41.3397038,31.8985507 C43.6869139,27.8330634 39.7737121,21.1794704 32.5993227,17.0373347 C25.4249334,12.8951991 17.7061518,12.8330634 15.3589416,16.8985507 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+                <path d="M19.1989878,1.17239551e-13 L22.3493227,4.42534032 L26.0993227,4.42534032 C27.1521401,2.00576159 27.9021401,0.83016504 28.3493227,0.898550664 C30.0030945,1.15145454 30.8646477,3.72768048 32.3493227,4.89855066 C34.5831729,6.66024837 37.3498338,7.29204457 39.3493227,8.39855066 C43.2167341,10.5387548 47.2167341,13.8720881 51.3493227,18.3985507 L51.3493227,18.3985507 L47.3493227,35.8985507 L44.8493227,37.3985507 L47.877213,45.2943253 L42.1610961,47.2411636 L38.4316331,41.8985507 L34.8493227,41.8985507 L30.2229172,49.7928832 L22.3493227,47.47196 L24.3493227,40.3985507 L19.8493227,37.3985507 L17.3493227,37.3985507 L13.3493227,40.3985507 L7.8493227,35.8985507 L11.8493227,29.8985507 L7.8493227,24.3985507 L0.849322703,24.3985507 L0.849322703,16.8985507 L5.8493227,16.8985507 L7.8493227,13.3985507 L3.8493227,11.3985507 L3.8493227,8.39855066 L7.12786629,4.42534032 L11.8493227,6.32119634 L13.3493227,6.89855066 L13.3493227,0.883056545 L19.1989878,1.17239551e-13 Z M15.9305936,12.6843261 C12.4714415,18.0109532 15.6750144,26.2305289 23.0859738,31.0432622 C30.4969332,35.8559955 39.3088997,35.4394023 42.7680518,30.1127752 C46.2272039,24.7861481 43.023631,16.5665725 35.6126716,11.7538391 C28.2017122,6.9411058 19.3897457,7.35769901 15.9305936,12.6843261 Z" id="形状结合" fill="url(#linearGradient-3)"></path>
+                <path d="M22.3493227,47.47196 L30.2229172,49.7928832 L29.3493227,55.8784621 L19.9949956,52.7293457 L22.3493227,47.47196 Z M47.877213,45.2943253 L42.2073286,53.812596 L39.3493227,53.812596 L42.1610961,47.2411636 L47.877213,45.2943253 Z M17.3493227,37.3985507 L16.1073845,42.4352553 L11.1089416,47.47196 L13.3493227,40.3985507 L17.3493227,37.3985507 Z M0.849322703,24.1992753 L7.8493227,24.3985507 L6.00413245,31.0087513 L0.13563388,31.0087513 L0.849322703,24.1992753 Z" id="形状结合" fill="url(#linearGradient-4)"></path>
+            </g>
+            <g id="编组-2" transform="translate(38.349323, 0.000000)">
+                <path d="M0,4 L0,47 C2.705415e-16,49.209139 1.790861,51 4,51 L36,51 C38.209139,51 40,49.209139 40,47 L40,15 L40,15 L25,0 L4,0 C1.790861,4.05812251e-16 -2.705415e-16,1.790861 0,4 Z" id="路径-317" fill="url(#linearGradient-5)"></path>
+                <path d="M25,0 L25,11 C25,13.209139 26.790861,15 29,15 L40,15 L40,15 L25,0 Z" id="路径-318" fill="url(#linearGradient-6)"></path>
+            </g>
+            <g id="编组" transform="translate(25.349323, 3.000000)">
+                <path d="M32.5,22.5 C32.7509243,28.5405457 34.0643007,32.4741205 36.4401291,34.3007247 C38.6627443,36.0095341 43.4368344,40.6584883 50.7623994,48.2475871 C51.6479532,49.164991 51.7062225,50.6001436 50.8979608,51.5863223 C50.1936988,52.4456085 48.9261925,52.5712805 48.0669062,51.8670185 C48.0127593,51.8226402 47.960966,51.7754657 47.9117376,51.7256873 L33.2786433,36.9291091 L33.2786433,36.9291091 C28.9481966,34.0412702 25.8553154,32.8434614 24,33.3356828 C22.7464477,33.6682544 27.2340592,32.3957857 30.2613282,28.9812253 C31.2301477,27.8884606 31.9763716,25.7280522 32.5,22.5 Z" id="路径-3" fill="url(#linearGradient-7)"></path>
+                <rect id="矩形" fill="url(#linearGradient-8)" transform="translate(41.000000, 42.000000) rotate(-45.000000) translate(-41.000000, -42.000000) " x="36" y="31" width="10" height="22" rx="3"></rect>
+                <circle id="椭圆形备份" fill-opacity="0.481670673" fill="#9EDDFF" cx="18" cy="18" r="18"></circle>
+                <circle id="椭圆形" stroke="url(#linearGradient-9)" stroke-width="3" cx="18" cy="18" r="16.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

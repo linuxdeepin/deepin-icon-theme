@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>mikutter_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-14.6%" y="-14.6%" width="129.3%" height="129.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#484848" offset="0%"></stop>
+            <stop stop-color="#080808" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFB1E7" offset="0%"></stop>
+            <stop stop-color="#FF79CA" offset="99.4840794%"></stop>
+            <stop stop-color="#FF79CA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="mikutter_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(7.000000, 7.000000)">
+            <circle id="椭圆形" fill="url(#linearGradient-2)" cx="41" cy="41" r="41"></circle>
+            <circle id="椭圆形备份" fill="url(#linearGradient-3)" cx="41" cy="41" r="37"></circle>
+            <path d="M53,21 C62.7979665,21 69.8328933,27.6964419 69.9970649,36.1956969 L70,36.5 L70,52.5 C70,55.5375661 67.5375661,58 64.5,58 C61.5365209,58 59.1204609,55.65622 59.0043672,52.7212071 L59,52.5 L59,36.5 C59,34.0141377 56.9187244,32 53,32 C49.380377,32 47.1152688,34.1746175 47.0042757,36.3339635 L47,36.5 L47,52.5 C47,55.4634791 44.65622,57.8795391 41.7212071,57.9956328 L41.5,58 L41.5,58 C38.5365209,58 36.1204609,55.65622 36.0043672,52.7212071 L36,52.5 L36,36.5 C36,34.0141377 33.9187244,32 30,32 C26.380377,32 24.1152688,34.1746175 24.0042757,36.3339635 L24,36.5 L24,52.5 C24,55.5375661 21.5375661,58 18.5,58 C15.5365209,58 13.1204609,55.65622 13.0043672,52.7212071 L13,52.5 L13,36.5 C13,28.2124339 20.2124339,21 30,21 C34.6269487,21 38.6377216,22.4933499 41.5997288,24.9646938 C44.5587832,22.5190468 48.5082108,21 53,21 Z" id="形状结合" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

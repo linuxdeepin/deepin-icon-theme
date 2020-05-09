@@ -1,3 +1,5 @@
+## 2020.05.09
+   merge apps icons
 ## 2020.04.13
    update tag version
 ## 15.12.74
