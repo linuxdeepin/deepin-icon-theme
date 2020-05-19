@@ -3,32 +3,24 @@
     <filter id="user-trash-empty-opened-128px-a" width="131.4%" height="131.4%" x="-15.7%" y="-15.7%" filterUnits="objectBoundingBox">
       <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
       <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
       <feMerge>
         <feMergeNode in="shadowMatrixOuter1"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <path id="user-trash-empty-opened-128px-b" d="M4.6686618,0 L97.3313382,1.77635684e-15 C99.5349543,1.37155912e-15 101.321338,1.78638385 101.321338,3.99 C101.321338,4.19817031 101.305047,4.4060214 101.272614,4.6116496 L87.9090465,89.3370286 C86.7589126,96.6289092 80.4742494,102 73.0922217,102 L28.9077783,102 C21.5257506,102 15.2410874,96.6289092 14.0909535,89.3370286 L0.727386403,4.6116496 C0.384058809,2.4349433 1.8703059,0.392052195 4.0470122,0.0487246007 C4.2526404,0.0162912696 4.46049149,1.81459711e-15 4.6686618,1.77635684e-15 Z"/>
-    <filter id="user-trash-empty-opened-128px-c" width="140.8%" height="142.2%" x="-20.4%" y="-21.1%" filterUnits="objectBoundingBox">
-      <feMorphology in="SourceAlpha" radius="11" result="shadowSpreadInner1"/>
-      <feGaussianBlur in="shadowSpreadInner1" result="shadowBlurInner1" stdDeviation="10"/>
-      <feOffset dy="-12" in="shadowBlurInner1" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0"/>
-      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation="1"/>
-      <feOffset dy="2" in="shadowBlurInner2" result="shadowOffsetInner2"/>
-      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
-      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixInner1"/>
-        <feMergeNode in="shadowMatrixInner2"/>
-      </feMerge>
+    <path id="user-trash-empty-opened-128px-b" d="M4.6686618,0 L97.3313382,0 C99.5349543,1.37155912e-15 101.321338,1.78638385 101.321338,3.99 C101.321338,4.19817031 101.305047,4.4060214 101.272614,4.6116496 L87.9090465,89.3370286 C86.7589126,96.6289092 80.4742494,102 73.0922217,102 L28.9077783,102 C21.5257506,102 15.2410874,96.6289092 14.0909535,89.3370286 L0.727386403,4.6116496 C0.384058809,2.4349433 1.8703059,0.392052195 4.0470122,0.0487246007 C4.2526404,0.0162912696 4.46049149,1.81459711e-15 4.6686618,0 Z"/>
+    <filter id="user-trash-empty-opened-128px-c" width="156.3%" height="158.1%" x="-28.2%" y="-29%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="7.5"/>
     </filter>
+    <path id="user-trash-empty-opened-128px-e" d="M97.1534017,-2.66453526e-14 C99.3570178,-2.52737935e-14 101.143402,1.78638385 101.143402,3.99 C101.143402,4.19817031 101.12711,4.4060214 101.094677,4.6116496 L101.074393,4.74723978 C100.726343,2.89856114 99.1031981,1.5 97.1534017,1.5 L97.1534017,1.5 L4.49072526,1.5 C4.28255495,1.5 4.07470386,1.51629127 3.86907566,1.5487246 C2.1601562,1.8182691 0.876817068,3.13537845 0.57028851,4.7423702 L0.549449857,4.6116496 C0.206122263,2.4349433 1.69236936,0.392052195 3.86907566,0.0487246007 C4.07470386,0.0162912696 4.28255495,-2.48307555e-14 4.49072526,-2.66453526e-14 L97.1534017,-2.66453526e-14 Z"/>
   </defs>
   <g fill="none" fill-rule="evenodd" filter="url(#user-trash-empty-opened-128px-a)" transform="translate(13 13)">
-    <use fill="#BFC7DC" fill-opacity=".8" xlink:href="#user-trash-empty-opened-128px-b"/>
-    <use fill="#000" filter="url(#user-trash-empty-opened-128px-c)" xlink:href="#user-trash-empty-opened-128px-b"/>
+    <mask id="user-trash-empty-opened-128px-d" fill="#fff">
+      <use xlink:href="#user-trash-empty-opened-128px-b"/>
+    </mask>
+    <use fill="#FFF" fill-opacity=".8" xlink:href="#user-trash-empty-opened-128px-b"/>
+    <path fill="#2D4688" fill-opacity=".3" d="M16.9186618,0 L85.0813382,0 C87.2849543,1.81564833e-15 89.0713382,1.78638385 89.0713382,3.99 C89.0713382,4.19817031 89.0550469,4.4060214 89.0226136,4.6116496 L79.5233833,64.8370286 C78.3732493,72.1289092 72.0885861,77.5 64.7065585,77.5 L37.2934415,77.5 C29.9114139,77.5 23.6267507,72.1289092 22.4766167,64.8370286 L12.9773864,4.6116496 C12.6340588,2.4349433 14.1203059,0.392052195 16.2970122,0.0487246007 C16.5026404,0.0162912696 16.7104915,2.25868632e-15 16.9186618,0 Z" filter="url(#user-trash-empty-opened-128px-c)" mask="url(#user-trash-empty-opened-128px-d)"/>
+    <use fill="#FFF" fill-opacity=".8" xlink:href="#user-trash-empty-opened-128px-e"/>
   </g>
 </svg>

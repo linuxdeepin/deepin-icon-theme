@@ -3,32 +3,23 @@
     <filter id="user-trash-empty-opened-64px-a" width="130.8%" height="130.8%" x="-15.4%" y="-15.4%" filterUnits="objectBoundingBox">
       <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
       <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
       <feMerge>
         <feMergeNode in="shadowMatrixOuter1"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <path id="user-trash-empty-opened-64px-b" d="M2.3801021,0 L49.6198979,-1.33226763e-15 C50.7433101,-5.52979683e-15 51.6540156,0.910705491 51.6540156,2.03411765 C51.6540156,2.14024369 51.6457102,2.24620699 51.6291756,2.35103705 L44.8163767,45.5443675 C44.2300339,49.2617969 41.0260879,52 37.2627013,52 L14.7372987,52 C10.9739121,52 7.76996614,49.2617969 7.18362333,45.5443675 L0.370824441,2.35103705 C0.195794687,1.24134364 0.953489284,0.199869747 2.06318269,0.0248399925 C2.16801275,0.00830535314 2.27397605,1.94950375e-17 2.3801021,0 Z"/>
-    <filter id="user-trash-empty-opened-64px-c" width="141%" height="142.3%" x="-20.5%" y="-21.2%" filterUnits="objectBoundingBox">
-      <feMorphology in="SourceAlpha" radius="6" result="shadowSpreadInner1"/>
-      <feGaussianBlur in="shadowSpreadInner1" result="shadowBlurInner1" stdDeviation="5"/>
-      <feOffset dy="-6" in="shadowBlurInner1" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0"/>
-      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation=".5"/>
-      <feOffset dy="1" in="shadowBlurInner2" result="shadowOffsetInner2"/>
-      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
-      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixInner1"/>
-        <feMergeNode in="shadowMatrixInner2"/>
-      </feMerge>
+    <path id="user-trash-empty-opened-64px-b" d="M2.3801021,0 L49.6198979,0 C50.7433101,-5.97388604e-15 51.6540156,0.910705491 51.6540156,2.03411765 C51.6540156,2.14024369 51.6457102,2.24620699 51.6291756,2.35103705 L44.8163767,45.5443675 C44.2300339,49.2617969 41.0260879,52 37.2627013,52 L14.7372987,52 C10.9739121,52 7.76996614,49.2617969 7.18362333,45.5443675 L0.370824441,2.35103705 C0.195794687,1.24134364 0.953489284,0.199869747 2.06318269,0.0248399925 C2.16801275,0.00830535314 2.27397605,-4.24594172e-16 2.3801021,0 Z"/>
+    <filter id="user-trash-empty-opened-64px-c" width="175.4%" height="178.9%" x="-37.7%" y="-39.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5"/>
     </filter>
   </defs>
   <g fill="none" fill-rule="evenodd" filter="url(#user-trash-empty-opened-64px-a)" transform="translate(6 6)">
-    <use fill="#BFC7DC" fill-opacity=".8" xlink:href="#user-trash-empty-opened-64px-b"/>
-    <use fill="#000" filter="url(#user-trash-empty-opened-64px-c)" xlink:href="#user-trash-empty-opened-64px-b"/>
+    <mask id="user-trash-empty-opened-64px-d" fill="#fff">
+      <use xlink:href="#user-trash-empty-opened-64px-b"/>
+    </mask>
+    <use fill="#FFF" fill-opacity=".8" xlink:href="#user-trash-empty-opened-64px-b"/>
+    <path fill="#2D4688" fill-opacity=".3" d="M11.6686618,4 L40.3313382,4 C42.5349543,4 44.3213382,5.78638385 44.3213382,7.99 C44.3213382,8.19817031 44.3050469,8.4060214 44.2726136,8.6116496 L41.0036404,29.3370286 C39.8535064,36.6289092 33.5688432,42 26.1868156,42 L25.8131844,42 C18.4311568,42 12.1464936,36.6289092 10.9963596,29.3370286 L7.7273864,8.6116496 C7.38405881,6.4349433 8.8703059,4.3920522 11.0470122,4.0487246 C11.2526404,4.01629127 11.4604915,4 11.6686618,4 Z" filter="url(#user-trash-empty-opened-64px-c)" mask="url(#user-trash-empty-opened-64px-d)"/>
+    <path fill="#FFF" fill-opacity=".8" d="M49.6198979,0 C50.7433101,-5.97388604e-15 51.6540156,0.910705491 51.6540156,2.03411765 C51.6540156,2.14024369 51.6457102,2.24620699 51.6291756,2.35103705 L51.597492,2.55593264 C51.3824123,1.66324838 50.5786101,1 49.6198979,1 L49.6198979,1 L2.3801021,1 C2.27397605,1 2.16801275,1.00830535 2.06318269,1.02483999 C1.22658915,1.15679424 0.590057428,1.78120011 0.40241905,2.5560312 L0.370824441,2.35103705 C0.195794687,1.24134364 0.953489284,0.199869747 2.06318269,0.0248399925 C2.16801275,0.00830535314 2.27397605,-4.24594172e-16 2.3801021,0 L49.6198979,0 Z" mask="url(#user-trash-empty-opened-64px-d)"/>
   </g>
 </svg>

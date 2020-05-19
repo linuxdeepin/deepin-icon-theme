@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=bloom-dark
-Inherits=bloom,Papirus
+Inherits=bloom-classic,bloom,Papirus
 
 Example=x-directory-normal
 
