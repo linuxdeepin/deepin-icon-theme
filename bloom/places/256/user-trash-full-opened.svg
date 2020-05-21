@@ -15,18 +15,12 @@
     </filter>
     <path id="user-trash-full-opened-256px-e" d="M194.306803,-5.32907052e-14 C198.714036,-5.05475869e-14 202.286803,3.5727677 202.286803,7.98 C202.286803,8.39634062 202.254221,8.8120428 202.189354,9.2232992 L202.147787,9.48918038 C201.449584,5.79444999 198.204533,3 194.306803,3 L194.306803,3 L8.98145051,3 C8.56510989,3 8.14940771,3.03258254 7.73815131,3.0974492 C4.31907963,3.63673264 1.75178271,6.27265744 1.13991442,9.48821835 L1.09889971,9.2232992 C0.412244525,4.86988661 3.38473871,0.784104391 7.73815131,0.0974492014 C8.14940771,0.0325825393 8.56510989,-4.9661511e-14 8.98145051,-5.32907052e-14 L194.306803,-5.32907052e-14 Z"/>
     <path id="user-trash-full-opened-256px-f" d="M3.98057886,0 C3.77293028,0 3.56560012,0.0162504394 3.36048727,0.0486024839 C1.18923638,0.391069608 -0.293285783,2.42884069 0.0491813411,4.60009158 L26.5206603,172.429989 C28.661443,186.00261 40.3592962,196 54.0997103,196 L139.1868,196 C152.927214,196 164.625067,186.00261 166.76585,172.429989 L193.237329,4.60009158 C193.269681,4.39497874 193.285932,4.18764858 193.285932,3.98 C193.285932,1.7819067 191.504025,0 189.305932,0 L3.98057886,0 Z"/>
-    <radialGradient id="user-trash-full-opened-256px-h" cx="50%" cy="52.514%" r="292.128%" fx="50%" fy="52.514%" gradientTransform="matrix(0 1 -.16133 0 .585 .025)">
+    <radialGradient id="user-trash-full-opened-256px-h" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" gradientTransform="matrix(0 1 -.76075 0 .88 0)">
       <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#FFF" stop-opacity=".576"/>
+      <stop offset="54.567%" stop-color="#FFF" stop-opacity=".154"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".749"/>
     </radialGradient>
     <path id="user-trash-full-opened-256px-i" d="M9.33732361,0 L194.662676,0 C199.069909,2.74311824e-15 202.642676,3.5727677 202.642676,7.98 C202.642676,8.39634062 202.610094,8.8120428 202.545227,9.2232992 L176.073748,177.053197 C173.626263,192.570319 160.2525,204 144.543545,204 L59.456455,204 C43.7475002,204 30.3737369,192.570319 27.9262518,177.053197 L1.45477281,9.2232992 C0.768117617,4.86988661 3.74061181,0.784104391 8.0940244,0.0974492014 C8.50528081,0.0325825393 8.92098298,3.62919421e-15 9.33732361,0 Z"/>
-    <filter id="user-trash-full-opened-256px-j" width="123.2%" height="124.5%" x="-11.6%" y="-12.3%" filterUnits="objectBoundingBox">
-      <feMorphology in="SourceAlpha" radius="10" result="shadowSpreadInner1"/>
-      <feGaussianBlur in="shadowSpreadInner1" result="shadowBlurInner1" stdDeviation="10"/>
-      <feOffset dy="-20" in="shadowBlurInner1" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
-    </filter>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <g filter="url(#user-trash-full-opened-256px-a)" transform="translate(26 26)">
@@ -54,9 +48,6 @@
         </g>
       </g>
     </g>
-    <g fill-rule="nonzero" transform="translate(26 26)">
-      <use fill="url(#user-trash-full-opened-256px-h)" xlink:href="#user-trash-full-opened-256px-i"/>
-      <use fill="#000" filter="url(#user-trash-full-opened-256px-j)" xlink:href="#user-trash-full-opened-256px-i"/>
-    </g>
+    <use fill="url(#user-trash-full-opened-256px-h)" fill-rule="nonzero" transform="translate(26 26)" xlink:href="#user-trash-full-opened-256px-i"/>
   </g>
 </svg>
