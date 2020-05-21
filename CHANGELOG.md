@@ -1,3 +1,5 @@
+## 2020.05.21
+   fix trash icons for faster loading
 ## 2020.05.09
    merge apps icons
 ## 2020.04.13
