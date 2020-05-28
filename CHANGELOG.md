@@ -1,3 +1,5 @@
+## 2020.05.28
+   add more battery percentage icons for smooth display
 ## 2020.05.21
    fix trash icons for faster loading
 ## 2020.05.09
