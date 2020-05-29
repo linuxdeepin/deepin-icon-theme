@@ -1,3 +1,5 @@
+## 2020.05.29
+   add more cursor themes
 ## 2020.05.28
    add more battery percentage icons for smooth display
 ## 2020.05.21
