@@ -1,3 +1,4 @@
+   fix bloom-classic sidebar icons when used dark theme
 ## 2020.05.29
    add more cursor themes
 ## 2020.05.28
