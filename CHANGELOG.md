@@ -1,4 +1,6 @@
+## 2020.06.10 
    fix bloom-classic sidebar icons when used dark theme
+   fix fcitx when dock is in minimum size
 ## 2020.05.29
    add more cursor themes
 ## 2020.05.28
