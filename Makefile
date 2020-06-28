@@ -1,9 +1,15 @@
 PREFIX = /usr
 
-all: check cursor
+all: check  cursors-bloom  cursors-bloom-dark cursors-bloom-fantacy
 
-cursor:
-	cd cursors-src/loginspinner/ && make
+cursors-bloom:
+	cd cursors-src/bloom/loginspinner/ && make
+
+cursors-bloom-dark:
+	cd cursors-src/bloom-dark/loginspinner/ && make
+
+cursors-bloom-fantacy:
+	cd cursors-src/bloom-fantacy/loginspinner/ && make
 
 check: check-same-icon check-perm
 	gtk-update-icon-cache bloom || exit 101
