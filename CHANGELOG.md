@@ -1,4 +1,4 @@
-##
+## 2020.06.29
    update several edit icons
    fix minimize trash icon
 ## 2020.06.10 
