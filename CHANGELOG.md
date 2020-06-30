@@ -1,3 +1,7 @@
+## 2020.06.30
+   fix several icons for bloom-classic
+   delete actions in bloom-classic
+   update dim icons for bloom-classic&bloom-classic-dark
 ## 2020.06.29
    update several edit icons
    fix minimize trash icon
