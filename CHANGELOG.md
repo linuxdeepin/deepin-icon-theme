@@ -1,3 +1,5 @@
+## 2020.07.24
+   add deepin phone master icons
 ## 2020.06.30
    fix several icons for bloom-classic
    delete actions in bloom-classic
