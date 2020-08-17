@@ -1,3 +1,5 @@
+## 2020.08.17
+   relink deepin-contacts icons
 ## 2020.07.24
    add deepin phone master icons
 ## 2020.06.30
