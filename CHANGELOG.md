@@ -1,3 +1,5 @@
+## 2020.08.21
+   add deepin camera
 ## 2020.08.17
    relink deepin-contacts icons
 ## 2020.07.24
