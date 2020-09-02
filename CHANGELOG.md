@@ -1,3 +1,5 @@
+## 2020.09.02
+   update trash icons
 ## 2020.08.21
    add deepin camera
 ## 2020.08.17
