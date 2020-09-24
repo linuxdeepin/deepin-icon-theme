@@ -1,3 +1,5 @@
+## 2020.09.24
+   rename deepin-phone-master to deepin-phone-assistant
 ## 2020.09.02
    update trash icons
 ## 2020.08.21
