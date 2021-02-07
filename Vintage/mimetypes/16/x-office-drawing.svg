@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <filter id="x-office-drawing-a">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.164158 0 0 0 0 0.252840 0 0 0 0 0.323143 0 0 0 0.600000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 1)">
+      <polygon fill="#F9FBFB" points="0 0 12 0 12 14 0 14"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M13.2,-1.16666667 L-1.2,-1.16666667 L-1.2,15.1666667 L13.2,15.1666667 L13.2,-1.16666667 Z M12,4.4408921e-16 L12,14 L0,14 L0,4.4408921e-16 L12,4.4408921e-16 Z"/>
+    </g>
+    <g filter="url(#x-office-drawing-a)">
+      <g transform="translate(3.5 4.5)">
+        <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M8,0 L2,0 C2,0 5.16666667,4 2,7 L7,7"/>
+        <circle cx="8" cy="7" r="1" stroke="#FFF"/>
+        <rect width="2" height="2" y="6" stroke="#FFF"/>
+      </g>
+    </g>
+  </g>
+</svg>

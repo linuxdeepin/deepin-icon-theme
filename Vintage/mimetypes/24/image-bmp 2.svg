@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="image-bmp-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="image-bmp-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="image-bmp-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.475709 0 0 0 0 0.705531 0 0 0 0 0.659163 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#image-bmp-a)" xlink:href="#image-bmp-b"/>
+      <use fill="#F9FBFB" xlink:href="#image-bmp-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <g filter="url(#image-bmp-c)">
+      <g transform="translate(5 15)">
+        <path fill="#FFF" d="M15 1.5C15 .665797234 14.3305244 0 13.5046844 0L13 0 11 0 11 5 12 5 12 3 13.7096057 2.9858064C14.4329331 2.8848923 15 2.25812752 15 1.5zM13.4953156 1C13.7740451 1 14 1.23193359 14 1.5 14 1.77614237 13.785965 2 13.4953156 2L12 2 12 1 13.4953156 1zM4 1.5C4 .665797234 3.33052442 0 2.50468445 0L2 0 0 0 0 5 1 5 1 3 2.70960569 2.9858064C3.43293305 2.8848923 4 2.25812752 4 1.5zM2.49531555 1C2.77404508 1 3 1.23193359 3 1.5 3 1.77614237 2.78596497 2 2.49531555 2L1 2 1 1 2.49531555 1z"/>
+        <path fill="#FFF" d="M4,3.5 C4,2.66579723 3.33052442,2 2.50468445,2 L2,2 L1,2 L1,5 L2.70960569,4.9858064 C3.43293305,4.8848923 4,4.25812752 4,3.5 Z M2.49531555,3 C2.77404508,3 3,3.23193359 3,3.5 C3,3.77614237 2.78596497,4 2.49531555,4 L1,4 L1,3 L2.49531555,3 Z" transform="matrix(1 0 0 -1 0 7)"/>
+        <polygon fill="#FFF" points="7.5 4 7 4 6 2 6 5 5 5 5 0 5.5 0 6 0 7.5 3 9 0 9.5 0 10 0 10 5 9 5 9 2 8 4"/>
+      </g>
+    </g>
+  </g>
+</svg>

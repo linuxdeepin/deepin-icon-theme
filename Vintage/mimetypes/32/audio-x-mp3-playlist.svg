@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <rect id="audio-x-mp3-playlist-b" width="22" height="26" x="1" y="1"/>
+    <filter id="audio-x-mp3-playlist-a" width="118.2%" height="115.4%" x="-9.1%" y="-3.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="audio-x-mp3-playlist-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.495992 0 0 0 0 0.668943 0 0 0 0 0.407660 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#audio-x-mp3-playlist-a)" xlink:href="#audio-x-mp3-playlist-b"/>
+      <use fill="#F9FBFB" xlink:href="#audio-x-mp3-playlist-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M24,0 L0,0 L0,28 L24,28 L24,0 Z M23,1 L23,27 L1,27 L1,1 L23,1 Z"/>
+    </g>
+    <g filter="url(#audio-x-mp3-playlist-c)">
+      <g transform="translate(11 12)">
+        <path fill="#FFF" d="M9.94449995,2.78002836 L9.94449995,2.64691521 C9.94449995,2.38723545 9.75537744,2.1777459 9.55607142,2.1784733 C9.35749278,2.17920069 9.18146337,2.39014503 9.18073597,2.64982478 L9.16764288,8.94687694 C8.66428605,8.6857424 8.01472297,8.66755755 7.27132603,8.92360033 C6.17659766,9.30111795 5.56922344,10.3354726 5.88200298,11.1385159 C6.19478251,11.9408317 7.32224363,12.2514291 8.40096932,11.8317226 C9.28475335,11.4876651 9.86012222,10.7602708 9.86812356,10.0677915 C9.8753975,10.0314218 9.88558102,4.61015233 9.88558102,4.61015233 C11.9171932,5.15133366 12.2459754,6.34353287 12.2459754,6.34353287 C12.6023986,7.21131422 12.1739634,8.28203858 12.1739634,8.28203858 C12.1739634,8.28203858 12.1383211,8.41515173 12.2430658,8.4573406 C12.3754516,8.51044038 12.4358253,8.38387378 12.4358253,8.38387378 C13.0715679,7.00982601 12.6816846,5.9209168 12.6816846,5.9209168 C12.3267162,4.70034922 11.075598,4.02459995 11.075598,4.02459995 C10.1176198,3.42740925 9.94449995,2.97497002 9.94449995,2.78002836 Z"/>
+        <line x2="8" y1="1.5" y2="1.5" stroke="#FFF"/>
+        <line x2="8" y1="4.5" y2="4.5" stroke="#FFF"/>
+        <line x2="8" y1="7.5" y2="7.5" stroke="#FFF"/>
+      </g>
+    </g>
+  </g>
+</svg>

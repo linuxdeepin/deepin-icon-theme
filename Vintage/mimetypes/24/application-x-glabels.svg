@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="application-x-glabels-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="application-x-glabels-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#application-x-glabels-a)" xlink:href="#application-x-glabels-b"/>
+      <use fill="#F9FBFB" xlink:href="#application-x-glabels-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <path fill="#2A4052" fill-opacity=".6" d="M17.4080281,8.47080879 L8.49243436,8.49992054 C7.98503865,8.50157696 7.3502281,8.76551185 6.99439191,9.12134804 L4.64013111,11.4756088 C4.1874791,11.9282609 4.18485632,12.6730117 4.64013111,13.1282865 L6.99439191,15.4825473 C7.34570511,15.8338605 7.99088181,16.1023374 8.49243436,16.1039748 L17.4080281,16.1330867 C18.0592064,16.135206 18.5829962,15.6178251 18.5829962,14.9716826 L18.5829962,9.6322127 C18.5829962,8.9924421 18.0535009,8.46870795 17.4080281,8.47080879 Z M8.49569889,9.49991521 L17.4112926,9.4708089 C17.5049212,9.47050415 17.5829962,9.54772964 17.5829962,9.6322127 L17.5829962,14.9716826 C17.5829962,15.0622275 17.5109312,15.1334108 17.4112926,15.1330866 L8.49569889,15.1039801 C8.25823104,15.1032049 7.86607576,14.9400176 7.70149869,14.7754405 L5.34723789,12.4211797 C5.28360663,12.3575484 5.28399963,12.2459539 5.34723789,12.1827156 L7.70149869,9.82845482 C7.87052072,9.65943279 8.25227769,9.50070987 8.49569889,9.49991521 Z" transform="rotate(45 11.441 12.302)"/>
+    <circle cx="9" cy="10" r="1" fill="#2A4052" fill-opacity=".6"/>
+  </g>
+</svg>

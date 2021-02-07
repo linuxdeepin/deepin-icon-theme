@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="application-x-audacity-project-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="application-x-audacity-project-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#application-x-audacity-project-a)" xlink:href="#application-x-audacity-project-b"/>
+      <use fill="#F9FBFB" xlink:href="#application-x-audacity-project-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <g fill="#2A4052" fill-opacity=".6" transform="translate(7 6)">
+      <path d="M9.02864359,4.41742863 L9.02864359,4.24628315 C9.02864359,3.91240918 8.78548608,3.64306548 8.52923547,3.6440007 C8.27392008,3.64493592 8.04759655,3.91615007 8.04666133,4.25002403 L8.02982735,10.4110128 C7.38265428,10.0752683 6.54750175,10.0518878 5.59170568,10.3810857 C4.18419778,10.8664655 3.40328808,12.19635 3.80543319,13.2288342 C4.20757831,14.2603832 5.65717117,14.6597227 7.0441042,14.1201 C8.18039796,13.6777404 8.92015793,12.7425192 8.93044536,11.8521886 C8.93979757,11.8054276 8.95289067,6.77044517 8.95289067,6.77044517 C11,6.77044517 11.5,8 11.5,8 C12,9 11.411154,10.1856244 11.411154,10.1856244 C11.411154,10.1856244 11.3653281,10.3567699 11.5,10.4110128 C11.6702103,10.4792839 11.7478336,10.3165554 11.7478336,10.3165554 C12.7000008,8.79999924 12,7.5 12,7.5 C11.4398025,6.54336352 10.4829126,6.0175921 10.4829126,6.0175921 C9.25122623,5.2497755 9.02864359,4.66806791 9.02864359,4.41742863 Z"/>
+      <polygon points="0 0 6.667 0 9 1.75 9 3 8 3 8 2.25 6.333 1 1 1 1 10 4 10 4 11 0 11"/>
+    </g>
+  </g>
+</svg>

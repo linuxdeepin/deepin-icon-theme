@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="application-x-glade-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="application-x-glade-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="application-x-glade-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.164158 0 0 0 0 0.252840 0 0 0 0 0.323143 0 0 0 0.600000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#application-x-glade-a)" xlink:href="#application-x-glade-b"/>
+      <use fill="#F9FBFB" xlink:href="#application-x-glade-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <g filter="url(#application-x-glade-c)">
+      <g transform="translate(6 6.667)">
+        <line x2="12" y1="1.833" y2="1.833" stroke="#FFF"/>
+        <line x2="12" y1="5.833" y2="5.841" stroke="#FFF"/>
+        <line x1="3" x2="9" y1="7.833" y2="7.833" stroke="#FFF"/>
+        <line x1="5" x2="9" y1="9.833" y2="9.833" stroke="#FFF"/>
+        <line x1="1.5" x2="1.5" y1=".333" y2="13.333" stroke="#FFF"/>
+        <line x1="10.5" x2="10.5" y1=".333" y2="13.333" stroke="#FFF"/>
+        <line x2="12" y1="11.833" y2="11.833" stroke="#FFF"/>
+        <path fill="#FFF" d="M8,3.33333333 L9,3.33333333 L9,4.33333333 L8,4.33333333 L8,3.33333333 Z M7,3.33333333 L7,4.33333333 L6,4.33333333 L6,3.33333333 L7,3.33333333 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

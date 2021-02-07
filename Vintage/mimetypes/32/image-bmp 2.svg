@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <rect id="image-bmp-b" width="22" height="26" x="1" y="1"/>
+    <filter id="image-bmp-a" width="118.2%" height="115.4%" x="-9.1%" y="-3.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="image-bmp-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.474510 0 0 0 0 0.705882 0 0 0 0 0.658824 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#image-bmp-a)" xlink:href="#image-bmp-b"/>
+      <use fill="#F9FBFB" xlink:href="#image-bmp-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M24,0 L0,0 L0,28 L24,28 L24,0 Z M23,1 L23,27 L1,27 L1,1 L23,1 Z"/>
+    </g>
+    <g filter="url(#image-bmp-c)">
+      <g transform="translate(9 11)">
+        <path fill="#FFF" d="M11.9822538 0L12 8 2.01774623 8 2 0 11.9822538 0zM11 1L3 1 3 7 11 7 11 1zM6 1.5L7.5 4 8.29999924 2.5 10.3333333 5.99657892 3.67000008 6 6 1.5zM15 11.5C15 10.6657972 14.3305244 10 13.5046844 10L13 10 11 10 11 15 12 15 12 13 13.7096057 12.9858064C14.4329331 12.8848923 15 12.2581275 15 11.5zM13.4953156 11C13.7740451 11 14 11.2319336 14 11.5 14 11.7761424 13.785965 12 13.4953156 12L12 12 12 11 13.4953156 11zM4 11.5C4 10.6657972 3.33052442 10 2.50468445 10L2 10 0 10 0 15 1 15 1 13 2.70960569 12.9858064C3.43293305 12.8848923 4 12.2581275 4 11.5zM2.49531555 11C2.77404508 11 3 11.2319336 3 11.5 3 11.7761424 2.78596497 12 2.49531555 12L1 12 1 11 2.49531555 11z"/>
+        <path fill="#FFF" d="M4,13.5 C4,12.6657972 3.33052442,12 2.50468445,12 L2,12 L1,12 L1,15 L2.70960569,14.9858064 C3.43293305,14.8848923 4,14.2581275 4,13.5 Z M2.49531555,13 C2.77404508,13 3,13.2319336 3,13.5 C3,13.7761424 2.78596497,14 2.49531555,14 L1,14 L1,13 L2.49531555,13 Z" transform="matrix(1 0 0 -1 0 27)"/>
+        <polygon fill="#FFF" points="7.5 14 7 14 6 12 6 15 5 15 5 10 5.5 10 6 10 7.5 13 9 10 9.5 10 10 10 10 15 9 15 9 12 8 14"/>
+      </g>
+    </g>
+  </g>
+</svg>

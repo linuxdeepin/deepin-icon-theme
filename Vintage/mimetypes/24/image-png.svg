@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="image-png-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="image-png-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#image-png-a)" xlink:href="#image-png-b"/>
+      <use fill="#F9FBFB" xlink:href="#image-png-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <polygon fill="#79B4A8" points="13 20 11 17 11 20 10 20 10 15 11 15 13 18 13 15 14 15 14 20 13.333 20"/>
+    <path fill="#79B4A8" d="M17 19C16.4477153 19 16 18.5573397 16 18.0010434L16 16.9989566C16 16.4472481 16.4438648 16 17 16 17.4737952 16 17.8706312 16.325781 17.9738568 16.7696074L18.8076452 16.1442661C18.4867033 15.466467 17.7979196 15 17 15 15.8877296 15 15 15.897616 15 17.0048815L15 17.9951185C15 19.1061002 15.8954305 20 17 20 17.3654054 20 17.7065768 19.9031232 18 19.7337624L18 20 19 20 19 17 17 17 17 17.9951185C17 18.0531315 18 18.0010434 18 18.0010434L18 18.25C18 18.6000004 17.5 19 17 19zM9 16.5C9 15.6657972 8.33052442 15 7.50468445 15L7 15 5 15 5 20 6 20 6 18 7.70960569 17.9858064C8.43293305 17.8848923 9 17.2581275 9 16.5zM7.49531555 16C7.77404508 16 8 16.2319336 8 16.5 8 16.7761424 7.78596497 17 7.49531555 17L6 17 6 16 7.49531555 16z"/>
+  </g>
+</svg>

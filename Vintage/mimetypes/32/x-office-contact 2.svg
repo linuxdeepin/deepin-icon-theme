@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <rect id="x-office-contact-b" width="22" height="26" x="1" y="1"/>
+    <filter id="x-office-contact-a" width="118.2%" height="115.4%" x="-9.1%" y="-3.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="x-office-contact-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.164158 0 0 0 0 0.252840 0 0 0 0 0.323143 0 0 0 0.600000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#x-office-contact-a)" xlink:href="#x-office-contact-b"/>
+      <use fill="#F9FBFB" xlink:href="#x-office-contact-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M24,0 L0,0 L0,28 L24,28 L24,0 Z M23,1 L23,27 L1,27 L1,1 L23,1 Z"/>
+    </g>
+    <g filter="url(#x-office-contact-c)">
+      <g transform="translate(10 10)">
+        <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M6,7.5 C3.65019048,7.5 0.5,8.90896642 0.5,12.5 L11.5,12.5 C11.5,8.90896642 8.37338095,7.5 6,7.5 Z"/>
+        <circle cx="6" cy="4" r="3.5" stroke="#FFF"/>
+      </g>
+    </g>
+  </g>
+</svg>

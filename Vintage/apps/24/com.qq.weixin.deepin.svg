@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="com.qq.weixin.deepin-a" width="143.8%" height="146.7%" x="-21.9%" y="-23.3%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="com.qq.weixin.deepin-b" cx="44.018%" cy="22.165%" r="90.233%" fx="44.018%" fy="22.165%" gradientTransform="matrix(0 1 -.90165 0 .64 -.219)">
+      <stop offset="0%" stop-color="#BFE2AA"/>
+      <stop offset="99.138%" stop-color="#6B9F47"/>
+      <stop offset="100%" stop-color="#D8D8D8"/>
+    </radialGradient>
+    <linearGradient id="com.qq.weixin.deepin-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#84B663"/>
+      <stop offset="100%" stop-color="#3C6721"/>
+    </linearGradient>
+    <linearGradient id="com.qq.weixin.deepin-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#68A16C"/>
+      <stop offset="100%" stop-color="#37683A"/>
+    </linearGradient>
+    <filter id="com.qq.weixin.deepin-e" width="150%" height="153.8%" x="-25%" y="-26.9%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="com.qq.weixin.deepin-f" cx="50%" cy="15.44%" r="79.623%" fx="50%" fy="15.44%" gradientTransform="matrix(0 1 -.9151 0 .641 -.346)">
+      <stop offset="0%" stop-color="#EFEFEF"/>
+      <stop offset="100%" stop-color="#CDCDCD"/>
+    </radialGradient>
+    <linearGradient id="com.qq.weixin.deepin-i" x1="50%" x2="50%" y1="1.98%" y2="99.74%">
+      <stop offset="0%" stop-opacity=".305"/>
+      <stop offset="100%" stop-opacity=".604"/>
+    </linearGradient>
+    <path id="com.qq.weixin.deepin-g" d="M6.59880066,0 C10.2432176,0 13.1976013,2.51839828 13.1976013,5.625 C13.1976013,7.38363244 12.2508282,8.95376696 10.7680648,9.98524104 L11.1456299,12.077179 L8.91344648,10.8942301 C8.19320608,11.1242294 7.41323375,11.25 6.59880066,11.25 C2.95438369,11.25 0,8.73160172 0,5.625 C0,2.51839828 2.95438369,0 6.59880066,0 Z"/>
+    <filter id="com.qq.weixin.deepin-h" width="122.7%" height="124.9%" x="-11.4%" y="-12.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="com.qq.weixin.deepin-j" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#AAA"/>
+      <stop offset="100%" stop-color="#727272"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#com.qq.weixin.deepin-a)" transform="translate(1.125 3.188)">
+      <path fill="url(#com.qq.weixin.deepin-b)" stroke="url(#com.qq.weixin.deepin-c)" stroke-linejoin="round" d="M7.96939087,-0.5 C10.2975759,-0.5 12.4028791,0.303935051 13.9277583,1.59549357 C15.4852173,2.9146468 16.4387817,4.73988819 16.4387817,6.75 C16.4387817,8.76011181 15.4852173,10.5853532 13.9277583,11.9045064 C12.4028791,13.1960649 10.2975759,14 7.96939087,14 C6.92719637,14 5.92940011,13.8389375 5.00854714,13.5451357 L5.00854714,13.5451357 L1.75778807,15.3924733 L2.56148778,12.3316822 C0.681333156,10.9961359 -0.5,8.98637832 -0.5,6.75 C-0.5,4.73988819 0.453564471,2.9146468 2.01102339,1.59549357 C3.53590261,0.303935051 5.64120582,-0.5 7.96939087,-0.5 Z" opacity=".98"/>
+      <circle cx="5.125" cy="5.063" r="1.25" fill="url(#com.qq.weixin.deepin-d)"/>
+      <circle cx="10.125" cy="5.063" r="1.25" fill="url(#com.qq.weixin.deepin-d)"/>
+    </g>
+    <g filter="url(#com.qq.weixin.deepin-e)" transform="translate(9.865 9.188)">
+      <g stroke-linejoin="round">
+        <use fill="url(#com.qq.weixin.deepin-f)" xlink:href="#com.qq.weixin.deepin-g"/>
+        <use fill="#000" filter="url(#com.qq.weixin.deepin-h)" xlink:href="#com.qq.weixin.deepin-g"/>
+        <path stroke="url(#com.qq.weixin.deepin-i)" d="M6.59880066,-0.5 C8.54894862,-0.5 10.3120585,0.178325253 11.5892175,1.26701091 C12.8976062,2.38231758 13.6976013,3.92580146 13.6976013,5.625 C13.6976013,7.43905973 12.7851929,9.077118 11.3156673,10.204228 L11.3156673,10.204228 L11.8203794,13.0006363 L8.86158047,11.4326165 C8.15149721,11.6382389 7.39045213,11.75 6.59880066,11.75 C4.6486527,11.75 2.88554284,11.0716747 1.60838379,9.98298909 C0.299995106,8.86768242 -0.5,7.32419854 -0.5,5.625 C-0.5,3.92580146 0.299995106,2.38231758 1.60838379,1.26701091 C2.88554284,0.178325253 4.6486527,-0.5 6.59880066,-0.5 Z"/>
+      </g>
+      <circle cx="9.135" cy="4.813" r="1" fill="url(#com.qq.weixin.deepin-j)"/>
+      <circle cx="5.135" cy="4.813" r="1" fill="url(#com.qq.weixin.deepin-j)"/>
+    </g>
+  </g>
+</svg>

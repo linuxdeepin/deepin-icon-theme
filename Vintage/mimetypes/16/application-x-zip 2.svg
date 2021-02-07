@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <filter id="application-x-zip-a">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.356249 0 0 0 0 0.512265 0 0 0 0 0.813151 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 1)">
+      <polygon fill="#F9FBFB" points="0 0 12 0 12 14 0 14"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M13.2,-1.16666667 L-1.2,-1.16666667 L-1.2,15.1666667 L13.2,15.1666667 L13.2,-1.16666667 Z M12,4.4408921e-16 L12,14 L0,14 L0,4.4408921e-16 L12,4.4408921e-16 Z"/>
+    </g>
+    <path fill="#5B83CF" d="M6 5L6 7 2 7 2 5 6 5zM14 5L14 7 10 7 10 5 14 5zM9.75 4C9.88807119 4 10 4.11192881 10 4.25L10 7.75C10 7.88807119 9.88807119 8 9.75 8L6.25 8C6.11192881 8 6 7.88807119 6 7.75L6 4.25C6 4.11192881 6.11192881 4 6.25 4L9.75 4zM9 5L7 5 7 7 9 7 9 5z"/>
+    <g filter="url(#application-x-zip-a)">
+      <g transform="translate(4 9)">
+        <rect width="1" height="5" x="4" fill="#FFF"/>
+        <path fill="#FFF" d="M9,1.5 C9,0.5 8.27307091,0 7.65369093,0 L6,0 L6,5 L7,5 L7,3 L7.65369093,3 C8.12148666,3 9,2.5 9,1.5 Z M7.51610213,1 C7.72514928,1 8.03220427,1.23193359 8.03220427,1.5 C8.03220427,1.77614237 7.71798706,2 7.5,2 L7,2 L7,1 L7.51610213,1 Z"/>
+        <polygon fill="#FFF" points="0 0 0 1 2 1 0 4 0 5 3 5 3 4 1 4 3 1 3 0"/>
+      </g>
+    </g>
+  </g>
+</svg>

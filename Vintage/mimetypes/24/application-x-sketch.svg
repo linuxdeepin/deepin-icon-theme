@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="application-x-sketch-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="application-x-sketch-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="application-x-sketch-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.164158 0 0 0 0 0.252840 0 0 0 0 0.323143 0 0 0 0.600000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#application-x-sketch-a)" xlink:href="#application-x-sketch-b"/>
+      <use fill="#F9FBFB" xlink:href="#application-x-sketch-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <g filter="url(#application-x-sketch-c)">
+      <g transform="translate(6 7)">
+        <path fill="#79B4A8" d="M9.22200272,3.25295346e-14 L2.77799728,3.25295346e-14 L-0.651522052,3.79325623 L6,12.3884049 L12.6515221,3.79325623 L9.22200272,3.25295346e-14 Z M8.778,1 L11.348,3.842 L6,10.754 L0.651,3.842 L3.221,1 L8.778,1 Z"/>
+        <polygon fill="#79B4A8" points="11.5 3 11.5 4 .5 4 .5 3"/>
+        <polygon fill="#79B4A8" points="8.536 3.314 9.464 3.686 6 12.346 2.536 3.686 3.464 3.314 6 9.653"/>
+        <path fill="#79B4A8" d="M5.6203717,0.174604313 C5.79774751,-0.0323341321 6.10202761,-0.0553272927 6.30760437,0.105624831 L6.3796283,0.174604313 L9.3796283,3.67460431 L8.6203717,4.32539569 L6,1.268 L3.3796283,4.32539569 L2.6203717,3.67460431 L5.6203717,0.174604313 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

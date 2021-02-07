@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="video-x-msvideo-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="video-x-msvideo-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#video-x-msvideo-a)" xlink:href="#video-x-msvideo-b"/>
+      <use fill="#F9FBFB" xlink:href="#video-x-msvideo-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <path fill="#DC7692" d="M12 15L13.5 18.75 15 15 16 15 14 20 13 20 11 15 12 15zM18 15L18 20 17 20 17 15 18 15zM9 15L11 20 10 20 9.625 19 7.375 19 7 20 6 20 8 15 9 15zM8.5 16L7.75 18 9.25 18 8.5 16z"/>
+  </g>
+</svg>

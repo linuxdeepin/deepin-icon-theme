@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <filter id="x-dia-diagram-a">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.553405 0 0 0 0 0.705531 0 0 0 0 0.475709 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 1)">
+      <polygon fill="#F9FBFB" points="0 0 12 0 12 14 0 14"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M13.2,-1.16666667 L-1.2,-1.16666667 L-1.2,15.1666667 L13.2,15.1666667 L13.2,-1.16666667 Z M12,4.4408921e-16 L12,14 L0,14 L0,4.4408921e-16 L12,4.4408921e-16 Z"/>
+    </g>
+    <g filter="url(#x-dia-diagram-a)">
+      <g transform="translate(3 3.5)">
+        <rect width="3" height="2" x="3.5" stroke="#FFF"/>
+        <polyline stroke="#FFF" points="3.5 4 1.5 4 1.5 7"/>
+        <polyline stroke="#FFF" points="8.5 4 6.5 4 6.5 7" transform="matrix(-1 0 0 1 15 0)"/>
+        <rect width="3" height="2" x="6.5" y="7" stroke="#FFF"/>
+        <rect width="3" height="2" x=".5" y="7" stroke="#FFF"/>
+        <polygon stroke="#FFF" points="5 2.5 7 4 5 5.5 3 4"/>
+      </g>
+    </g>
+  </g>
+</svg>

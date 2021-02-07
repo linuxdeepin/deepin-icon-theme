@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <rect id="text-html-b" width="22" height="26" x="1" y="1"/>
+    <filter id="text-html-a" width="118.2%" height="115.4%" x="-9.1%" y="-3.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="text-html-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.164158 0 0 0 0 0.252840 0 0 0 0 0.323143 0 0 0 0.600000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#text-html-a)" xlink:href="#text-html-b"/>
+      <use fill="#F9FBFB" xlink:href="#text-html-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M24,0 L0,0 L0,28 L24,28 L24,0 Z M23,1 L23,27 L1,27 L1,1 L23,1 Z"/>
+    </g>
+    <g filter="url(#text-html-c)">
+      <g transform="translate(10 11)">
+        <circle cx="6" cy="6" r="5.5" stroke="#FFF"/>
+        <path stroke="#FFF" stroke-width=".7" d="M11 8C4.5 8.5 2.22709091 4.248 1.5 3M1.19018182 9.08345455C1.5 7 3.20927273 3.03654545 9.5 1.5M8 11C8.5 5.5 5.5 2 4 1M8 8C8 8 5.5 8.5 4.5 11"/>
+        <circle cx="5.9" cy="2.9" r="1" fill="#FFF"/>
+        <circle cx="2.9" cy="4.9" r="1" fill="#FFF"/>
+        <circle cx="7.9" cy="7.9" r="1" fill="#FFF"/>
+      </g>
+    </g>
+  </g>
+</svg>

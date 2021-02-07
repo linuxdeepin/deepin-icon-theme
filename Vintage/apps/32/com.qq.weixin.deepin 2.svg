@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="com.qq.weixin.deepin-a" width="145.5%" height="150%" x="-22.7%" y="-25%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="com.qq.weixin.deepin-b" cx="44.018%" cy="22.165%" r="90.233%" fx="44.018%" fy="22.165%" gradientTransform="matrix(0 1 -.90165 0 .64 -.219)">
+      <stop offset="0%" stop-color="#BFE2AA"/>
+      <stop offset="99.138%" stop-color="#6B9F47"/>
+      <stop offset="100%" stop-color="#D8D8D8"/>
+    </radialGradient>
+    <linearGradient id="com.qq.weixin.deepin-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#84B663"/>
+      <stop offset="100%" stop-color="#3C6721"/>
+    </linearGradient>
+    <path id="com.qq.weixin.deepin-c" d="M10.6258545,4.73695157e-15 C16.4943519,4.73695157e-15 21.251709,4.02943725 21.251709,9 C21.251709,13.9705627 16.4943519,18 10.6258545,18 C9.20337466,18 7.84617891,17.7632539 6.60619506,17.3337441 L3.39053144,19.1616211 L4.1799621,16.1554965 C1.63912591,14.510981 0,11.9176208 0,9 C0,4.02943725 4.7573571,4.73695157e-15 10.6258545,4.73695157e-15 Z"/>
+    <filter id="com.qq.weixin.deepin-d" width="114.1%" height="115.7%" x="-7.1%" y="-7.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="com.qq.weixin.deepin-f" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#68A16C"/>
+      <stop offset="100%" stop-color="#37683A"/>
+    </linearGradient>
+    <linearGradient id="com.qq.weixin.deepin-g" x1="50%" x2="50%" y1="4.33%" y2="98.566%">
+      <stop offset="0%" stop-color="#57895B"/>
+      <stop offset="100%" stop-color="#2A4D2C"/>
+    </linearGradient>
+    <filter id="com.qq.weixin.deepin-h" width="155.6%" height="158.8%" x="-27.8%" y="-29.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="com.qq.weixin.deepin-i" cx="50%" cy="15.44%" r="79.623%" fx="50%" fy="15.44%" gradientTransform="matrix(0 1 -.9151 0 .641 -.346)">
+      <stop offset="0%" stop-color="#EFEFEF"/>
+      <stop offset="100%" stop-color="#CDCDCD"/>
+    </radialGradient>
+    <linearGradient id="com.qq.weixin.deepin-l" x1="50%" x2="50%" y1="1.98%" y2="99.74%">
+      <stop offset="0%" stop-opacity=".305"/>
+      <stop offset="100%" stop-opacity=".604"/>
+    </linearGradient>
+    <path id="com.qq.weixin.deepin-j" d="M8.79840088,0 C13.6576235,0 17.5968018,3.35786438 17.5968018,7.5 C17.5968018,9.84467967 16.3346138,11.9380639 14.3578335,13.3133669 L14.8608398,16.1029053 L11.8835653,14.525969 C10.9235311,14.8324258 9.88392342,15 8.79840088,15 C3.93917825,15 0,11.6421356 0,7.5 C0,3.35786438 3.93917825,0 8.79840088,0 Z"/>
+    <filter id="com.qq.weixin.deepin-k" width="117%" height="118.6%" x="-8.5%" y="-9.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="com.qq.weixin.deepin-m" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#AAA"/>
+      <stop offset="100%" stop-color="#727272"/>
+    </linearGradient>
+    <linearGradient id="com.qq.weixin.deepin-n" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-opacity=".467"/>
+      <stop offset="100%" stop-opacity=".674"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#com.qq.weixin.deepin-a)" transform="translate(1.5 4.25)">
+      <g stroke-linejoin="round" opacity=".98">
+        <use fill="url(#com.qq.weixin.deepin-b)" xlink:href="#com.qq.weixin.deepin-c"/>
+        <use fill="#000" filter="url(#com.qq.weixin.deepin-d)" xlink:href="#com.qq.weixin.deepin-c"/>
+        <path stroke="url(#com.qq.weixin.deepin-e)" d="M10.6258545,-0.5 C13.6876017,-0.5 16.4570208,0.555774879 18.4626254,2.25450332 C20.5008097,3.98082646 21.751709,6.36856784 21.751709,9 C21.751709,11.6314322 20.5008097,14.0191735 18.4626254,15.7454967 C16.4570208,17.4442251 13.6876017,18.5 10.6258545,18.5 C9.22773076,18.5 7.89028933,18.2798828 6.65892773,17.8789023 L6.65892773,17.8789023 L2.60533477,20.1830827 L3.60601524,16.3725262 C1.09033639,14.6247915 -0.5,11.9660725 -0.5,9 C-0.5,6.36856784 0.75089929,3.98082646 2.78908357,2.25450332 C4.79468815,0.555774879 7.56410727,-0.5 10.6258545,-0.5 Z"/>
+      </g>
+      <circle cx="6.75" cy="6" r="1.75" fill="url(#com.qq.weixin.deepin-f)" stroke="url(#com.qq.weixin.deepin-g)"/>
+      <circle cx="13.75" cy="6" r="1.75" fill="url(#com.qq.weixin.deepin-f)" stroke="url(#com.qq.weixin.deepin-g)"/>
+    </g>
+    <g filter="url(#com.qq.weixin.deepin-h)" transform="translate(13.153 12.25)">
+      <g stroke-linejoin="round">
+        <use fill="url(#com.qq.weixin.deepin-i)" xlink:href="#com.qq.weixin.deepin-j"/>
+        <use fill="#000" filter="url(#com.qq.weixin.deepin-k)" xlink:href="#com.qq.weixin.deepin-j"/>
+        <path stroke="url(#com.qq.weixin.deepin-l)" d="M8.79840088,-0.5 C11.3559517,-0.5 13.6689616,0.388191777 15.34417,1.8161857 C17.050608,3.27080063 18.0968018,5.28303451 18.0968018,7.5 C18.0968018,9.90045826 16.8696297,12.062402 14.9057414,13.5343322 L14.9057414,13.5343322 L15.5353493,17.0259685 L11.8326069,15.0647826 C10.8822984,15.3466003 9.86135689,15.5 8.79840088,15.5 C6.24085009,15.5 3.92784018,14.6118082 2.25263178,13.1838143 C0.546193747,11.7291994 -0.5,9.71696549 -0.5,7.5 C-0.5,5.28303451 0.546193747,3.27080063 2.25263178,1.8161857 C3.92784018,0.388191777 6.24085009,-0.5 8.79840088,-0.5 Z"/>
+      </g>
+      <path fill="url(#com.qq.weixin.deepin-m)" d="M12.8468018,4.75 C13.3990865,4.75 13.8468018,5.19771525 13.8468018,5.75 C13.8468018,6.30228475 13.3990865,6.75 12.8468018,6.75 C12.294517,6.75 11.8468018,6.30228475 11.8468018,5.75 C11.8468018,5.19771525 12.294517,4.75 12.8468018,4.75 Z M5.84680176,4.75 C6.39908651,4.75 6.84680176,5.19771525 6.84680176,5.75 C6.84680176,6.30228475 6.39908651,6.75 5.84680176,6.75 C5.29451701,6.75 4.84680176,6.30228475 4.84680176,5.75 C4.84680176,5.19771525 5.29451701,4.75 5.84680176,4.75 Z"/>
+      <path fill="url(#com.qq.weixin.deepin-n)" fill-rule="nonzero" d="M12.8468018,3.75 C13.9513713,3.75 14.8468018,4.6454305 14.8468018,5.75 C14.8468018,6.8545695 13.9513713,7.75 12.8468018,7.75 C11.7422323,7.75 10.8468018,6.8545695 10.8468018,5.75 C10.8468018,4.6454305 11.7422323,3.75 12.8468018,3.75 Z M5.84680176,3.75 C6.95137126,3.75 7.84680176,4.6454305 7.84680176,5.75 C7.84680176,6.8545695 6.95137126,7.75 5.84680176,7.75 C4.74223226,7.75 3.84680176,6.8545695 3.84680176,5.75 C3.84680176,4.6454305 4.74223226,3.75 5.84680176,3.75 Z M12.8468018,4.75 C12.294517,4.75 11.8468018,5.19771525 11.8468018,5.75 C11.8468018,6.30228475 12.294517,6.75 12.8468018,6.75 C13.3990865,6.75 13.8468018,6.30228475 13.8468018,5.75 C13.8468018,5.19771525 13.3990865,4.75 12.8468018,4.75 Z M5.84680176,4.75 C5.29451701,4.75 4.84680176,5.19771525 4.84680176,5.75 C4.84680176,6.30228475 5.29451701,6.75 5.84680176,6.75 C6.39908651,6.75 6.84680176,6.30228475 6.84680176,5.75 C6.84680176,5.19771525 6.39908651,4.75 5.84680176,4.75 Z"/>
+    </g>
+  </g>
+</svg>

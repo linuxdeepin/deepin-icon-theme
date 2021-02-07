@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <filter id="x-office-presentation-a">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.701961 0 0 0 0 0.419608 0 0 0 0 0.380392 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 1)">
+      <polygon fill="#F9FBFB" points="0 0 12 0 12 14 0 14"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M13.2,-1.16666667 L-1.2,-1.16666667 L-1.2,15.1666667 L13.2,15.1666667 L13.2,-1.16666667 Z M12,4.4408921e-16 L12,14 L0,14 L0,4.4408921e-16 L12,4.4408921e-16 Z"/>
+    </g>
+    <g filter="url(#x-office-presentation-a)">
+      <g transform="translate(3.5 4)">
+        <path stroke="#FFF" d="M1,0.839777231 C1,0.652123448 1.14620495,0.5 1.33762455,0.5 L7.66237545,0.5 C7.84884034,0.5 8,0.64831543 8,0.839777231 L8,6.16022277 C8,6.34787655 7.85379505,6.5 7.66237545,6.5 L1.33762455,6.5 C1.15115966,6.5 1,6.35168457 1,6.16022277 L1,0.839777231 Z"/>
+        <line x2="9" y1=".5" y2=".5" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="3" x2="6" y1="4.5" y2="4.5" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="4" x2="2" y1="6.5" y2="8.5" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="7" x2="5" y1="6.5" y2="8.5" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" transform="matrix(-1 0 0 1 12 0)"/>
+        <line x1="4.5" x2="4.5" y1="7" y2="9" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="3" x2="3" y1="2.5" y2="4.5" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="5" x2="5" y1="3.5" y2="4.5" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+  </g>
+</svg>

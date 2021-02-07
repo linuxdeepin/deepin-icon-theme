@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="image-ico-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="image-ico-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#image-ico-a)" xlink:href="#image-ico-b"/>
+      <use fill="#F9FBFB" xlink:href="#image-ico-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <path fill="#79B4A8" d="M15 16C15.5530531 16 16 16.5033972 16 17.1286611L16 17.8713389C16 18.4971131 15.5552638 19 15 19 14.4469469 19 14 18.4966028 14 17.8713389L14 17.1286611C14 16.5028869 14.4447362 16 15 16zM13 17.9125987C13 19.0673581 13.8943013 20 15 20 16.1090605 20 17 19.0671919 17 17.9125987L17 17.0874013C17 15.9326419 16.1056987 15 15 15 13.8909395 15 13 15.9328081 13 17.0874013L13 17.9125987zM11.9531174 16.7851619L12.791235 16.1565738C12.4638194 15.4703476 11.7852154 15 11 15 9.8909395 15 9 15.9328081 9 17.0874013L9 17.9125987C9 19.0673581 9.89430127 20 11 20 11.787455 20 12.4649491 19.5297451 12.7916528 18.8437396L12.7916528 18.8437396 11.9533246 18.2149935C11.8254282 18.6714379 11.4488208 19 11 19 10.4469469 19 10 18.4966028 10 17.8713389L10 17.1286611C10 16.5028869 10.4447362 16 11 16 11.447022 16 11.824723 16.3288781 11.9531174 16.7851619L11.9531174 16.7851619z"/>
+    <polygon fill="#79B4A8" points="8 15 8 20 7 20 7 15"/>
+  </g>
+</svg>
