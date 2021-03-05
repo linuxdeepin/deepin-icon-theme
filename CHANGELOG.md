@@ -1,3 +1,5 @@
+## 2021.03.05
+ add deepin-mail deepin-scanner deepin-diskmanager icons 
 ## 2021.02.26
    Add ups-service-support and dde icons
 ## 2021.02.05
