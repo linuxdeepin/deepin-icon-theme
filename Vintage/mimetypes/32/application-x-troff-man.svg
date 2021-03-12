@@ -6,9 +6,6 @@
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
       <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
     </filter>
-    <filter id="application-x-troff-man-c">
-      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.799989 0 0 0 0 0.572947 0 0 0 0 0.337053 0 0 0 1.000000 0"/>
-    </filter>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <g transform="translate(4 2)">
@@ -16,12 +13,6 @@
       <use fill="#F9FBFB" xlink:href="#application-x-troff-man-b"/>
       <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M24,0 L0,0 L0,28 L24,28 L24,0 Z M23,1 L23,27 L1,27 L1,1 L23,1 Z"/>
     </g>
-    <g filter="url(#application-x-troff-man-c)">
-      <g transform="translate(11 11)">
-        <polygon stroke="#FFF" points=".5 .5 9.5 .5 9.5 11.5 .5 11.5"/>
-        <rect width="2" height="12" fill="#FFF"/>
-        <polygon fill="#FFF" points="6 1 8 1 8 7 7 5.667 6 7"/>
-      </g>
-    </g>
+    <path fill="#DD953E" d="M21,10 L21,22 L11,22 L11,10 L21,10 Z M19,17 L18,15.6666667 L17,17 L17,11 L13,11 L13,21 L20,21 L20,11 L19,11 L19,17 Z"/>
   </g>
 </svg>

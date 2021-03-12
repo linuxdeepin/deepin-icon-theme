@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
   <defs>
-    <rect id="package-x-ddf-b" width="32" height="39" x="2" y="2"/>
+    <rect id="package-x-ddf-b" width="32" height="39" x="1" y="1"/>
     <filter id="package-x-ddf-a" width="112.5%" height="110.3%" x="-6.2%" y="-2.6%" filterUnits="objectBoundingBox">
       <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
@@ -38,10 +38,10 @@
     </linearGradient>
   </defs>
   <g fill="none" fill-rule="evenodd">
-    <g transform="translate(6 3)">
+    <g transform="translate(7 4)">
       <use fill="#000" filter="url(#package-x-ddf-a)" xlink:href="#package-x-ddf-b"/>
       <use fill="#F9FBFB" xlink:href="#package-x-ddf-b"/>
-      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M35,1 L1,1 L1,42 L35,42 L35,1 Z M34,2 L34,41 L2,41 L2,2 L34,2 Z"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M34,0 L0,0 L0,41 L34,41 L34,0 Z M33,1 L33,40 L1,40 L1,1 L33,1 Z"/>
     </g>
     <g transform="translate(7.75 4.75)">
       <mask id="package-x-ddf-d" fill="#fff">

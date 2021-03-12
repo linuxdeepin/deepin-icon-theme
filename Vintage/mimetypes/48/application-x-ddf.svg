@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
   <defs>
-    <rect id="application-x-ddf-b" width="32" height="39" x="0" y="0"/>
+    <rect id="application-x-ddf-b" width="32" height="39" x="1" y="1"/>
     <filter id="application-x-ddf-a" width="112.5%" height="110.3%" x="-6.2%" y="-2.6%" filterUnits="objectBoundingBox">
       <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
@@ -37,11 +37,13 @@
     </linearGradient>
     <path id="application-x-ddf-i" d="M5.58400272,8.48460992 C5.80915982,8.48392126 6.00700322,8.63381105 6.06728122,8.85075057 L6.41012814,10.084651 C6.48405533,10.3507137 6.32829869,10.62633 6.06223595,10.7002572 C6.01864805,10.7123684 5.97361812,10.718508 5.92837893,10.718508 L3.40238924,10.718508 C3.12624686,10.718508 2.90238924,10.4946504 2.90238924,10.218508 C2.90238924,10.1768051 2.90760654,10.1352661 2.91791962,10.0948585 L3.23138413,8.8666767 C3.28775565,8.64580808 3.48637663,8.49102571 3.71432446,8.49032851 L5.58400272,8.48460992 Z M5.5,2.5 L5.5,8 L4,8 L4,2.5 L5.5,2.5 Z M5,5.32907052e-15 C5.27614237,5.32907052e-15 5.5,0.223857625 5.5,0.5 L5.5,0.5 L5.5,2 L4,2 L4,0.5 C4,0.223857625 4.22385763,5.32907052e-15 4.5,5.32907052e-15 L4.5,5.32907052e-15 Z"/>
   </defs>
-  <g fill="none" fill-rule="evenodd" transform="translate(8 5)">
-    <use fill="#000" filter="url(#application-x-ddf-a)" xlink:href="#application-x-ddf-b"/>
-    <use fill="#F9FBFB" xlink:href="#application-x-ddf-b"/>
-    <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M33,-1 L-1,-1 L-1,40 L33,40 L33,-1 Z M32,0 L32,39 L0,39 L0,0 L32,0 Z"/>
-    <g transform="translate(5 7)">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(7 4)">
+      <use fill="#000" filter="url(#application-x-ddf-a)" xlink:href="#application-x-ddf-b"/>
+      <use fill="#F9FBFB" xlink:href="#application-x-ddf-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M34,0 L0,0 L0,41 L34,41 L34,0 Z M33,1 L33,40 L1,40 L1,1 L33,1 Z"/>
+    </g>
+    <g transform="translate(13 12)">
       <path fill="#2A4052" fill-opacity=".6" d="M11,2.07243922 C12.4427698,2.07243922 11.8503588,5.0036913 13.60133,4.9828673 C15.5253464,4.9599853 17.3828243,5.20184732 19.5473074,7.02770646 C21.1889482,8.41251964 22,11.0744288 22,13.0724392 C22,19.1475715 17.0751322,24.0724392 11,24.0724392 C4.92486775,24.0724392 0,19.1475715 0,13.0724392 C0,6.99730697 4.92486775,2.07243922 11,2.07243922 Z M7.73445554,5.69743922 C7.18217079,6.65402447 7.41298791,7.82124087 8.25,8.30449003 C9.08701209,8.78773919 10.2132597,8.40402447 10.7655445,7.44743922 C11.3178292,6.49085398 11.0870121,5.32363757 10.25,4.84038841 C9.41298791,4.35713926 8.28674029,4.74085398 7.73445554,5.69743922 Z"/>
       <g transform="rotate(27 5.88 25.923)">
         <g transform="scale(1 -1) rotate(-15 -73.672 -11.187)">

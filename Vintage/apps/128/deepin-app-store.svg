@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
   <defs>
-    <filter id="deepin-app-store-a" width="131.4%" height="129.1%" x="-15.7%" y="-14.5%" filterUnits="objectBoundingBox">
+    <filter id="deepin-app-store-a" width="131.4%" height="129.6%" x="-15.7%" y="-14.8%" filterUnits="objectBoundingBox">
       <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
       <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
@@ -30,7 +30,7 @@
       <stop offset="0%" stop-color="#4772A0"/>
       <stop offset="100%" stop-color="#6AA6C0"/>
     </linearGradient>
-    <radialGradient id="deepin-app-store-h" cx="50%" cy="-9.457%" r="109.616%" fx="50%" fy="-9.457%" gradientTransform="matrix(0 .99855 -1 0 .405 -.594)">
+    <radialGradient id="deepin-app-store-h" cx="50%" cy="-9.457%" r="109.457%" fx="50%" fy="-9.457%" gradientTransform="matrix(0 1 -.98142 0 .407 -.595)">
       <stop offset="0%" stop-color="#D4E9FF"/>
       <stop offset="100%" stop-color="#316297"/>
     </radialGradient>
@@ -38,11 +38,11 @@
       <stop offset="0%" stop-color="#4A85C4"/>
       <stop offset="100%" stop-color="#2B4561"/>
     </linearGradient>
-    <radialGradient id="deepin-app-store-j" cx="50%" cy=".002%" r="499.279%" fx="50%" fy=".002%" gradientTransform="matrix(.20029 0 0 1 .4 0)">
+    <radialGradient id="deepin-app-store-j" cx="50%" cy=".002%" r="499.264%" fx="50%" fy=".002%" gradientTransform="matrix(.2003 0 0 1 .4 0)">
       <stop offset="0%" stop-opacity="0"/>
       <stop offset="100%"/>
     </radialGradient>
-    <path id="deepin-app-store-k" d="M100.643066,81 L100.927296,96.9285828 C100.966739,99.1373697 99.2081378,100.95992 96.9993509,100.999362 C96.9755476,100.999787 96.9517409,101 96.9279337,101 L5.07206628,101 C2.86292728,101 1.07206628,99.209139 1.07206628,97 L1.07270388,96.9285828 L1.07270388,96.9285828 L1.35606628,81 L100.643066,81 Z"/>
+    <path id="deepin-app-store-k" d="M100.63555,79 L100.925786,94.9271258 C100.966033,97.1358981 99.2080963,98.9590888 96.9993239,98.9993361 C96.975035,98.9997787 96.9507426,99 96.9264497,99 L5.07355029,99 C2.86441129,99 1.07355029,97.209139 1.07355029,95 L1.07421418,94.9271258 L1.07421418,94.9271258 L1.36355029,79 L100.63555,79 Z"/>
     <radialGradient id="deepin-app-store-l" cx="47.944%" cy="109.143%" r="109.143%" fx="47.944%" fy="109.143%">
       <stop offset="0%" stop-opacity=".12"/>
       <stop offset="100%" stop-opacity=".4"/>
@@ -98,7 +98,7 @@
       <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#deepin-app-store-a)" transform="translate(13 9)">
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-app-store-a)" transform="translate(13 10)">
     <rect width="6" height="8" x="4" y="1" fill="url(#deepin-app-store-b)"/>
     <polygon fill="url(#deepin-app-store-b)" points="92 1 98 1 98 9 92 9"/>
     <g transform="translate(2)">
@@ -108,11 +108,11 @@
       <path fill="url(#deepin-app-store-g)" d="M91,9 L91,5 C95.1428571,7.66666667 97.2142857,9 97.2142857,9 C97.2142857,9 95.1428571,9 91,9 Z"/>
     </g>
     <g transform="translate(0 8)">
-      <path fill="url(#deepin-app-store-h)" fill-rule="nonzero" d="M2.78571429,1 L99.2142857,1 L100.927947,96.9285828 C100.965544,99.0704367 99.3130686,100.849108 97.198872,100.990903 L96.9279337,101 L96.9279337,101 L5.07206628,101 C2.92987088,101 1.1809874,99.3160315 1.07696158,97.1996403 L1.07270388,96.9285828 L1.07270388,96.9285828 L2.78571429,1 Z"/>
-      <path fill="url(#deepin-app-store-i)" fill-rule="nonzero" d="M99.2142857,0 L2.78571429,0 C2.24038962,0 1.79561007,0.436907963 1.78587369,0.982145704 L0.0721061267,96.9107285 L0.0721061267,96.9910725 C0.0721061267,99.7614237 2.31064253,102 5.07206628,102 L97.0172052,102 C99.7781888,101.9499 101.97644,99.6717121 101.92795,96.9107285 L100.214126,0.982145704 C100.20439,0.436907963 99.7596104,0 99.2142857,0 Z M99.2142857,1 L100.927296,96.9285828 C100.965544,99.0704367 99.3130686,100.849108 97.198872,100.990903 L96.9279337,101 L5.07206628,101 C2.92987088,101 1.1809874,99.3160315 1.07696158,97.1996403 L1.07270388,96.9285828 L2.78571429,1 L99.2142857,1 Z"/>
+      <path fill="url(#deepin-app-store-h)" fill-rule="nonzero" d="M2.78571429,1 L99.2142857,1 L100.927947,94.9285828 C100.965544,97.0704367 99.3130686,98.8491075 97.198872,98.9909034 L96.9279337,99 L5.07206628,99 C2.92987088,99 1.1809874,97.3160315 1.07696158,95.1996403 L1.07270388,94.9285828 L2.78571429,1 Z"/>
+      <path fill="url(#deepin-app-store-i)" fill-rule="nonzero" d="M99.2142857,0 L2.78571429,0 C2.24038962,0 1.79561007,0.436907963 1.78587369,0.982145704 L0.0721061267,94.9107285 L0.0721061267,94.9910725 C0.0721061267,97.7614237 2.31064253,100 5.07206628,100 L97.0172052,100 C99.7781888,99.9498997 101.97644,97.6717121 101.92795,94.9107285 L100.214126,0.982145704 C100.20439,0.436907963 99.7596104,0 99.2142857,0 Z M99.2142857,1 L100.927296,94.9285828 C100.965544,97.0704367 99.3130686,98.8491075 97.198872,98.9909034 L96.9279337,99 L5.07206628,99 C2.92987088,99 1.1809874,97.3160315 1.07696158,95.1996403 L1.07270388,94.9285828 L2.78571429,1 L99.2142857,1 Z"/>
       <use fill="url(#deepin-app-store-j)" fill-rule="nonzero" opacity=".229" xlink:href="#deepin-app-store-k"/>
-      <polygon fill="#FFF" fill-opacity=".12" points="1.387 80 100.628 80 100.628 81 1.348 81"/>
-      <polygon fill="#264C73" fill-opacity=".329" points="1.387 79 100.607 79 100.628 80 1.387 80"/>
+      <polygon fill="#FFF" fill-opacity=".12" points="1.387 78 100.628 78 100.628 79 1.348 79"/>
+      <polygon fill="#264C73" fill-opacity=".329" points="1.387 77 100.607 77 100.628 78 1.387 78"/>
     </g>
     <circle cx="18" cy="24" r="3" fill="url(#deepin-app-store-l)"/>
     <g stroke-linejoin="round">

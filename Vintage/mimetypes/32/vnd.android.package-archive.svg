@@ -6,9 +6,6 @@
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
       <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
     </filter>
-    <filter id="vnd.android.package-archive-c">
-      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.552941 0 0 0 0 0.705882 0 0 0 0 0.474510 0 0 0 1.000000 0"/>
-    </filter>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <g transform="translate(4 2)">
@@ -16,17 +13,15 @@
       <use fill="#F9FBFB" xlink:href="#vnd.android.package-archive-b"/>
       <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M24,0 L0,0 L0,28 L24,28 L24,0 Z M23,1 L23,27 L1,27 L1,1 L23,1 Z"/>
     </g>
-    <g filter="url(#vnd.android.package-archive-c)">
-      <g transform="translate(10 10)">
-        <path fill="#FFF" d="M2,5 L10,5 L10,10.009222 C10,10.5564136 9.54696369,11 9.00296986,11 L2.99703014,11 C2.4463856,11 2,10.5490248 2,10.009222 L2,5 Z"/>
-        <rect width="1" height="8" x="4" y="6" fill="#FFF" rx=".5"/>
-        <path fill="#FFF" d="M0,5.49047852 C0,5.21959471 0.231933594,5 0.5,5 L0.5,5 C0.776142375,5 1,5.21505737 1,5.49047852 L1,8.50952148 C1,8.78040529 0.768066406,9 0.5,9 L0.5,9 C0.223857625,9 0,8.78494263 0,8.50952148 L0,5.49047852 Z"/>
-        <rect width="1" height="4" x="11" y="5" fill="#FFF" rx=".5"/>
-        <rect width="1" height="8" x="7" y="6" fill="#FFF" rx=".5"/>
-        <path fill="#FFF" d="M2,4 C2,2.34314575 3.790861,1 6,1 C8.209139,1 10,2.34314575 10,4 L2,4 Z M4.5,3 C4.77614237,3 5,2.77614237 5,2.5 C5,2.22385763 4.77614237,2 4.5,2 C4.22385763,2 4,2.22385763 4,2.5 C4,2.77614237 4.22385763,3 4.5,3 Z M7.5,3 C7.77614237,3 8,2.77614237 8,2.5 C8,2.22385763 7.77614237,2 7.5,2 C7.22385763,2 7,2.22385763 7,2.5 C7,2.77614237 7.22385763,3 7.5,3 Z"/>
-        <line x1="3.5" x2="4.5" y1=".5" y2="1.5" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8"/>
-        <line x1="7.5" x2="8.5" y1=".5" y2="1.5" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" transform="matrix(-1 0 0 1 16 0)"/>
-      </g>
+    <g transform="translate(10 10.5)">
+      <path fill="#8DB479" d="M2,4.5 L10,4.5 L10,9.50922203 C10,10.0564136 9.54696369,10.5 9.00296986,10.5 L2.99703014,10.5 C2.4463856,10.5 2,10.0490248 2,9.50922203 L2,4.5 Z"/>
+      <rect width="1" height="8" x="4" y="5.5" fill="#8DB479" rx=".5"/>
+      <path fill="#8DB479" d="M0,4.99047852 C0,4.71959471 0.231933594,4.5 0.5,4.5 L0.5,4.5 C0.776142375,4.5 1,4.71505737 1,4.99047852 L1,8.00952148 C1,8.28040529 0.768066406,8.5 0.5,8.5 L0.5,8.5 C0.223857625,8.5 0,8.28494263 0,8.00952148 L0,4.99047852 Z"/>
+      <rect width="1" height="4" x="11" y="4.5" fill="#8DB479" rx=".5"/>
+      <rect width="1" height="8" x="7" y="5.5" fill="#8DB479" rx=".5"/>
+      <path fill="#8DB479" d="M2,3.5 C2,1.84314575 3.790861,0.5 6,0.5 C8.209139,0.5 10,1.84314575 10,3.5 L2,3.5 Z M4.5,2.5 C4.77614237,2.5 5,2.27614237 5,2 C5,1.72385763 4.77614237,1.5 4.5,1.5 C4.22385763,1.5 4,1.72385763 4,2 C4,2.27614237 4.22385763,2.5 4.5,2.5 Z M7.5,2.5 C7.77614237,2.5 8,2.27614237 8,2 C8,1.72385763 7.77614237,1.5 7.5,1.5 C7.22385763,1.5 7,1.72385763 7,2 C7,2.27614237 7.22385763,2.5 7.5,2.5 Z"/>
+      <line x1="3.5" x2="4.5" y2="1" stroke="#8DB479" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8"/>
+      <line x1="7.5" x2="8.5" y2="1" stroke="#8DB479" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" transform="matrix(-1 0 0 1 16 0)"/>
     </g>
   </g>
 </svg>

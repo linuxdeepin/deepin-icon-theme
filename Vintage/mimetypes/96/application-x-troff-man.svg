@@ -13,6 +13,6 @@
       <use fill="#F9FBFB" xlink:href="#application-x-troff-man-b"/>
       <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M65,-1 L-1,-1 L-1,79 L65,79 L65,-1 Z M64,0 L64,78 L0,78 L0,0 L64,0 Z"/>
     </g>
-    <path fill="#DD953E" d="M61,67 L40,67 L40,35 L61,35 L61,67 Z M63,33 L63,69 L33,69 L33,33 L63,33 Z M56,35 L50,35 L50,52 L53,48 L56,52 L56,35 Z"/>
+    <path fill="#DD953E" d="M61,64 L40,64 L40,32 L61,32 L61,64 Z M63,30 L63,66 L33,66 L33,30 L63,30 Z M56,32 L50,32 L50,49 L53,45 L56,49 L56,32 Z"/>
   </g>
 </svg>

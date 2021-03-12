@@ -6,9 +6,6 @@
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
       <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
     </filter>
-    <filter id="x-office-drawing-c">
-      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.164158 0 0 0 0 0.252840 0 0 0 0 0.323143 0 0 0 0.600000 0"/>
-    </filter>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <g transform="translate(4 2)">
@@ -16,12 +13,10 @@
       <use fill="#F9FBFB" xlink:href="#x-office-drawing-b"/>
       <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M24,0 L0,0 L0,28 L24,28 L24,0 Z M23,1 L23,27 L1,27 L1,1 L23,1 Z"/>
     </g>
-    <g filter="url(#x-office-drawing-c)">
-      <g transform="translate(9 11)">
-        <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M11.5,0.5 L2,0.5 C2,0.5 9,4.5 2.66666667,10.5 C2.66666667,10.5 10.5,10.5 10.5,10.5"/>
-        <circle cx="11.5" cy="10.5" r="1" stroke="#FFF"/>
-        <rect width="2" height="2" x=".5" y="9.5" stroke="#FFF"/>
-      </g>
+    <g stroke="#7C8B95" transform="translate(9.5 11.5)">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M11,0 L1.5,0 C1.5,0 8.5,4 2.16666667,10 C2.16666667,10 10,10 10,10"/>
+      <circle cx="11" cy="10" r="1"/>
+      <rect width="2" height="2" y="9"/>
     </g>
   </g>
 </svg>

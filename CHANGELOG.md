@@ -1,3 +1,5 @@
+## 2021.03.12
+fix some icons in Vintage
 ## 2021.03.05
  add deepin-mail deepin-scanner deepin-diskmanager icons 
 ## 2021.02.26

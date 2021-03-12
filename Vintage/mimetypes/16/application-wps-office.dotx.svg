@@ -1,22 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs>
-    <filter id="application-wps-office.dotx-a">
-      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.295629 0 0 0 0 0.454809 0 0 0 0 0.684216 0 0 0 1.000000 0"/>
-    </filter>
-  </defs>
   <g fill="none" fill-rule="evenodd">
     <g transform="translate(2 1)">
       <polygon fill="#F9FBFB" points="0 0 12 0 12 14 0 14"/>
-      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M13.2,-1.16666667 L-1.2,-1.16666667 L-1.2,15.1666667 L13.2,15.1666667 L13.2,-1.16666667 Z M12,4.4408921e-16 L12,14 L0,14 L0,4.4408921e-16 L12,4.4408921e-16 Z"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M13.2,-1.16666667 L-1.2,-1.16666667 L-1.2,15.1666667 L13.2,15.1666667 L13.2,-1.16666667 Z M12,4.4408921e-16 L12,14 L-5.5067062e-14,14 L-5.5067062e-14,4.4408921e-16 L12,4.4408921e-16 Z"/>
     </g>
-    <g filter="url(#application-wps-office.dotx-a)">
-      <g transform="translate(4 2.333)">
-        <line x2="8" y1="2.167" y2="2.167" stroke="#FFF" stroke-linejoin="round"/>
-        <polygon fill="#FFF" points="2 .667 2 10.667 1 10.667 1 .667"/>
-        <polygon fill="#FFF" points="7 .667 7 4.667 6 4.667 6 .667"/>
-        <polygon fill="#FFF" points="3 8.667 3 9.667 0 9.667 0 8.667"/>
-        <polygon fill="#FFF" points="4 9.667 4 6.667 7 5.167 8 6.167 8 10.167 7 11.167 4 9.667 7 10.167 7 6.667 5 6.917 5 9.167"/>
-      </g>
-    </g>
+    <path fill="#4B74AE" fill-rule="nonzero" d="M11,7.5 L12,8.5 L12,12.5 L11,13.5 L8,12 L8,9 L11,7.5 Z M6,3 L6,4 L10,4 L10,3 L11,3 L11,4 L12,4 L12,5 L11,5 L11,7 L10,7 L10,5 L6,5 L6,11 L7,11 L7,12 L6,12 L6,13 L5,13 L5,12 L4,12 L4,11 L5,11 L5,5 L4,5 L4,4 L5,4 L5,3 L6,3 Z M11,9 L9,9.25 L9,11.5 L8,12 L11,12.5 L11,9 Z"/>
   </g>
 </svg>

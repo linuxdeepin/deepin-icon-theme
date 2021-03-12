@@ -6,9 +6,6 @@
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
       <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
     </filter>
-    <filter id="text-xml-c">
-      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.164158 0 0 0 0 0.252840 0 0 0 0 0.323143 0 0 0 0.600000 0"/>
-    </filter>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <g transform="translate(4 2)">
@@ -16,12 +13,6 @@
       <use fill="#F9FBFB" xlink:href="#text-xml-b"/>
       <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M24,0 L0,0 L0,28 L24,28 L24,0 Z M23,1 L23,27 L1,27 L1,1 L23,1 Z"/>
     </g>
-    <g filter="url(#text-xml-c)">
-      <g transform="translate(8 14)">
-        <polygon fill="#FFF" points="0 3 4 0 4 1 .75 3.508 4 6.02 4 7 0 4"/>
-        <polygon fill="#FFF" points="12 3 16 0 16 1 12.75 3.508 16 6.02 16 7 12 4" transform="matrix(-1 0 0 1 28 0)"/>
-        <polygon fill="#FFF" points="9.7 0 5 7 6.2 7 11 0"/>
-      </g>
-    </g>
+    <path fill="#2A4052" fill-opacity=".6" d="M12,14 L12,15 L8.75,17.508432 L12,20.0197751 L12,21 L8,18 L8,17 L12,14 Z M20,14 L24,17 L24,18 L20,21 L20,20.0197751 L23.25,17.508432 L20,15 L20,14 Z M19,14 L14.1999998,21 L13,21 L17.7000008,14 L19,14 Z"/>
   </g>
 </svg>
