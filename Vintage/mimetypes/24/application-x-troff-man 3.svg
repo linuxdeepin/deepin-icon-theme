@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="application-x-troff-man-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="application-x-troff-man-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="application-x-troff-man-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.866667 0 0 0 0 0.584314 0 0 0 0 0.243137 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#application-x-troff-man-a)" xlink:href="#application-x-troff-man-b"/>
+      <use fill="#F9FBFB" xlink:href="#application-x-troff-man-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <g filter="url(#application-x-troff-man-c)">
+      <g transform="translate(7 7)">
+        <rect width="9" height="11" x=".5" y=".5" stroke="#FFF"/>
+        <rect width="2" height="10.5" y="1" fill="#FFF"/>
+        <polygon fill="#FFF" points="6 1 8 1 8 7 7 5.667 6 7"/>
+      </g>
+    </g>
+  </g>
+</svg>

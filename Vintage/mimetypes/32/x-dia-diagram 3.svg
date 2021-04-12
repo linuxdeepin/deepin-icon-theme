@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <rect id="x-dia-diagram-b" width="22" height="26" x="1" y="1"/>
+    <filter id="x-dia-diagram-a" width="118.2%" height="115.4%" x="-9.1%" y="-3.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="x-dia-diagram-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.553405 0 0 0 0 0.705531 0 0 0 0 0.475709 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#x-dia-diagram-a)" xlink:href="#x-dia-diagram-b"/>
+      <use fill="#F9FBFB" xlink:href="#x-dia-diagram-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M24,0 L0,0 L0,28 L24,28 L24,0 Z M23,1 L23,27 L1,27 L1,1 L23,1 Z"/>
+    </g>
+    <g filter="url(#x-dia-diagram-c)">
+      <g transform="translate(8 9)">
+        <rect width="5" height="3" x="5.5" y=".5" stroke="#FFF"/>
+        <polyline stroke="#FFF" points="4.5 7.5 2.5 7.5 2.5 11.5"/>
+        <line x1="8" x2="8" y1="3.667" y2="5.5" stroke="#FFF"/>
+        <polyline stroke="#FFF" points="13.5 7.5 11 7.5 11 11" transform="matrix(-1 0 0 1 24.5 0)"/>
+        <rect width="5" height="3" x="10.5" y="11.5" stroke="#FFF"/>
+        <rect width="5" height="3" x=".5" y="11.5" stroke="#FFF"/>
+        <polygon stroke="#FFF" points="8 5.5 11.5 7.5 8 9.5 4.5 7.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

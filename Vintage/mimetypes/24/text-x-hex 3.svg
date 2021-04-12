@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="text-x-hex-b" points="0 0 16 0 16 20 0 20"/>
+    <filter id="text-x-hex-a" width="125%" height="120%" x="-12.5%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="text-x-hex-c">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.164158 0 0 0 0 0.252840 0 0 0 0 0.323143 0 0 0 0.600000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 2)">
+      <use fill="#000" filter="url(#text-x-hex-a)" xlink:href="#text-x-hex-b"/>
+      <use fill="#F9FBFB" xlink:href="#text-x-hex-b"/>
+      <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M17,-1.11111111 L-1,-1.11111111 L-1,21.1111111 L17,21.1111111 L17,-1.11111111 Z M16,-4.4408921e-16 L16,20 L0,20 L0,-4.4408921e-16 L16,-4.4408921e-16 Z"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round" filter="url(#text-x-hex-c)">
+      <g transform="translate(6 7)">
+        <line x1=".5" x2="11.5" y1="3.502" y2="3.502" stroke="#FFF"/>
+        <line x1=".5" x2="11.5" y1="8.502" y2="8.502" stroke="#FFF"/>
+        <line x1="3" x2="14" y1="6" y2="6" stroke="#FFF" transform="rotate(90 8.5 6)"/>
+        <line x1="-2" x2="9" y1="6" y2="6" stroke="#FFF" transform="rotate(90 3.5 6)"/>
+      </g>
+    </g>
+  </g>
+</svg>

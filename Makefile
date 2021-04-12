@@ -47,8 +47,6 @@ install-icons:
 	cp -r bloom/* $(DESTDIR)$(PREFIX)/share/icons/bloom
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom-dark
 	cp -r bloom-dark/* $(DESTDIR)$(PREFIX)/share/icons/bloom-dark
-	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom-v20
-	cp -r bloom-v20/* $(DESTDIR)$(PREFIX)/share/icons/bloom-v20
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/Vintage
 	cp -r Vintage/* $(DESTDIR)$(PREFIX)/share/icons/Vintage
 
