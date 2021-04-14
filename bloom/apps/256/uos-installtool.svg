@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <filter id="uos安装工具-256px-a" width="123.4%" height="125.7%" x="-11.7%" y="-13.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="uos安装工具-256px-b" x1="34.316%" x2="63.451%" y1="8.679%" y2="100%">
+      <stop offset="0%" stop-color="#00EADB"/>
+      <stop offset="100%" stop-color="#0071FF"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-256px-e" x1="50%" x2="50%" y1="25.076%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".558"/>
+    </linearGradient>
+    <path id="uos安装工具-256px-d" d="M89.5,24 C92.2614237,24 94.5,26.2385763 94.5,29 L94.5,54.5 C94.5,66.0979797 103.90202,75.5 115.5,75.5 C127.09798,75.5 136.5,66.0979797 136.5,54.5 L136.5,29 C136.5,26.2385763 138.738576,24 141.5,24 C144.261424,24 146.5,26.2385763 146.5,29 L146.5,55 C146.5,72.1208272 132.620827,86 115.5,86 C98.3791728,86 84.5,72.1208272 84.5,55 L84.5,29 C84.5,26.2385763 86.7385763,24 89.5,24 Z"/>
+    <filter id="uos安装工具-256px-c" width="172.6%" height="172.6%" x="-36.3%" y="-31.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.121292169   0 0 0 0 0.290439071   0 0 0 0 0.413043478  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="uos安装工具-256px-f" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#C5C5C5"/>
+      <stop offset="100%" stop-color="#EAEAEA"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-256px-g" x1="50%" x2="50%" y1=".694%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#BFBFBF"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-256px-h" x1="50%" x2="50%" y1=".694%" y2="100%">
+      <stop offset="0%" stop-color="#F4F4F4"/>
+      <stop offset="100%" stop-color="#EBEBEB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" filter="url(#uos安装工具-256px-a)" transform="translate(12.5 18)">
+    <path fill="#FFF" stroke="#F8FCFF" stroke-width="2" d="M73.7383243,9.70371003 C93.2639675,-0.983977728 116.867214,-4.22218282 139.922687,2.52042175 C162.973422,9.26323116 181.109565,24.7108749 191.796906,44.2374869 C202.483336,63.7624348 205.722243,87.3656716 198.979985,110.422449 C192.240458,133.473745 176.793549,151.608651 157.269306,162.295665 C137.743176,172.983713 114.138927,176.222413 91.088065,169.479566 C68.0332857,162.737164 49.8952389,147.289602 39.2063037,127.764657 C28.5169671,108.238978 25.2772983,84.6356011 32.0200079,61.5827185 C38.7652152,38.527873 54.2130629,20.3911888 73.7383243,9.70371003 Z"/>
+    <circle cx="115.5" cy="86" r="77" fill="url(#uos安装工具-256px-b)"/>
+    <use fill="#000" filter="url(#uos安装工具-256px-c)" xlink:href="#uos安装工具-256px-d"/>
+    <use fill="url(#uos安装工具-256px-e)" xlink:href="#uos安装工具-256px-d"/>
+    <rect width="192" height="140" x="19.5" y="78" fill="#000" fill-opacity=".166" rx="5.333"/>
+    <path fill="url(#uos安装工具-256px-f)" d="M24.8333333,78 L206.166667,78 C209.112185,78 211.5,80.3878147 211.5,83.3333333 L211.5,210.666667 C211.5,213.612185 209.112185,216 206.166667,216 L24.8333333,216 C21.8878147,216 19.5,213.612185 19.5,210.666667 L19.5,83.3333333 C19.5,80.3878147 21.8878147,78 24.8333333,78 Z"/>
+    <g transform="translate(153.5 159)">
+      <rect width="19" height="19" x="24" y="24" fill="#FE0"/>
+      <rect width="19" height="19" x="24" fill="#3CC700"/>
+      <rect width="19" height="19" fill="#FF3900"/>
+      <rect width="19" height="19" y="24" fill="#00AFFF"/>
+    </g>
+    <g transform="translate(0 74)">
+      <path fill="url(#uos安装工具-256px-g)" d="M230.323627,42.517176 C231.673142,45.545256 230.090624,48 226.758751,48 L4.05019462,48 C0.731853318,48 -0.870941582,45.553682 0.478616818,42.517176 L16.9383287,5.4828242 C18.2841421,2.454744 22.05266,0 25.3850353,0 L205.365243,0 C208.684417,0 212.465382,2.4463177 213.818651,5.4828242 L230.323627,42.517176 Z"/>
+      <path fill="url(#uos安装工具-256px-h)" d="M208.270514,2.0171339 C210.481529,2.0171339 213.006297,3.66004 213.902488,5.6709401 L230.240358,42.330333 C231.139796,44.348519 230.078207,45.984693 227.874871,45.984831 L2.92514292,45.998885 C0.719282618,45.998885 -0.338657082,44.356042 0.554937418,42.345455 L16.8454688,5.6917589 C17.7423007,3.6738871 20.2641619,2.0378808 22.4727247,2.0376371 L208.270514,2.0171339 Z"/>
+    </g>
+  </g>
+</svg>

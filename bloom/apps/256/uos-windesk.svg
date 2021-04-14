@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <filter id="win7替代工具-256px-a" width="124.1%" height="126.4%" x="-11.8%" y="-13%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="win7替代工具-256px-b" x1="0%" x2="50%" y1="9.743%" y2="74.523%">
+      <stop offset="0%" stop-color="#00EADB"/>
+      <stop offset="100%" stop-color="#0071FF"/>
+    </linearGradient>
+    <linearGradient id="win7替代工具-256px-c" x1="50%" x2="50%" y1="0%" y2="98.139%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#EDEDED"/>
+    </linearGradient>
+    <rect id="win7替代工具-256px-d" width="185" height="166" x="43" y="42" rx="24"/>
+    <filter id="win7替代工具-256px-e" width="103.2%" height="103.6%" x="-1.6%" y="-1.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="-4" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.101016171 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#win7替代工具-256px-a)" transform="translate(14 24)">
+    <rect width="185" height="166" fill="url(#win7替代工具-256px-b)" fill-rule="nonzero" rx="24"/>
+    <use fill="url(#win7替代工具-256px-c)" xlink:href="#win7替代工具-256px-d"/>
+    <use fill="#000" filter="url(#win7替代工具-256px-e)" xlink:href="#win7替代工具-256px-d"/>
+    <rect width="186" height="167" x="42.5" y="41.5" stroke="#000" stroke-opacity=".04" rx="24"/>
+    <g fill-rule="nonzero" transform="translate(142.235 129.5)">
+      <path fill="#5383E3" d="M27.2218394,28.4591957 C24.7471268,27.2218394 21.859962,25.9844831 18.1478929,25.9844831 L16.9105366,25.9844831 C13.6109197,26.3969352 10.3113028,27.2218394 8.24904227,28.0467436 C7.42413802,28.4591957 7.0116859,28.4591957 6.18678166,28.8716479 L-4.44373427e-13,50.3191577 C4.53697325,48.2568972 8.24904227,47.844445 11.5486592,47.844445 C16.4980845,47.844445 20.2101535,49.9067056 23.5097704,51.9689662 C24.7471268,47.844445 28.8716479,32.996169 29.6965521,30.1090042 C28.8716479,29.6965521 28.0467436,28.8716479 27.2218394,28.4591957 L27.2218394,28.4591957 Z"/>
+      <path fill="#E5B900" d="M33.8210732,32.996169 L27.6342916,54.4436788 C27.6342916,54.4436788 34.6459775,58.9806521 40.0078549,58.9806521 C43.3074718,58.9806521 47.4319929,58.1557478 52.3814183,56.0934873 L58.1557478,35.4708816 C53.6187746,37.1206901 49.9067056,37.5331422 46.6070887,37.5331422 C39.5954028,37.1206901 35.4708816,34.2335254 33.8210732,32.996169 L33.8210732,32.996169 Z"/>
+      <path fill="#DC5600" d="M19.3852493,21.0350577 C24.3346747,21.0350577 27.6342916,23.0973182 30.9339085,25.1595788 C32.1712648,21.0350577 35.8833338,8.24904227 37.1206901,3.71206901 C37.1206901,3.71206901 32.5837169,1.23735636 29.6965521,0.412452121 C28.4591957,-1.1738166e-13 26.8093873,-1.1738166e-13 25.1595788,-1.1738166e-13 C21.859962,-1.1738166e-13 18.1478929,0.824904241 13.6109197,2.47471265 L7.83659015,23.9222226 C12.3735634,21.859962 16.0856324,21.0350578 19.3852493,21.0350577 Z"/>
+      <path fill="#7FC902" d="M54.0312267,11.136207 C47.4319929,11.136207 42.8950197,8.24904227 40.8327591,6.59923378 L35.0584296,28.0467436 C38.3580465,30.5214563 42.8950197,32.1712647 48.2568972,32.1712647 C51.9689662,32.1712647 55.6810352,31.3463605 59.8055563,29.2841 L65.992338,8.24904227 C61.4553647,10.3113028 57.3308436,11.136207 54.0312267,11.136207 Z"/>
+    </g>
+  </g>
+</svg>

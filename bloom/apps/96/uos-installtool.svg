@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="uos安装工具-96px-a" width="127.9%" height="130.1%" x="-14%" y="-15.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="uos安装工具-96px-b" x1="34.316%" x2="63.451%" y1="8.679%" y2="100%">
+      <stop offset="0%" stop-color="#00EADB"/>
+      <stop offset="100%" stop-color="#0071FF"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-96px-e" x1="50%" x2="50%" y1="25.076%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".558"/>
+    </linearGradient>
+    <path id="uos安装工具-96px-d" d="M33.6292,9 C34.6615927,9 35.4985123,9.83691962 35.4985123,10.8693123 L35.4985123,20.7957344 C35.4985123,24.9471294 38.8638829,28.3125 43.0152779,28.3125 C47.1666729,28.3125 50.5320435,24.9471294 50.5320435,20.7957344 L50.5320435,10.875 C50.5320435,9.83946609 51.3715096,9 52.4070435,9 C53.4425774,9 54.2820435,9.83946609 54.2820435,10.875 L54.2820435,20.9889221 C54.2820435,27.2082437 49.2402872,32.25 43.0209656,32.25 C36.801644,32.25 31.7598877,27.2082437 31.7598877,20.9889221 L31.7598877,10.8693123 C31.7598877,9.83691962 32.5968073,9 33.6292,9 Z"/>
+    <filter id="uos安装工具-96px-c" width="175.5%" height="173.1%" x="-37.7%" y="-28%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.121292169   0 0 0 0 0.290439071   0 0 0 0 0.413043478  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="uos安装工具-96px-f" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#C5C5C5"/>
+      <stop offset="100%" stop-color="#EAEAEA"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-96px-g" x1="50%" x2="50%" y1=".694%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#BFBFBF"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-96px-h" x1="50%" x2="50%" y1=".694%" y2="100%">
+      <stop offset="0%" stop-color="#F4F4F4"/>
+      <stop offset="100%" stop-color="#EBEBEB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" filter="url(#uos安装工具-96px-a)" transform="translate(5 6.75)">
+    <path fill="#FFF" stroke="#F8FCFF" d="M27.2793536,3.52924257 C34.6295272,-0.493998027 43.5146615,-1.71298231 52.193602,0.825185723 C60.8707576,3.3634304 67.6978773,9.17849914 71.7209906,16.5290434 C75.7437564,23.8789528 76.9630048,32.7640803 74.4249717,41.4434962 C71.8879607,50.1208689 66.0731665,56.9475294 58.7235082,60.970523 C51.3731475,64.9939011 42.4876309,66.2130678 33.8104376,63.674812 C25.1317632,61.1367217 18.3039307,55.3216849 14.2802191,47.9717714 C10.2563552,40.6215798 9.03682287,31.7363909 11.5750322,23.0584193 C14.1141781,14.3797216 19.9293229,7.55240492 27.2793536,3.52924257 Z"/>
+    <circle cx="43" cy="32.25" r="28.875" fill="url(#uos安装工具-96px-b)"/>
+    <use fill="#000" filter="url(#uos安装工具-96px-c)" xlink:href="#uos安装工具-96px-d"/>
+    <use fill="url(#uos安装工具-96px-e)" xlink:href="#uos安装工具-96px-d"/>
+    <rect width="72" height="53" x="7" y="29.25" fill="#000" fill-opacity=".166" rx="2"/>
+    <path fill="url(#uos安装工具-96px-f)" d="M9,29.25 L77,29.25 C78.1045695,29.25 79,30.1454305 79,31.25 L79,79.25 C79,80.3545695 78.1045695,81.25 77,81.25 L9,81.25 C7.8954305,81.25 7,80.3545695 7,79.25 L7,31.25 C7,30.1454305 7.8954305,29.25 9,29.25 Z"/>
+    <g transform="translate(58 61.25)">
+      <polygon fill="#FE0" points="9 9 16 9 16 16 9 16"/>
+      <rect width="7" height="7" x="9" fill="#3CC700"/>
+      <polygon fill="#FF3900" points="0 0 7 0 7 7 0 7"/>
+      <polygon fill="#00AFFF" points="0 9 7 9 7 16 0 16"/>
+    </g>
+    <path fill="url(#uos安装工具-96px-g)" d="M85.8185499,44.193941 C86.3272382,45.329471 85.7307214,46.25 84.4747999,46.25 L1.52668672,46.25 C0.27586594,46.25 -0.328294088,45.3326307 0.180410576,44.193941 L6.38476024,30.3060591 C6.89205326,29.170529 8.31256432,28.25 9.5686751,28.25 L76.4106974,28.25 C77.6618321,28.25 79.0870349,29.1673691 79.5971383,30.3060591 L85.8185499,44.193941 Z"/>
+    <path fill="url(#uos安装工具-96px-h)" d="M77.6771909,29.25 C78.5027597,29.25 79.4454804,29.8476683 79.7801083,30.5792081 L85.8804902,43.9154276 C86.2163305,44.6496179 85.8199448,45.2448371 84.9972433,45.2448873 L1.0034763,45.25 C0.1798322,45.25 -0.215190907,44.6523547 0.118467501,43.9209288 L6.20117366,30.5867817 C6.53604088,29.8527057 7.47767626,29.2575475 8.30232944,29.2574588 L77.6771909,29.25 Z"/>
+  </g>
+</svg>

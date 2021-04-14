@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <filter id="uos安装工具-512px-a" width="123.4%" height="125.7%" x="-11.7%" y="-13.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="uos安装工具-512px-b" x1="34.316%" x2="63.451%" y1="8.679%" y2="100%">
+      <stop offset="0%" stop-color="#00EADB"/>
+      <stop offset="100%" stop-color="#0071FF"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-512px-e" x1="50%" x2="50%" y1="25.076%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".558"/>
+    </linearGradient>
+    <path id="uos安装工具-512px-d" d="M179.489502,48 C185.282694,48 189.979004,52.69631 189.979004,58.489502 L189.979004,109.989502 C189.979004,132.638975 208.340029,151 230.989502,151 C253.638975,151 272,132.638975 272,109.989502 L272,58.5 C272,52.7010101 276.70101,48 282.5,48 C288.29899,48 293,52.7010101 293,58.5 L293,110 C293,144.241654 265.241654,172 231,172 C196.758346,172 169,144.241654 169,110 L169,58.489502 C169,52.69631 173.69631,48 179.489502,48 Z"/>
+    <filter id="uos安装工具-512px-c" width="172.6%" height="172.6%" x="-36.3%" y="-31.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="14"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.121292169   0 0 0 0 0.290439071   0 0 0 0 0.413043478  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="uos安装工具-512px-f" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#C5C5C5"/>
+      <stop offset="100%" stop-color="#EAEAEA"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-512px-g" x1="50%" x2="50%" y1=".694%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#BFBFBF"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-512px-h" x1="50%" x2="50%" y1=".694%" y2="100%">
+      <stop offset="0%" stop-color="#F4F4F4"/>
+      <stop offset="100%" stop-color="#EBEBEB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" filter="url(#uos安装工具-512px-a)" transform="translate(25 36)">
+    <path fill="#FFF" stroke="#F8FCFF" stroke-width="4" d="M147.476649,19.4074201 C186.527935,-1.96795546 233.734429,-8.44436564 279.845374,5.0408435 C325.946845,18.5264623 362.21913,49.4217498 383.593812,88.4749739 C404.966672,127.52487 411.444487,174.731343 397.95997,220.844898 C384.480915,266.94749 353.587099,303.217301 314.538612,324.591331 C275.486353,345.967425 228.277854,352.444826 182.17613,338.959133 C136.066571,325.474329 99.7904778,294.579204 78.4126074,255.529313 C57.0339341,216.477956 50.5545967,169.271202 64.0400158,123.165437 C77.5304304,77.055746 108.426126,40.7823776 147.476649,19.4074201 Z"/>
+    <circle cx="231" cy="172" r="154" fill="url(#uos安装工具-512px-b)"/>
+    <use fill="#000" filter="url(#uos安装工具-512px-c)" xlink:href="#uos安装工具-512px-d"/>
+    <use fill="url(#uos安装工具-512px-e)" xlink:href="#uos安装工具-512px-d"/>
+    <rect width="384" height="280" x="39" y="156" fill="#000" fill-opacity=".166" rx="10.667"/>
+    <rect width="384" height="276" x="39" y="156" fill="url(#uos安装工具-512px-f)" rx="10.667"/>
+    <g transform="translate(307 318)">
+      <rect width="38" height="38" x="48" y="48" fill="#FE0"/>
+      <rect width="38" height="38" x="48" fill="#3CC700"/>
+      <rect width="38" height="38" fill="#FF3900"/>
+      <rect width="38" height="38" y="48" fill="#00AFFF"/>
+    </g>
+    <g transform="translate(0 148)">
+      <path fill="url(#uos安装工具-512px-g)" d="M460.647254,85.034352 C463.346284,91.090512 460.181248,96 453.517502,96 L8.10038924,96 C1.46370664,96 -1.74188316,91.107364 0.957233637,85.034352 L33.8766574,10.9656484 C36.5682842,4.909488 44.10532,0 50.7700706,0 L410.730486,0 C417.368834,0 424.930764,4.8926354 427.637302,10.9656484 L460.647254,85.034352 Z"/>
+      <path fill="url(#uos安装工具-512px-h)" d="M416.541028,4.0342678 C420.963058,4.0342678 426.012594,7.32008 427.804976,11.3418802 L460.480716,84.660666 C462.279592,88.697038 460.156414,91.969386 455.749742,91.969662 L5.85028584,91.99777 C1.43856524,91.99777 -0.677314163,88.712084 1.10987484,84.69091 L33.6909376,11.3835178 C35.4846014,7.3477742 40.5283238,4.0757616 44.9454494,4.0752742 L416.541028,4.0342678 Z"/>
+    </g>
+  </g>
+</svg>

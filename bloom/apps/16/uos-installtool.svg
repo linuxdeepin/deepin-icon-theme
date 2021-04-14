@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="uos安装工具-16px-a" x1="50%" x2="50%" y1="0%" y2="64.569%">
+      <stop offset="0%" stop-color="#F8FCFF"/>
+      <stop offset="100%" stop-color="#F8FCFF"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-16px-b" x1="34.316%" x2="63.451%" y1="8.679%" y2="100%">
+      <stop offset="0%" stop-color="#00EADB"/>
+      <stop offset="100%" stop-color="#0071FF"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-16px-e" x1="50%" x2="50%" y1="25.076%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".558"/>
+    </linearGradient>
+    <path id="uos安装工具-16px-d" d="M6.470391,2.638125 C6.64331677,2.638125 6.7835008,2.77830904 6.7835008,2.95123481 L6.7835008,4.61391051 C6.7835008,5.30926918 7.34720038,5.87296875 8.04255904,5.87296875 C8.73791771,5.87296875 9.30161728,5.30926918 9.30161728,4.61391051 L9.30161728,2.9521875 C9.30161728,2.77873557 9.44222785,2.638125 9.61567978,2.638125 C9.78913171,2.638125 9.92974228,2.77873557 9.92974228,2.9521875 L9.92974228,4.64626945 C9.92974228,5.68800582 9.0852481,6.5325 8.04351173,6.5325 C7.00177537,6.5325 6.15728119,5.68800582 6.15728119,4.64626945 L6.15728119,2.95123481 C6.15728119,2.77830904 6.29746522,2.638125 6.470391,2.638125 Z"/>
+    <filter id="uos安装工具-16px-c" width="206%" height="202.7%" x="-53%" y="-25.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.121292169   0 0 0 0 0.290439071   0 0 0 0 0.413043478  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="uos安装工具-16px-f" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#C5C5C5"/>
+      <stop offset="100%" stop-color="#EAEAEA"/>
+    </linearGradient>
+    <linearGradient id="uos安装工具-16px-g" x1="50%" x2="50%" y1=".694%" y2="100%">
+      <stop offset="0%" stop-color="#F4F4F4"/>
+      <stop offset="100%" stop-color="#EBEBEB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#uos安装工具-16px-a)" fill-rule="nonzero" d="M9.54373905,1.22811889 C6.62913967,0.375740314 3.57602806,2.04681477 2.72330152,4.96139957 C1.87091868,7.8756407 3.54234519,10.9290807 6.45694457,11.7814593 C9.37085654,12.6338379 12.4246555,10.9627634 13.2766947,8.04852231 C14.1290775,5.1335938 12.457651,2.08049747 9.54373905,1.22811889 L9.54373905,1.22811889 Z"/>
+    <circle cx="8" cy="6.505" r="4.837" fill="url(#uos安装工具-16px-b)" fill-rule="nonzero"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#uos安装工具-16px-c)" xlink:href="#uos安装工具-16px-d"/>
+      <use fill="url(#uos安装工具-16px-e)" xlink:href="#uos安装工具-16px-d"/>
+    </g>
+    <path fill="url(#uos安装工具-16px-f)" fill-rule="nonzero" d="M2.335,7 L13.665,7 C13.8500154,7 14,7.14998461 14,7.335 L14,14.665 C14,14.8500154 13.8500154,15 13.665,15 L2.335,15 C2.14998461,15 2,14.8500154 2,14.665 L2,7.335 C2,7.14998461 2.14998461,7 2.335,7 Z"/>
+    <g fill-rule="nonzero" transform="translate(10.427 10.992)">
+      <rect width="1" height="1" x="1.573" y="2.008" fill="#FE0"/>
+      <rect width="1" height="1" x="1.573" y=".008" fill="#3CC700"/>
+      <rect width="1" height="1" x="-.427" y=".008" fill="#FF3900"/>
+      <rect width="1" height="1" x="-.427" y="2.008" fill="#00AFFF"/>
+    </g>
+    <path fill="url(#uos安装工具-16px-g)" fill-rule="nonzero" d="M14.9708011,8.6573235 C15.052659,8.8465785 14.9566678,9 14.7545655,9 L1.24567373,9 C1.04439222,9 0.947171066,8.84710513 1.02903159,8.6573235 L2.02743268,6.34267651 C2.10906604,6.1534215 2.33765403,6 2.5397868,6 L13.4568938,6 C13.6582258,6 13.8875688,6.15289486 13.9696544,6.34267651 L14.9708011,8.6573235 Z"/>
+  </g>
+</svg>

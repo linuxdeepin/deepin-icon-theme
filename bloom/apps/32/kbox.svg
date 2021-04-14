@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="安卓容器-32px-a" width="128.6%" height="127.6%" x="-14.3%" y="-13.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="安卓容器-32px-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#CFFB82"/>
+      <stop offset="100%" stop-color="#539109"/>
+    </linearGradient>
+    <linearGradient id="安卓容器-32px-c" x1="50%" x2="50%" y1="0%" y2="190.452%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".255"/>
+    </linearGradient>
+    <linearGradient id="安卓容器-32px-d" x1="50%" x2="50%" y1="11.664%" y2="100%">
+      <stop offset="0%" stop-color="#ECCB89"/>
+      <stop offset="15.474%" stop-color="#CC9A4E"/>
+      <stop offset="23.345%" stop-color="#E2BB78"/>
+      <stop offset="29.459%" stop-color="#E5BE7D"/>
+      <stop offset="100%" stop-color="#D1965D"/>
+    </linearGradient>
+    <path id="安卓容器-32px-e" d="M4.3125,11 L23.6875,11 C24.9646585,11 26,12.0353415 26,13.3125 L26,26.6875 C26,27.9646585 24.9646585,29 23.6875,29 L4.3125,29 C3.03534152,29 2,27.9646585 2,26.6875 L2,13.3125 C2,12.0353415 3.03534152,11 4.3125,11 Z"/>
+    <linearGradient id="安卓容器-32px-f" x1="50%" x2="50%" y1="0%" y2="126.091%">
+      <stop offset="0%" stop-color="#FD9"/>
+      <stop offset="100%" stop-color="#D1A25E"/>
+    </linearGradient>
+    <path id="安卓容器-32px-g" d="M2.72357001,10 L25.27643,10 C25.6481092,10 25.9792296,10.2348101 26.102174,10.5855665 L27.7959258,15.4177832 C27.8758507,15.6458062 27.7557935,15.8954472 27.5277705,15.975372 C27.481263,15.9916735 27.4323355,16 27.3830538,16 L0.616946206,16 C0.375321628,16 0.179446206,15.8041246 0.179446206,15.5625 C0.179446206,15.5132183 0.187772716,15.4642908 0.204074179,15.4177832 L1.89782596,10.5855665 C2.02077043,10.2348101 2.35189082,10 2.72357001,10 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#安卓容器-32px-a)" transform="translate(2 1)">
+    <g transform="translate(5)">
+      <path fill="url(#安卓容器-32px-b)" d="M0.279846191,10.5 L17.7798462,10.5 C17.7798462,7.54802401 16.5674968,4.90070035 14.1533402,3.16733367 L16.0720149,1.25537769 C16.3882799,0.887693847 16.3882799,0.551525763 16.0720149,0.236368184 C15.7557498,-0.0787893947 15.4078582,-0.0787893947 15.0494245,0.236368184 L12.8671956,2.41095548 C11.6759305,1.78064032 10.4003281,1.46548274 9.02984619,1.46548274 C7.61719559,1.46548274 6.32050884,1.78064032 5.12924378,2.42146073 L2.94701487,0.236368184 C2.63074981,-0.0787893947 2.28285824,-0.0787893947 1.9244245,0.236368184 C1.5554486,0.551525763 1.5554486,0.8981991 1.9244245,1.25537769 L3.8430992,3.16733367 C1.46056908,4.84817409 0.279846191,7.49549775 0.279846191,10.5 Z"/>
+      <path fill="url(#安卓容器-32px-c)" d="M13,6 C13.5555556,6 14,6.44444444 14,7 C14,7.55555556 13.5555556,8 13,8 C12.4444444,8 12,7.55555556 12,7 C12,6.44444444 12.4444444,6 13,6 Z M5,6 C5.55555556,6 6,6.44444444 6,7 C6,7.55555556 5.55555556,8 5,8 C4.44444444,8 4,7.55555556 4,7 C4,6.44444444 4.44444444,6 5,6 Z"/>
+    </g>
+    <use fill="url(#安卓容器-32px-d)" fill-rule="nonzero" xlink:href="#安卓容器-32px-e"/>
+    <use fill="url(#安卓容器-32px-f)" fill-rule="nonzero" xlink:href="#安卓容器-32px-g"/>
+  </g>
+</svg>
