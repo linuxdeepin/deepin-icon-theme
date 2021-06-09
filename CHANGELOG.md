@@ -1,3 +1,5 @@
+## 2021.06.09
+   Update many app icons for themes support
 ## 2021.04.27
   add a few icons and fix some mimetype icons error
 ## 2021.04.14

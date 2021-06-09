@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="uos-windesk-a" width="130.8%" height="132%" x="-15.4%" y="-16%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="uos-windesk-b" d="M6,5 L25,5 C25.5522847,5 26,5.44771525 26,6 L26,8.030075 L26,21.969925 L26,24 C26,24.5522847 25.5522847,25 25,25 L6,25 C5.44771525,25 5,24.5522847 5,24 L5,21.969925 L5,8.030075 L5,6 C5,5.44771525 5.44771525,5 6,5 Z"/>
+    <filter id="uos-windesk-c" width="104.8%" height="105%" x="-2.4%" y="-2.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.301354895 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#uos-windesk-a)" transform="translate(3 4)">
+    <path fill="#00C1E6" fill-rule="nonzero" d="M1,0 L20,0 C20.5522847,-1.01453063e-16 21,0.44771525 21,1 L21,3.030075 L21,16.969925 L21,19 C21,19.5522847 20.5522847,20 20,20 L1,20 C0.44771525,20 6.76353751e-17,19.5522847 0,19 L0,16.969925 L0,3.030075 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z"/>
+    <use fill="#F1F1F1" xlink:href="#uos-windesk-b"/>
+    <use fill="#000" filter="url(#uos-windesk-c)" xlink:href="#uos-windesk-b"/>
+    <g fill-rule="nonzero" transform="translate(16.725 15.38)">
+      <path fill="#5383E3" d="M3.4368423,3.5930624 C3.12440209,3.43684229 2.75988851,3.28062219 2.2912282,3.28062219 L2.13500809,3.28062219 C1.71842114,3.33269556 1.3018342,3.4368423 1.04146736,3.54098903 C0.937320626,3.5930624 0.885247257,3.5930624 0.781100519,3.64513577 L-5.61035338e-14,6.35295091 C0.572807051,6.09258407 1.04146736,6.0405107 1.45805431,6.0405107 C2.08293473,6.0405107 2.55159504,6.30087754 2.96818199,6.56124438 C3.12440209,6.0405107 3.64513578,4.16586945 3.7492825,3.80135587 C3.64513577,3.7492825 3.54098903,3.64513577 3.4368423,3.5930624 L3.4368423,3.5930624 Z"/>
+      <path fill="#E5B900" d="M4.27001619,4.16586945 L3.48891567,6.87368459 C3.48891567,6.87368459 4.37416292,7.44649164 5.0511167,7.44649164 C5.46770365,7.44649164 5.98843733,7.3423449 6.61331775,7.08197806 L7.3423449,4.47830965 C6.76953785,4.68660313 6.30087754,4.73867649 5.88429059,4.7386765 C4.99904334,4.68660313 4.47830965,4.32208956 4.27001619,4.16586945 L4.27001619,4.16586945 Z"/>
+      <path fill="#DC5600" d="M2.4474483,2.65574177 C3.07232872,2.65574177 3.48891567,2.91610861 3.90550261,3.17647545 C4.06172272,2.65574177 4.53038303,1.04146736 4.68660313,0.468660313 C4.68660313,0.468660313 4.11379608,0.156220107 3.7492825,0.0520733691 C3.5930624,-1.48198014e-14 3.38476893,-1.48198014e-14 3.17647545,-1.48198014e-14 C2.75988851,-1.48198014e-14 2.2912282,0.104146738 1.71842114,0.312440206 L0.989393995,3.02025535 C1.56220105,2.75988852 2.03086136,2.65574178 2.4474483,2.65574177 Z"/>
+      <path fill="#7FC902" d="M6.82161122,1.40598094 C5.98843733,1.40598094 5.41563028,1.04146736 5.15526344,0.833173888 L4.42623629,3.54098903 C4.84282324,3.85342923 5.41563029,4.06172271 6.09258407,4.06172271 C6.56124438,4.06172271 7.0299047,3.95757597 7.55063838,3.69720913 L8.3317389,1.04146736 C7.75893184,1.3018342 7.23819816,1.40598094 6.82161122,1.40598094 Z"/>
+    </g>
+  </g>
+</svg>
