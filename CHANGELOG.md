@@ -1,3 +1,5 @@
+## 2021.07.15
+   add global search icons
 ## 2021.06.09
    Update many app icons for themes support
 ## 2021.04.27
