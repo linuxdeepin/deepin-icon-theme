@@ -1,3 +1,5 @@
+## 2021.07.29
+   update 235 app icons
 ## 2021.07.15
    add global search icons
 ## 2021.06.09
