@@ -1,6 +1,5 @@
-usr/share/icons/hicolor /usr/share/icons/
-bloom /usr/share/icons/
-bloom-dark /usr/share/icons/
-bloom-classic /usr/share/icons/
-bloom-classic-dark /usr/share/icons/
-Vintage /usr/share/icons/
+debian/tmp/usr/share/icons/bloom
+debian/tmp/usr/share/icons/bloom-dark
+debian/tmp/usr/share/icons/Vintage
+debian/tmp/usr/share/icons/bloom-classic
+debian/tmp/usr/share/icons/bloom-classic-dark

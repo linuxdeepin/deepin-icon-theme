@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# 功能: 生成links文件，将deepin图标主题中的指定图标软链到hicolor-icon-theme
+# 功能: 生成links文件，将 bloom 图标主题中的指定图标软链到hicolor-icon-theme
 # 参数:
-#   from: deepin图标生成目录           (build/deepin)
+#   from: bloom 图标生成目录           (build/bloom)
 #   list: 需要安装到hicolor的图标列表  (hicolor.list)
 set -e
 
@@ -32,16 +32,16 @@ get_hicolor_icon()
     fi
 )
 
-get_deepin_icon()
+get_bloom_icon()
 (
     category="$1"
     size="$2"
     base="$3"
     
 	if [ -f $FROM/$category/$size/$base.svg ];then
-        echo $ICON_DIR/deepin/$category/$size/$base.svg
+        echo $ICON_DIR/bloom/$category/$size/$base.svg
 	elif [ -f $FROM/$category/$size/$base.png ];then
-        echo $ICON_DIR/deepin/$category/$size/$base.png
+        echo $ICON_DIR/bloom/$category/$size/$base.png
 	else
 		echo 
 	fi
@@ -62,11 +62,11 @@ for i in `cat $LIST`; do
     base=`basename $i`
 
     for s in $(get_sizes $category); do
-		deepin_icon=$(get_deepin_icon $category $s $base)
-		if [ -z ${deepin_icon} ];then continue; fi
-		icon_name=`basename ${deepin_icon}`
+		bloom_icon=$(get_bloom_icon $category $s $base)
+		if [ -z ${bloom_icon} ];then continue; fi
+		icon_name=`basename ${bloom_icon}`
 		ext="${icon_name##*.}"
 		hicolor_icon=$(get_hicolor_icon $category $s $base $ext)
-		link_file ${deepin_icon} ${hicolor_icon}
+		link_file ${bloom_icon} ${hicolor_icon}
     done
 done

@@ -41,19 +41,17 @@ convert:
 clean:
 	rm -rf build
 
-
-install-icons:
+install: hicolor-links
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom
 	cp -r bloom/* $(DESTDIR)$(PREFIX)/share/icons/bloom
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom-dark
 	cp -r bloom-dark/* $(DESTDIR)$(PREFIX)/share/icons/bloom-dark
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/Vintage
 	cp -r Vintage/* $(DESTDIR)$(PREFIX)/share/icons/Vintage
-
-install-cursors:
-	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom
-	cp -r bloom/cursors $(DESTDIR)$(PREFIX)/share/icons/bloom
-	install -m644 bloom/cursor.theme $(DESTDIR)$(PREFIX)/share/icons/bloom/cursor.theme
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom-classic
+	cp -r bloom-classic/* $(DESTDIR)$(PREFIX)/share/icons/bloom-classic
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom-classic-dark
+	cp -r bloom-classic-dark/* $(DESTDIR)$(PREFIX)/share/icons/bloom-classic-dark
 
 hicolor-links:
 	./tools/hicolor.links bloom hicolor.list ./
