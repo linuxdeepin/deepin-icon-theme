@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="com.apps.obs-studios-a" width="128.6%" height="128.6%" x="-14.3%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="com.apps.obs-studios-b" x1="50%" x2="50%" y1="0%" y2="99.831%">
+      <stop offset="0%" stop-color="#444"/>
+      <stop offset="100%" stop-color="#1C1920"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" filter="url(#com.apps.obs-studios-a)" transform="translate(6 6)">
+    <circle cx="42" cy="42" r="42" fill="#F1F1F1"/>
+    <circle cx="42" cy="42" r="36" fill="url(#com.apps.obs-studios-b)"/>
+    <path fill="#F1F1F1" d="M17.6934462,68.56975 C16.3658914,67.3394504 15.130874,66.0107034 14,64.5951146 C15.1215098,65.610487 16.3905136,66.4659438 17.7710346,67.1255078 C19.8167488,68.1028778 22.1073384,68.6500958 24.5257378,68.6500958 C33.1900586,68.6500958 40.2138784,61.626276 40.2138784,52.961955 C40.2138784,44.662785 33.7696094,37.8687544 25.6120454,37.3108372 C16.3406208,29.0886984 20.8332194,7.4014989 39.517684,6 C37.9965668,6.26818316 36.5510288,6.7555261 35.214846,7.42825312 C30.088678,10.0091213 26.572017,15.318504 26.572017,21.449247 C26.572017,30.1135678 33.5958368,37.1373876 42.2601576,37.1373876 C47.5846998,37.1373876 52.2896984,34.4848052 55.1257766,30.429017 C82.5036488,30.4290166 75.8647136,55.5209422 75.1206478,57.1385674 C75.4870156,55.8087634 75.682718,54.4082136 75.682718,52.961955 C75.682718,44.2976342 68.6588982,37.2738144 59.9945774,37.2738144 C51.3302566,37.2738144 44.3064368,44.2976342 44.3064368,52.961955 C44.3064368,55.2975428 44.8168204,57.5139242 45.7321402,59.5056518 C40.8959708,73.424748 24.142213,74.5460858 17.6934462,68.56975 Z"/>
+  </g>
+</svg>

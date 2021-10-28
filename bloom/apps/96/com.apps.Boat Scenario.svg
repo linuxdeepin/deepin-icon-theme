@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="com.apps.boat-scenario-a" width="133.3%" height="133.3%" x="-16.7%" y="-16.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="com.apps.boat-scenario-b" x1="67.554%" x2="45.139%" y1="29.932%" y2="66.578%">
+      <stop offset="0%" stop-color="#FFFE53"/>
+      <stop offset="100%" stop-color="#FFC900"/>
+    </linearGradient>
+    <linearGradient id="com.apps.boat-scenario-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%"/>
+      <stop offset="100%"/>
+    </linearGradient>
+    <linearGradient id="com.apps.boat-scenario-d" x1="90.645%" x2="29.576%" y1="41.48%" y2="67.857%">
+      <stop offset="0%" stop-color="#3500D0"/>
+      <stop offset="100%" stop-color="#3754FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#com.apps.boat-scenario-a)" transform="translate(9 9)">
+    <polygon fill="url(#com.apps.boat-scenario-b)" fill-rule="nonzero" points="10.398 0 2.456 12.069 32.574 42.145 78 12.069 78 0"/>
+    <polyline stroke="url(#com.apps.boat-scenario-c)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="10.398 0 2.456 12.069 32.574 42.145 78 12.069"/>
+    <polygon fill="url(#com.apps.boat-scenario-d)" fill-rule="nonzero" points="0 70.938 71.806 36.744 54.363 78 0 78"/>
+    <polyline stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="0 70.938 71.806 36.744 54.363 78"/>
+  </g>
+</svg>

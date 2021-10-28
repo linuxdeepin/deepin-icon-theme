@@ -1,4 +1,9 @@
+## 2011.10.28
+
+Update more than 500 app icons(include wechat)
+
 ## 2021.07.29
+
    update 235 app icons
 ## 2021.07.15
    add global search icons
@@ -76,7 +81,7 @@ add a new theme Vintage
 
 
 ### 15.12.68
-    
+
      add deepin-virtualkeyboard icons
 
 
@@ -115,13 +120,13 @@ add a new theme Vintage
 ## 15.12.57 (2018-05-14)
 
 	Fix typo
-          add iphone and android phone icons
+	      add iphone and android phone icons
 
 # 15.12.56
           redesigned compressed file icons
           redesigned microsoft office document icons
 # 15.12.55
- 
+
 # 15.12.54
           fix battery symbolic iconns in status/64
 

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>kexi_kexi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-17.1%" y="-17.1%" width="134.3%" height="134.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="100%" y1="9.45750446%" x2="0%" y2="66.8640899%" id="linearGradient-2">
+            <stop stop-color="#3AD582" offset="0%"></stop>
+            <stop stop-color="#38C3C7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.21535915%" y1="10.1315418%" x2="95.6326396%" y2="10.1315418%" id="linearGradient-3">
+            <stop stop-color="#0F9984" offset="0%"></stop>
+            <stop stop-color="#168B71" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="91.3009183%" y1="46.7941404%" x2="11.2725433%" y2="50.7977629%" id="linearGradient-4">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="kexi_kexi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(13.000000, 13.000000)">
+            <path d="M4,0 L66,0 C68.209139,-4.05812251e-16 70,1.790861 70,4 L70,18.3431458 C70,19.4040117 69.5785726,20.4214274 68.8284271,21.1715729 L65,25 L65,25 L66,25 C68.209139,25 70,26.790861 70,29 L70,41 C70,43.209139 68.209139,45 66,45 L65,45 L65,45 L68.8284271,48.8284271 C69.5785726,49.5785726 70,50.5959883 70,51.6568542 L70,66 C70,68.209139 68.209139,70 66,70 L4,70 C1.790861,70 2.705415e-16,68.209139 0,66 L0,51.6568542 C-1.2991861e-16,50.5959883 0.421427361,49.5785726 1.17157288,48.8284271 L5,45 L5,45 L4,45 C1.790861,45 2.705415e-16,43.209139 0,41 L0,29 C-2.705415e-16,26.790861 1.790861,25 4,25 L5,25 L5,25 L1.17157288,21.1715729 C0.421427361,20.4214274 1.2991861e-16,19.4040117 0,18.3431458 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="路径-303" fill="url(#linearGradient-2)"></path>
+            <path d="M65,45 L68.8284271,48.8284271 C69.1704052,49.1704052 69.4440663,49.5679297 69.6406264,49.9997948 L0.359373563,49.9997948 C0.55052086,49.5798225 0.814581058,49.1923254 1.14347625,48.8568053 L5,45 L65,45 Z M68.8284271,21.1715729 L65,25 L5,25 L1.17157288,21.1715729 C0.829922443,20.8299224 0.556458229,20.432832 0.359938784,20.0014465 L69.6400612,20.0014465 C69.4435418,20.432832 69.1700776,20.8299224 68.8284271,21.1715729 Z" id="形状结合" fill="url(#linearGradient-3)"></path>
+            <path d="M3,25 L22,45 L66,45 C68.209139,45 70,43.209139 70,41 L70,29 C70,26.790861 68.209139,25 66,25 L3,25 L3,25 Z" id="路径-305" fill="url(#linearGradient-4)" opacity="0.1"></path>
+            <path d="M3,50 L22,70 L66,70 C68.209139,70 70,68.209139 70,66 L70,54 C70,51.790861 68.209139,50 66,50 L3,50 L3,50 Z" id="路径-305备份" fill="url(#linearGradient-4)" opacity="0.1"></path>
+        </g>
+    </g>
+</svg>

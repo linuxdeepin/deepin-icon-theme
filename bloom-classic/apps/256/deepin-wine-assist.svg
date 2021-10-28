@@ -41,14 +41,13 @@
     <use fill="#000" fill-rule="nonzero" filter="url(#deepin-wine-assist-d)" xlink:href="#deepin-wine-assist-e"/>
     <use fill="#F7F7F7" xlink:href="#deepin-wine-assist-f"/>
     <use fill="#000" filter="url(#deepin-wine-assist-g)" xlink:href="#deepin-wine-assist-f"/>
+    <g fill-rule="nonzero" transform="matrix(-1 0 0 1 150.177 113)">
+      <rect width="25" height="24" x="40.177" y="9" fill="#00AFFF"/>
+      <rect width="25" height="24" x="40.177" y="40" fill="#FF3900"/>
+      <rect width="25" height="24" x="8.177" y="40" fill="#3CC700"/>
+      <polygon fill="#FFD500" points="14.574 2.804 35.293 14.766 23.509 35.176 2.79 23.214" transform="rotate(11 19.041 18.99)"/>
+    </g>
     <use fill="#000" filter="url(#deepin-wine-assist-h)" xlink:href="#deepin-wine-assist-i"/>
     <use fill="#FFF" xlink:href="#deepin-wine-assist-i"/>
-    <g fill-rule="nonzero" transform="translate(87 124)">
-      <rect width="24" height="24" x="29" fill="#3CC700"/>
-      <rect width="24" height="24" fill="#FF3900"/>
-      <rect width="24" height="24" x="29" y="29" fill="#FE0"/>
-      <rect width="24" height="24" y="29" fill="#00AFFF"/>
-      <path fill="#000" fill-opacity=".201" d="M53 0L53 24 29 24 29 0 53 0zM51 2L31 2 31 22 51 22 51 2zM24 0L24 24 0 24 0 0 24 0zM22 2L2 2 2 22 22 22 22 2zM53 29L53 53 29 53 29 29 53 29zM51 31L31 31 31 51 51 51 51 31zM24 29L24 53 0 53 0 29 24 29zM22 31L2 31 2 51 22 51 22 31z"/>
-    </g>
   </g>
 </svg>

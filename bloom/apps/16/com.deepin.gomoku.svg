@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="五子棋-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDD7A7"/>
+      <stop offset="100%" stop-color="#C78051"/>
+    </linearGradient>
+    <radialGradient id="五子棋-b" cx="50%" cy="25.241%" r="74.759%" fx="50%" fy="25.241%">
+      <stop offset="0%" stop-color="#767676"/>
+      <stop offset="100%"/>
+    </radialGradient>
+    <radialGradient id="五子棋-c" cx="50%" cy="32.875%" r="67.125%" fx="50%" fy="32.875%">
+      <stop offset="0%" stop-color="#FFFBFB"/>
+      <stop offset="37.61%" stop-color="#FFFBFB"/>
+      <stop offset="100%" stop-color="#C8CBE4"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1.063 1.063)">
+    <rect width="13.875" height="13.875" fill="url(#五子棋-a)" rx="2.5"/>
+    <circle cx="10.438" cy="10.438" r="1.5" fill="url(#五子棋-b)"/>
+    <circle cx="7.438" cy="3.438" r="1.5" fill="url(#五子棋-b)"/>
+    <circle cx="3.438" cy="7.438" r="1.5" fill="url(#五子棋-b)"/>
+    <circle cx="1.25" cy="1.25" r="1.5" fill="url(#五子棋-c)" transform="translate(2.188 2.188)"/>
+    <circle cx="1.75" cy="1.75" r="1.5" fill="url(#五子棋-c)" transform="translate(5.688 5.688)"/>
+  </g>
+</svg>

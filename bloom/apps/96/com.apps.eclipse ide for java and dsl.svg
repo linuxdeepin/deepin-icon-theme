@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="com.apps.eclipse-ide-for-java-and-dsl-a" width="127.3%" height="130%" x="-13.6%" y="-15%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="com.apps.eclipse-ide-for-java-and-dsl-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#564A8F"/>
+      <stop offset="100%" stop-color="#2B2456"/>
+    </linearGradient>
+    <linearGradient id="com.apps.eclipse-ide-for-java-and-dsl-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FCC50C"/>
+      <stop offset="100%" stop-color="#F79305"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" filter="url(#com.apps.eclipse-ide-for-java-and-dsl-a)" transform="translate(4 8)">
+    <path fill="url(#com.apps.eclipse-ide-for-java-and-dsl-b)" d="M87.5801497,34 C87.78857,35.3121818 87.9297327,36.6467262 88,38 L12,38 C12.0702672,36.6467262 12.21143,35.3121818 12.4198502,34 L87.5801497,34 L87.5801497,34 Z M86.7204672,30 C82.324735,13.8646385 67.5498236,2 50,2 C32.4501764,2 17.675265,13.8646385 13.2795328,30 L86.7204672,30 L86.7204672,30 Z M87.5801497,46 C87.78857,44.6878182 87.9297327,43.3532738 88,42 L12,42 C12.0702672,43.3532738 12.21143,44.6878182 12.4198502,46 L87.5801497,46 L87.5801497,46 Z M86.7204672,50 C82.324735,66.1353614 67.5498236,78 50,78 C32.4501764,78 17.675265,66.1353614 13.2795328,50 L86.7204672,50 L86.7204672,50 Z"/>
+    <path fill="url(#com.apps.eclipse-ide-for-java-and-dsl-c)" d="M44,79.802499 C42.684375,79.9331222 41.3499976,80 40,80 C17.90861,80 0,62.09139 0,40 C0,17.90861 17.90861,0 40,0 C41.3499976,0 42.684375,0.066877769 44,0.19750097 C23.7867092,2.20439868 8,19.2586076 8,40 C8,60.7413924 23.7867092,77.7956014 44,79.802499 L44,79.802499 Z"/>
+    <path fill="#483D8F" d="M76.1614848,50 C72.1357956,60.5254808 61.9407816,68 50,68 C38.0592184,68 27.8642044,60.5254808 23.8385152,50 L76.1614848,50 L76.1614848,50 Z"/>
+  </g>
+</svg>
