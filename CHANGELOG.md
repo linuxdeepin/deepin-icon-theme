@@ -1,3 +1,7 @@
+# 2021.11.24
+
+fix some errors
+
 ## 2011.10.28
 
 Update more than 500 app icons(include wechat)
