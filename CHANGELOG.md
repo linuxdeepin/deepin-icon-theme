@@ -1,17 +1,3 @@
-# 2021.11.25
-update names
-# 2021.11.24
-
-Remove ICONS that contain Spaces in file names 
-
-# 2021.11.24
-
-fix some errors
-
-## 2011.10.28
-
-Update more than 500 app icons(include wechat)
-
 ## 2021.07.29
 
    update 235 app icons
