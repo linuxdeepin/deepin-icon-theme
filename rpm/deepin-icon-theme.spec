@@ -5,7 +5,7 @@ Name:           deepin-icon-theme
 Version:        2020.09.25
 Release:        1%{?dist}
 Summary:        Icons for the Deepin Desktop Environment
-License:        GPLv3
+License:        GPLv3+
 URL:            https://github.com/linuxdeepin/deepin-icon-theme
 Source0:        %{url}/archive/%{version}/%{name}-%{version}.tar.gz
 BuildArch:      noarch
