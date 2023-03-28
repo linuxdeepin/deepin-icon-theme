@@ -46,8 +46,8 @@ install: hicolor-links
 	cp -r bloom/* $(DESTDIR)$(PREFIX)/share/icons/bloom
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom-dark
 	cp -r bloom-dark/* $(DESTDIR)$(PREFIX)/share/icons/bloom-dark
-	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/Vintage
-	cp -r Vintage/* $(DESTDIR)$(PREFIX)/share/icons/Vintage
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/vintage
+	cp -r vintage/* $(DESTDIR)$(PREFIX)/share/icons/vintage
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom-classic
 	cp -r bloom-classic/* $(DESTDIR)$(PREFIX)/share/icons/bloom-classic
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons/bloom-classic-dark
