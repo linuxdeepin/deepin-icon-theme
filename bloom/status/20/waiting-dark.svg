@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>waiting-dark</title>
+    <g id="waiting-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spinner_32" transform="translate(2.000000, 2.000000)" fill="#000000">
+            <circle id="9" opacity="0.00999999978" transform="translate(3.669873, 10.500000) rotate(240.000000) translate(-3.669873, -10.500000) " cx="3.66987298" cy="10.5" r="2"></circle>
+            <circle id="8" opacity="0.0199999996" transform="translate(3.301537, 9.710101) rotate(250.000000) translate(-3.301537, -9.710101) " cx="3.3015369" cy="9.71010072" r="2"></circle>
+            <circle id="7" opacity="0.0299999993" transform="translate(3.075961, 8.868241) rotate(260.000000) translate(-3.075961, -8.868241) " cx="3.07596123" cy="8.86824089" r="2"></circle>
+            <circle id="6" opacity="0.0399999991" transform="translate(3.000000, 8.000000) rotate(270.000000) translate(-3.000000, -8.000000) " cx="3" cy="8" r="2"></circle>
+            <circle id="5" opacity="0.049999997" transform="translate(3.075961, 7.131759) rotate(280.000000) translate(-3.075961, -7.131759) " cx="3.07596123" cy="7.13175911" r="2"></circle>
+            <circle id="4" opacity="0.099999994" transform="translate(3.301537, 6.289899) rotate(290.000000) translate(-3.301537, -6.289899) " cx="3.3015369" cy="6.28989928" r="2"></circle>
+            <circle id="3" opacity="0.149999991" transform="translate(3.669873, 5.500000) rotate(300.000000) translate(-3.669873, -5.500000) " cx="3.66987298" cy="5.5" r="2"></circle>
+            <circle id="2" opacity="0.299999982" transform="translate(4.169778, 4.786062) rotate(310.000000) translate(-4.169778, -4.786062) " cx="4.16977778" cy="4.78606195" r="2"></circle>
+            <circle id="1" transform="translate(4.786062, 4.169778) rotate(320.000000) translate(-4.786062, -4.169778) " cx="4.78606195" cy="4.16977778" r="2"></circle>
+            <circle id="9" opacity="0.00999999978" cx="8" cy="3" r="2"></circle>
+            <circle id="8" opacity="0.0199999996" transform="translate(8.868241, 3.075961) rotate(10.000000) translate(-8.868241, -3.075961) " cx="8.86824089" cy="3.07596123" r="2"></circle>
+            <circle id="7" opacity="0.0299999993" transform="translate(9.710101, 3.301537) rotate(20.000000) translate(-9.710101, -3.301537) " cx="9.71010072" cy="3.3015369" r="2"></circle>
+            <circle id="6" opacity="0.0399999991" transform="translate(10.500000, 3.669873) rotate(30.000000) translate(-10.500000, -3.669873) " cx="10.5" cy="3.66987298" r="2"></circle>
+            <circle id="5" opacity="0.049999997" transform="translate(11.213938, 4.169778) rotate(40.000000) translate(-11.213938, -4.169778) " cx="11.213938" cy="4.16977778" r="2"></circle>
+            <circle id="4" opacity="0.099999994" transform="translate(11.830222, 4.786062) rotate(50.000000) translate(-11.830222, -4.786062) " cx="11.8302222" cy="4.78606195" r="2"></circle>
+            <circle id="3" opacity="0.149999991" transform="translate(12.330127, 5.500000) rotate(60.000000) translate(-12.330127, -5.500000) " cx="12.330127" cy="5.5" r="2"></circle>
+            <circle id="2" opacity="0.299999982" transform="translate(12.698463, 6.289899) rotate(70.000000) translate(-12.698463, -6.289899) " cx="12.6984631" cy="6.28989928" r="2"></circle>
+            <circle id="1" transform="translate(12.924039, 7.131759) rotate(80.000000) translate(-12.924039, -7.131759) " cx="12.9240388" cy="7.13175911" r="2"></circle>
+            <circle id="9" opacity="0.00999999978" transform="translate(12.330127, 10.500000) rotate(120.000000) translate(-12.330127, -10.500000) " cx="12.330127" cy="10.5" r="2"></circle>
+            <circle id="8" opacity="0.0199999996" transform="translate(11.830222, 11.213938) rotate(130.000000) translate(-11.830222, -11.213938) " cx="11.8302222" cy="11.213938" r="2"></circle>
+            <circle id="7" opacity="0.0299999993" transform="translate(11.213938, 11.830222) rotate(140.000000) translate(-11.213938, -11.830222) " cx="11.213938" cy="11.8302222" r="2"></circle>
+            <circle id="6" opacity="0.0399999991" transform="translate(10.500000, 12.330127) rotate(150.000000) translate(-10.500000, -12.330127) " cx="10.5" cy="12.330127" r="2"></circle>
+            <circle id="5" opacity="0.049999997" transform="translate(9.710101, 12.698463) rotate(160.000000) translate(-9.710101, -12.698463) " cx="9.71010072" cy="12.6984631" r="2"></circle>
+            <circle id="4" opacity="0.099999994" transform="translate(8.868241, 12.924039) rotate(170.000000) translate(-8.868241, -12.924039) " cx="8.86824089" cy="12.9240388" r="2"></circle>
+            <circle id="3" opacity="0.149999991" transform="translate(8.000000, 13.000000) rotate(180.000000) translate(-8.000000, -13.000000) " cx="8" cy="13" r="2"></circle>
+            <circle id="2" opacity="0.299999982" transform="translate(7.131759, 12.924039) rotate(190.000000) translate(-7.131759, -12.924039) " cx="7.13175911" cy="12.9240388" r="2"></circle>
+            <circle id="1" transform="translate(6.289899, 12.698463) rotate(200.000000) translate(-6.289899, -12.698463) " cx="6.28989928" cy="12.6984631" r="2"></circle>
+        </g>
+    </g>
+</svg>
