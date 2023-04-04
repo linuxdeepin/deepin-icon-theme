@@ -24,7 +24,7 @@ Copyright: None
 License: CC0-1.0
 
 # ci
-Files: .github/* .gitlab-ci.yml
+Files: .github/* .gitlab-ci.yml .obs/*
 Copyright: None
 License: CC0-1.0
 
