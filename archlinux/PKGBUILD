@@ -2,6 +2,9 @@ pkgname=deepin-icon-theme-git
 pkgver=2021.11.24.r0.g572b049d
 pkgrel=1
 pkgdesc="Deepin GTK Theme"
+sourcename=deepin-icon-theme-git
+sourcetars=("$sourcename"_"$pkgver".tar.xz)
+sourcedir="$sourcename"
 arch=('any')
 url="https://github.com/linuxdeepin/deepin-icon-theme"
 makedepends=('git')
@@ -10,20 +13,20 @@ optdepends=('gtk-engine-murrine: for gtk2 themes')
 provides=('deepin-icon-theme')
 conflicts=('deepin-icon-theme')
 groups=('deepin-git')
-source=('source.tar.gz')
+source=("${sourcetars[@]}")
 sha512sums=('SKIP')
 
 prepare() {
-    cd $deepin_source_name
+    cd $sourcedir
 }
 
 build() {
-  cd $deepin_source_name
+  cd $sourcedir
   make hicolor-links
 }
 
 package() {
-  cd $deepin_source_name
+  cd $sourcedir
   make DESTDIR="$pkgdir" install
   cp -a ./Sea ./usr/share/icons/hicolor "$pkgdir"/usr/share/icons/
 }
