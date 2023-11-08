@@ -81,7 +81,7 @@ status/notification-network-mobile-unknown-disconnected
 status/notification-bluetooth-connected
 status/notification-bluetooth-disconnected
 status/notification-bluetooth-error
-status/notification-change-language-start
-status/notification-change-language-failed
-status/notification-change-language-finished
+status/notification-change-start
+status/notification-change-failed
+status/notification-change-finished
 apps/media-player
