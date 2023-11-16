@@ -1,3 +1,10 @@
+deepin-icon-theme (2023.11.16) unstable; urgency=medium
+
+  * fix: can not find existed
+  * chore: Modify icon name
+
+ -- bluesky <chenchongbiao@deepin.org>  Thu, 16 Nov 2023 10:15:48 +0800
+
 deepin-icon-theme (2023.04.03) unstable; urgency=medium
 
   * add bloom status icons
