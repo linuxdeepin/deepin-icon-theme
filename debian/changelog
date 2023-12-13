@@ -1,3 +1,9 @@
+deepin-icon-theme (2023.12.13) unstable; urgency=medium
+
+  * fix vintage icon
+
+ -- chenhongtao <chenhongtao@deepin.org>  Wed, 13 Dec 2023 15:44:42 +0800
+
 deepin-icon-theme (2023.11.28) unstable; urgency=medium
 
   * fix the icon of battery, include name issue and dark and light
