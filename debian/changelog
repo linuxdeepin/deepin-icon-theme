@@ -1,3 +1,9 @@
+deepin-icon-theme (2024.01.15) unstable; urgency=medium
+
+  * fix: add missed link file to fix the onboard icon on dde-dock
+
+ -- chenhongtao <chenhongtao@deepin.org>  Mon, 15 Mon 2024 10:12:02 +0800
+
 deepin-icon-theme (2023.12.13) unstable; urgency=medium
 
   * fix vintage icon
