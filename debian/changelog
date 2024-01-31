@@ -1,3 +1,9 @@
+deepin-icon-theme (2024.01.31) unstable; urgency=medium
+
+  * delete useless firefox icons.
+
+ -- LiChengGang <lichenggang@uniontech.com>  Wed, 31 Jan 2024 14:59:19 +0800
+
 deepin-icon-theme (2024.01.16) unstable; urgency=medium
 
   * release 2024.01.16
