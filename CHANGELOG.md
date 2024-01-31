@@ -1,3 +1,7 @@
+# 2024.01.31
+
+删除火狐图标无用的尺寸
+
 ## 2023.03.28
 add bloom/status icons
 add vintage cursor theme (Vintage ==> vintage)
