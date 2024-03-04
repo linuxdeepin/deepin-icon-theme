@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <filter id="deepin-calculator-a" width="124.3%" height="124.3%" x="-12.2%" y="-12.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-calculator-b" cx="50%" cy="9.268%" r="92.618%" fx="50%" fy="9.268%">
+      <stop offset="0%" stop-color="#35DCFF"/>
+      <stop offset="100%" stop-color="#0068FF"/>
+    </radialGradient>
+    <linearGradient id="deepin-calculator-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-calculator-a)" transform="translate(34 34)">
+    <path fill="url(#deepin-calculator-b)" d="M64,0 L380,0 C415.346224,-6.49299601e-15 444,28.653776 444,64 L444,380 C444,415.346224 415.346224,444 380,444 L64,444 C28.653776,444 4.32866401e-15,415.346224 0,380 L0,64 C-4.32866401e-15,28.653776 28.653776,6.49299601e-15 64,0 Z"/>
+    <polygon fill="#FFF" points="39.667 34 68 5.667 62.333 0 34 28.333 5.667 0 0 5.667 28.333 34 0 62.333 5.667 68 34 39.667 62.333 68 68 62.333 39.667 34" transform="translate(78 298)"/>
+    <path fill="url(#deepin-calculator-c)" d="M444,222 L444,380 C444,415.346224 415.346224,444 380,444 L222,444 L222,222 L444,222 Z M370,344 L298,344 L298,352 L370,352 L370,344 Z M370,312 L298,312 L298,320 L370,320 L370,312 Z M222,0 L222,222 L0,222 L0,64 C0,28.653776 28.653776,0 64,0 L222,0 Z M116,68 L108,68 L108,108 L68,108 L68,116 L108,116 L108,156 L116,156 L116,116 L156,116 L156,108 L116,108 L116,68 Z"/>
+    <rect width="88" height="8" fill="#FFF" transform="translate(288 108)"/>
+  </g>
+</svg>

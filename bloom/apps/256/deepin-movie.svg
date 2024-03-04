@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <filter id="deepin-movie-a" width="122.9%" height="122.9%" x="-11.4%" y="-11.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-movie-b" x1="50%" x2="50%" y1="2.375%" y2="100%">
+      <stop offset="0%" stop-color="#3E3E3E"/>
+      <stop offset="100%" stop-color="#0F0F0F"/>
+    </linearGradient>
+    <linearGradient id="deepin-movie-c" x1="40.768%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B0FAFF"/>
+      <stop offset="100%" stop-color="#0D96C2"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-movie-a)" transform="translate(10 10)">
+    <circle cx="118" cy="118" r="112.667" fill="url(#deepin-movie-b)" stroke="url(#deepin-movie-c)" stroke-width="10.667"/>
+    <path fill="#FF006B" d="M97.553098,167.642507 C87.8587897,173.17524 80,168.639782 80,157.488405 L80,76.4986715 C80,65.3579826 87.902849,60.8369817 97.553098,66.3445692 L168.745782,106.975639 C178.44009,112.508372 178.396031,121.50385 168.745782,127.011437 L97.553098,167.642507 Z"/>
+    <path fill="#FFB600" d="M112,74.5897013 L144,92.8527013 L144,141.133701 L112,159.396701 L112,74.5897013 Z"/>
+    <path fill="#1473FF" d="M97.553098,66.3445692 L112,74.589 L112,159.397 L97.553098,167.642507 C87.8587897,173.17524 80,168.639782 80,157.488405 L80,76.4986715 C80,65.3579826 87.902849,60.8369817 97.553098,66.3445692 Z"/>
+    <path stroke="#FFF" stroke-opacity=".3" stroke-width="4" d="M96.5617485,165.90549 L167.754432,125.274421 C176.0765,120.524853 176.087209,113.468336 167.754432,108.712655 L96.5617485,68.0815857 C88.2265767,63.3245386 82,66.9140989 82,76.4986715 L82,157.488405 C82,167.098741 88.1956485,170.680189 96.5617485,165.90549 Z"/>
+  </g>
+</svg>

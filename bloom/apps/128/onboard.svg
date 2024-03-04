@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <filter id="deepin-virtualkeyboard-a" width="127.6%" height="130.2%" x="-13.8%" y="-15.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-virtualkeyboard-b" x1="50%" x2="50%" y1="0%" y2="98.139%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#EDEDED"/>
+    </linearGradient>
+    <linearGradient id="deepin-virtualkeyboard-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4A4A4A"/>
+      <stop offset="97.645%" stop-color="#363636"/>
+    </linearGradient>
+    <path id="deepin-virtualkeyboard-d" d="M84.0173913,37 L87.9826087,37 C89.0967831,37 90,37.9032169 90,39.0173913 L90,42.9826087 C90,44.0967831 89.0967831,45 87.9826087,45 L84.0173913,45 C82.9032169,45 82,44.0967831 82,42.9826087 L82,39.0173913 C82,37.9032169 82.9032169,37 84.0173913,37 Z M72.0173913,37 L75.9826087,37 C77.0967831,37 78,37.9032169 78,39.0173913 L78,42.9826087 C78,44.0967831 77.0967831,45 75.9826087,45 L72.0173913,45 C70.9032169,45 70,44.0967831 70,42.9826087 L70,39.0173913 C70,37.9032169 70.9032169,37 72.0173913,37 Z M60.0173913,37 L63.9826087,37 C65.0967831,37 66,37.9032169 66,39.0173913 L66,42.9826087 C66,44.0967831 65.0967831,45 63.9826087,45 L60.0173913,45 C58.9032169,45 58,44.0967831 58,42.9826087 L58,39.0173913 C58,37.9032169 58.9032169,37 60.0173913,37 Z M70,51.0173913 L70,54.9826087 C70,56.0967831 69.0967831,57 67.9826087,57 L64.0173913,57 C62.9032169,57 62,56.0967831 62,54.9826087 L62,51.0173913 C62,49.9032169 62.9032169,49 64.0173913,49 L67.9826087,49 C69.0967831,49 70,49.9032169 70,51.0173913 Z M48.0173913,37 L51.9826087,37 C53.0967831,37 54,37.9032169 54,39.0173913 L54,42.9826087 C54,44.0967831 53.0967831,45 51.9826087,45 L48.0173913,45 C46.9032169,45 46,44.0967831 46,42.9826087 L46,39.0173913 C46,37.9032169 46.9032169,37 48.0173913,37 Z M58,51.0173913 L58,54.9826087 C58,56.0967831 57.0967831,57 55.9826087,57 L52.0173913,57 C50.9032169,57 50,56.0967831 50,54.9826087 L50,51.0173913 C50,49.9032169 50.9032169,49 52.0173913,49 L55.9826087,49 C57.0967831,49 58,49.9032169 58,51.0173913 Z M28.0173913,37 L39.9826087,37 C41.0967831,37 42,37.9032169 42,39.0173913 L42,42.9826087 C42,44.0967831 41.0967831,45 39.9826087,45 L28.0173913,45 C26.9032169,45 26,44.0967831 26,42.9826087 L26,39.0173913 C26,37.9032169 26.9032169,37 28.0173913,37 Z M28.0173913,49 L43.9826087,49 C45.0967831,49 46,49.9032169 46,51.0173913 L46,54.9826087 C46,56.0967831 45.0967831,57 43.9826087,57 L28.0173913,57 C26.9032169,57 26,56.0967831 26,54.9826087 L26,51.0173913 C26,49.9032169 26.9032169,49 28.0173913,49 Z M75.9826087,69 L44.0173913,69 C42.9032169,69 42,68.0967831 42,66.9826087 L42,63.0173913 C42,61.9032169 42.9032169,61 44.0173913,61 L75.9826087,61 C77.0967831,61 78,61.9032169 78,63.0173913 L78,66.9826087 C78,68.0967831 77.0967831,69 75.9826087,69 Z M35.9826087,69 L28.0173913,69 C26.9032169,69 26,68.0967831 26,66.9826087 L26,63.0173913 C26,61.9032169 26.9032169,61 28.0173913,61 L35.9826087,61 C37.0967831,61 38,61.9032169 38,63.0173913 L38,66.9826087 C38,68.0967831 37.0967831,69 35.9826087,69 Z M87.9826087,57 L76.0173913,57 C74.9032169,57 74,56.0967831 74,54.9826087 L74,51.0173913 C74,49.9032169 74.9032169,49 76.0173913,49 L87.9826087,49 C89.0967831,49 90,49.9032169 90,51.0173913 L90,54.9826087 C90,56.0967831 89.0967831,57 87.9826087,57 Z M87.9826087,69 L84.0173913,69 C82.9032169,69 82,68.0967831 82,66.9826087 L82,63.0173913 C82,61.9032169 82.9032169,61 84.0173913,61 L87.9826087,61 C89.0967831,61 90,61.9032169 90,63.0173913 L90,66.9826087 C90,68.0967831 89.0967831,69 87.9826087,69 Z"/>
+    <filter id="deepin-virtualkeyboard-c" width="101.6%" height="106.2%" x="-.8%" y="-1.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <filter id="deepin-virtualkeyboard-f" width="101.6%" height="106.2%" x="-.8%" y="-1.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.05 0"/>
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-virtualkeyboard-a)" transform="translate(6 11)">
+    <rect width="116" height="106" fill="url(#deepin-virtualkeyboard-b)" rx="20.174"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#deepin-virtualkeyboard-c)" xlink:href="#deepin-virtualkeyboard-d"/>
+      <use fill="url(#deepin-virtualkeyboard-e)" xlink:href="#deepin-virtualkeyboard-d"/>
+      <use fill="#000" filter="url(#deepin-virtualkeyboard-f)" xlink:href="#deepin-virtualkeyboard-d"/>
+    </g>
+  </g>
+</svg>

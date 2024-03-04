@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <filter id="deepin-virtualkeyboard-a" width="123.5%" height="125.7%" x="-11.7%" y="-12.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-virtualkeyboard-b" x1="50%" x2="50%" y1="0%" y2="98.139%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#EDEDED"/>
+    </linearGradient>
+    <linearGradient id="deepin-virtualkeyboard-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4A4A4A"/>
+      <stop offset="97.645%" stop-color="#363636"/>
+    </linearGradient>
+    <path id="deepin-virtualkeyboard-d" d="M167,73 L175,73 C177.209139,73 179,74.790861 179,77 L179,85 C179,87.209139 177.209139,89 175,89 L167,89 C164.790861,89 163,87.209139 163,85 L163,77 C163,74.790861 164.790861,73 167,73 Z M143,73 L151,73 C153.209139,73 155,74.790861 155,77 L155,85 C155,87.209139 153.209139,89 151,89 L143,89 C140.790861,89 139,87.209139 139,85 L139,77 C139,74.790861 140.790861,73 143,73 Z M119,73 L127,73 C129.209139,73 131,74.790861 131,77 L131,85 C131,87.209139 129.209139,89 127,89 L119,89 C116.790861,89 115,87.209139 115,85 L115,77 C115,74.790861 116.790861,73 119,73 Z M139,101 L139,109 C139,111.209139 137.209139,113 135,113 L127,113 C124.790861,113 123,111.209139 123,109 L123,101 C123,98.790861 124.790861,97 127,97 L135,97 C137.209139,97 139,98.790861 139,101 Z M95,73 L103,73 C105.209139,73 107,74.790861 107,77 L107,85 C107,87.209139 105.209139,89 103,89 L95,89 C92.790861,89 91,87.209139 91,85 L91,77 C91,74.790861 92.790861,73 95,73 Z M115,101 L115,109 C115,111.209139 113.209139,113 111,113 L103,113 C100.790861,113 99,111.209139 99,109 L99,101 C99,98.790861 100.790861,97 103,97 L111,97 C113.209139,97 115,98.790861 115,101 Z M55,73 L79,73 C81.209139,73 83,74.790861 83,77 L83,85 C83,87.209139 81.209139,89 79,89 L55,89 C52.790861,89 51,87.209139 51,85 L51,77 C51,74.790861 52.790861,73 55,73 Z M55,97 L87,97 C89.209139,97 91,98.790861 91,101 L91,109 C91,111.209139 89.209139,113 87,113 L55,113 C52.790861,113 51,111.209139 51,109 L51,101 C51,98.790861 52.790861,97 55,97 Z M151,137 L87,137 C84.790861,137 83,135.209139 83,133 L83,125 C83,122.790861 84.790861,121 87,121 L151,121 C153.209139,121 155,122.790861 155,125 L155,133 C155,135.209139 153.209139,137 151,137 Z M71,137 L55,137 C52.790861,137 51,135.209139 51,133 L51,125 C51,122.790861 52.790861,121 55,121 L71,121 C73.209139,121 75,122.790861 75,125 L75,133 C75,135.209139 73.209139,137 71,137 Z M175,113 L151,113 C148.790861,113 147,111.209139 147,109 L147,101 C147,98.790861 148.790861,97 151,97 L175,97 C177.209139,97 179,98.790861 179,101 L179,109 C179,111.209139 177.209139,113 175,113 Z M175,137 L167,137 C164.790861,137 163,135.209139 163,133 L163,125 C163,122.790861 164.790861,121 167,121 L175,121 C177.209139,121 179,122.790861 179,125 L179,133 C179,135.209139 177.209139,137 175,137 Z"/>
+    <filter id="deepin-virtualkeyboard-c" width="101.6%" height="106.2%" x="-.8%" y="-1.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <filter id="deepin-virtualkeyboard-f" width="101.6%" height="106.2%" x="-.8%" y="-1.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.05 0"/>
+      <feOffset dy="-2" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-virtualkeyboard-a)" transform="translate(13 23)">
+    <rect width="230" height="210" fill="url(#deepin-virtualkeyboard-b)" rx="40"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#deepin-virtualkeyboard-c)" xlink:href="#deepin-virtualkeyboard-d"/>
+      <use fill="url(#deepin-virtualkeyboard-e)" xlink:href="#deepin-virtualkeyboard-d"/>
+      <use fill="#000" filter="url(#deepin-virtualkeyboard-f)" xlink:href="#deepin-virtualkeyboard-d"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <filter id="deepin-contacts-a" width="129.6%" height="124.8%" x="-13.8%" y="-12.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-contacts-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F66D6D"/>
+      <stop offset="100%" stop-color="#F44343"/>
+    </linearGradient>
+    <rect id="deepin-contacts-c" width="29.5" height="60" x="166.5" y="136" rx="5"/>
+    <filter id="deepin-contacts-d" width="161%" height="130%" x="-30.5%" y="-15%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1.5"/>
+      <feOffset dx="15" dy="4" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130272072 0"/>
+      <feOffset dy="-3" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-contacts-g" x1="50%" x2="50%" y1="7.679%" y2="99.016%">
+      <stop offset="0%" stop-color="#C896E5"/>
+      <stop offset="100%" stop-color="#BD80DF"/>
+    </linearGradient>
+    <rect id="deepin-contacts-f" width="29.5" height="60" x="166.5" y="79" rx="5"/>
+    <filter id="deepin-contacts-e" width="144.1%" height="121.7%" x="-22%" y="-9.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <filter id="deepin-contacts-h" width="188.1%" height="143.3%" x="-44.1%" y="-20%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1.5"/>
+      <feOffset dx="15" dy="4" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130272072 0"/>
+      <feOffset dy="-3" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-contacts-k" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#7CBDF8"/>
+      <stop offset="100%" stop-color="#469DF0"/>
+    </linearGradient>
+    <rect id="deepin-contacts-j" width="29.5" height="60" x="166.5" y="21.5" rx="5"/>
+    <filter id="deepin-contacts-i" width="144.1%" height="121.7%" x="-22%" y="-9.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <filter id="deepin-contacts-l" width="188.1%" height="143.3%" x="-44.1%" y="-20%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1.5"/>
+      <feOffset dx="15" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130272072 0"/>
+      <feOffset dy="-3" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-contacts-m" cx="55.444%" cy="0%" r="103.096%" fx="55.444%" fy="0%" gradientTransform="matrix(.18883 .81083 -.98201 .15592 .45 -.45)">
+      <stop offset="0%" stop-color="#FAFAFA"/>
+      <stop offset="100%" stop-color="#DAE2FB"/>
+    </radialGradient>
+    <path id="deepin-contacts-n" d="M20,0 L150,0 C166.568542,-3.04359188e-15 180,13.4314575 180,30 L180,188 C180,204.568542 166.568542,218 150,218 L20,218 C8.954305,218 1.3527075e-15,209.045695 0,198 L0,20 C-1.3527075e-15,8.954305 8.954305,2.02906125e-15 20,0 Z"/>
+    <filter id="deepin-contacts-o" width="102.2%" height="101.8%" x="-1.1%" y="-.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="-4" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+      <feOffset dy="3" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.246640079 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-contacts-r" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#3C88FB"/>
+      <stop offset="100%" stop-color="#587ECE"/>
+    </linearGradient>
+    <path id="deepin-contacts-q" d="M73.9433144,37 C94.9190425,37 90.3984115,54.5545244 90.3984115,58.5359629 C92.9299649,60.7076566 91.6641882,65.774942 89.1326348,67.2227378 C88.590159,75.3665893 80.8146736,80.7958237 80.8146736,82.062645 C80.8146736,83.3294664 80.6338484,84.7772622 81.8996251,86.587007 C83.1654018,88.3967517 98.1738969,89.1206497 102.875353,92.5591647 C105.473278,94.4592153 107.739921,99.9234942 109.675281,108.952001 C109.749116,109.296447 109.786344,109.64773 109.786344,110 C109.786344,112.761427 107.547765,115.000006 104.786338,115 L104.786338,115 L42.5011164,115 C42.1200494,115 41.7402314,114.956437 41.36906,114.870159 C38.6793423,114.244942 37.0057341,111.557656 37.6309571,108.867939 C39.7853788,99.5995057 42.0646597,94.1632476 44.4687998,92.5591647 C48.8086056,89.6635731 63.6362756,87.4918794 65.6253532,86.587007 C67.6144309,85.6821346 66.7103047,83.6914153 66.7103047,81.7006961 C66.7103047,79.7099768 59.6581202,76.8143852 58.3923435,67.2227378 C55.4991396,65.0510441 55.4991396,60.8886311 57.3073921,58.5359629 C57.3073921,55.6403712 52.9675862,37 73.9433144,37 Z M109.680348,38 C126.686927,38 124.334953,53.6157895 124.334953,59.4263158 C124.334953,65.2368421 129.762585,68.3236842 129.762585,71.4105263 C129.762585,74.4973684 117.459953,77.4026316 116.555348,77.4026316 C115.650743,77.4026316 116.012585,79.4 116.555348,81.3973684 C117.098111,83.3947368 128.677059,82.85 134.10469,85.7552632 C137.050908,87.3322932 139.637292,92.3201105 141.863842,100.718715 C141.974678,101.136791 142.030799,101.567482 142.030799,102 C142.030799,104.761422 139.792225,106.999996 137.030803,107 L137.030803,107 L113.117848,107 C111.127717,102.097368 110.04219,95.0157895 105.700085,90.8394737 C101.35798,86.6631579 89.5981113,86.1184211 88.3316639,85.3921053 C89.0553481,84.8473684 101.538901,82.6684211 102.624427,81.9421053 C103.709953,81.2157895 104.071795,78.8552632 103.348111,77.9473684 C102.624427,77.0394737 92.3119271,75.2236842 91.4073218,73.2263158 C90.5027165,71.2289474 95.387585,66.6894737 95.387585,59.4263158 C95.387585,52.1631579 92.6737692,38 109.680348,38 Z"/>
+    <filter id="deepin-contacts-p" width="123%" height="130.8%" x="-11.5%" y="-11.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.257619154   0 0 0 0 0.737828351  0 0 0 0.35 0"/>
+    </filter>
+    <linearGradient id="deepin-contacts-s" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#3C88FB"/>
+      <stop offset="100%" stop-color="#587ECE"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-contacts-a)" transform="rotate(-8 248.856 -96.01)">
+    <use fill="url(#deepin-contacts-b)" xlink:href="#deepin-contacts-c"/>
+    <use fill="#000" filter="url(#deepin-contacts-d)" xlink:href="#deepin-contacts-c"/>
+    <use fill="#000" filter="url(#deepin-contacts-e)" xlink:href="#deepin-contacts-f"/>
+    <use fill="url(#deepin-contacts-g)" xlink:href="#deepin-contacts-f"/>
+    <use fill="#000" filter="url(#deepin-contacts-h)" xlink:href="#deepin-contacts-f"/>
+    <use fill="#000" filter="url(#deepin-contacts-i)" xlink:href="#deepin-contacts-j"/>
+    <use fill="url(#deepin-contacts-k)" xlink:href="#deepin-contacts-j"/>
+    <use fill="#000" filter="url(#deepin-contacts-l)" xlink:href="#deepin-contacts-j"/>
+    <use fill="url(#deepin-contacts-m)" xlink:href="#deepin-contacts-n"/>
+    <use fill="#000" filter="url(#deepin-contacts-o)" xlink:href="#deepin-contacts-n"/>
+    <use fill="#000" filter="url(#deepin-contacts-p)" xlink:href="#deepin-contacts-q"/>
+    <use fill="url(#deepin-contacts-r)" fill-opacity=".85" xlink:href="#deepin-contacts-q"/>
+    <path fill="url(#deepin-contacts-s)" fill-opacity=".85" d="M134.5,174 C136.432997,174 138,175.567003 138,177.5 C138,179.432997 136.432997,181 134.5,181 L41.5,181 C39.5670034,181 38,179.432997 38,177.5 C38,175.567003 39.5670034,174 41.5,174 L134.5,174 Z M134.5,156 C136.432997,156 138,157.567003 138,159.5 C138,161.432997 136.432997,163 134.5,163 L41.5,163 C39.5670034,163 38,161.432997 38,159.5 C38,157.567003 39.5670034,156 41.5,156 L134.5,156 Z M134.5,138 C136.432997,138 138,139.567003 138,141.5 C138,143.432997 136.432997,145 134.5,145 L41.5,145 C39.5670034,145 38,143.432997 38,141.5 C38,139.567003 39.5670034,138 41.5,138 L134.5,138 Z"/>
+  </g>
+</svg>

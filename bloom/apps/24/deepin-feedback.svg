@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="deepin-feedback-a" width="140%" height="140%" x="-12.5%" y="-27.5%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-feedback-b" x1="26.222%" x2="66.963%" y1="-3.999%" y2="83.857%">
+      <stop offset="0%" stop-color="#90FF8A"/>
+      <stop offset="100%" stop-color="#00B9E4"/>
+    </linearGradient>
+    <linearGradient id="deepin-feedback-c" x1="45.043%" x2="16.292%" y1="63.686%" y2="32.986%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".494"/>
+      <stop offset="100%" stop-color="#FFF"/>
+    </linearGradient>
+    <filter id="deepin-feedback-d" width="300%" height="147.1%" x="-100%" y="-23.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-feedback-e" x1="0%" x2="80.854%" y1="33.666%" y2="33.666%">
+      <stop offset="0%" stop-color="#E6D049"/>
+      <stop offset="100%" stop-color="#EC9500"/>
+    </linearGradient>
+    <linearGradient id="deepin-feedback-f" x1="0%" x2="89.296%" y1="55.519%" y2="55.519%">
+      <stop offset="0%" stop-color="#F6F6F6"/>
+      <stop offset="100%" stop-color="#747474"/>
+    </linearGradient>
+    <linearGradient id="deepin-feedback-g" x1="-3.437%" x2="86.205%" y1="31.932%" y2="31.932%">
+      <stop offset="0%" stop-color="#5E5E5E"/>
+      <stop offset="100%" stop-color="#373737"/>
+    </linearGradient>
+    <linearGradient id="deepin-feedback-h" x1="2.516%" x2="88.854%" y1="32.939%" y2="32.939%">
+      <stop offset="0%" stop-color="#FFEACA"/>
+      <stop offset="100%" stop-color="#E07431"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-feedback-a)" transform="translate(2 2)">
+    <path fill="url(#deepin-feedback-b)" d="M2.8125,2 L17.1875,2 C18.7408009,2 20,3.25919914 20,4.8125 L20,14.6875 C20,16.2408009 18.7408009,17.5 17.1875,17.5 L6.65021799,17.5 C6.55251972,17.5 6.45726294,17.5305265 6.37776259,17.5873124 L3.3706027,19.7352838 C3.26527163,19.8105203 3.1188927,19.7861238 3.04365622,19.6807927 C3.01526323,19.6410425 3,19.5934141 3,19.544565 L3,17.5 L3,17.5 L2.8125,17.5 C1.25919914,17.5 1.90224492e-16,16.2408009 0,14.6875 L0,4.8125 C-1.90224492e-16,3.25919914 1.25919914,2 2.8125,2 Z"/>
+    <path fill="url(#deepin-feedback-c)" fill-rule="nonzero" d="M15.5,12 C15.7761424,12 16,12.2238576 16,12.5 C16,12.7761424 15.7761424,13 15.5,13 L4.5,13 C4.22385763,13 4,12.7761424 4,12.5 C4,12.2238576 4.22385763,12 4.5,12 L15.5,12 Z M15.5,9 C15.7761424,9 16,9.22385763 16,9.5 C16,9.77614237 15.7761424,10 15.5,10 L4.5,10 C4.22385763,10 4,9.77614237 4,9.5 C4,9.22385763 4.22385763,9 4.5,9 L15.5,9 Z M15.5,6 C15.7761424,6 16,6.22385763 16,6.5 C16,6.77614237 15.7761424,7 15.5,7 L4.5,7 C4.22385763,7 4,6.77614237 4,6.5 C4,6.22385763 4.22385763,6 4.5,6 L15.5,6 Z"/>
+    <g filter="url(#deepin-feedback-d)" transform="translate(15.938)">
+      <path fill="url(#deepin-feedback-e)" d="M0.53125,0 L2.59375,0 C2.85263348,-4.75561231e-17 3.0625,0.209866524 3.0625,0.46875 L3.0625,2 L3.0625,2 L0.0625,2 L0.0625,0.46875 C0.0625,0.209866524 0.272366524,4.75561231e-17 0.53125,0 Z"/>
+      <rect width="3" height="1" x=".063" y="3" fill="url(#deepin-feedback-f)"/>
+      <rect width="3" height="7" x=".063" y="5" fill="url(#deepin-feedback-g)"/>
+      <polygon fill="url(#deepin-feedback-h)" points=".063 13 3.063 13 2.563 15 .563 15"/>
+      <path fill="#312F2F" d="M1.0625,16 L2.0625,16 L1.64635255,16.8322949 C1.62319731,16.8786054 1.56688421,16.8973764 1.52057373,16.8742212 C1.50243053,16.8651496 1.48771905,16.8504381 1.47864745,16.8322949 L1.0625,16 L1.0625,16 Z"/>
+    </g>
+  </g>
+</svg>

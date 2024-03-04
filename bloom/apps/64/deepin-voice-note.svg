@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="voice-note-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FD5E5E"/>
+      <stop offset="100%" stop-color="#ED5656"/>
+    </linearGradient>
+    <circle id="voice-note-b" cx="18" cy="18" r="18"/>
+    <filter id="voice-note-a" width="130.6%" height="130.6%" x="-15.3%" y="-9.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.97254902   0 0 0 0 0.17254902   0 0 0 0 0.277440324  0 0 0 0.4 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(7 4)">
+      <path fill="#FFF" d="M8,0 L42,0 C46.418278,-8.11624501e-16 50,3.581722 50,8 L50,48 C50,52.418278 46.418278,56 42,56 L8,56 C3.581722,56 5.41083001e-16,52.418278 0,48 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z"/>
+      <path fill="#000" fill-opacity=".1" d="M8,0 L8,3 L45,3 L45,4 L8,4 L8,8 L45,8 L45,9 L8,9 L8,13 L45,13 L45,14 L8,14 L8,18 L45,18 L45,19 L8,19 L8,23 L45,23 L45,24 L8,24 L8,28 L45,28 L45,29 L8,29 L8,33 L45,33 L45,34 L8,34 L8,38 L45,38 L45,39 L8,39 L8,43 L45,43 L45,44 L8,44 L8,48 L45,48 L45,49 L8,49 L8,55 L7,55 L7,49 L4,49 L4,48 L7,48 L7,44 L4,44 L4,43 L7,43 L7,39 L4,39 L4,38 L7,38 L7,34 L4,34 L4,33 L7,33 L7,29 L4,29 L4,28 L7,28 L7,24 L4,24 L4,23 L7,23 L7,19 L4,19 L4,18 L7,18 L7,14 L4,14 L4,13 L7,13 L7,9 L4,9 L4,8 L7,8 L7,4 L4,4 L4,3 L7,3 L7,0 L8,0 Z"/>
+    </g>
+    <g transform="translate(14 14)">
+      <use fill="#000" filter="url(#voice-note-a)" xlink:href="#voice-note-b"/>
+      <use fill="url(#voice-note-c)" xlink:href="#voice-note-b"/>
+      <path fill="#FFF" fill-rule="nonzero" d="M13,20 L13,21 C13,23.7614237 15.2385763,26 18,26 C20.7614237,26 23,23.7614237 23,21 L23,20 L24,20 L24,21 C24,23.9727145 21.8381232,26.4404956 19.0008069,26.9169061 L19.0007263,28.0400662 C21.2011091,28.2188645 22.8766089,28.9756671 22.9934809,29.8969763 L23,30 L13,30 C13,29.0323792 14.7178935,28.2252525 17.0002666,28.0399856 L17.0001915,26.9170737 C14.1623839,26.4410745 12,23.9730632 12,21 L12,20 L13,20 Z M22,20 L22,21 C22,23.209139 20.209139,25 18,25 C15.790861,25 14,23.209139 14,21 L14,20 L22,20 Z M14,15 L14,11 C14,8.790861 15.790861,7 18,7 C20.209139,7 22,8.790861 22,11 L22,15 L19,15 L19,16 L22,16 L22,17 L19,17 L19,18 L22,18 L22,19 L14,19 L14,18 L17,18 L17,17 L14,17 L14,16 L17,16 L17,15 L14,15 Z"/>
+    </g>
+  </g>
+</svg>

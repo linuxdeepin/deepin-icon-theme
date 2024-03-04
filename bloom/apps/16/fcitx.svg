@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="fcitx-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#DDD"/>
+      <stop offset="100%" stop-color="#9E9E9E"/>
+    </linearGradient>
+    <path id="fcitx-b" d="M1.5625,6 L12.4375,6 C13.3004449,6 14,6.69955508 14,7.5625 L14,12.4375 C14,13.3004449 13.3004449,14 12.4375,14 L1.5625,14 C0.699555078,14 1.05680274e-16,13.3004449 0,12.4375 L0,7.5625 C-1.05680274e-16,6.69955508 0.699555078,6 1.5625,6 Z"/>
+    <filter id="fcitx-c" width="107.1%" height="112.5%" x="-3.6%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0"/>
+    </filter>
+    <linearGradient id="fcitx-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#E3E3E3"/>
+    </linearGradient>
+    <linearGradient id="fcitx-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#03E297"/>
+      <stop offset="98.575%" stop-color="#00A8D3"/>
+    </linearGradient>
+    <path id="fcitx-f" d="M4,0 L9.98318238,0 C10.5343904,-3.68781744e-16 10.9816584,0.446036169 10.9831786,0.997242102 L10.9993387,6.85679475 C10.999754,7.0073737 10.9278052,7.14898476 10.805944,7.2374383 L7.27535349,9.80013342 C7.1111347,9.91933237 6.8888653,9.91933237 6.72464651,9.80013342 L3.19339651,7.23695958 C3.07190418,7.14877382 3,7.00773246 3,6.85760879 L3,1 C3,0.44771525 3.44771525,1.01453063e-16 4,0 Z"/>
+    <filter id="fcitx-g" width="112.5%" height="108.9%" x="-6.2%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.25 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <use fill="url(#fcitx-a)" xlink:href="#fcitx-b"/>
+    <use fill="#000" filter="url(#fcitx-c)" xlink:href="#fcitx-b"/>
+    <path fill="url(#fcitx-d)" d="M9,10 C9.55228475,10 10,10.4477153 10,11 C10,11.5522847 9.55228475,12 9,12 L5,12 C4.44771525,12 4,11.5522847 4,11 C4,10.4477153 4.44771525,10 5,10 L9,10 Z M12,10 C12.5522847,10 13,10.4477153 13,11 C13,11.5522847 12.5522847,12 12,12 C11.4477153,12 11,11.5522847 11,11 C11,10.4477153 11.4477153,10 12,10 Z M2,10 C2.55228475,10 3,10.4477153 3,11 C3,11.5522847 2.55228475,12 2,12 C1.44771525,12 1,11.5522847 1,11 C1,10.4477153 1.44771525,10 2,10 Z M12,7 C12.5522847,7 13,7.44771525 13,8 C13,8.55228475 12.5522847,9 12,9 L11,9 C10.4477153,9 10,8.55228475 10,8 C10,7.44771525 10.4477153,7 11,7 L12,7 Z M2,7 C2.55228475,7 3,7.44771525 3,8 C3,8.55228475 2.55228475,9 2,9 C1.44771525,9 1,8.55228475 1,8 C1,7.44771525 1.44771525,7 2,7 Z M8,7 C8.55228475,7 9,7.44771525 9,8 C9,8.55228475 8.55228475,9 8,9 C7.44771525,9 7,8.55228475 7,8 C7,7.44771525 7.44771525,7 8,7 Z M5,7 C5.55228475,7 6,7.44771525 6,8 C6,8.55228475 5.55228475,9 5,9 C4.44771525,9 4,8.55228475 4,8 C4,7.44771525 4.44771525,7 5,7 Z"/>
+    <use fill="url(#fcitx-e)" xlink:href="#fcitx-f"/>
+    <use fill="#000" filter="url(#fcitx-g)" xlink:href="#fcitx-f"/>
+    <text fill="#FFF" font-family="SourceHanSansCN-Medium, Source Han Sans CN" font-size="8" font-weight="400">
+      <tspan x="3" y="7">中</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-calculator-a" width="131%" height="131%" x="-15.5%" y="-15.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-calculator-b" cx="50%" cy="9.268%" r="92.618%" fx="50%" fy="9.268%">
+      <stop offset="0%" stop-color="#35DCFF"/>
+      <stop offset="100%" stop-color="#0068FF"/>
+    </radialGradient>
+    <linearGradient id="deepin-calculator-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#deepin-calculator-a)" transform="translate(3 3)">
+      <path fill="url(#deepin-calculator-b)" d="M5.96363636,0 L36.0363636,0 C39.3299891,2.83149246e-16 42,2.67001095 42,5.96363636 L42,36.0363636 C42,39.3299891 39.3299891,42 36.0363636,42 L5.96363636,42 C2.67001095,42 4.03352782e-16,39.3299891 0,36.0363636 L0,5.96363636 C4.84825637e-16,2.67001095 2.67001095,6.05029174e-16 5.96363636,0 Z"/>
+      <path fill="url(#deepin-calculator-c)" d="M42,21 L42,36.0363636 C42,39.3299891 39.3299891,42 36.0363636,42 L21,42 L21,21 L42,21 Z M36,32 L28,32 L28,33 L36,33 L36,32 Z M36,29 L28,29 L28,30 L36,30 L36,29 Z M21,0 L21,21 L0,21 L0,5.96363636 C0,2.67001095 2.67001095,0 5.96363636,0 L21,0 Z M11,7 L10,7 L10,10 L7,10 L7,11 L10,11 L10,14 L11,14 L11,11 L14,11 L14,10 L11,10 L11,7 Z"/>
+    </g>
+    <path fill="#FFF" d="M5.77144661,0.491116524 L6.47855339,1.1982233 L4.20744661,3.46911652 L6.47855339,5.74111652 L5.77144661,6.4482233 L3.50044661,4.17711652 L1.22855339,6.4482233 L0.521446609,5.74111652 L2.79244661,3.46911652 L0.521446609,1.1982233 L1.22855339,0.491116524 L3.50044661,2.76211652 L5.77144661,0.491116524 Z" transform="translate(10 30)"/>
+    <rect width="7" height="1" x="1" y="-1" fill="#FFF" transform="translate(30 14)"/>
+  </g>
+</svg>

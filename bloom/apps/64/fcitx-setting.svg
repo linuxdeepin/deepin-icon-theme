@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="fcitx-setting-a" width="130.4%" height="130.4%" x="-14.3%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="fcitx-setting-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#DDD"/>
+      <stop offset="100%" stop-color="#9E9E9E"/>
+    </linearGradient>
+    <path id="fcitx-setting-c" d="M6.25,0 L45.75,0 C49.2017797,-6.34081642e-16 52,2.79822031 52,6.25 L52,22.75 C52,26.2017797 49.2017797,29 45.75,29 L6.25,29 C2.79822031,29 4.22721094e-16,26.2017797 0,22.75 L0,6.25 C-4.22721094e-16,2.79822031 2.79822031,6.34081642e-16 6.25,0 Z"/>
+    <filter id="fcitx-setting-d" width="101.9%" height="103.4%" x="-1%" y="-1.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0"/>
+    </filter>
+    <linearGradient id="fcitx-setting-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E9E9E9"/>
+      <stop offset="100%" stop-color="#E3E3E3"/>
+    </linearGradient>
+    <path id="fcitx-setting-f" d="M40.5,19 C41.8807119,19 43,20.1192881 43,21.5 C43,22.8807119 41.8807119,24 40.5,24 L18.5,24 C17.1192881,24 16,22.8807119 16,21.5 C16,20.1192881 17.1192881,19 18.5,19 L40.5,19 Z M46.5,19 C47.8807119,19 49,20.1192881 49,21.5 C49,22.8807119 47.8807119,24 46.5,24 C45.1192881,24 44,22.8807119 44,21.5 C44,20.1192881 45.1192881,19 46.5,19 Z M5.5,19 C6.88071187,19 8,20.1192881 8,21.5 C8,22.8807119 6.88071187,24 5.5,24 C4.11928813,24 3,22.8807119 3,21.5 C3,20.1192881 4.11928813,19 5.5,19 Z M12.5,19 C13.8807119,19 15,20.1192881 15,21.5 C15,22.8807119 13.8807119,24 12.5,24 C11.1192881,24 10,22.8807119 10,21.5 C10,20.1192881 11.1192881,19 12.5,19 Z M11,12 C12.3807119,12 13.5,13.1192881 13.5,14.5 C13.5,15.8807119 12.3807119,17 11,17 L5.5,17 C4.11928813,17 3,15.8807119 3,14.5 C3,13.1192881 4.11928813,12 5.5,12 L11,12 Z M46.5,12 C47.8807119,12 49,13.1192881 49,14.5 C49,15.8807119 47.8807119,17 46.5,17 L42.5,17 C41.1192881,17 40,15.8807119 40,14.5 C40,13.1192881 41.1192881,12 42.5,12 L46.5,12 Z M18.5,12 C19.8807119,12 21,13.1192881 21,14.5 C21,15.8807119 19.8807119,17 18.5,17 C17.1192881,17 16,15.8807119 16,14.5 C16,13.1192881 17.1192881,12 18.5,12 Z M24.5,12 C25.8807119,12 27,13.1192881 27,14.5 C27,15.8807119 25.8807119,17 24.5,17 C23.1192881,17 22,15.8807119 22,14.5 C22,13.1192881 23.1192881,12 24.5,12 Z M36.5,12 C37.8807119,12 39,13.1192881 39,14.5 C39,15.8807119 37.8807119,17 36.5,17 C35.1192881,17 34,15.8807119 34,14.5 C34,13.1192881 35.1192881,12 36.5,12 Z M30.5,12 C31.8807119,12 33,13.1192881 33,14.5 C33,15.8807119 31.8807119,17 30.5,17 C29.1192881,17 28,15.8807119 28,14.5 C28,13.1192881 29.1192881,12 30.5,12 Z M5.5,5 C6.88071187,5 8,6.11928813 8,7.5 C8,8.88071187 6.88071187,10 5.5,10 C4.11928813,10 3,8.88071187 3,7.5 C3,6.11928813 4.11928813,5 5.5,5 Z M34.5,5 C35.8807119,5 37,6.11928813 37,7.5 C37,8.88071187 35.8807119,10 34.5,10 C33.1192881,10 32,8.88071187 32,7.5 C32,6.11928813 33.1192881,5 34.5,5 Z M11.5,5 C12.8807119,5 14,6.11928813 14,7.5 C14,8.88071187 12.8807119,10 11.5,10 C10.1192881,10 9,8.88071187 9,7.5 C9,6.11928813 10.1192881,5 11.5,5 Z M17.5,5 C18.8807119,5 20,6.11928813 20,7.5 C20,8.88071187 18.8807119,10 17.5,10 C16.1192881,10 15,8.88071187 15,7.5 C15,6.11928813 16.1192881,5 17.5,5 Z M40.5,5 C41.8807119,5 43,6.11928813 43,7.5 C43,8.88071187 41.8807119,10 40.5,10 C39.1192881,10 38,8.88071187 38,7.5 C38,6.11928813 39.1192881,5 40.5,5 Z M46.5,5 C47.8807119,5 49,6.11928813 49,7.5 C49,8.88071187 47.8807119,10 46.5,10 C45.1192881,10 44,8.88071187 44,7.5 C44,6.11928813 45.1192881,5 46.5,5 Z M28.5,5 C29.8807119,5 31,6.11928813 31,7.5 C31,8.88071187 29.8807119,10 28.5,10 C27.1192881,10 26,8.88071187 26,7.5 C26,6.11928813 27.1192881,5 28.5,5 Z"/>
+    <filter id="fcitx-setting-e" width="102.2%" height="110.5%" x="-1.1%" y="-2.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+    </filter>
+    <filter id="fcitx-setting-h" width="102.2%" height="110.5%" x="-1.1%" y="-2.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.3 0"/>
+    </filter>
+    <linearGradient id="fcitx-setting-k" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#03E297"/>
+      <stop offset="98.575%" stop-color="#00A8D3"/>
+    </linearGradient>
+    <path id="fcitx-setting-j" d="M12.75,0 L35.1867982,0 C37.2538815,-2.21565574e-15 38.9311586,1.6727184 38.9367843,3.73979396 L38.99741,26.0153562 C38.9990378,26.6134774 38.7152067,27.1764858 38.2333828,27.530883 L25.1109659,37.1828484 C24.4500819,37.6689501 23.5499181,37.6689501 22.8890341,37.1828484 L9.76403412,27.528983 C9.28365868,27.1756512 9,26.6148846 9,26.0185593 L9,3.75 C9,1.67893219 10.6789322,3.80448985e-16 12.75,0 Z"/>
+    <filter id="fcitx-setting-i" width="113.3%" height="109.3%" x="-6.7%" y="-2.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <filter id="fcitx-setting-l" width="110%" height="106.7%" x="-5%" y="-1.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.25 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <text id="fcitx-setting-n" fill="#FFF" font-family="SourceHanSansCN-Medium, Source Han Sans CN" font-size="26.25" font-weight="400">
+      <tspan x="11" y="27">中</tspan>
+    </text>
+    <filter id="fcitx-setting-m" width="114.8%" height="115.4%" x="-7.4%" y="-3.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0"/>
+    </filter>
+    <circle id="fcitx-setting-p" cx="11.5" cy="11.5" r="11.5"/>
+    <filter id="fcitx-setting-o" width="130.4%" height="130.4%" x="-19.6%" y="-19.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#fcitx-setting-a)" transform="translate(5 5)">
+    <g transform="translate(0 23)">
+      <use fill="url(#fcitx-setting-b)" xlink:href="#fcitx-setting-c"/>
+      <use fill="#000" filter="url(#fcitx-setting-d)" xlink:href="#fcitx-setting-c"/>
+      <use fill="#000" filter="url(#fcitx-setting-e)" xlink:href="#fcitx-setting-f"/>
+      <use fill="url(#fcitx-setting-g)" xlink:href="#fcitx-setting-f"/>
+      <use fill="#000" filter="url(#fcitx-setting-h)" xlink:href="#fcitx-setting-f"/>
+    </g>
+    <use fill="#000" filter="url(#fcitx-setting-i)" xlink:href="#fcitx-setting-j"/>
+    <use fill="url(#fcitx-setting-k)" xlink:href="#fcitx-setting-j"/>
+    <use fill="#000" filter="url(#fcitx-setting-l)" xlink:href="#fcitx-setting-j"/>
+    <g fill="#FFF">
+      <use filter="url(#fcitx-setting-m)" xlink:href="#fcitx-setting-n"/>
+      <use xlink:href="#fcitx-setting-n"/>
+    </g>
+    <g fill-rule="nonzero" transform="translate(33 33)">
+      <use fill="#000" filter="url(#fcitx-setting-o)" xlink:href="#fcitx-setting-p"/>
+      <use fill="#FFF" xlink:href="#fcitx-setting-p"/>
+      <path fill="#2D2D2D" d="M17.7608966,9.5 C17.7608966,8.8115862 18.2657274,8.16911004 19,7.89372085 C18.9082233,7.2971133 18.7246503,6.70048604 18.5410772,6.14976683 C17.7608768,6.24156323 17.0265846,5.96619377 16.6594384,5.36956652 C16.2922726,4.77295897 16.4299573,3.99275862 16.9347882,3.35024302 C16.567642,2.89132021 16.1546076,2.47826601 15.695665,2.06523155 C15.0072414,2.57006241 14.2270608,2.70774715 13.6304532,2.34058127 C13.033826,1.97343515 12.7584565,1.23914286 12.8502529,0.458942543 C12.2995337,0.275369457 11.7029064,0.0917963973 11.1062989,0 C10.8309097,0.734292265 10.1884138,1.23912315 9.5,1.23912315 C8.81160591,1.23912315 8.16911004,0.734292265 7.89372085,0 C7.2971133,0.0917766627 6.70048604,0.275349748 6.14976683,0.458922808 C6.18066805,0.721559884 6.16996267,0.97899476 6.11940192,1.21897342 C6.01976486,1.6918851 5.76535248,2.097007 5.36956652,2.34056156 C4.77295897,2.70772742 3.99275862,2.57004268 3.35024302,2.06521181 C2.89132021,2.43235796 2.47826601,2.84539242 2.06523155,3.30433497 C2.16999958,3.45100932 2.25802506,3.60485873 2.32767054,3.76206121 C2.56311122,4.29349351 2.58850191,4.86324529 2.34058127,5.32365844 C1.97343515,5.92028572 1.23914286,6.19563544 0.458942543,6.10385878 C0.275369457,6.65457799 0.0917766627,7.25120525 0,7.84781279 C0.734272556,8.16911004 1.23912315,8.81160591 1.23912315,9.5 C1.23912315,9.60824427 1.22664385,9.71534382 1.20275553,9.82006022 C1.0747067,10.381372 0.618843072,10.8742078 0,11.1062989 C0.0917766627,11.7029064 0.275349748,12.2995337 0.458922808,12.8502529 C1.23912315,12.7584565 2.01932347,12.9879376 2.34056156,13.6304532 C2.70772742,14.2270608 2.57004268,15.0072611 2.06521181,15.6497767 C2.43235796,16.1086995 2.84539242,16.5217537 3.30433497,16.9347882 C3.94685057,16.4299573 4.72705091,16.3381806 5.32365844,16.6594384 C5.92028572,17.0265846 6.19563544,17.7608768 6.10385878,18.5410772 C6.65457799,18.7246503 7.25120525,18.9082233 7.84781279,19 C8.1690706,18.2657077 8.76569785,17.7608768 9.4541018,17.7608768 C10.1425057,17.7608768 10.7850016,18.2657077 11.0603711,19 C11.6569984,18.9082233 12.2077176,18.7246503 12.8043448,18.5410772 C12.7125484,17.7608768 12.9879179,17.0265846 13.5845254,16.6594384 C14.1811527,16.2922726 14.9613333,16.4299573 15.6038489,16.9347882 C16.0627914,16.567642 16.4758259,16.2079792 16.8888801,15.7490367 C16.3840492,15.1065211 16.2922528,14.2729491 16.6135106,13.6763416 C16.9806568,13.0797143 17.7149688,12.8043646 18.4951494,12.8961412 C18.6787422,12.345422 18.8623153,11.7487948 18.9540919,11.1521872 C18.2657274,10.7850411 17.7608966,10.1884138 17.7608966,9.5 Z M2.75,9.3170481 C2.75,6.15851147 5.02500418,3.5264102 8,3 C8,5.48149275 8,7.3426123 8,8.58335867 C8,8.60342205 8,8.63351713 8,8.6736439 L3.10000835,11.5 C3.09058638,11.4716585 3.08135465,11.4432865 3.07231318,11.4148826 C3.06961278,11.4063993 3.06692933,11.3979131 3.06426288,11.389424 C3.06117155,11.3795823 3.04869788,11.3392362 3.04555573,11.3289041 C2.8485056,10.6809571 2.75,10.0157787 2.75,9.3170481 Z M9.875,16.25 C7.95981253,16.25 6.21873752,15.3448052 5,13.8965455 L9.875,11 L14.75,13.8965714 C13.5312874,15.3448052 11.7901875,16.25 9.875,16.25 Z M11,8.69425437 C11,8.65683418 11,8.6299411 11,8.61357513 C11,8.57179128 11,8.5367984 11,8.5085965 C11,7.28977037 11,5.45357155 11,3 C13.9749599,3.52757405 16.25,6.16549465 16.25,9.3310145 C16.25,10.0219951 16.1540773,10.6647679 15.9622505,11.3030618 C15.9520537,11.3369911 15.9415859,11.3709077 15.9308472,11.4048182 C15.9207987,11.436549 15.910513,11.4682745 15.89999,11.5 L11,8.69425437 Z" transform="translate(2 2)"/>
+    </g>
+  </g>
+</svg>

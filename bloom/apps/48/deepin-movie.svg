@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-movie-a" width="131%" height="131%" x="-15.5%" y="-15.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-movie-b" x1="50%" x2="50%" y1="2.375%" y2="100%">
+      <stop offset="0%" stop-color="#3E3E3E"/>
+      <stop offset="100%" stop-color="#0F0F0F"/>
+    </linearGradient>
+    <linearGradient id="deepin-movie-c" x1="40.768%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B0FAFF"/>
+      <stop offset="100%" stop-color="#0D96C2"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-movie-a)" transform="translate(3 3)">
+    <circle cx="21" cy="21" r="20" fill="url(#deepin-movie-b)" stroke="url(#deepin-movie-c)" stroke-width="2"/>
+    <path fill="#FF006B" d="M17.2912059,30.55519 C15.4735231,31.5991019 14,30.7433552 14,28.6393216 L14,13.3582399 C14,11.2562231 15.4817842,10.4032041 17.2912059,11.4423716 L30.639834,19.1086111 C32.4575169,20.152523 32.4492557,21.849783 30.639834,22.8889505 L17.2912059,30.55519 Z"/>
+    <path fill="#FFB600" d="M20,12.9990568 L26,16.4440568 L26,25.5530568 L20,28.9990568 L20,12.9990568 Z"/>
+    <path fill="#1473FF" d="M17.2912059,11.4423716 L20,12.998 L20,28.999 L17.2912059,30.55519 C15.4735231,31.5991019 14,30.7433552 14,28.6393216 L14,13.3582399 C14,11.2562231 15.4817842,10.4032041 17.2912059,11.4423716 Z"/>
+    <path stroke="#FFF" stroke-opacity=".3" d="M17.0421955,30.1216074 L30.3908236,22.4553679 C31.8688093,21.6065472 31.870641,20.3920662 30.3908236,19.5421936 L17.0421955,11.8759541 C15.5634765,11.0267123 14.5,11.6436519 14.5,13.3582399 L14.5,28.6393216 C14.5,30.3588503 15.5577507,30.9741377 17.0421955,30.1216074 Z"/>
+  </g>
+</svg>

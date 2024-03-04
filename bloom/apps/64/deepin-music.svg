@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="deepin-music-a" width="127.6%" height="129.6%" x="-13.8%" y="-14.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-music-b" x1="98.016%" x2="0%" y1="38.451%" y2="41.845%">
+      <stop offset="0%" stop-color="#0BA186"/>
+      <stop offset="100%" stop-color="#68C639"/>
+    </linearGradient>
+    <linearGradient id="deepin-music-c" x1="2.055%" x2="96.944%" y1="41.813%" y2="34.714%">
+      <stop offset="0%" stop-color="#417944" stop-opacity=".381"/>
+      <stop offset="100%" stop-color="#002A35"/>
+    </linearGradient>
+    <linearGradient id="deepin-music-d" x1="50%" x2="50%" y1="0%" y2="98.031%">
+      <stop offset="0%" stop-color="#8DF34C"/>
+      <stop offset="100%" stop-color="#00CCB3"/>
+    </linearGradient>
+    <linearGradient id="deepin-music-e" x1="50%" x2="50%" y1="0%" y2="98.031%">
+      <stop offset="0%" stop-color="#8DF34C"/>
+      <stop offset="100%" stop-color="#00CCB3"/>
+    </linearGradient>
+    <linearGradient id="deepin-music-h" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".7"/>
+    </linearGradient>
+    <path id="deepin-music-g" d="M35.9302044,14.0362092 C35.9766316,14.2799521 36,14.5275258 36,14.7756509 L36,35 C36,37.7614237 33.7614237,40 31,40 C28.2385763,40 26,37.7614237 26,35 C26,32.2385763 28.2385763,30 31,30 C32.1261445,30 33.1653335,30.3723009 34.0011995,31.0005351 L34,17.5701049 C34,16.8425868 33.41023,16.2528168 32.6827119,16.2528168 C32.6059652,16.2528168 32.5293654,16.2595238 32.4537865,16.2728612 L18.0883628,18.807936 C17.4588869,18.91902 17,19.4659774 17,20.1051797 L17,40 C17,42.7614237 14.7614237,45 12,45 C9.23857625,45 7,42.7614237 7,40 C7,37.2385763 9.23857625,35 12,35 C13.1261445,35 14.1653335,35.3723009 15.0011995,36.0005351 L15,17.2701788 C15,15.3727593 16.3485144,13.7431401 18.2124227,13.38811 L31.3086939,10.8935821 C33.4527013,10.4851997 35.521822,11.8922018 35.9302044,14.0362092 Z"/>
+    <filter id="deepin-music-f" width="113.8%" height="112.3%" x="-6.9%" y="-3.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-music-a)" transform="translate(3 5)">
+    <circle cx="34" cy="27" r="23.25" fill="#151E25" stroke="url(#deepin-music-b)" stroke-width="1.5" transform="rotate(90 34 27)"/>
+    <g stroke="url(#deepin-music-c)" stroke-width="1.5" opacity=".8" transform="translate(12.182 5.585)">
+      <path d="M22.5818182,41.6646341 C33.6110338,41.6646341 42.0681818,32.760162 42.0681818,21.4146341 C42.0681818,10.230868 33.001948,1.16463415 21.8181818,1.16463415 C10.6344156,1.16463415 1.56818182,10.230868 1.56818182,21.4146341 C1.56818182,32.4512638 11.2443941,41.6646341 22.5818182,41.6646341 Z" transform="rotate(90 21.818 21.415)"/>
+      <path d="M22.4727273,38.6646341 C31.8658971,38.6646341 39.0681818,31.0813988 39.0681818,21.4146341 C39.0681818,11.8877222 31.3450938,4.16463415 21.8181818,4.16463415 C12.2912699,4.16463415 4.56818182,11.8877222 4.56818182,21.4146341 C4.56818182,30.8142226 12.8129659,38.6646341 22.4727273,38.6646341 Z" transform="rotate(90 21.818 21.415)"/>
+    </g>
+    <ellipse cx="34.932" cy="28.317" fill="url(#deepin-music-d)" rx="11.195" ry="11.205" transform="rotate(90 34.932 28.317)"/>
+    <ellipse cx="34.932" cy="28.317" fill="#2A2A29" rx="7.244" ry="7.25" transform="rotate(90 34.932 28.317)"/>
+    <path fill="url(#deepin-music-e)" d="M10.2555408,-4.14336123e-16 L38.7444592,4.14336123e-16 C42.3105342,-2.4074122e-16 43.6036791,0.371302445 44.9073828,1.06853082 C46.2110865,1.76575919 47.2342408,2.78891348 47.9314692,4.09261719 C48.6286976,5.39632089 49,6.68946584 49,10.2555408 L49,43.7444592 C49,47.3105342 48.6286976,48.6036791 47.9314692,49.9073828 C47.2342408,51.2110865 46.2110865,52.2342408 44.9073828,52.9314692 C43.6036791,53.6286976 42.3105342,54 38.7444592,54 L10.2555408,54 C6.68946584,54 5.39632089,53.6286976 4.09261719,52.9314692 C2.78891348,52.2342408 1.76575919,51.2110865 1.06853082,49.9073828 C0.371302445,48.6036791 -1.15674773e-15,47.3105342 1.99086127e-15,43.7444592 L1.18305822e-15,10.2555408 C-6.87390896e-16,6.68946584 0.371302445,5.39632089 1.06853082,4.09261719 C1.76575919,2.78891348 2.78891348,1.76575919 4.09261719,1.06853082 C5.39632089,0.371302445 6.68946584,2.4074122e-16 10.2555408,-4.14336123e-16 Z"/>
+    <use fill="#000" filter="url(#deepin-music-f)" xlink:href="#deepin-music-g"/>
+    <path fill="url(#deepin-music-h)" stroke="#FFF" stroke-linejoin="square" stroke-opacity=".3" d="M35.4390351,14.1297653 C35.0823223,12.2570232 33.2749921,11.0280386 31.40225,11.3847514 L18.3059788,13.8792792 C16.6778969,14.1893901 15.5,15.6128257 15.5,17.2701468 L15.5012636,37.001861 L14.7007912,36.4002285 C13.9274983,35.819024 12.9885799,35.5 12,35.5 C9.51471863,35.5 7.5,37.5147186 7.5,40 C7.5,42.4852814 9.51471863,44.5 12,44.5 C14.4852814,44.5 16.5,42.4852814 16.5,40 L16.5,20.1051797 C16.5,19.2233568 17.1330655,18.4687921 18.0014701,18.3155442 L32.3668938,15.7804694 C32.47116,15.7620695 32.5768347,15.7528168 32.6827119,15.7528168 C33.6863724,15.7528168 34.5,16.5664444 34.5,17.5700602 L34.5012889,32.0018801 L33.7007912,31.4002285 C32.9274983,30.819024 31.9885799,30.5 31,30.5 C28.5147186,30.5 26.5,32.5147186 26.5,35 C26.5,37.4852814 28.5147186,39.5 31,39.5 C33.4852814,39.5 35.5,37.4852814 35.5,35 L35.5,14.7756509 C35.5,14.5589192 35.4795882,14.3426692 35.4390351,14.1297653 Z"/>
+  </g>
+</svg>

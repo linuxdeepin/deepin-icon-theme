@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="deepin-mail-24px-a" width="200%" height="169.6%" x="-50%" y="-23.9%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-mail-24px-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#080030"/>
+      <stop offset="100%" stop-color="#002F48"/>
+    </linearGradient>
+    <path id="deepin-mail-24px-b" d="M1.73793103,0.5 C0.778098228,0.5 0,1.25178306 0,2.17915447 L0,16.8251129 C0,17.7524843 0.778098228,18.5042674 1.73793103,18.5042674 L12.262069,18.5042674 C13.2219018,18.5042674 14,17.7524843 14,16.8251129 L14,2.17915447 C14,1.25178306 13.2219018,0.5 12.262069,0.5 L1.73793103,0.5 Z"/>
+    <linearGradient id="deepin-mail-24px-d" x1="3.381%" x2="74.037%" y1="57.454%" y2="66.093%">
+      <stop offset="0%" stop-color="#00807D"/>
+      <stop offset="100%" stop-color="#0013AE"/>
+    </linearGradient>
+    <linearGradient id="deepin-mail-24px-f" x1="8.682%" x2="71.294%" y1="71.076%" y2="41.59%">
+      <stop offset="0%" stop-color="#00499C"/>
+      <stop offset="100%" stop-color="#000A72"/>
+    </linearGradient>
+    <ellipse id="deepin-mail-24px-g" cx="12.297" cy=".544" rx="4.381" ry="4.352"/>
+    <filter id="deepin-mail-24px-h" width="134.2%" height="134.5%" x="-17.1%" y="-17.2%" filterUnits="objectBoundingBox">
+      <feOffset dx="3" dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="deepin-mail-24px-i" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FAD961"/>
+      <stop offset="100%" stop-color="#F76B1C"/>
+    </linearGradient>
+    <linearGradient id="deepin-mail-24px-j" x1="30.073%" x2="80.534%" y1="8.257%" y2="65.048%">
+      <stop offset="0%" stop-color="#004940"/>
+      <stop offset="100%" stop-color="#001D3C"/>
+    </linearGradient>
+    <ellipse id="deepin-mail-24px-k" cx="2.141" cy="18.844" rx="2.589" ry="2.572"/>
+    <filter id="deepin-mail-24px-l" width="138.6%" height="138.9%" x="-19.3%" y="-19.4%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="deepin-mail-24px-m" x1="31.476%" x2="58.751%" y1="60.932%" y2="100%">
+      <stop offset="0%" stop-color="#33B8EC"/>
+      <stop offset="100%" stop-color="#B5DEFF"/>
+    </linearGradient>
+    <linearGradient id="deepin-mail-24px-n" x1="36.614%" x2="9.198%" y1="58.706%" y2="100%">
+      <stop offset="0%" stop-color="#00B7FF"/>
+      <stop offset="100%" stop-color="#87CAFF"/>
+    </linearGradient>
+    <polygon id="deepin-mail-24px-o" points="4.882 7.069 3.618 9.157 11.977 .039"/>
+    <filter id="deepin-mail-24px-p" width="112%" height="111%" x="-6%" y="-5.5%" filterUnits="objectBoundingBox">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+    <filter id="deepin-mail-24px-q" width="233.3%" height="245.5%" x="-66.7%" y="-72.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-mail-24px-r" x1="98.248%" x2="10.424%" y1="35.196%" y2="62.648%">
+      <stop offset="0%" stop-color="#6DB4FF"/>
+      <stop offset="100%" stop-color="#D5FFFD"/>
+    </linearGradient>
+    <linearGradient id="deepin-mail-24px-s" x1="70.43%" x2="50%" y1="3.11%" y2="94.772%">
+      <stop offset="0%" stop-color="#57A2FF"/>
+      <stop offset="100%" stop-color="#D3F9FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-mail-24px-a)" transform="translate(2.25 1)">
+    <path fill="#F3F3F3" fill-rule="nonzero" d="M14.3358158,0.00130771841 C14.5421027,0.583220699 15.0973794,1 15.75,1 C16.2629809,1 16.7158181,0.742494287 16.9863005,0.349693908 C17.4785514,0.597955727 17.8981427,0.971089959 18.2043744,1.4267153 C17.9235539,1.6982587 17.75,2.07886151 17.75,2.5 C17.75,3.1528467 18.1670681,3.70828193 18.749297,3.91439849 L18.749297,5.08560151 C18.1670681,5.29171807 17.75,5.8471533 17.75,6.5 C17.75,7.1528467 18.1670681,7.70828193 18.749297,7.91439849 L18.749297,9.08560151 C18.1670681,9.29171807 17.75,9.8471533 17.75,10.5 C17.75,11.1528467 18.1670681,11.7082819 18.749297,11.9143985 L18.749297,13.0856015 C18.1670681,13.2917181 17.75,13.8471533 17.75,14.5 C17.75,15.1528467 18.1670681,15.7082819 18.749297,15.9143985 L18.749297,17.0856015 C18.1670681,17.2917181 17.75,17.8471533 17.75,18.5 C17.75,19.0843626 18.084156,19.5906788 18.5718114,19.838292 C18.2968187,20.6278387 17.7231206,21.2775265 16.9859806,21.6520737 C16.7162264,21.2577379 16.2632121,21 15.75,21 C15.0971533,21 14.5417181,21.4170681 14.3356015,21.999297 L13.1643985,21.999297 C12.9582819,21.4170681 12.4028467,21 11.75,21 C11.0971533,21 10.5417181,21.4170681 10.3356015,21.999297 L9.16439849,21.999297 C8.95828193,21.4170681 8.4028467,21 7.75,21 C7.0971533,21 6.54171807,21.4170681 6.33560151,21.999297 L5.16439849,21.999297 C4.95828193,21.4170681 4.4028467,21 3.75,21 C3.23678786,21 2.78377364,21.2577379 2.51333376,21.6508374 C2.02144862,21.4017942 1.60185733,21.02866 1.29562561,20.5730347 C1.57671463,20.3011521 1.75,19.9208126 1.75,19.5 C1.75,18.8473794 1.3332207,18.2921027 0.751307718,18.0858158 L0.751307718,16.9141842 C1.3332207,16.7078973 1.75,16.1526206 1.75,15.5 C1.75,14.8473794 1.3332207,14.2921027 0.751307718,14.0858158 L0.751307718,12.9141842 C1.3332207,12.7078973 1.75,12.1526206 1.75,11.5 C1.75,10.8473794 1.3332207,10.2921027 0.751307718,10.0858158 L0.751307718,8.91418425 C1.3332207,8.70789727 1.75,8.15262064 1.75,7.5 C1.75,6.84737936 1.3332207,6.29210273 0.751307718,6.08581575 L0.751307718,4.91418425 C1.3332207,4.70789727 1.75,4.15262064 1.75,3.5 C1.75,2.91604692 1.41631212,2.41003082 0.929213565,2.16222891 C1.20318129,1.37191129 1.77687939,0.722223489 2.51401936,0.347676227 C2.78418194,0.742494287 3.23701913,1 3.75,1 C4.40262064,1 4.95789727,0.583220699 5.16418425,0.00130771841 L6.33581575,0.00130771841 C6.54210273,0.583220699 7.09737936,1 7.75,1 C8.40262064,1 8.95789727,0.583220699 9.16418425,0.00130771841 L10.3358158,0.00130771841 C10.5421027,0.583220699 11.0973794,1 11.75,1 C12.4026206,1 12.9578973,0.583220699 13.1641842,0.00130771841 Z M14.9654792,2 L4.52126662,2 C3.53570302,2 2.73674586,2.7986309 2.73674586,3.78379203 L2.73674586,18.2204753 C2.73674586,19.2056365 3.53570302,20.0042674 4.52126662,20.0042674 L14.9654792,20.0042674 C15.9510428,20.0042674 16.75,19.2056365 16.75,18.2204753 L16.75,3.78379203 C16.75,2.7986309 15.9510428,2 14.9654792,2 Z"/>
+    <g transform="translate(2.75 1.5)">
+      <mask id="deepin-mail-24px-e" fill="#fff">
+        <use xlink:href="#deepin-mail-24px-b"/>
+      </mask>
+      <use fill="url(#deepin-mail-24px-c)" fill-rule="nonzero" xlink:href="#deepin-mail-24px-b"/>
+      <path fill="url(#deepin-mail-24px-d)" fill-rule="nonzero" d="M4.81059042,0.499439629 C4.65267221,0.696522835 4.54830022,0.909863543 4.50370289,1.13780101 C4.14612578,2.96540696 7.70958246,5.35446055 12.5459597,6.28846775 C13.0381606,6.38351553 13.5238288,6.4596845 13.9995744,6.51790556 L13.9995744,7.27427009 C13.4766656,7.21201179 12.943426,7.12907849 12.4037511,7.02486309 C11.7793037,6.90426906 11.1735769,6.7604593 10.5918843,6.59657943 L10.0183998,6.42612602 C6.06284325,5.18775301 3.37174751,3.01732347 3.76765814,0.993790586 C3.80134712,0.821605569 3.85617854,0.656755582 3.93085917,0.499439629 L4.81059042,0.499439629 Z" mask="url(#deepin-mail-24px-e)" opacity=".503"/>
+      <g mask="url(#deepin-mail-24px-e)" opacity=".5">
+        <use fill="url(#deepin-mail-24px-f)" xlink:href="#deepin-mail-24px-g"/>
+        <use fill="#000" filter="url(#deepin-mail-24px-h)" xlink:href="#deepin-mail-24px-g"/>
+      </g>
+      <circle cx="5" cy="3.5" r="1" fill="url(#deepin-mail-24px-i)" mask="url(#deepin-mail-24px-e)"/>
+      <path fill="#070935" fill-rule="nonzero" d="M5,1.75 C4.03350169,1.75 3.25,2.53350169 3.25,3.5 C3.25,4.46649831 4.03350169,5.25 5,5.25 C5.96649831,5.25 6.75,4.46649831 6.75,3.5 C6.75,2.53350169 5.96649831,1.75 5,1.75 Z M5,2.5 C5.55228475,2.5 6,2.94771525 6,3.5 C6,4.05228475 5.55228475,4.5 5,4.5 C4.44771525,4.5 4,4.05228475 4,3.5 C4,2.94771525 4.44771525,2.5 5,2.5 Z" mask="url(#deepin-mail-24px-e)"/>
+      <circle cx="12.5" cy="17" r="1" fill="url(#deepin-mail-24px-i)" mask="url(#deepin-mail-24px-e)"/>
+      <g mask="url(#deepin-mail-24px-e)">
+        <use fill="url(#deepin-mail-24px-j)" xlink:href="#deepin-mail-24px-k"/>
+        <use fill="#000" filter="url(#deepin-mail-24px-l)" xlink:href="#deepin-mail-24px-k"/>
+      </g>
+    </g>
+    <g transform="rotate(-28 23.718 3.09)">
+      <polygon fill="url(#deepin-mail-24px-m)" points="3.988 6.563 3.618 9.157 11.977 .039"/>
+      <use fill="url(#deepin-mail-24px-n)" xlink:href="#deepin-mail-24px-o"/>
+      <use fill="#000" filter="url(#deepin-mail-24px-p)" xlink:href="#deepin-mail-24px-o"/>
+      <g filter="url(#deepin-mail-24px-q)" transform="translate(0 .05)">
+        <polygon fill="url(#deepin-mail-24px-r)" points="3.988 6.514 11.971 0 0 5.871"/>
+        <polygon fill="url(#deepin-mail-24px-s)" points="4.882 7.019 11.971 0 8.997 10.781"/>
+      </g>
+    </g>
+  </g>
+</svg>

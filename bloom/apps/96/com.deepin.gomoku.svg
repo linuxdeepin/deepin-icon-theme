@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="五子棋-a" width="129.3%" height="129.3%" x="-14.6%" y="-14.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="五子棋-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDD7A7"/>
+      <stop offset="100%" stop-color="#C78051"/>
+    </linearGradient>
+    <linearGradient id="五子棋-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".05"/>
+    </linearGradient>
+    <linearGradient id="五子棋-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#EDBD8D"/>
+      <stop offset="100%" stop-color="#AE6633"/>
+    </linearGradient>
+    <radialGradient id="五子棋-e" cx="50%" cy="25.241%" r="74.759%" fx="50%" fy="25.241%">
+      <stop offset="0%" stop-color="#767676"/>
+      <stop offset="100%"/>
+    </radialGradient>
+    <radialGradient id="五子棋-f" cx="50%" cy="32.875%" r="67.125%" fx="50%" fy="32.875%">
+      <stop offset="0%" stop-color="#FFFBFB"/>
+      <stop offset="37.61%" stop-color="#FFFBFB"/>
+      <stop offset="100%" stop-color="#C8CBE4"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#五子棋-a)" transform="translate(7 7)">
+    <rect width="82" height="82" fill="url(#五子棋-b)" rx="15"/>
+    <path fill="url(#五子棋-c)" fill-rule="nonzero" d="M67,0 C75.2842712,0 82,6.71572875 82,15 L82,67 C82,75.2842712 75.2842712,82 67,82 L15,82 C6.71572875,82 0,75.2842712 0,67 L0,15 C0,6.71572875 6.71572875,0 15,0 L67,0 Z M67,3 L15,3 C8.47454326,3 3.16560725,8.20854437 3.00379986,14.6950252 L3,15 L3,67 C3,73.5254567 8.20854437,78.8343928 14.6950252,78.9962001 L15,79 L67,79 C73.5254567,79 78.8343928,73.7914556 78.9962001,67.3049748 L79,67 L79,15 C79,8.47454326 73.7914556,3.16560725 67.3049748,3.00379986 L67,3 Z"/>
+    <path fill="url(#五子棋-d)" d="M21,3 L21,18 L39,18 L39,3 L42,3 L42,18 L60,18 L60,3 L63,3 L63,18 L79,18 L79,21 L63,21 L63,39 L79,39 L79,42 L63,42 L63,60 L79,60 L79,63 L63,63 L63,79 L60,79 L60,63 L42,63 L42,79 L39,79 L39,63 L21,63 L21,79 L18,79 L18,63 L3,63 L3,60 L18,60 L18,42 L3,42 L3,39 L18,39 L18,21 L3,21 L3,18 L18,18 L18,3 L21,3 Z M39,42 L21,42 L21,60 L39,60 L39,42 Z M60,42 L42,42 L42,60 L60,60 L60,42 Z M39,21 L21,21 L21,39 L39,39 L39,21 Z M60,21 L42,21 L42,39 L60,39 L60,21 Z" opacity=".698"/>
+    <circle cx="62.5" cy="61.5" r="7.5" fill="url(#五子棋-e)"/>
+    <circle cx="41.5" cy="19.5" r="7.5" fill="url(#五子棋-e)"/>
+    <circle cx="19.5" cy="40.5" r="7.5" fill="url(#五子棋-e)"/>
+    <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M62.5 53C57.8055796 53 54 56.8055796 54 61.5 54 66.1944204 57.8055796 70 62.5 70 67.1944204 70 71 66.1944204 71 61.5 71 56.8055796 67.1944204 53 62.5 53zM62.5 54C66.6421356 54 70 57.3578644 70 61.5 70 65.6421356 66.6421356 69 62.5 69 58.3578644 69 55 65.6421356 55 61.5 55 57.3578644 58.3578644 54 62.5 54zM41.5 11C36.8055796 11 33 14.8055796 33 19.5 33 24.1944204 36.8055796 28 41.5 28 46.1944204 28 50 24.1944204 50 19.5 50 14.8055796 46.1944204 11 41.5 11zM41.5 12C45.6421356 12 49 15.3578644 49 19.5 49 23.6421356 45.6421356 27 41.5 27 37.3578644 27 34 23.6421356 34 19.5 34 15.3578644 37.3578644 12 41.5 12zM19.5 32C14.8055796 32 11 35.8055796 11 40.5 11 45.1944204 14.8055796 49 19.5 49 24.1944204 49 28 45.1944204 28 40.5 28 35.8055796 24.1944204 32 19.5 32zM19.5 33C23.6421356 33 27 36.3578644 27 40.5 27 44.6421356 23.6421356 48 19.5 48 15.3578644 48 12 44.6421356 12 40.5 12 36.3578644 15.3578644 33 19.5 33z"/>
+    <g transform="translate(11 11)">
+      <circle cx="8.5" cy="8.5" r="7.5" fill="url(#五子棋-f)"/>
+      <path fill="#000" fill-opacity=".097" fill-rule="nonzero" d="M8.5,0 C3.80557963,0 0,3.80557963 0,8.5 C0,13.1944204 3.80557963,17 8.5,17 C13.1944204,17 17,13.1944204 17,8.5 C17,3.80557963 13.1944204,0 8.5,0 Z M8.5,1 C12.6421356,1 16,4.35786438 16,8.5 C16,12.6421356 12.6421356,16 8.5,16 C4.35786438,16 1,12.6421356 1,8.5 C1,4.35786438 4.35786438,1 8.5,1 Z"/>
+    </g>
+    <g transform="translate(33 32)">
+      <circle cx="8.5" cy="8.5" r="7.5" fill="url(#五子棋-f)"/>
+      <path fill="#000" fill-opacity=".097" fill-rule="nonzero" d="M8.5,0 C3.80557963,0 0,3.80557963 0,8.5 C0,13.1944204 3.80557963,17 8.5,17 C13.1944204,17 17,13.1944204 17,8.5 C17,3.80557963 13.1944204,0 8.5,0 Z M8.5,1 C12.6421356,1 16,4.35786438 16,8.5 C16,12.6421356 12.6421356,16 8.5,16 C4.35786438,16 1,12.6421356 1,8.5 C1,4.35786438 4.35786438,1 8.5,1 Z"/>
+    </g>
+  </g>
+</svg>

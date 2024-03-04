@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <filter id="deepin-show-desktop-a" width="127.6%" height="130.2%" x="-13.8%" y="-15.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-show-desktop-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00D479"/>
+      <stop offset="100%" stop-color="#02A5CB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-show-desktop-a)" transform="translate(6 11)">
+    <rect width="116" height="106" fill="url(#deepin-show-desktop-b)" rx="12"/>
+    <g transform="translate(8 18)">
+      <rect width="100" height="16" y="64" fill="#A4FFCC" opacity=".7" rx="4"/>
+      <rect width="16" height="16" x="6" y="1" fill="#000" opacity=".1" rx="2.5"/>
+      <rect width="16" height="16" x="6" y="29" fill="#000" opacity=".1" rx="2.5"/>
+      <rect width="16" height="16" x="6" fill="#FFF" rx="2.5"/>
+      <rect width="16" height="16" x="6" y="28" fill="#FFF" rx="2.5"/>
+    </g>
+  </g>
+</svg>

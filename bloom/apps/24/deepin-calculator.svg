@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="deepin-calculator-a" width="122.7%" height="122.7%" x="-11.4%" y="-11.4%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-calculator-b" cx="50%" cy="9.268%" r="92.618%" fx="50%" fy="9.268%">
+      <stop offset="0%" stop-color="#35DCFF"/>
+      <stop offset="100%" stop-color="#0068FF"/>
+    </radialGradient>
+    <linearGradient id="deepin-calculator-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-calculator-a)" transform="translate(1 1)">
+    <path fill="url(#deepin-calculator-b)" d="M4,1 L18,1 C19.6568542,1 21,2.34314575 21,4 L21,18 C21,19.6568542 19.6568542,21 18,21 L4,21 C2.34314575,21 1,19.6568542 1,18 L1,4 C1,2.34314575 2.34314575,1 4,1 Z"/>
+    <polygon fill="#FFF" points="3.128 3.086 4.543 1.672 3.836 .964 2.421 2.379 1.007 .964 .3 1.672 1.714 3.086 .3 4.5 1.007 5.207 2.421 3.793 3.836 5.207 4.543 4.5" transform="translate(4 13)"/>
+    <path fill="url(#deepin-calculator-c)" d="M20.5,10.5 L20.5,17.5 C20.5,19.1568542 19.1568542,20.5 17.5,20.5 L10.5,20.5 L10.5,10.5 L20.5,10.5 Z M17.5,16.5 L13.5,16.5 L13.5,17.5 L17.5,17.5 L17.5,16.5 Z M17.5,14.5 L13.5,14.5 L13.5,15.5 L17.5,15.5 L17.5,14.5 Z M10.5,0.5 L10.5,10.5 L0.5,10.5 L0.5,3.5 C0.5,1.84314575 1.84314575,0.5 3.5,0.5 L10.5,0.5 Z M6.5,3.5 L5.5,3.5 L5.5,5.5 L3.5,5.5 L3.5,6.5 L5.5,6.5 L5.5,8.5 L6.5,8.5 L6.5,6.5 L8.5,6.5 L8.5,5.5 L6.5,5.5 L6.5,3.5 Z" transform="translate(.5 .5)"/>
+    <rect width="4" height="1" y="1" fill="#FFF" transform="translate(14 5)"/>
+  </g>
+</svg>
