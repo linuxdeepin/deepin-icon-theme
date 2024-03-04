@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <filter id="安卓容器-256px-a" width="122.5%" height="123.3%" x="-11.2%" y="-11.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="安卓容器-256px-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#CFFB82"/>
+      <stop offset="100%" stop-color="#539109"/>
+    </linearGradient>
+    <linearGradient id="安卓容器-256px-c" x1="50%" x2="50%" y1="0%" y2="190.452%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".255"/>
+    </linearGradient>
+    <linearGradient id="安卓容器-256px-d" x1="50%" x2="50%" y1="11.664%" y2="100%">
+      <stop offset="0%" stop-color="#ECCB89"/>
+      <stop offset="15.474%" stop-color="#CC9A4E"/>
+      <stop offset="23.345%" stop-color="#E2BB78"/>
+      <stop offset="29.459%" stop-color="#E5BE7D"/>
+      <stop offset="100%" stop-color="#D1965D"/>
+    </linearGradient>
+    <path id="安卓容器-256px-e" d="M36.5,74 L203.5,74 C213.717268,74 222,82.2827321 222,92.5 L222,213.5 C222,223.717268 213.717268,232 203.5,232 L36.5,232 C26.2827321,232 18,223.717268 18,213.5 L18,92.5 C18,82.2827321 26.2827321,74 36.5,74 Z"/>
+    <linearGradient id="安卓容器-256px-f" x1="50%" x2="50%" y1="0%" y2="126.091%">
+      <stop offset="0%" stop-color="#FD9"/>
+      <stop offset="100%" stop-color="#D1A25E"/>
+    </linearGradient>
+    <path id="安卓容器-256px-g" d="M22.723206,73 L217.276794,73 C220.117887,73 222.677183,74.7172344 223.754262,77.3462473 L238.022478,112.173124 C238.755292,113.961827 237.899324,116.005921 236.11062,116.738734 C235.689519,116.911255 235.238815,117 234.783744,117 L5.21625615,117 C3.28325953,117 1.71625615,115.432997 1.71625615,113.5 C1.71625615,113.044929 1.80500105,112.594225 1.97752196,112.173124 L16.2457377,77.3462473 C17.3228174,74.7172344 19.882113,73 22.723206,73 Z"/>
+    <filter id="安卓容器-256px-h" width="99.8%" height="106.8%" x=".1%" y="-3.4%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.0846536276 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation=".5"/>
+      <feOffset dy="2" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.244727928 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#安卓容器-256px-a)" transform="translate(8 11)">
+    <g transform="translate(50)">
+      <path fill="url(#安卓容器-256px-b)" d="M0,84 L140,84 C140,60.3841921 130.301205,39.2056028 110.987952,25.3386693 L126.337349,10.0430215 C128.86747,7.10155078 128.86747,4.4122061 126.337349,1.89094547 C123.807229,-0.630315158 121.024096,-0.630315158 118.156627,1.89094547 L100.698795,19.2876438 C91.1686747,14.2451226 80.9638554,11.7238619 70,11.7238619 C58.6987952,11.7238619 48.3253012,14.2451226 38.7951807,19.3716858 L21.3373494,1.89094547 C18.8072289,-0.630315158 16.0240964,-0.630315158 13.1566265,1.89094547 C10.2048193,4.4122061 10.2048193,7.1855928 13.1566265,10.0430215 L28.5060241,25.3386693 C9.44578313,38.7853927 0,59.963982 0,84 Z"/>
+      <path fill="url(#安卓容器-256px-c)" d="M102,44 C106.444444,44 110,47.5555556 110,52 C110,56.4444444 106.444444,60 102,60 C97.5555556,60 94,56.4444444 94,52 C94,47.5555556 97.5555556,44 102,44 Z M38,44 C42.4444444,44 46,47.5555556 46,52 C46,56.4444444 42.4444444,60 38,60 C33.5555556,60 30,56.4444444 30,52 C30,47.5555556 33.5555556,44 38,44 Z"/>
+    </g>
+    <use fill="url(#安卓容器-256px-d)" fill-rule="nonzero" xlink:href="#安卓容器-256px-e"/>
+    <g fill-rule="nonzero">
+      <use fill="url(#安卓容器-256px-f)" xlink:href="#安卓容器-256px-g"/>
+      <use fill="#000" filter="url(#安卓容器-256px-h)" xlink:href="#安卓容器-256px-g"/>
+    </g>
+  </g>
+</svg>

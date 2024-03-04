@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <filter id="deepin-font-manager-a" width="127.8%" height="123.5%" x="-13.9%" y="-11.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-font-manager-c" x1="14.427%" x2="86.996%" y1="0%" y2="101%">
+      <stop offset="0%" stop-color="#FCE7FF"/>
+      <stop offset="100%" stop-color="#9A8FFF"/>
+    </linearGradient>
+    <path id="deepin-font-manager-b" d="M0,48.0072279 C0,21.493568 21.4827702,0 48.0021134,0 L339.997887,0 C366.508722,0 388,21.4931954 388,48.0072279 L388,411.992772 C388,438.506432 366.51723,460 339.997887,460 L48.0021134,460 C21.4912782,460 0,438.506805 0,411.992772 L0,48.0072279 Z"/>
+    <path id="deepin-font-manager-e" d="M388,354 L388,354 L388,354 L388,402 C388,428.509668 366.509668,450 340,450 L44,450 C30.745166,450 20,439.254834 20,426 C20,412.745166 30.745166,402 44,402 L340,402 C366.509668,402 388,380.509668 388,354 Z"/>
+    <filter id="deepin-font-manager-f" width="105.4%" height="120.8%" x="-2.7%" y="-10.4%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="5.5"/>
+      <feOffset dy="5" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.401261592   0 0 0 0 0.0444680498   0 0 0 0 0.898607337  0 0 0 0.3 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-font-manager-a)" transform="translate(62 26)">
+    <mask id="deepin-font-manager-d" fill="#fff">
+      <use xlink:href="#deepin-font-manager-b"/>
+    </mask>
+    <use fill="url(#deepin-font-manager-c)" xlink:href="#deepin-font-manager-b"/>
+    <g stroke-linejoin="round" mask="url(#deepin-font-manager-d)">
+      <use fill="#FFF" xlink:href="#deepin-font-manager-e"/>
+      <use fill="#000" filter="url(#deepin-font-manager-f)" xlink:href="#deepin-font-manager-e"/>
+      <path stroke="#000" stroke-opacity=".2" stroke-width="2" d="M389,354 L389,402 C389,429.061953 367.061953,451 340,451 L44,451 C30.1928813,451 19,439.807119 19,426 C19,412.192881 30.1928813,401 44,401 L340,401 C365.957383,401 387,379.957383 387,354 L389,354 Z"/>
+    </g>
+    <path fill="#000" fill-rule="nonzero" d="M91,341 L91,337 C107.568542,337 121,323.568542 121,307 L121,94 L121,94 L91,94 L91,91 L279,91 L279,154 L277,154 C277,120.862915 250.137085,94 217,94 L161,94 L161,94 L161,207 L174,207 C196.643675,207 215,188.643675 215,166 L215,166 L215,166 L217,166 L217,264 L215,264 C215,238.594902 194.405098,218 169,218 L161,218 L161,218 L161,306 C161,323.120827 174.879173,337 192,337 L192,337 L192,337 L192,341 L91,341 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,356.5 L389,362 C389,388.791333 367.49852,410.560727 340.810305,410.993435 L340,411 L25,411 L25,409 L340,409 C365.697809,409 386.578656,388.376131 386.993703,362.777231 L387,362 L387,356.5 L389,356.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,352.5 L389,358 C389,384.791333 367.49852,406.560727 340.810305,406.993435 L340,407 L30,407 L30,405 L340,405 C365.697809,405 386.578656,384.376131 386.993703,358.777231 L387,358 L387,352.5 L389,352.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,364.5 L389,370 C389,396.791333 367.49852,418.560727 340.810305,418.993435 L340,419 L21,419 L21,417 L340,417 C365.697809,417 386.578656,396.376131 386.993703,370.777231 L387,370 L387,364.5 L389,364.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,360.5 L389,366 C389,392.791333 367.49852,414.560727 340.810305,414.993435 L340,415 L22,415 L22,413 L340,413 C365.697809,413 386.578656,392.376131 386.993703,366.777231 L387,366 L387,360.5 L389,360.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,368.5 L389,374 C389,400.791333 367.49852,422.560727 340.810305,422.993435 L340,423 L20,423 L20,421 L340,421 C365.697809,421 386.578656,400.376131 386.993703,374.777231 L387,374 L387,368.5 L389,368.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,372.5 L389,378 C389,404.791333 367.49852,426.560727 340.810305,426.993435 L340,427 L20,427 L20,425 L340,425 C365.697809,425 386.578656,404.376131 386.993703,378.777231 L387,378 L387,372.5 L389,372.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,376.5 L389,382 C389,408.791333 367.49852,430.560727 340.810305,430.993435 L340,431 L21,431 L21,429 L340,429 C365.697809,429 386.578656,408.376131 386.993703,382.777231 L387,382 L387,376.5 L389,376.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,380.5 L389,386 C389,412.791333 367.49852,434.560727 340.810305,434.993435 L340,435 L22,435 L22,433 L340,433 C365.697809,433 386.578656,412.376131 386.993703,386.777231 L387,386 L387,380.5 L389,380.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,384.5 L389,390 C389,416.791333 367.49852,438.560727 340.810305,438.993435 L340,439 L25,439 L25,437 L340,437 C365.697809,437 386.578656,416.376131 386.993703,390.777231 L387,390 L387,384.5 L389,384.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,388.5 L389,394 C389,420.791333 367.49852,442.560727 340.810305,442.993435 L340,443 L25,443 L25,441 L340,441 C365.697809,441 386.578656,420.376131 386.993703,394.777231 L387,394 L387,388.5 L389,388.5 Z" mask="url(#deepin-font-manager-d)"/>
+    <path fill="#6D41BF" fill-opacity=".2" fill-rule="nonzero" d="M389,392.5 L389,398 C389,424.791333 367.49852,446.560727 340.810305,446.993435 L340,447 L30,447 L30,445 L340,445 C365.697809,445 386.578656,424.376131 386.993703,398.777231 L387,398 L387,392.5 L389,392.5 Z" mask="url(#deepin-font-manager-d)"/>
+  </g>
+</svg>

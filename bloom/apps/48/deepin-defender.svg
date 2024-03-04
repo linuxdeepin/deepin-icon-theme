@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-defender48-a" width="135.7%" height="140.5%" x="-17.9%" y="-17.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-defender48-b" x1="50%" x2="50%" y1="0%" y2="98.139%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#EDEDED"/>
+    </linearGradient>
+    <linearGradient id="deepin-defender48-c" x1="50%" x2="50%" y1="0%" y2="98.554%">
+      <stop offset="0%" stop-color="#44B0FB"/>
+      <stop offset="100%" stop-color="#0074FF"/>
+    </linearGradient>
+    <linearGradient id="deepin-defender48-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#60B8E5"/>
+    </linearGradient>
+    <radialGradient id="deepin-defender48-e" cx="51.082%" cy="50%" r="51.788%" fx="51.082%" fy="50%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#3AC3FF" stop-opacity=".346"/>
+    </radialGradient>
+    <linearGradient id="deepin-defender48-f" x1="17.418%" x2="73.691%" y1="23.744%" y2="30.213%">
+      <stop offset="0%" stop-color="#5BE9FF"/>
+      <stop offset="4.362%" stop-color="#5FE2FF" stop-opacity=".936"/>
+      <stop offset="100%" stop-color="#0065FA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="deepin-defender48-i" x1="50%" x2="51.811%" y1="1.79%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#9CD8F8"/>
+    </linearGradient>
+    <path id="deepin-defender48-h" d="M24.6412171,8.81973885 C24.5926394,8.45828328 24.3448967,8.15382437 23.9989155,8.03025219 L13.0744924,4.87397488 C12.6033161,4.70767512 12.1545634,4.72925752 11.7874422,4.87397488 L0.862979032,8.03025216 C0.516837339,8.15382434 0.269255158,8.45832301 0.220677374,8.81973882 C0.196248076,9.00153976 -0.364261597,13.3303417 0.78166842,18.2775609 C1.46263975,21.217259 2.6084093,23.7625913 4.18740753,25.8429282 C6.14187062,28.4179115 8.75456055,30.2706197 11.9549172,31.3531183 C12.2201895,31.4596391 12.5102121,31.5083685 12.9067768,31.3531183 C16.1071334,30.2706594 18.7200239,28.4179115 20.674487,25.8429282 C22.2533248,23.7625913 23.3992547,21.217259 24.0802261,18.2775609 C25.2261962,13.3303417 24.6655261,9.00153978 24.6412171,8.81973885 L24.6412171,8.81973885 Z"/>
+    <filter id="deepin-defender48-g" width="144.5%" height="141.2%" x="-22.2%" y="-13.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.290980179   0 0 0 0 0.5330899  0 0 0 0.611778846 0"/>
+    </filter>
+    <path id="deepin-defender48-k" d="M9.67429962,11.4034313 C9.87554779,10.6640078 10.6805405,10.1258475 11.4184505,10.1258475 L13.4309322,10.1258475 C14.1688422,10.1258475 14.5042558,10.6640078 14.2359249,11.3363436 L13.046375,15.1258475 L15.9309322,15.1258475 C17.4067521,15.1258475 17.8092485,16.0679926 16.8700903,17.1443133 L10.4264863,24.6031617 C9.95690727,25.141322 9.68857637,25.0742342 9.88982456,24.3348107 L11.4309322,18.1258475 L9.08303683,18.1258475 C8.34512686,18.1258475 7.94263052,17.5876871 8.14387869,16.8482636 L9.67429962,11.4034313 Z"/>
+    <filter id="deepin-defender48-j" width="444.7%" height="315.8%" x="-172.4%" y="-53.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0.505882353   0 0 0 0 1  0 0 0 0.3 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-defender48-a)" transform="translate(3 3)">
+    <rect width="42" height="42" fill="url(#deepin-defender48-b)" stroke="#000" stroke-opacity=".08" rx="21"/>
+    <rect width="40" height="40" x="1" y="1" fill="url(#deepin-defender48-c)" stroke="url(#deepin-defender48-d)" stroke-width="2" rx="20"/>
+    <g transform="translate(1.33 1.674)">
+      <circle cx="19.671" cy="19.326" r="12.5" stroke="#7DF3FF" opacity=".2"/>
+      <circle cx="19.671" cy="19.326" r="16.5" stroke="#7DF3FF" opacity=".1"/>
+      <path fill="url(#deepin-defender48-e)" d="M20.6707627,0.326271186 L20.6707627,18.3252712 L33.1057916,5.89124234 L33.8128983,6.59834913 L21.0847627,19.3252712 L38.6707627,19.3262712 L38.6707627,20.3262712 L20.6707627,20.3252712 L33.1057916,32.7613 L32.3986848,33.4684068 L20.6707627,21.7392712 L20.6707627,38.3262712 L19.6707627,38.3262712 L19.6714698,20.7397776 L6.94284065,33.4684068 L6.23573387,32.7613 L18.6707627,20.3252712 L0.670762712,20.3262712 L0.670762712,19.3262712 L18.2567627,19.3252712 L5.52862709,6.59834913 L6.23573387,5.89124234 L19.6714698,19.3255641 L19.6707627,0.326271186 L20.6707627,0.326271186 Z" opacity=".3"/>
+    </g>
+    <g transform="translate(8.57 3.874)">
+      <path fill="url(#deepin-defender48-f)" d="M12.4309322,0.125847458 C18.1204954,0.125847458 23.157247,2.92086613 26.2430265,7.21274294 L12.4309322,17.2360169 Z"/>
+      <use fill="#000" filter="url(#deepin-defender48-g)" xlink:href="#deepin-defender48-h"/>
+      <use fill="url(#deepin-defender48-i)" xlink:href="#deepin-defender48-h"/>
+      <g fill-rule="nonzero">
+        <use fill="#000" filter="url(#deepin-defender48-j)" xlink:href="#deepin-defender48-k"/>
+        <use fill="#0081FF" xlink:href="#deepin-defender48-k"/>
+      </g>
+    </g>
+  </g>
+</svg>

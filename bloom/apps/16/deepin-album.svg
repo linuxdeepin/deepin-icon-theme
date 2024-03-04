@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <path id="deepin-album-b" d="M0.686528036,2.40076461 C0.689070632,1.57336305 1.35641857,0.900634595 2.19103278,0.898141909 L12.606933,0.867033445 C13.4353054,0.864559401 14.1047918,1.5270915 14.1022302,2.36069684 L14.0753767,11.0992354 C14.0728341,11.9266369 13.4054862,12.5993654 12.570872,12.6018581 L2.15497178,12.6329666 C1.32659936,12.6354406 0.657112938,11.9729085 0.659674598,11.1393032 L0.686528036,2.40076461 Z"/>
+    <filter id="deepin-album-a" width="144.6%" height="151%" x="-22.3%" y="-25.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+    <rect id="deepin-album-d" width="13.5" height="11.5" x=".5" y="1" rx="1.5"/>
+    <filter id="deepin-album-c" width="144.4%" height="152.2%" x="-22.2%" y="-26.1%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+    <linearGradient id="deepin-album-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF3E7"/>
+    </linearGradient>
+    <rect id="deepin-album-f" width="13.42" height="11.731" x="0" y="0" rx="1.5"/>
+    <filter id="deepin-album-e" width="144.7%" height="151.1%" x="-22.4%" y="-25.6%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+    <linearGradient id="deepin-album-i" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#D14848"/>
+      <stop offset="100%" stop-color="#FF9E00"/>
+    </linearGradient>
+    <rect id="deepin-album-h" width="12.078" height="8.472" x="0" y="0" rx="1"/>
+    <linearGradient id="deepin-album-k" x1="50%" x2="41.314%" y1="34.901%" y2="69.102%">
+      <stop offset="0%" stop-color="#FF3C14" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#4A00C1" stop-opacity=".899"/>
+    </linearGradient>
+    <linearGradient id="deepin-album-l" x1="50%" x2="50%" y1="11.914%" y2="89.546%">
+      <stop offset="0%" stop-color="#FFD332" stop-opacity=".3"/>
+      <stop offset="100%" stop-color="#002DFF" stop-opacity=".5"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(.5 1)">
+    <g opacity=".5" transform="rotate(6 7.381 6.75)">
+      <use fill="#000" filter="url(#deepin-album-a)" xlink:href="#deepin-album-b"/>
+      <use fill="#FFF" fill-opacity=".8" xlink:href="#deepin-album-b"/>
+    </g>
+    <g opacity=".5">
+      <use fill="#000" filter="url(#deepin-album-c)" xlink:href="#deepin-album-d"/>
+      <use fill="#FFF" fill-opacity=".8" xlink:href="#deepin-album-d"/>
+    </g>
+    <g transform="rotate(-6 15.486 -.095)">
+      <use fill="#000" filter="url(#deepin-album-e)" xlink:href="#deepin-album-f"/>
+      <use fill="url(#deepin-album-g)" xlink:href="#deepin-album-f"/>
+      <g transform="translate(.671 .652)">
+        <mask id="deepin-album-j" fill="#fff">
+          <use xlink:href="#deepin-album-h"/>
+        </mask>
+        <use fill="url(#deepin-album-i)" xlink:href="#deepin-album-h"/>
+        <ellipse cx="10.065" cy="1.629" fill="#FFF7A1" mask="url(#deepin-album-j)" rx="1" ry="1"/>
+        <path fill="url(#deepin-album-k)" d="M-0.335497835,8.47241379 L4.41882474,2.59524609 C4.85037546,2.06177451 5.54650017,2.05737711 5.98160816,2.59524609 L10.7359307,8.47241379 L-0.335497835,8.47241379 Z" mask="url(#deepin-album-j)"/>
+        <path fill="url(#deepin-album-l)" d="M3.35497835,9.12413793 L7.44886784,3.91380108 C7.87458501,3.37198629 8.56955554,3.37802735 8.9905261,3.91380108 L13.0844156,9.12413793 L3.35497835,9.12413793 Z" mask="url(#deepin-album-j)"/>
+      </g>
+    </g>
+  </g>
+</svg>

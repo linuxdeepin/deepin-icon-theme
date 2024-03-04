@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="deepin-font-manager-32px-a" width="133.3%" height="127.6%" x="-16.7%" y="-13.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-font-manager-32px-c" x1="15.755%" x2="85.615%" y1="0%" y2="101%">
+      <stop offset="0%" stop-color="#FCE7FF"/>
+      <stop offset="100%" stop-color="#9A8FFF"/>
+    </linearGradient>
+    <path id="deepin-font-manager-32px-b" d="M0,2.96722411 C0,1.32847148 1.32453024,0 2.96694227,0 L21.0330577,0 C22.6716547,0 24,1.32142675 24,2.96722411 L24,26.0327759 C24,27.6715285 22.6754698,29 21.0330577,29 L2.96694227,29 C1.3283453,29 0,27.6785733 0,26.0327759 L0,2.96722411 Z"/>
+    <path id="deepin-font-manager-32px-e" d="M23.5,0.662506782 L23.5,0.631578947 L23.5,0.631578947 L23.5,4.66250678 C23.5,6.30228006 22.1707011,7.63157895 20.5309278,7.63157895 L2.5,7.63157895 C1.3954305,7.63157895 0.5,6.73614845 0.5,5.63157895 C0.5,4.52700945 1.3954305,3.63157895 2.5,3.63157895 L20.5309278,3.63157895 C22.1707011,3.63157895 23.5,2.30228006 23.5,0.662506782 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-font-manager-32px-a)" transform="translate(4 1)">
+    <mask id="deepin-font-manager-32px-d" fill="#fff">
+      <use xlink:href="#deepin-font-manager-32px-b"/>
+    </mask>
+    <use fill="url(#deepin-font-manager-32px-c)" xlink:href="#deepin-font-manager-32px-b"/>
+    <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M23.999,20.0549278 L23.9995086,22.2536016 C23.5279311,22.6715791 22.9223812,22.9417798 22.2554223,22.9916402 L22.0309278,23 L4,23 C2.8954305,23 2,23.8954305 2,25 C2,26.0543618 2.81587779,26.9181651 3.85073766,26.9945143 L4,27 L22.0309278,27 C22.781944,27 23.4678338,26.7211609 23.9907169,26.2613633 C23.9499165,26.8060837 23.7619641,27.3094367 23.4665934,27.7321314 C23.1573243,27.8524125 22.8290389,27.9348969 22.4875377,27.9740187 L22.2290246,27.9951425 L22.0309278,28 L4,28 C2.34314575,28 1,26.6568542 1,25 C1,23.4023191 2.24891996,22.0963391 3.82372721,22.0050927 L4,22 L22.0309278,22 C23.0689851,22 23.9194306,21.1967389 23.9945991,20.177882 L23.999,20.0549278 Z" mask="url(#deepin-font-manager-32px-d)"/>
+    <path fill="#000" fill-rule="nonzero" d="M6,21 C7.1045695,21 8,20.1045695 8,19 L8,6 L8,6 L6,6 L6,5 L18,5 L18,9 L17,9 C17,7.34314575 15.6568542,6 14,6 L10,6 L10,6 L10,12 L12,12 C13.1045695,12 14,11.1045695 14,10 L14,10 L14,10 L14,16 C14,14.3431458 12.6568542,13 11,13 L10,13 L10,13 L10,19 C10,20.1045695 10.8954305,21 12,21 L12,21 L12,21 L6,21 Z" mask="url(#deepin-font-manager-32px-d)"/>
+    <g mask="url(#deepin-font-manager-32px-d)">
+      <use fill="#FFF" transform="translate(1.5 19.368)" xlink:href="#deepin-font-manager-32px-e"/>
+    </g>
+  </g>
+</svg>

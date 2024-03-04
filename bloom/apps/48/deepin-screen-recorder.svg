@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-screenshot&amp;record-a" width="129.5%" height="135.1%" x="-14.8%" y="-17.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-screenshot&amp;record-b" x1="50%" x2="50%" y1="0%" y2="96.107%">
+      <stop offset="0%" stop-color="#F0EDFF"/>
+      <stop offset="100%" stop-color="#BBA7F6"/>
+    </linearGradient>
+    <path id="deepin-screenshot&amp;record-c" d="M39.2071748,20 L39.2071748,26 L32,26 L32,20 L39.2071748,20 Z M6,20 L6,26 L0,26 L0,20 L6,20 Z M38,0 L38,6 L32,6 L32,0 L38,0 Z M6,0 L6,6 L-7.10542736e-15,6 L-7.10542736e-15,0 L6,0 Z"/>
+    <linearGradient id="deepin-screenshot&amp;record-g" x1="39.277%" x2="39.277%" y1="15.304%" y2="105.982%">
+      <stop offset="0%" stop-color="#6B6386"/>
+      <stop offset="72.102%" stop-color="#302B42"/>
+      <stop offset="100%" stop-color="#72639E"/>
+    </linearGradient>
+    <linearGradient id="deepin-screenshot&amp;record-h" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".15"/>
+      <stop offset="100%" stop-opacity=".328"/>
+    </linearGradient>
+    <circle id="deepin-screenshot&amp;record-f" cx="12" cy="12" r="12"/>
+    <filter id="deepin-screenshot&amp;record-e" width="116.7%" height="116.7%" x="-8.3%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <radialGradient id="deepin-screenshot&amp;record-i" cx="50%" cy="91.243%" r="23.464%" fx="50%" fy="91.243%" gradientTransform="matrix(0 1 -1.57176 0 1.934 .412)">
+      <stop offset="0%" stop-color="#8462FF"/>
+      <stop offset="100%" stop-color="#232129"/>
+    </radialGradient>
+    <circle id="deepin-screenshot&amp;record-j" cx="12" cy="12" r="8"/>
+    <radialGradient id="deepin-screenshot&amp;record-k" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#F53E84"/>
+      <stop offset="100%" stop-color="#4F2CA2"/>
+    </radialGradient>
+    <linearGradient id="deepin-screenshot&amp;record-l" x1="100%" x2="0%" y1="27.849%" y2="67.669%">
+      <stop offset="0%" stop-color="#4B003F"/>
+      <stop offset="14.589%" stop-color="#33036D"/>
+      <stop offset="51.448%" stop-color="#C30B9D"/>
+      <stop offset="80.605%" stop-color="#591A85"/>
+      <stop offset="100%" stop-color="#470437"/>
+    </linearGradient>
+    <linearGradient id="deepin-screenshot&amp;record-m" x1="50%" x2="50%" y1="0%" y2="50%">
+      <stop offset="0%" stop-color="#FEE" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#FF578A" stop-opacity=".7"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-screenshot&amp;record-a)" transform="translate(2 6)">
+    <path fill="url(#deepin-screenshot&amp;record-b)" d="M10.0813636,2.70486767 L10.2744126,2.29513233 L10.2744126,2.29513233 C10.9345276,0.894075958 12.3441193,-8.8817842e-16 13.8928965,-8.8817842e-16 L30.1071035,-8.8817842e-16 C31.6558807,-8.8817842e-16 33.0654724,0.894075958 33.7255874,2.29513233 L33.9186364,2.70486767 C34.5787514,4.10592404 35.9883431,5 37.5371204,5 L38,5 L38,5 C41.3137085,5 44,7.6862915 44,11 L44,31 C44,34.3137085 41.3137085,37 38,37 L6,37 C2.6862915,37 0,34.3137085 0,31 L0,11 C0,7.6862915 2.6862915,5 6,5 L6.46287965,5 C8.01165685,5 9.42124857,4.10592404 10.0813636,2.70486767 Z"/>
+    <g transform="translate(3 8)">
+      <mask id="deepin-screenshot&amp;record-d" fill="#fff">
+        <use xlink:href="#deepin-screenshot&amp;record-c"/>
+      </mask>
+      <path stroke="#000" stroke-opacity=".4" d="M3,0.5 C1.61928813,0.5 0.5,1.61928813 0.5,3 L0.5,23 C0.5,24.3807119 1.61928813,25.5 3,25.5 L35,25.5 C36.3807119,25.5 37.5,24.3807119 37.5,23 L37.5,3 C37.5,1.61928813 36.3807119,0.5 35,0.5 L3,0.5 Z" mask="url(#deepin-screenshot&amp;record-d)"/>
+    </g>
+    <circle cx="37" cy="12" r="1" fill="#F55" stroke="#D51818"/>
+    <g transform="translate(10 9)">
+      <use fill="#000" filter="url(#deepin-screenshot&amp;record-e)" xlink:href="#deepin-screenshot&amp;record-f"/>
+      <circle cx="12" cy="12" r="11.5" fill="url(#deepin-screenshot&amp;record-g)" stroke="url(#deepin-screenshot&amp;record-h)" stroke-linejoin="square"/>
+      <use fill="url(#deepin-screenshot&amp;record-i)" xlink:href="#deepin-screenshot&amp;record-j"/>
+      <circle cx="12" cy="12" r="8.5" stroke="#000"/>
+      <circle cx="12" cy="12" r="7.5" stroke="#FFF" stroke-linejoin="square" stroke-opacity=".05"/>
+      <circle cx="12" cy="12" r="5.5" fill="url(#deepin-screenshot&amp;record-k)" stroke="#080808"/>
+      <circle cx="12" cy="12" r="3.5" fill="url(#deepin-screenshot&amp;record-l)"/>
+      <circle cx="12" cy="12" r="2.5" fill="#38000E"/>
+      <ellipse cx="11.5" cy="9" fill="url(#deepin-screenshot&amp;record-m)" opacity=".5" rx="4.5" ry="4"/>
+    </g>
+  </g>
+</svg>

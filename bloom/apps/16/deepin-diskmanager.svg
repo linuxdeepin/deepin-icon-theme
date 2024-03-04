@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="16px-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E9EEF2"/>
+      <stop offset="100%" stop-color="#95A5AF"/>
+    </linearGradient>
+    <rect id="16px-b" width="10" height="14" x="0" y="0" rx="1"/>
+    <filter id="16px-c" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.25 0"/>
+    </filter>
+    <linearGradient id="16px-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#94A0A9"/>
+      <stop offset="100%" stop-color="#8C979D"/>
+    </linearGradient>
+    <path id="16px-e" d="M9.99898861,6.0000005 L9.999,7.9990005 L9.88337887,7.99327227 C9.38604019,7.93550716 9,7.51283584 9,7 C9,6.44805242 9.44716876,6.0005467 9.99898861,6.0000005 Z M0.00101139353,6.0000005 C0.552831244,6.0005467 1,6.44805242 1,7 C1,7.51283584 0.61395981,7.93550716 0.116621125,7.99327227 L0.116621125,7.99327227 L0.001,7.9990005 Z"/>
+    <filter id="16px-f" width="105%" height="125%" x="-2.5%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".25"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <rect id="16px-g" width="1" height="1" x="7" y="9"/>
+    <filter id="16px-h" width="150%" height="150%" x="-25%" y="-25%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".25"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <path id="16px-i" d="M1,9 L1,13 L6,13 L6,11.0038463 C5.15955325,11.0220198 4.39309678,10.8582737 3.70063061,10.5126081 C3.00816443,10.1669425 2.43653015,9.66273982 1.98572779,9 L1,9 Z"/>
+    <filter id="16px-j" width="120%" height="125%" x="-10%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="16px-m" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#EAF0F4"/>
+      <stop offset="100%" stop-color="#C7D1D8"/>
+    </linearGradient>
+    <path id="16px-l" d="M2.00157166,12.0084686 L2.00157166,10.5471344 C2.26495214,10.8569826 2.6716211,11.1401093 3.22157854,11.3965145 C3.77153597,11.6529197 4.36434313,11.835776 5,11.9450836 L5,12.0084686 L2.00157166,12.0084686 Z"/>
+    <filter id="16px-k" width="200.1%" height="305.3%" x="-50%" y="-102.6%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.275868663 0"/>
+    </filter>
+    <linearGradient id="16px-n" x1="51.761%" x2="51.761%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#6B6C77"/>
+      <stop offset="83.506%" stop-color="#2B2F42"/>
+      <stop offset="100%" stop-color="#5F627C"/>
+    </linearGradient>
+    <linearGradient id="16px-o" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#393741"/>
+      <stop offset="100%" stop-color="#1F1C25"/>
+    </linearGradient>
+    <linearGradient id="16px-r" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#393741"/>
+      <stop offset="100%" stop-color="#1F1C25"/>
+    </linearGradient>
+    <linearGradient id="16px-s" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E5E5E5" stop-opacity=".15"/>
+      <stop offset="100%" stop-color="#565656" stop-opacity=".328"/>
+    </linearGradient>
+    <ellipse id="16px-q" cx="1" cy=".988" rx="1" ry="1"/>
+    <filter id="16px-p" width="350%" height="353.2%" x="-125%" y="-126.6%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <linearGradient id="16px-v" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FBFBFB"/>
+      <stop offset="100%" stop-color="#B7B7B7"/>
+    </linearGradient>
+    <path id="16px-u" d="M4,3 C4.55228475,3 5,3.44771525 5,4 C5,4.55228475 4.55228475,5 4,5 C3.44771525,5 3,4.55228475 3,4 C3,3.44771525 3.44771525,3 4,3 Z M4,3.5 C3.72385763,3.5 3.5,3.72385763 3.5,4 C3.5,4.27614237 3.72385763,4.5 4,4.5 C4.27614237,4.5 4.5,4.27614237 4.5,4 C4.5,3.72385763 4.27614237,3.5 4,3.5 Z"/>
+    <filter id="16px-t" width="250%" height="250%" x="-75%" y="-75%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <circle id="16px-w" cx="8.5" cy="12.5" r="1"/>
+    <filter id="16px-x" width="150%" height="150%" x="-25%" y="-25%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".25"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <circle id="16px-y" cx="8.5" cy="1.5" r="1"/>
+    <filter id="16px-z" width="150%" height="150%" x="-25%" y="-25%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".25"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <circle id="16px-A" cx="1.5" cy="1.5" r="1"/>
+    <filter id="16px-B" width="150%" height="150%" x="-25%" y="-25%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".25"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="16px-E" x1="97.247%" x2="6.271%" y1="2.562%" y2="93.306%">
+      <stop offset="0%" stop-color="#F7F9FB"/>
+      <stop offset="100%" stop-color="#ECF1F6"/>
+    </linearGradient>
+    <path id="16px-D" d="M1.69184166,4.61911682 L4.92585193,0.514543877 C4.97208094,0.459608804 5,0.389116116 5,0.312207013 C5,0.140077114 4.85993602,0 4.68735352,0 C4.61045163,0 4.53996555,0.0274821864 4.48547506,0.0741550252 L0.380847473,3.30846849 C0.149673057,3.47922136 0,3.75345725 0,4.0624414 C0,4.58067692 0.419752508,5 0.937470704,5 C1.24692393,5 1.52110481,4.85031291 1.69184166,4.61911682 Z"/>
+    <filter id="16px-C" width="160%" height="160%" x="-30%" y="-30%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.300344187 0"/>
+    </filter>
+    <filter id="16px-F" width="140%" height="140%" x="-20%" y="-20%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.942198427 0"/>
+    </filter>
+    <linearGradient id="16px-G" x1="50%" x2="50%" y1="0%" y2="97.679%">
+      <stop offset="0%" stop-color="#696868"/>
+      <stop offset="100%" stop-color="#727A81"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(3 1)">
+    <use fill="url(#16px-a)" xlink:href="#16px-b"/>
+    <use fill="#000" filter="url(#16px-c)" xlink:href="#16px-b"/>
+    <use fill="url(#16px-d)" xlink:href="#16px-e"/>
+    <use fill="#000" filter="url(#16px-f)" xlink:href="#16px-e"/>
+    <use fill="#A4AFB6" xlink:href="#16px-g"/>
+    <use fill="#000" filter="url(#16px-h)" xlink:href="#16px-g"/>
+    <use fill="#6C7982" xlink:href="#16px-i"/>
+    <use fill="#000" filter="url(#16px-j)" xlink:href="#16px-i"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#16px-k)" xlink:href="#16px-l"/>
+      <use fill="url(#16px-m)" xlink:href="#16px-l"/>
+    </g>
+    <g transform="translate(1 1)">
+      <circle cx="4" cy="4" r="4" fill="url(#16px-n)"/>
+      <g transform="translate(1 1)">
+        <circle cx="3" cy="3" r="2.75" fill="url(#16px-o)" stroke="#000" stroke-width=".5"/>
+        <path fill="#4F4F50" fill-opacity=".305" fill-rule="nonzero" d="M3.14476892,3.30346923 L1.08487203,5.30927623 C0.690593596,4.98192962 0.3815017,4.55552894 0.19576892,4.06824677 L3.14476892,3.30346923 Z M5.35906467,1.14646923 C5.67703057,1.55059687 5.89338622,2.03843096 5.96962413,2.57146401 L3.14476892,3.30346923 Z" opacity=".414"/>
+        <path fill="#4F4F50" fill-opacity=".305" fill-rule="nonzero" d="M2.98534496,3.30696086 L5.79181159,4.100274 C5.60831516,4.56549746 5.31189496,4.97383518 4.93632762,5.29151053 L2.98534496,3.30696086 Z M0.741800011,1.02496086 L2.98534496,3.30696086 L0.0453449568,2.47748527 C0.142019754,1.9270518 0.388750375,1.42829806 0.741800011,1.02496086 Z"/>
+      </g>
+      <g transform="translate(3 3)">
+        <use fill="#000" filter="url(#16px-p)" xlink:href="#16px-q"/>
+        <ellipse cx="1" cy=".988" fill="url(#16px-r)" stroke="url(#16px-s)" rx="1.5" ry="1.488"/>
+        <path fill="#4F4F50" fill-opacity=".401" fill-rule="nonzero" d="M1.30581636,1.3310595 L1.73248458,1.65977985 C1.63546749,1.76281227 1.51642743,1.84534691 1.38276213,1.9000785 L1.19212,1.45504958 C1.23631029,1.4202491 1.27479836,1.37838848 1.30581636,1.3310595 Z M0.605735066,0.0797153647 L0.798790908,0.531271119 C0.674429149,0.548457809 0.563249422,0.609937877 0.48272502,0.699978302 L0.159743946,0.451869815 C0.26708735,0.287998872 0.422252319,0.157527393 0.605735066,0.0797153647 Z"/>
+      </g>
+      <use fill="#000" filter="url(#16px-t)" xlink:href="#16px-u"/>
+      <use fill="url(#16px-v)" xlink:href="#16px-u"/>
+    </g>
+    <use fill="#8C969D" xlink:href="#16px-w"/>
+    <use fill="#000" filter="url(#16px-x)" xlink:href="#16px-w"/>
+    <use fill="#8C969D" xlink:href="#16px-y"/>
+    <use fill="#000" filter="url(#16px-z)" xlink:href="#16px-y"/>
+    <use fill="#8C969D" xlink:href="#16px-A"/>
+    <use fill="#000" filter="url(#16px-B)" xlink:href="#16px-A"/>
+    <g transform="translate(2 7)">
+      <g fill-rule="nonzero">
+        <use fill="#000" filter="url(#16px-C)" xlink:href="#16px-D"/>
+        <use fill="url(#16px-E)" xlink:href="#16px-D"/>
+        <use fill="#000" filter="url(#16px-F)" xlink:href="#16px-D"/>
+      </g>
+      <circle cx="1" cy="4" r="1" fill="url(#16px-G)"/>
+    </g>
+  </g>
+</svg>

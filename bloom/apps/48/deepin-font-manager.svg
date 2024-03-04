@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-font-installer-a" width="134.2%" height="129.5%" x="-17.1%" y="-14.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-font-installer-c" x1="12.707%" x2="88.785%" y1="0%" y2="101%">
+      <stop offset="0%" stop-color="#FCE7FF"/>
+      <stop offset="100%" stop-color="#9A8FFF"/>
+    </linearGradient>
+    <path id="deepin-font-installer-b" d="M0,4.54304838 C0,2.03399204 2.04304504,0 4.54594338,0 L33.4540566,0 C35.9647118,0 38,2.03396631 38,4.54304838 L38,39.4569516 C38,41.966008 35.956955,44 33.4540566,44 L4.54594338,44 C2.03528818,44 0,41.9660337 0,39.4569516 L0,4.54304838 Z"/>
+    <path id="deepin-font-installer-e" d="M39,32.4536082 L39,32 L39,32 L39,36.4536082 C39,38.9645111 36.9645111,41 34.4536082,41 L6,41 C4.8954305,41 4,40.1045695 4,39 C4,37.8954305 4.8954305,37 6,37 L34.4536082,37 C36.9645111,37 39,34.9645111 39,32.4536082 Z"/>
+    <filter id="deepin-font-installer-f" width="111.4%" height="144.4%" x="-5.7%" y="-22.2%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.401261592   0 0 0 0 0.0444680498   0 0 0 0 0.898607337  0 0 0 0.3 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-font-installer-a)" transform="translate(5 2)">
+    <mask id="deepin-font-installer-d" fill="#fff">
+      <use xlink:href="#deepin-font-installer-b"/>
+    </mask>
+    <use fill="url(#deepin-font-installer-c)" xlink:href="#deepin-font-installer-b"/>
+    <path fill="#000" fill-rule="nonzero" d="M9.5,32.5977011 L9.5,31.5977011 C11.1568542,31.5977011 12.5,30.2545554 12.5,28.5977011 L12.5,9.59770115 L12.5,9.59770115 L9.5,9.59770115 L9.5,8.59770115 L27.5,8.59770115 L27.5,14.5977011 L26.5,14.5977011 C26.5,11.8362774 24.2614237,9.59770115 21.5,9.59770115 L16.5,9.59770115 L16.5,9.59770115 L16.5,19.5977011 L17.5,19.5977011 C19.709139,19.5977011 21.5,17.8068401 21.5,15.5977011 L21.5,15.5977011 L21.5,15.5977011 L21.5,24.5977011 C21.5,22.3885622 19.709139,20.5977011 17.5,20.5977011 L16.5,20.5977011 L16.5,20.5977011 L16.5,28.5977011 C16.5,30.2545554 17.8431458,31.5977011 19.5,31.5977011 L19.5,31.5977011 L19.5,31.5977011 L19.5,32.5977011 L9.5,32.5977011 Z" mask="url(#deepin-font-installer-d)"/>
+    <g stroke-linejoin="round" mask="url(#deepin-font-installer-d)">
+      <use fill="#FFF" xlink:href="#deepin-font-installer-e"/>
+      <use fill="#000" filter="url(#deepin-font-installer-f)" xlink:href="#deepin-font-installer-e"/>
+      <path stroke="#000" stroke-opacity=".2" d="M38.5,32.4536082 L38.5,32 L39.5,32 L39.5,36.4536082 C39.5,39.2406535 37.2406535,41.5 34.4536082,41.5 L6,41.5 C4.61928813,41.5 3.5,40.3807119 3.5,39 C3.5,37.6192881 4.61928813,36.5 6,36.5 L34.4536082,36.5 C36.6883687,36.5 38.5,34.6883687 38.5,32.4536082 Z"/>
+    </g>
+  </g>
+</svg>
