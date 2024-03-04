@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <filter id="deepin-calculator-a" width="129.1%" height="129.1%" x="-14.5%" y="-14.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-calculator-b" cx="50%" cy="9.268%" r="92.618%" fx="50%" fy="9.268%">
+      <stop offset="0%" stop-color="#35DCFF"/>
+      <stop offset="100%" stop-color="#0068FF"/>
+    </radialGradient>
+    <linearGradient id="deepin-calculator-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-calculator-a)" transform="translate(9 9)">
+    <path fill="url(#deepin-calculator-b)" d="M16,0 L94,0 C102.836556,-1.623249e-15 110,7.163444 110,16 L110,94 C110,102.836556 102.836556,110 94,110 L16,110 C7.163444,110 1.082166e-15,102.836556 0,94 L0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z"/>
+    <polygon fill="#FFF" points="29.152 82.252 36.171 75.233 34.767 73.829 27.748 80.848 20.728 73.829 19.324 75.233 26.344 82.252 19.324 89.272 20.728 90.676 27.748 83.656 34.767 90.676 36.171 89.272 29.152 82.252"/>
+    <path fill="url(#deepin-calculator-c)" d="M110,55 L110,94 C110,102.836556 102.836556,110 94,110 L55,110 L55,55 L110,55 Z M92,85 L74,85 L74,87 L92,87 L92,85 Z M92,77 L74,77 L74,79 L92,79 L92,77 Z M55,0 L55,55 L0,55 L0,16 C0,7.163444 7.163444,0 16,0 L55,0 Z M29,17 L27,17 L27,27 L17,27 L17,29 L27,29 L27,39 L29,39 L29,29 L39,29 L39,27 L29,27 L29,17 Z"/>
+    <rect width="22" height="2" x="71" y="27" fill="#FFF"/>
+  </g>
+</svg>

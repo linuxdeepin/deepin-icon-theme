@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="desktop-ai-assistant-a" width="126.7%" height="126.7%" x="-13.3%" y="-13.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="desktop-ai-assistant-c" cx="41.862%" cy="21.344%" r="63.627%" fx="41.862%" fy="21.344%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#B6E6FF"/>
+    </radialGradient>
+    <circle id="desktop-ai-assistant-b" cx="30" cy="30" r="30"/>
+    <linearGradient id="desktop-ai-assistant-d" x1="0%" x2="50%" y1="18.933%" y2="93.757%">
+      <stop offset="0%" stop-color="#0709B6"/>
+      <stop offset="100%" stop-color="#0091A0"/>
+    </linearGradient>
+    <linearGradient id="desktop-ai-assistant-f" x1="100%" x2="37.123%" y1="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4FF00"/>
+      <stop offset="100%" stop-color="#07F"/>
+    </linearGradient>
+    <linearGradient id="desktop-ai-assistant-g" x1="100%" x2="37.123%" y1="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4FF00"/>
+      <stop offset="100%" stop-color="#07F"/>
+    </linearGradient>
+    <linearGradient id="desktop-ai-assistant-h" x1="100%" x2="37.123%" y1="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4FF00"/>
+      <stop offset="100%" stop-color="#07F"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#desktop-ai-assistant-a)" transform="translate(3 2)">
+    <mask id="desktop-ai-assistant-e" fill="#fff">
+      <use xlink:href="#desktop-ai-assistant-b"/>
+    </mask>
+    <use fill="url(#desktop-ai-assistant-c)" xlink:href="#desktop-ai-assistant-b"/>
+    <path fill="url(#desktop-ai-assistant-d)" stroke="#FFF" stroke-opacity=".5" d="M30.5,14.5 C31.6045695,14.5 32.5,15.3954305 32.5,16.5 L32.5,42.5 C32.5,43.6045695 31.6045695,44.5 30.5,44.5 C29.3954305,44.5 28.5,43.6045695 28.5,42.5 L28.5,16.5 C28.5,15.3954305 29.3954305,14.5 30.5,14.5 Z M37.5,18.5 C38.6045695,18.5 39.5,19.3954305 39.5,20.5 L39.5,39.5 C39.5,40.6045695 38.6045695,41.5 37.5,41.5 C36.3954305,41.5 35.5,40.6045695 35.5,39.5 L35.5,20.5 C35.5,19.3954305 36.3954305,18.5 37.5,18.5 Z M23.5,20.5 C24.6045695,20.5 25.5,21.3954305 25.5,22.5 L25.5,37.5 C25.5,38.6045695 24.6045695,39.5 23.5,39.5 C22.3954305,39.5 21.5,38.6045695 21.5,37.5 L21.5,22.5 C21.5,21.3954305 22.3954305,20.5 23.5,20.5 Z M16.5,22.5 C17.6045695,22.5 18.5,23.3954305 18.5,24.5 L18.5,34.5 C18.5,35.6045695 17.6045695,36.5 16.5,36.5 C15.3954305,36.5 14.5,35.6045695 14.5,34.5 L14.5,24.5 C14.5,23.3954305 15.3954305,22.5 16.5,22.5 Z M44.5,24.5 C45.6045695,24.5 46.5,25.3954305 46.5,26.5 L46.5,33.5 C46.5,34.6045695 45.6045695,35.5 44.5,35.5 C43.3954305,35.5 42.5,34.6045695 42.5,33.5 L42.5,26.5 C42.5,25.3954305 43.3954305,24.5 44.5,24.5 Z" mask="url(#desktop-ai-assistant-e)"/>
+    <path fill="url(#desktop-ai-assistant-f)" fill-opacity=".5" d="M59.3386095,40 C54.9528812,51.605768 43.7209553,59.8607645 30.5570449,59.8607645 C24.029874,59.8607645 17.9776923,57.8312273 12.9995652,54.3700005 C29.0445208,50.9210841 39.935529,44.4231194 58.6744035,40.1488638 Z" mask="url(#desktop-ai-assistant-e)"/>
+    <path fill="url(#desktop-ai-assistant-g)" fill-opacity=".5" d="M6.63372527,42.1196951 C28.6784887,40.7677249 32.1918147,49.4688462 52.5268081,51.1040828 C46.933839,57.0436443 39.0111561,60.75 30.2263192,60.75 C17.7412463,60.75 6.99757762,53.2637924 2.20490212,42.5181131 C3.61441308,42.3485597 5.08842629,42.2144069 6.63372527,42.1196951 Z" mask="url(#desktop-ai-assistant-e)"/>
+    <path fill="url(#desktop-ai-assistant-h)" fill-opacity=".5" d="M1.94707293,27.0165923 C25.7247618,26.4017968 35.0901588,43.0318802 52.6282501,50.3167032 C46.9994447,56.5683198 38.834804,60.5 29.75,60.5 C12.7672439,60.5 -1,46.7607383 -1,29.8125 C-1,28.9230592 -0.962083173,28.0424563 -0.887774628,27.1722134 C0.0364956686,27.0937501 0.981355335,27.0415227 1.94707293,27.0165923 Z" mask="url(#desktop-ai-assistant-e)"/>
+  </g>
+</svg>

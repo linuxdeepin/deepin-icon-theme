@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="deepin-system-monitor-a" width="128.6%" height="128.6%" x="-14.3%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-system-monitor-b" cx="38.256%" cy="21.126%" r="100.21%" fx="38.256%" fy="21.126%">
+      <stop offset="0%" stop-color="#665AFF"/>
+      <stop offset="100%" stop-color="#4300D7"/>
+    </radialGradient>
+    <radialGradient id="deepin-system-monitor-c" cx="50%" cy="52.28%" r="54.424%" fx="50%" fy="52.28%">
+      <stop offset="0%" stop-color="#00D8FF"/>
+      <stop offset="100%" stop-color="#3D00B5"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-system-monitor-a)" transform="translate(2 2)">
+    <circle cx="14" cy="14" r="14" fill="url(#deepin-system-monitor-b)"/>
+    <circle cx="14" cy="14" r="11" fill="url(#deepin-system-monitor-c)"/>
+    <polygon fill="#FFF" points="12 25 16 25 16 26 12 26" opacity=".5"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="2.5 14 25.5 14 25.5 13 2.5 13"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="5.5 7 22.5 7 22.5 6 5.5 6"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="18 25 18 3.333 17 3.333 17 25"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="25 18.5 25 7 24 7 24 18.5"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="11 25 11 3 10 3 10 25"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="4 18.5 4 9.5 3 9.5 3 18.5"/>
+    <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="4.5 21 23.5 21 23.5 20 4.5 20"/>
+    <path stroke="#FFF" stroke-linecap="round" d="M19.0481507,24.3356622 C22.8688496,22.4660476 25.5,18.5402929 25.5,14 C25.5,7.64872538 20.3512746,2.5 14,2.5 C7.64872538,2.5 2.5,7.64872538 2.5,14 C2.5,18.5502891 5.1427491,22.4833312 8.97710242,24.3479812" opacity=".504"/>
+    <path stroke="#FFF" stroke-linecap="round" d="M14,2.5 C7.64872538,2.5 2.5,7.64872538 2.5,14 C2.5,18.5502891 5.1427491,22.4833312 8.97710242,24.3479812"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M5,15.8421864 C5,15.8421864 5.66666667,17.4737834 7,17.4737834 C10,17.4737834 9,8.5 12,8.5 C15,8.5 13.3333333,17.4737834 16.3333333,17.4737834 C18.3333333,17.4737834 17.3333333,13.394791 19,13.394791 C20.6666667,13.394791 19.3333333,17.8816827 23,17.4737834"/>
+  </g>
+</svg>

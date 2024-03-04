@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="fcitx-a" width="125%" height="125%" x="-12.5%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="fcitx-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#DDD"/>
+      <stop offset="100%" stop-color="#9E9E9E"/>
+    </linearGradient>
+    <path id="fcitx-c" d="M2.34375,0 L17.65625,0 C18.9506674,-2.37780616e-16 20,1.04933262 20,2.34375 L20,8.65625 C20,9.95066738 18.9506674,11 17.65625,11 L2.34375,11 C1.04933262,11 1.5852041e-16,9.95066738 0,8.65625 L0,2.34375 C-1.5852041e-16,1.04933262 1.04933262,2.37780616e-16 2.34375,0 Z"/>
+    <filter id="fcitx-d" width="105%" height="109.1%" x="-2.5%" y="-4.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0"/>
+    </filter>
+    <linearGradient id="fcitx-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E9E9E9"/>
+      <stop offset="100%" stop-color="#E3E3E3"/>
+    </linearGradient>
+    <path id="fcitx-f" d="M14,7 C14.5522847,7 15,7.44771525 15,8 C15,8.55228475 14.5522847,9 14,9 L6,9 C5.44771525,9 5,8.55228475 5,8 C5,7.44771525 5.44771525,7 6,7 L14,7 Z M17,7 C17.5522847,7 18,7.44771525 18,8 C18,8.55228475 17.5522847,9 17,9 C16.4477153,9 16,8.55228475 16,8 C16,7.44771525 16.4477153,7 17,7 Z M3,7 C3.55228475,7 4,7.44771525 4,8 C4,8.55228475 3.55228475,9 3,9 C2.44771525,9 2,8.55228475 2,8 C2,7.44771525 2.44771525,7 3,7 Z M4.5,4 C5.05228475,4 5.5,4.44771525 5.5,5 C5.5,5.55228475 5.05228475,6 4.5,6 L3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 L4.5,4 Z M17,4 C17.5522847,4 18,4.44771525 18,5 C18,5.55228475 17.5522847,6 17,6 L16,6 C15.4477153,6 15,5.55228475 15,5 C15,4.44771525 15.4477153,4 16,4 L17,4 Z M7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 Z M13,4 C13.5522847,4 14,4.44771525 14,5 C14,5.55228475 13.5522847,6 13,6 C12.4477153,6 12,5.55228475 12,5 C12,4.44771525 12.4477153,4 13,4 Z M10,4 C10.5522847,4 11,4.44771525 11,5 C11,5.55228475 10.5522847,6 10,6 C9.44771525,6 9,5.55228475 9,5 C9,4.44771525 9.44771525,4 10,4 Z M3,1 C3.55228475,1 4,1.44771525 4,2 C4,2.55228475 3.55228475,3 3,3 C2.44771525,3 2,2.55228475 2,2 C2,1.44771525 2.44771525,1 3,1 Z M11,1 C11.5522847,1 12,1.44771525 12,2 C12,2.55228475 11.5522847,3 11,3 C10.4477153,3 10,2.55228475 10,2 C10,1.44771525 10.4477153,1 11,1 Z M6,1 C6.55228475,1 7,1.44771525 7,2 C7,2.55228475 6.55228475,3 6,3 C5.44771525,3 5,2.55228475 5,2 C5,1.44771525 5.44771525,1 6,1 Z M14,1 C14.5522847,1 15,1.44771525 15,2 C15,2.55228475 14.5522847,3 14,3 C13.4477153,3 13,2.55228475 13,2 C13,1.44771525 13.4477153,1 14,1 Z M17,1 C17.5522847,1 18,1.44771525 18,2 C18,2.55228475 17.5522847,3 17,3 C16.4477153,3 16,2.55228475 16,2 C16,1.44771525 16.4477153,1 17,1 Z"/>
+    <filter id="fcitx-e" width="106.2%" height="125%" x="-3.1%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+    </filter>
+    <filter id="fcitx-h" width="106.2%" height="125%" x="-3.1%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.3 0"/>
+    </filter>
+    <linearGradient id="fcitx-k" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#03E297"/>
+      <stop offset="98.575%" stop-color="#00A8D3"/>
+    </linearGradient>
+    <path id="fcitx-j" d="M5.5,0 L13.4770066,0 C14.3039022,2.9219096e-16 14.974839,0.669184394 14.9770015,1.49607713 L14.9990888,9.94163966 C14.999663,10.1611725 14.8976664,10.3683746 14.7233405,10.5018117 L9.92737427,14.1728678 C9.67516113,14.3659235 9.32483887,14.3659235 9.07262573,14.1728678 L4.27575073,10.5011161 C4.10193819,10.3680719 4,10.16167 4,9.9427829 L4,1.5 C4,0.671572875 4.67157288,1.52179594e-16 5.5,0 Z"/>
+    <filter id="fcitx-i" width="136.4%" height="126.3%" x="-18.2%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <filter id="fcitx-l" width="127.3%" height="119.4%" x="-13.6%" y="-3.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.25 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <text id="fcitx-n" fill="#FFF" font-family="SourceHanSansCN-Medium, Source Han Sans CN" font-size="10" font-weight="400">
+      <tspan x="5" y="10">中</tspan>
+    </text>
+    <filter id="fcitx-m" width="140%" height="140%" x="-20%" y="-10%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#fcitx-a)" transform="translate(2 2)">
+    <g transform="translate(0 9)">
+      <use fill="url(#fcitx-b)" xlink:href="#fcitx-c"/>
+      <use fill="#000" filter="url(#fcitx-d)" xlink:href="#fcitx-c"/>
+      <use fill="#000" filter="url(#fcitx-e)" xlink:href="#fcitx-f"/>
+      <use fill="url(#fcitx-g)" xlink:href="#fcitx-f"/>
+      <use fill="#000" filter="url(#fcitx-h)" xlink:href="#fcitx-f"/>
+    </g>
+    <use fill="#000" filter="url(#fcitx-i)" xlink:href="#fcitx-j"/>
+    <use fill="url(#fcitx-k)" xlink:href="#fcitx-j"/>
+    <use fill="#000" filter="url(#fcitx-l)" xlink:href="#fcitx-j"/>
+    <g fill="#FFF">
+      <use filter="url(#fcitx-m)" xlink:href="#fcitx-n"/>
+      <use xlink:href="#fcitx-n"/>
+    </g>
+  </g>
+</svg>

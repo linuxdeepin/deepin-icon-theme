@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="fcitx-a" width="132.5%" height="132.5%" x="-16.2%" y="-16.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="fcitx-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#DDD"/>
+      <stop offset="100%" stop-color="#9E9E9E"/>
+    </linearGradient>
+    <path id="fcitx-c" d="M4.6875,0 L35.3125,0 C37.9013348,-4.75561231e-16 40,2.09866524 40,4.6875 L40,17.3125 C40,19.9013348 37.9013348,22 35.3125,22 L4.6875,22 C2.09866524,22 3.17040821e-16,19.9013348 0,17.3125 L0,4.6875 C-3.17040821e-16,2.09866524 2.09866524,4.75561231e-16 4.6875,0 Z"/>
+    <filter id="fcitx-d" width="102.5%" height="104.5%" x="-1.2%" y="-2.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0"/>
+    </filter>
+    <linearGradient id="fcitx-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E9E9E9"/>
+      <stop offset="100%" stop-color="#E3E3E3"/>
+    </linearGradient>
+    <path id="fcitx-f" d="M31,14 C32.1045695,14 33,14.8954305 33,16 C33,17.1045695 32.1045695,18 31,18 L15,18 C13.8954305,18 13,17.1045695 13,16 C13,14.8954305 13.8954305,14 15,14 L31,14 Z M36,14 C37.1045695,14 38,14.8954305 38,16 C38,17.1045695 37.1045695,18 36,18 C34.8954305,18 34,17.1045695 34,16 C34,14.8954305 34.8954305,14 36,14 Z M5,14 C6.1045695,14 7,14.8954305 7,16 C7,17.1045695 6.1045695,18 5,18 C3.8954305,18 3,17.1045695 3,16 C3,14.8954305 3.8954305,14 5,14 Z M10,14 C11.1045695,14 12,14.8954305 12,16 C12,17.1045695 11.1045695,18 10,18 C8.8954305,18 8,17.1045695 8,16 C8,14.8954305 8.8954305,14 10,14 Z M8,9 C9.1045695,9 10,9.8954305 10,11 C10,12.1045695 9.1045695,13 8,13 L5,13 C3.8954305,13 3,12.1045695 3,11 C3,9.8954305 3.8954305,9 5,9 L8,9 Z M36,9 C37.1045695,9 38,9.8954305 38,11 C38,12.1045695 37.1045695,13 36,13 L33,13 C31.8954305,13 31,12.1045695 31,11 C31,9.8954305 31.8954305,9 33,9 L36,9 Z M13,9 C14.1045695,9 15,9.8954305 15,11 C15,12.1045695 14.1045695,13 13,13 C11.8954305,13 11,12.1045695 11,11 C11,9.8954305 11.8954305,9 13,9 Z M18,9 C19.1045695,9 20,9.8954305 20,11 C20,12.1045695 19.1045695,13 18,13 C16.8954305,13 16,12.1045695 16,11 C16,9.8954305 16.8954305,9 18,9 Z M28,9 C29.1045695,9 30,9.8954305 30,11 C30,12.1045695 29.1045695,13 28,13 C26.8954305,13 26,12.1045695 26,11 C26,9.8954305 26.8954305,9 28,9 Z M23,9 C24.1045695,9 25,9.8954305 25,11 C25,12.1045695 24.1045695,13 23,13 C21.8954305,13 21,12.1045695 21,11 C21,9.8954305 21.8954305,9 23,9 Z M5,4 C6.1045695,4 7,4.8954305 7,6 C7,7.1045695 6.1045695,8 5,8 C3.8954305,8 3,7.1045695 3,6 C3,4.8954305 3.8954305,4 5,4 Z M26,4 C27.1045695,4 28,4.8954305 28,6 C28,7.1045695 27.1045695,8 26,8 C24.8954305,8 24,7.1045695 24,6 C24,4.8954305 24.8954305,4 26,4 Z M10,4 C11.1045695,4 12,4.8954305 12,6 C12,7.1045695 11.1045695,8 10,8 C8.8954305,8 8,7.1045695 8,6 C8,4.8954305 8.8954305,4 10,4 Z M15,4 C16.1045695,4 17,4.8954305 17,6 C17,7.1045695 16.1045695,8 15,8 C13.8954305,8 13,7.1045695 13,6 C13,4.8954305 13.8954305,4 15,4 Z M31,4 C32.1045695,4 33,4.8954305 33,6 C33,7.1045695 32.1045695,8 31,8 C29.8954305,8 29,7.1045695 29,6 C29,4.8954305 29.8954305,4 31,4 Z M36,4 C37.1045695,4 38,4.8954305 38,6 C38,7.1045695 37.1045695,8 36,8 C34.8954305,8 34,7.1045695 34,6 C34,4.8954305 34.8954305,4 36,4 Z M21,4 C22.1045695,4 23,4.8954305 23,6 C23,7.1045695 22.1045695,8 21,8 C19.8954305,8 19,7.1045695 19,6 C19,4.8954305 19.8954305,4 21,4 Z"/>
+    <filter id="fcitx-e" width="102.9%" height="114.3%" x="-1.4%" y="-3.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+    </filter>
+    <filter id="fcitx-h" width="102.9%" height="114.3%" x="-1.4%" y="-3.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.3 0"/>
+    </filter>
+    <linearGradient id="fcitx-k" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#03E297"/>
+      <stop offset="98.575%" stop-color="#00A8D3"/>
+    </linearGradient>
+    <path id="fcitx-j" d="M10,0 L25.9540133,0 C27.6078044,5.84381919e-16 28.9496779,1.33836879 28.954003,2.99215425 L28.9981777,19.8832793 C28.9993259,20.3223449 28.7953328,20.7367492 28.446681,21.0036235 L18.8547485,28.3457356 C18.3503223,28.731847 17.6496777,28.731847 17.1452515,28.3457356 L7.55150145,21.0022323 C7.20387638,20.7361438 7,20.32334 7,19.8855658 L7,3 C7,1.34314575 8.34314575,3.04359188e-16 10,0 Z"/>
+    <filter id="fcitx-i" width="118.2%" height="112.5%" x="-9.1%" y="-3.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <filter id="fcitx-l" width="113.6%" height="109.1%" x="-6.8%" y="-1.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.25 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <text id="fcitx-n" fill="#FFF" font-family="SourceHanSansCN-Medium, Source Han Sans CN" font-size="19.688" font-weight="400">
+      <tspan x="9" y="20">中</tspan>
+    </text>
+    <filter id="fcitx-m" width="120%" height="121.1%" x="-10%" y="-5.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#fcitx-a)" transform="translate(4 4)">
+    <g transform="translate(0 18)">
+      <use fill="url(#fcitx-b)" xlink:href="#fcitx-c"/>
+      <use fill="#000" filter="url(#fcitx-d)" xlink:href="#fcitx-c"/>
+      <use fill="#000" filter="url(#fcitx-e)" xlink:href="#fcitx-f"/>
+      <use fill="url(#fcitx-g)" xlink:href="#fcitx-f"/>
+      <use fill="#000" filter="url(#fcitx-h)" xlink:href="#fcitx-f"/>
+    </g>
+    <use fill="#000" filter="url(#fcitx-i)" xlink:href="#fcitx-j"/>
+    <use fill="url(#fcitx-k)" xlink:href="#fcitx-j"/>
+    <use fill="#000" filter="url(#fcitx-l)" xlink:href="#fcitx-j"/>
+    <g fill="#FFF">
+      <use filter="url(#fcitx-m)" xlink:href="#fcitx-n"/>
+      <use xlink:href="#fcitx-n"/>
+    </g>
+  </g>
+</svg>

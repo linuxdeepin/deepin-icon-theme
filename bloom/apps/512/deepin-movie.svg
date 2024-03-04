@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <filter id="deepin-movie-a" width="122.9%" height="122.9%" x="-11.4%" y="-11.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-movie-b" x1="50%" x2="50%" y1="2.375%" y2="100%">
+      <stop offset="0%" stop-color="#3E3E3E"/>
+      <stop offset="100%" stop-color="#0F0F0F"/>
+    </linearGradient>
+    <linearGradient id="deepin-movie-c" x1="40.768%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B0FAFF"/>
+      <stop offset="100%" stop-color="#0D96C2"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-movie-a)" transform="translate(20 20)">
+    <circle cx="236" cy="236" r="225.333" fill="url(#deepin-movie-b)" stroke="url(#deepin-movie-c)" stroke-width="21.333"/>
+    <path fill="#FF006B" d="M195.106196,335.285014 C175.717579,346.35048 160,337.279565 160,314.976809 L160,152.997343 C160,130.715965 175.805698,121.673963 195.106196,132.689138 L337.491563,213.951277 C356.88018,225.016743 356.792061,243.0077 337.491563,254.022875 L195.106196,335.285014 Z"/>
+    <path fill="#FFB600" d="M168.102597,336.143237 C168.044765,336.096355 167.987196,336.04906 167.929892,336.001356 L167.929892,336.001356 Z M224,149.179403 L288,185.705403 L288,282.268403 L224,318.794403 L224,149.179403 Z"/>
+    <path fill="#1473FF" d="M195.106196,132.689138 L224,149.179 L224,318.794 L195.106196,335.285014 C175.717579,346.35048 160,337.279565 160,314.976809 L160,152.997343 C160,130.715965 175.805698,121.673963 195.106196,132.689138 Z"/>
+    <path stroke="#FFF" stroke-opacity=".3" stroke-width="8" d="M193.123497,331.810981 L335.508864,250.548842 C352.153,241.049705 352.174419,226.936671 335.508864,217.42531 L193.123497,136.163171 C176.453153,126.649077 164,133.828198 164,152.997343 L164,314.976809 C164,334.197482 176.391297,341.360377 193.123497,331.810981 Z"/>
+  </g>
+</svg>

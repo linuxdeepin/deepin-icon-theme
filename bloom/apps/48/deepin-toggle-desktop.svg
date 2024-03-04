@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-show-desktop-a" width="128.9%" height="131.7%" x="-14.4%" y="-15.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-show-desktop-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00D479"/>
+      <stop offset="100%" stop-color="#02A5CB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-show-desktop-a)" transform="translate(1.005 3.895)">
+    <path fill="url(#deepin-show-desktop-b)" d="M0.994521895,4.10455399 C0.994521895,1.89540089 2.78761313,0.104528463 4.99633189,0.104528463 L40.9927119,0.104528463 C43.2028505,0.104528463 44.9945219,1.90095322 44.9945219,4.10455399 L44.9945219,36.1045029 C44.9945219,38.313656 43.2014307,40.1045285 40.9927119,40.1045285 L4.99633189,40.1045285 C2.78619326,40.1045285 0.994521895,38.3081037 0.994521895,36.1045029 L0.994521895,4.10455399 Z"/>
+    <path fill="#A4FFCC" d="M2.9945219,34.1024416 C2.9945219,32.9990246 3.88606172,32.1045285 4.99181352,32.1045285 L40.9972303,32.1045285 C42.100304,32.1045285 42.9945219,33.0027891 42.9945219,34.1024416 L42.9945219,36.1066153 C42.9945219,37.2100323 42.1029821,38.1045285 40.9972303,38.1045285 L4.99181352,38.1045285 C3.88873981,38.1045285 2.9945219,37.2062678 2.9945219,36.1066153 L2.9945219,34.1024416 Z" opacity=".7"/>
+    <rect width="6" height="6" x="5.995" y="5.105" fill="#FFF" rx="1"/>
+    <rect width="6" height="6" x="5.995" y="17.105" fill="#FFF" rx="1"/>
+  </g>
+</svg>

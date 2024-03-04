@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="deepin-document-viewer-a" width="147.5%" height="138.6%" x="-23.8%" y="-23.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-document-viewer-b" cx="55.921%" cy="91.92%" r="40.017%" fx="55.921%" fy="91.92%" gradientTransform="matrix(.00966 .97707 -1.03117 .00973 1.502 .364)">
+      <stop offset=".082%" stop-color="#FFF"/>
+      <stop offset="32.699%" stop-color="#F4EEEE"/>
+      <stop offset="100%" stop-color="#E9E4E4"/>
+    </radialGradient>
+    <linearGradient id="deepin-document-viewer-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#C4C4C4" stop-opacity=".554"/>
+    </linearGradient>
+    <linearGradient id="deepin-document-viewer-f" x1="64.187%" x2="92.771%" y1="16.493%" y2="86.026%">
+      <stop offset="0%" stop-color="#FFFDFD"/>
+      <stop offset="100%" stop-color="#F2EEEE"/>
+    </linearGradient>
+    <path id="deepin-document-viewer-e" d="M9.88132911,2.55813953 L31.5625,2.55813953 C36.2224026,2.55813953 40,6.33573696 40,10.9956395 L40,30.9578488 C40,35.6177514 36.2224026,39.3953488 31.5625,39.3953488 L8.94382911,39.3953488 C4.28392654,39.3953488 0.506329114,35.6177514 0.506329114,30.9578488 L0.506329114,11.9331395 C0.506329114,6.75547001 4.70365958,2.55813953 9.88132911,2.55813953 Z"/>
+    <filter id="deepin-document-viewer-d" width="125.3%" height="127.1%" x="-12.7%" y="-10.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0"/>
+    </filter>
+    <linearGradient id="deepin-document-viewer-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#C4C4C4" stop-opacity=".554"/>
+    </linearGradient>
+    <linearGradient id="deepin-document-viewer-h" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#C4C4C4" stop-opacity=".554"/>
+    </linearGradient>
+    <linearGradient id="deepin-document-viewer-i" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#C4C4C4" stop-opacity=".554"/>
+    </linearGradient>
+    <linearGradient id="deepin-document-viewer-j" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FE8B45"/>
+      <stop offset="99.696%" stop-color="#F7B338"/>
+    </linearGradient>
+    <path id="deepin-document-viewer-k" d="M7.68699655,39.3953488 L7.68699655,43.4795484 C7.68699655,43.6866552 7.85488977,43.8545484 8.06199655,43.8545484 C8.10015173,43.8545484 8.13808345,43.8487253 8.17448165,43.8372803 L10.7644254,43.0228992 L10.7644254,43.0228992 L13.3533725,43.8449043 C13.5507684,43.9075786 13.761597,43.7983651 13.8242713,43.6009692 C13.8359238,43.564269 13.8418543,43.525993 13.8418543,43.4874873 L13.8418543,39.3953488 L13.8418543,39.3953488 L7.68699655,39.3953488 Z"/>
+    <filter id="deepin-document-viewer-l" width="132.5%" height="140.5%" x="-16.2%" y="-21.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation=".5"/>
+      <feOffset dy="1" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-document-viewer-m" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-opacity=".04"/>
+      <stop offset="100%" stop-opacity=".07"/>
+    </linearGradient>
+    <linearGradient id="deepin-document-viewer-p" x1="54.018%" x2="100%" y1="39.15%" y2="39.15%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#E7DBDB"/>
+    </linearGradient>
+    <path id="deepin-document-viewer-o" d="M6.1482821,34.2936972 L6.1482821,37.6798384 L6.1482821,37.6798384 C11.6781791,38.1413415 14.6532902,38.372093 15.0736152,38.372093 C20.2534823,38.372093 22.5658861,37.4339866 23.1260098,37.2446312 C23.4478164,37.1358413 24.432735,36.714647 24.924503,36.2454379 C25.2886868,35.8979603 25.433667,35.5596381 25.4649616,35.4539769 C25.6477449,34.8368378 25.5801485,34.2026059 25.5801485,33.5644877 C25.5801485,29.7812946 25.7118109,21.8679666 25.5801485,14.0263757 C25.5801485,13.1936467 25.5801485,9.89656431 25.5801485,4.13512846 C25.3292305,2.78868712 24.3537372,1.67164431 22.6536687,0.784000038 C20.951367,-0.104810198 18.3140742,-0.237896329 14.7417902,0.384741644 C14.2929272,0.463023047 13.9653119,0.852679836 13.9653119,1.30831776 L13.9653119,3.02472563 L13.9653119,3.02472563 L6.1482821,7.7543341 L6.1482821,34.2936972 Z"/>
+    <filter id="deepin-document-viewer-n" width="166.7%" height="133.9%" x="-28.2%" y="-16.9%" filterUnits="objectBoundingBox">
+      <feOffset dx="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.22899683   0 0 0 0 0.22899683   0 0 0 0 0.22899683  0 0 0 0.4 0"/>
+      <feOffset dx="1" in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <filter id="deepin-document-viewer-q" width="120%" height="114%" x="-9.7%" y="-6.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.074027535 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-document-viewer-s" cx="19.953%" cy="2.931%" r="148.909%" fx="19.953%" fy="2.931%" gradientTransform="matrix(.36551 .63494 -.9308 .24933 .154 -.105)">
+      <stop offset="0%" stop-color="#FF5E4D"/>
+      <stop offset="100%" stop-color="#BA0E55"/>
+    </radialGradient>
+    <path id="deepin-document-viewer-r" d="M8.29237963,0.054500306 C9.461232,0.054500306 10.6300844,0.054500306 11.7989367,0.054500306 C11.7989367,0.054500306 12.4097288,0.054500306 13.9735493,0.054500306 C13.9735493,17.3377025 14.1446675,26.645414 14.1446675,27.9776347 C14.1446675,29.3502175 15.4566619,29.2871502 15.7016986,29.2871502 C17.5072844,29.2871502 19.8244098,29.3871059 21.9403551,29.7469841 C24.1502712,30.1228447 24.785805,30.8659854 25.2821332,31.5409313 C25.6259798,32.0085208 25.9469064,33.6407106 24.6592141,34.6004356 C23.3623129,35.5670241 21.6548347,36.6245832 15.4652697,36.7978232 C13.8379376,36.8433706 10.9688177,36.8195031 7.79672769,36.7978232 C3.52609678,36.7686352 0.409298744,32.1136427 0.506329114,28.7589989 C0.507309219,24.2497316 0.507799271,20.8547138 0.507799271,18.5739456 C0.507799271,16.1858659 0.507799271,12.602817 0.507799271,7.82479871 C0.501864939,3.54114198 3.9858757,0.06044058 8.281607,0.054500306 C12.5773383,0.0485600321 3.9966442,0.054500306 8.29237963,0.054500306 Z"/>
+    <filter id="deepin-document-viewer-t" width="108%" height="105.4%" x="-4%" y="-2.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.152890079 0"/>
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation=".5"/>
+      <feOffset dx="-1" dy="1" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-document-viewer-u" x1="41.053%" x2="100%" y1="55.391%" y2="55.391%">
+      <stop offset="0%" stop-color="#6F0F0F"/>
+      <stop offset="100%" stop-color="#5A0823"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-document-viewer-a)" transform="translate(4 2)">
+    <path fill="url(#deepin-document-viewer-b)" stroke="url(#deepin-document-viewer-c)" stroke-width=".5" d="M8.94382911,2.80813953 C4.42199772,2.80813953 0.756329114,6.47380815 0.756329114,10.9956395 L0.756329114,34.9142442 C0.756329114,39.2289688 4.25410451,42.7267442 8.56882911,42.7267442 L31.5625,42.7267442 C36.0843314,42.7267442 39.75,39.0610756 39.75,34.5392442 L39.75,10.9956395 C39.75,6.47380815 36.0843314,2.80813953 31.5625,2.80813953 L8.94382911,2.80813953 Z"/>
+    <use fill="#000" filter="url(#deepin-document-viewer-d)" xlink:href="#deepin-document-viewer-e"/>
+    <use fill="url(#deepin-document-viewer-f)" xlink:href="#deepin-document-viewer-e"/>
+    <rect width="39.494" height="40.419" x=".506" y="2.558" rx="8.438"/>
+    <rect width="38.994" height="38.895" x=".756" y="2.808" stroke="url(#deepin-document-viewer-g)" stroke-width=".5" rx="8.438"/>
+    <rect width="38.994" height="38.384" x=".756" y="2.297" stroke="url(#deepin-document-viewer-h)" stroke-width=".5" rx="8.438"/>
+    <rect width="38.994" height="36.849" x=".756" y="2.808" stroke="url(#deepin-document-viewer-i)" stroke-width=".5" rx="8.438"/>
+    <use fill="url(#deepin-document-viewer-j)" xlink:href="#deepin-document-viewer-k"/>
+    <use fill="#000" filter="url(#deepin-document-viewer-l)" xlink:href="#deepin-document-viewer-k"/>
+    <path fill="url(#deepin-document-viewer-m)" d="M22.4426886,29.8235478 C22.6497954,29.8235478 22.8176886,29.991441 22.8176886,30.1985478 L22.8176886,31.8575581 C22.8176886,32.0646649 22.6497954,32.2325581 22.4426886,32.2325581 L10.1136158,32.2325581 C9.90650903,32.2325581 9.73861581,32.0646649 9.73861581,31.8575581 L9.73861581,30.1985478 C9.73861581,29.991441 9.90650903,29.8235478 10.1136158,29.8235478 L22.4426886,29.8235478 Z M14.789009,25.5836896 C14.9961158,25.5836896 15.164009,25.7515829 15.164009,25.9586896 L15.164009,27.6177 C15.164009,27.8248067 14.9961158,27.9927 14.789009,27.9927 L10.1136158,27.9927 C9.90650903,27.9927 9.73861581,27.8248067 9.73861581,27.6177 L9.73861581,25.9586896 C9.73861581,25.7515829 9.90650903,25.5836896 10.1136158,25.5836896 L14.789009,25.5836896 Z M22.4426886,25.5836896 C22.6497954,25.5836896 22.8176886,25.7515829 22.8176886,25.9586896 L22.8176886,27.6177 C22.8176886,27.8248067 22.6497954,27.9927 22.4426886,27.9927 L17.0891213,27.9927 C16.8820145,27.9927 16.7141213,27.8248067 16.7141213,27.6177 L16.7141213,25.9586896 C16.7141213,25.7515829 16.8820145,25.5836896 17.0891213,25.5836896 L22.4426886,25.5836896 Z M35.5217615,21.3438315 C35.7288682,21.3438315 35.8967615,21.5117247 35.8967615,21.7188315 L35.8967615,23.3778418 C35.8967615,23.5849486 35.7288682,23.7528418 35.5217615,23.7528418 L10.1136158,23.7528418 C9.90650903,23.7528418 9.73861581,23.5849486 9.73861581,23.3778418 L9.73861581,21.7188315 C9.73861581,21.5117247 9.90650903,21.3438315 10.1136158,21.3438315 L35.5217615,21.3438315 Z M25.6397953,10.744186 C25.8469021,10.744186 26.0147953,10.9120793 26.0147953,11.119186 L26.0147953,19.234344 C26.0147953,19.4414508 25.8469021,19.609344 25.6397953,19.609344 L10.1136158,19.609344 C9.90650903,19.609344 9.73861581,19.4414508 9.73861581,19.234344 L9.73861581,11.119186 C9.73861581,10.9120793 9.90650903,10.744186 10.1136158,10.744186 L25.6397953,10.744186 Z M35.5217615,10.744186 C35.7288682,10.744186 35.8967615,10.9120793 35.8967615,11.119186 L35.8967615,19.234344 C35.8967615,19.4414508 35.7288682,19.609344 35.5217615,19.609344 L29.0056099,19.609344 C28.7985031,19.609344 28.6306099,19.4414508 28.6306099,19.234344 L28.6306099,11.119186 C28.6306099,10.9120793 28.7985031,10.744186 29.0056099,10.744186 L35.5217615,10.744186 Z" transform="matrix(-1 0 0 1 45.635 0)"/>
+    <use fill="#000" filter="url(#deepin-document-viewer-n)" xlink:href="#deepin-document-viewer-o"/>
+    <use fill="url(#deepin-document-viewer-p)" xlink:href="#deepin-document-viewer-o"/>
+    <g filter="url(#deepin-document-viewer-q)" transform="translate(0 2.047)">
+      <mask id="deepin-document-viewer-v" fill="#fff">
+        <use xlink:href="#deepin-document-viewer-r"/>
+      </mask>
+      <use fill="url(#deepin-document-viewer-s)" xlink:href="#deepin-document-viewer-r"/>
+      <use fill="#000" filter="url(#deepin-document-viewer-t)" xlink:href="#deepin-document-viewer-r"/>
+      <polygon fill="url(#deepin-document-viewer-u)" fill-opacity=".18" points=".33 .051 6.055 -.485 6.055 36.26 .33 36.26" mask="url(#deepin-document-viewer-v)"/>
+    </g>
+  </g>
+</svg>

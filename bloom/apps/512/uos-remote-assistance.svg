@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <filter id="远程与协助-512px-a" width="123%" height="125.4%" x="-11.5%" y="-12.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="远程与协助-512px-b" x1="50%" x2="50%" y1="21.23%" y2="79.403%">
+      <stop offset="0%" stop-color="#64738B"/>
+      <stop offset="100%" stop-color="#7C8EAA"/>
+    </linearGradient>
+    <linearGradient id="远程与协助-512px-c" x1="46.826%" x2="46.826%" y1=".565%" y2="131%">
+      <stop offset="0%" stop-color="#E6F0FE"/>
+      <stop offset="100%" stop-color="#BECEE8"/>
+    </linearGradient>
+    <path id="远程与协助-512px-d" d="M40,0 L412,0 C434.09139,-4.05812251e-15 452,17.90861 452,40 L452,304 C452,326.09139 434.09139,344 412,344 L40,344 C17.90861,344 2.705415e-15,326.09139 0,304 L0,40 C-2.705415e-15,17.90861 17.90861,4.05812251e-15 40,0 Z"/>
+    <filter id="远程与协助-512px-e" width="101.5%" height="102%" x="-.8%" y="-1%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.282588505 0"/>
+      <feOffset dy="-7" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.210118007 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="远程与协助-512px-f" x1="46.826%" x2="46.826%" y1=".565%" y2="106.941%">
+      <stop offset="0%" stop-color="#417D97"/>
+      <stop offset="100%" stop-color="#101852"/>
+    </linearGradient>
+    <linearGradient id="远程与协助-512px-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".84"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".517"/>
+    </linearGradient>
+    <linearGradient id="远程与协助-512px-h" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".386"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".127"/>
+    </linearGradient>
+    <linearGradient id="远程与协助-512px-i" x1="46.826%" x2="46.826%" y1="-50.405%" y2="204.036%">
+      <stop offset="0%" stop-color="#D4DFEE"/>
+      <stop offset="100%" stop-color="#737D8C"/>
+    </linearGradient>
+    <path id="远程与协助-512px-j" d="M155.505524,378 L296.5,378 C302.851275,378 308,383.148725 308,389.5 C308,395.851275 302.851275,401 296.5,401 L156.218487,401 C149.807299,401 144.555123,395.90811 144.356481,389.5 C144.165611,383.342554 149.002475,378.196226 155.159921,378.005355 C155.275088,378.001785 155.390302,378 155.505524,378 Z"/>
+    <filter id="远程与协助-512px-k" width="101.6%" height="113%" x="-.7%" y="-6.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="3" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.199874344 0"/>
+    </filter>
+    <linearGradient id="远程与协助-512px-l" x1="19.151%" x2="74.501%" y1="-19.799%" y2="111.364%">
+      <stop offset="0%" stop-color="#B7E96C"/>
+      <stop offset="100%" stop-color="#009195"/>
+    </linearGradient>
+    <linearGradient id="远程与协助-512px-m" x1="50%" x2="50%" y1="0%" y2="98.828%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".636"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#远程与协助-512px-a)" transform="translate(30 62)">
+    <polygon fill="url(#远程与协助-512px-b)" points="178 344 274 344 274 378 178 378"/>
+    <use fill="url(#远程与协助-512px-c)" xlink:href="#远程与协助-512px-d"/>
+    <use fill="#000" filter="url(#远程与协助-512px-e)" xlink:href="#远程与协助-512px-d"/>
+    <path fill="url(#远程与协助-512px-f)" d="M40,16 L412,16 C425.254834,16 436,26.745166 436,40 L436,282 C436,295.254834 425.254834,306 412,306 L40,306 C26.745166,306 16,295.254834 16,282 L16,40 C16,26.745166 26.745166,16 40,16 Z"/>
+    <g transform="translate(85.5 71)">
+      <path fill="url(#远程与协助-512px-g)" d="M18.5,0 L262.5,0 C272.441125,0 280.5,8.0588745 280.5,18 L280.5,166 C280.5,175.941125 272.441125,184 262.5,184 L18.5,184 C8.5588745,184 0.5,175.941125 0.5,166 L0.5,18 C0.5,8.0588745 8.5588745,0 18.5,0 Z" opacity=".335"/>
+      <path fill="url(#远程与协助-512px-h)" d="M0.5,24 L74.5,24 L74.5,184 L18.5,184 C8.5588745,184 0.5,175.941125 0.5,166 L0.5,24 Z" opacity=".305"/>
+      <rect width="32" height="24" x="99.5" y="48" fill="#FFF" opacity=".17" rx="4"/>
+      <rect width="32" height="24" x="99.5" y="86" fill="#FFF" opacity=".17" rx="4"/>
+      <rect width="32" height="24" x="99.5" y="124" fill="#FFF" opacity=".17" rx="4"/>
+      <rect width="32" height="24" x="145.5" y="48" fill="#FFF" opacity=".17" rx="4"/>
+      <rect width="32" height="24" x="145.5" y="86" fill="#FFF" opacity=".17" rx="4"/>
+      <rect width="32" height="24" x="145.5" y="124" fill="#FFF" opacity=".17" rx="4"/>
+      <rect width="32" height="24" x="191.5" y="48" fill="#FFF" opacity=".17" rx="4"/>
+      <rect width="32" height="24" x="191.5" y="86" fill="#FFF" opacity=".17" rx="4"/>
+      <path fill="#FFF" d="M18.5,0 L262.5,0 C272.441125,0 280.5,8.0588745 280.5,18 L280.5,24 L0.5,24 L0.5,18 C0.5,8.0588745 8.5588745,0 18.5,0 Z" opacity=".596"/>
+    </g>
+    <use fill="url(#远程与协助-512px-i)" xlink:href="#远程与协助-512px-j"/>
+    <use fill="#000" filter="url(#远程与协助-512px-k)" xlink:href="#远程与协助-512px-j"/>
+    <circle cx="357" cy="313" r="113" fill="url(#远程与协助-512px-l)"/>
+    <path fill="url(#远程与协助-512px-m)" fill-rule="nonzero" d="M320.679459,254.457797 L327.045669,372.510426 C327.132721,374.124696 328.483223,375.379687 330.099535,375.34889 L391.206257,374.162231 C392.236364,374.142237 393.184145,373.595035 393.716515,372.712933 L425.297054,320.386002 C426.132379,319.001921 425.720776,317.204856 424.366303,316.322331 L325.312832,251.782717 C323.924646,250.878226 322.066063,251.270338 321.161572,252.658524 C320.814023,253.191933 320.645176,253.822076 320.679459,254.457797 Z"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M321.161572,252.658524 C322.032564,251.321752 323.788282,250.908637 325.156726,251.687538 L325.312832,251.782717 L424.366303,316.322331 C425.668681,317.170913 426.099323,318.865038 425.387921,320.224543 L425.297054,320.386002 L393.716515,372.712933 C393.219637,373.536228 392.360888,374.067788 391.411082,374.15126 L391.206257,374.162231 L330.099535,375.349445 C328.540949,375.378587 327.229525,374.212698 327.059785,372.681966 L327.045669,372.510426 L320.679459,254.457797 C320.645176,253.822076 320.814023,253.191933 321.161572,252.658524 Z M326.988,260.035 L332.88,369.294 L389.434,368.195 L418.662,319.767 L326.988,260.035 Z"/>
+    <path fill="#004F38" fill-opacity=".48" fill-rule="nonzero" d="M317.810194,250.474889 C316.999245,251.719509 316.60527,253.189844 316.685262,254.673191 L323.051472,372.72582 C323.254571,376.491998 326.404978,379.420012 330.175737,379.349459 L391.28392,378.161477 C393.687466,378.114824 395.898956,376.83802 397.141151,374.779782 L428.72169,322.452851 C430.670783,319.223329 429.710375,315.030178 426.549938,312.970953 L327.496468,248.431339 C324.327782,246.366739 320.108707,247.197438 317.950956,250.266945 L317.810194,250.474889 Z M321.161572,252.658524 C322.032564,251.321752 323.788282,250.908637 325.156726,251.687538 L325.312832,251.782717 L424.366303,316.322331 C425.668681,317.170913 426.099323,318.865038 425.387921,320.224543 L425.297054,320.386002 L393.716515,372.712933 C393.219637,373.536228 392.360888,374.067788 391.411082,374.15126 L391.206257,374.162231 L330.099535,375.349445 C328.540949,375.378587 327.229525,374.212698 327.059785,372.681966 L327.045669,372.510426 L320.679459,254.457797 C320.645176,253.822076 320.814023,253.191933 321.161572,252.658524 Z"/>
+  </g>
+</svg>

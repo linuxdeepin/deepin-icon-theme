@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="deepin-virtualkeyboard-a" width="126.7%" height="129.6%" x="-13.3%" y="-14.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="deepin-virtualkeyboard-b" x1="50%" x2="50%" y1="0%" y2="98.139%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#EDEDED"/>
+    </linearGradient>
+    <linearGradient id="deepin-virtualkeyboard-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4A4A4A"/>
+      <stop offset="97.645%" stop-color="#363636"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-virtualkeyboard-a)" transform="translate(1 2)">
+    <rect width="30" height="27" fill="url(#deepin-virtualkeyboard-b)" rx="5.049"/>
+    <path fill="url(#deepin-virtualkeyboard-c)" fill-rule="nonzero" d="M21,16 L21,19 L9,19 L9,16 L21,16 Z M8,16 L8,19 L5,19 L5,16 L8,16 Z M25,16 L25,19 L22,19 L22,16 L25,16 Z M19,12 L19,15 L16,15 L16,12 L19,12 Z M15,12 L15,15 L12,15 L12,12 L15,12 Z M11,12 L11,15 L5,15 L5,12 L11,12 Z M25,12 L25,15 L20,15 L20,12 L25,12 Z M25,8 L25,11 L22,11 L22,8 L25,8 Z M21,8 L21,11 L18,11 L18,8 L21,8 Z M17,8 L17,11 L14,11 L14,8 L17,8 Z M13,8 L13,11 L10,11 L10,8 L13,8 Z M9,8 L9,11 L5,11 L5,8 L9,8 Z"/>
+  </g>
+</svg>

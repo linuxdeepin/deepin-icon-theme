@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <filter id="desktop-ai-assistant-a" width="122.9%" height="122.9%" x="-11.4%" y="-11.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="desktop-ai-assistant-c" cx="41.862%" cy="21.344%" r="63.627%" fx="41.862%" fy="21.344%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#B6E6FF"/>
+    </radialGradient>
+    <circle id="desktop-ai-assistant-b" cx="236" cy="236" r="236"/>
+    <linearGradient id="desktop-ai-assistant-d" x1="0%" x2="50%" y1="16.267%" y2="97.511%">
+      <stop offset="0%" stop-color="#0709B6"/>
+      <stop offset="100%" stop-color="#0091A0"/>
+    </linearGradient>
+    <linearGradient id="desktop-ai-assistant-f" x1="100%" x2="37.123%" y1="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4FF00"/>
+      <stop offset="100%" stop-color="#07F"/>
+    </linearGradient>
+    <linearGradient id="desktop-ai-assistant-g" x1="100%" x2="37.123%" y1="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4FF00"/>
+      <stop offset="100%" stop-color="#07F"/>
+    </linearGradient>
+    <linearGradient id="desktop-ai-assistant-h" x1="100%" x2="37.123%" y1="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4FF00"/>
+      <stop offset="100%" stop-color="#07F"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#desktop-ai-assistant-a)" transform="translate(20 20)">
+    <mask id="desktop-ai-assistant-e" fill="#fff">
+      <use xlink:href="#desktop-ai-assistant-b"/>
+    </mask>
+    <use fill="url(#desktop-ai-assistant-c)" xlink:href="#desktop-ai-assistant-b"/>
+    <path fill="url(#desktop-ai-assistant-d)" stroke="#FFF" stroke-opacity=".5" stroke-width="7" d="M236,116.5 C244.008129,116.5 250.5,122.991871 250.5,131 L250.5,341 C250.5,349.008129 244.008129,355.5 236,355.5 C227.991871,355.5 221.5,349.008129 221.5,341 L221.5,131 C221.5,122.991871 227.991871,116.5 236,116.5 Z M290,147.5 C298.008129,147.5 304.5,153.991871 304.5,162 L304.5,310 C304.5,318.008129 298.008129,324.5 290,324.5 C281.991871,324.5 275.5,318.008129 275.5,310 L275.5,162 C275.5,153.991871 281.991871,147.5 290,147.5 Z M182,158.5 C190.008129,158.5 196.5,164.991871 196.5,173 L196.5,299 C196.5,307.008129 190.008129,313.5 182,313.5 C173.991871,313.5 167.5,307.008129 167.5,299 L167.5,173 C167.5,164.991871 173.991871,158.5 182,158.5 Z M128,179.5 C136.008129,179.5 142.5,185.991871 142.5,194 L142.5,278 C142.5,286.008129 136.008129,292.5 128,292.5 C119.991871,292.5 113.5,286.008129 113.5,278 L113.5,194 C113.5,185.991871 119.991871,179.5 128,179.5 Z M344,190.5 C352.008129,190.5 358.5,196.991871 358.5,205 L358.5,267 C358.5,275.008129 352.008129,281.5 344,281.5 C335.991871,281.5 329.5,275.008129 329.5,267 L329.5,205 C329.5,196.991871 335.991871,190.5 344,190.5 Z" mask="url(#desktop-ai-assistant-e)"/>
+    <path fill="url(#desktop-ai-assistant-f)" fill-opacity=".5" d="M462.841383,313.526509 C427.027044,407.903593 335.614796,475 228.5,475 C175.359662,475 126.08406,458.486126 85.5445165,430.319979 L85.5558847,430.319114 C216.278816,402.258382 305.04715,349.420581 457.753756,314.661858 Z" mask="url(#desktop-ai-assistant-e)"/>
+    <path fill="url(#desktop-ai-assistant-g)" fill-opacity=".5" d="M37.9812589,323.158642 C217.847966,312.140596 246.525122,383.04528 412.420898,396.380502 L412.436166,396.378497 C366.77827,444.796387 302.152326,475 230.5,475 C128.671013,475 41.0330599,413.998409 1.86199493,326.407911 L1.85523766,326.397249 C13.3537359,325.02309 25.3768863,323.930264 37.9812589,323.158642 Z" mask="url(#desktop-ai-assistant-e)"/>
+    <path fill="url(#desktop-ai-assistant-h)" fill-opacity=".5" d="M4.75666107,204.13571 C199.388921,199.107081 276.045794,335.134676 419.607891,394.715174 L419.617157,394.715137 C373.57681,445.843832 306.801123,478 232.5,478 C93.6003854,478 -19,365.623472 -19,227 C-19,219.715105 -18.689034,212.502695 -18.0796268,205.375271 C-10.6251795,204.752677 -3.01681345,204.336235 4.75666107,204.13571 Z" mask="url(#desktop-ai-assistant-e)"/>
+  </g>
+</svg>

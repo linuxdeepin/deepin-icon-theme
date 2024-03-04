@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="deepin-terminal-a" width="126.7%" height="128.6%" x="-13.3%" y="-14.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-terminal-b" cx="50%" cy="0%" r="100%" fx="50%" fy="0%" gradientTransform="matrix(0 1 -.93333 0 .5 -.5)">
+      <stop offset="0%" stop-color="#FF774D"/>
+      <stop offset="100%" stop-color="#BA0E55"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-terminal-a)" transform="translate(1 2)">
+    <rect width="30" height="28" fill="url(#deepin-terminal-b)" rx="4"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M17.5098379,17.0002001 C17.579861,17.003383 17.9999999,17.0415774 17.9999999,17.4999108 C17.9999999,17.9999108 17.4999999,17.9999108 17.4999999,17.9999108 L17.4999999,17.9999108 L11.5,17.9999108 C11.5,17.9999108 10.9999108,17.9999108 10.9999108,17.4999108 C10.9999108,16.9999108 11.5,16.9999108 11.5,16.9999108 Z M5.98173266,7.19767738 C6.14870083,6.91144624 6.51609147,6.81476449 6.80232262,6.98173266 L6.80232262,6.98173266 L12.8023226,10.4817327 C13.1992258,10.7132595 13.1992258,11.2867405 12.8023226,11.5182673 L12.8023226,11.5182673 L6.80232262,15.0182673 C6.51609147,15.1852355 6.14870083,15.0885538 5.98173266,14.8023226 C5.81476449,14.5160915 5.91144624,14.1487008 6.19767738,13.9817327 L6.19767738,13.9817327 L11.3461402,10.9784627 L6.19767738,8.01826734 C5.91144624,7.85129917 5.81476449,7.48390853 5.98173266,7.19767738 Z"/>
+  </g>
+</svg>

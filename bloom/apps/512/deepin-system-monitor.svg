@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <filter id="deepin-system-monitor-512px-a" width="122.9%" height="122.9%" x="-11.4%" y="-11.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="deepin-system-monitor-512px-b" cx="38.256%" cy="21.126%" r="100.21%" fx="38.256%" fy="21.126%">
+      <stop offset="0%" stop-color="#665AFF"/>
+      <stop offset="100%" stop-color="#4300D7"/>
+    </radialGradient>
+    <radialGradient id="deepin-system-monitor-512px-d" cx="50%" cy="52.28%" r="54.424%" fx="50%" fy="52.28%">
+      <stop offset="0%" stop-color="#00D8FF"/>
+      <stop offset="100%" stop-color="#3D00B5"/>
+    </radialGradient>
+    <circle id="deepin-system-monitor-512px-c" cx="176" cy="176" r="176"/>
+    <path id="deepin-system-monitor-512px-g" d="M87.4717002,263.313078 C87.8858619,264.197714 88.6459685,265.618331 89.7585404,267.400643 C91.5876066,270.330761 93.7793793,273.256732 96.35021,276.002336 C103.884808,284.04916 113.11255,288.976696 124,288.976696 C137.316913,288.976696 147.081367,281.104373 154.452855,266.671225 C159.68784,256.421287 162.743929,246.448406 168.844533,222.558814 C174.743929,199.457145 177.68784,189.850334 182.452855,180.52058 C188.281367,169.108534 195.031199,163.666667 204,163.666667 C212.839309,163.666667 218.942619,168.949866 223.732691,180.204443 C227.685776,189.492464 229.809992,199.090503 233.737587,222.16083 C237.809992,246.081764 240.019109,256.063418 244.399358,266.355088 C250.609286,280.945705 259.886928,288.976696 273.333333,288.976696 C282.530439,288.976696 289.319421,285.026998 293.961672,277.771613 C297.271648,272.598444 299.116171,266.970103 301.535061,256.636767 C301.685552,255.993878 301.830352,255.370336 302.120782,254.117755 C306.097204,236.988 308.911987,232.017592 316,232.017592 C321.460017,232.017592 323.954651,235.596592 327.715321,247.993159 C327.905019,248.618473 328.815148,251.652909 329.07638,252.51179 C329.630173,254.332559 330.100958,255.823507 330.584347,257.267453 C338.4314,280.707644 351.859159,291.732384 380.483175,288.953296 C383.231675,288.686446 385.24345,286.242021 384.976599,283.493521 C384.709749,280.745021 382.265325,278.733247 379.516825,279.000097 C356.053862,281.278102 346.557754,273.481407 340.067087,254.092924 C339.617255,252.749215 339.172687,251.341297 338.643636,249.601875 C338.389589,248.766615 337.480852,245.73682 337.284679,245.090161 C335.011923,237.598314 333.410434,233.528924 330.883145,229.903073 C327.319437,224.790293 322.402325,222.017592 316,222.017592 C308.234646,222.017592 302.558873,225.770923 298.731112,232.530071 C296.110166,237.158196 294.72595,241.749685 292.379794,251.856527 C292.08891,253.11105 291.946412,253.724679 291.798273,254.357521 C287.481441,272.798737 283.528565,278.976696 273.333333,278.976696 C264.494025,278.976696 258.390714,273.693497 253.600642,262.43892 C249.647557,253.150899 247.523341,243.55286 243.595747,220.482533 C239.523341,196.561599 237.314224,186.579945 232.933975,176.288275 C226.724048,161.697658 217.446406,153.666667 204,153.666667 C190.683087,153.666667 180.918633,161.53899 173.547145,175.972138 C168.31216,186.222076 165.256071,196.194957 159.155467,220.084549 C153.256071,243.186218 150.31216,252.793029 145.547145,262.122783 C139.718633,273.534829 132.968801,278.976696 124,278.976696 C116.220784,278.976696 109.448525,275.360367 103.64979,269.167415 C101.553954,266.929098 99.7457268,264.515152 98.2414596,262.105354 C97.7188345,261.268122 97.2742117,260.496491 96.9086112,259.813195 C96.7018047,259.426679 96.5748215,259.1724 96.5282998,259.073031 C95.3574429,256.57212 92.380887,255.493898 89.8799761,256.664755 C87.3790652,257.835612 86.3008434,260.812168 87.4717002,263.313078 Z"/>
+    <filter id="deepin-system-monitor-512px-f" width="122.1%" height="148.6%" x="-11.1%" y="-24.3%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="2" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.243137255   0 0 0 0 0.423529412   0 0 0 0 1  0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#deepin-system-monitor-512px-a)" transform="translate(20 20)">
+    <circle cx="236" cy="236" r="236" fill="url(#deepin-system-monitor-512px-b)"/>
+    <g transform="translate(60 62)">
+      <mask id="deepin-system-monitor-512px-e" fill="#fff">
+        <use xlink:href="#deepin-system-monitor-512px-c"/>
+      </mask>
+      <use fill="url(#deepin-system-monitor-512px-d)" xlink:href="#deepin-system-monitor-512px-c"/>
+      <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="90 18 262 18 262 14 90 14" mask="url(#deepin-system-monitor-512px-e)"/>
+      <path stroke="#FFF" stroke-opacity=".1" stroke-width="4" d="M56 42L302 42M32 68L328 68" mask="url(#deepin-system-monitor-512px-e)"/>
+      <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="20 96 336 96 336 92 20 92" mask="url(#deepin-system-monitor-512px-e)"/>
+      <path stroke="#FFF" stroke-opacity=".1" stroke-width="4" d="M2 120L354 120M2 146L354 146" mask="url(#deepin-system-monitor-512px-e)"/>
+      <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="0 174 356 174 356 170 0 170" mask="url(#deepin-system-monitor-512px-e)"/>
+      <path stroke="#FFF" stroke-opacity=".1" stroke-width="4" d="M2 198L354 198M6 224L348 224" mask="url(#deepin-system-monitor-512px-e)"/>
+      <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="18 252 338 252 338 248 18 248" mask="url(#deepin-system-monitor-512px-e)"/>
+      <path stroke="#FFF" stroke-opacity=".1" stroke-width="4" d="M32 276L326 276M52 302L302 302" mask="url(#deepin-system-monitor-512px-e)"/>
+      <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="332 270 332 78 328 78 328 270" mask="url(#deepin-system-monitor-512px-e)"/>
+      <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="20 270 20 78 16 78 16 270" mask="url(#deepin-system-monitor-512px-e)"/>
+      <path stroke="#FFF" stroke-opacity=".1" stroke-width="4" d="M44 290L44 48M70 334L70 24" mask="url(#deepin-system-monitor-512px-e)"/>
+      <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="98 336 98 18 94 18 94 336" mask="url(#deepin-system-monitor-512px-e)"/>
+      <path stroke="#FFF" stroke-opacity=".1" stroke-width="4" d="M122 346L122 6M148 344L148-2" mask="url(#deepin-system-monitor-512px-e)"/>
+      <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="176 346 176 -2 172 -2 172 346" mask="url(#deepin-system-monitor-512px-e)"/>
+      <path stroke="#FFF" stroke-opacity=".1" stroke-width="4" d="M200 344L200-2M226 346L226 6" mask="url(#deepin-system-monitor-512px-e)"/>
+      <polygon fill="#FFF" fill-opacity=".2" fill-rule="nonzero" points="254 340 254 18 250 18 250 340" mask="url(#deepin-system-monitor-512px-e)"/>
+      <path stroke="#FFF" stroke-opacity=".1" stroke-width="4" d="M278 334L278 24M304 290L304 48" mask="url(#deepin-system-monitor-512px-e)"/>
+    </g>
+    <path stroke="#FFF" stroke-linecap="round" stroke-width="16" d="M316.770412,403.370595 C377.901593,373.456762 420,310.644686 420,238 C420,136.379606 337.620394,54 236,54 C134.379606,54 52,136.379606 52,238 C52,310.804626 94.2839856,373.733299 155.633639,403.567699" opacity=".497"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M236,54 C134.379606,54 52,136.379606 52,238 C52,310.804626 94.2839856,373.733299 155.633639,403.567699"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#deepin-system-monitor-512px-f)" xlink:href="#deepin-system-monitor-512px-g"/>
+      <use fill="#FFF" xlink:href="#deepin-system-monitor-512px-g"/>
+    </g>
+    <path fill="#0A8BFF" d="M206,386 L266,386 C279.254834,386 290,396.745166 290,410 C290,423.254834 279.254834,434 266,434 L206,434 C192.745166,434 182,423.254834 182,410 C182,396.745166 192.745166,386 206,386 Z"/>
+    <path fill="#FFF" d="M211.56,426.72 C215.4,426.72 218.56,425.2 221,422.36 L217.88,418.68 C216.28,420.4 214.28,421.6 211.76,421.6 C207.08,421.6 204.04,417.72 204.04,411.28 C204.04,404.92 207.4,401.08 211.88,401.08 C214.12,401.08 215.84,402.12 217.32,403.56 L220.44,399.8 C218.52,397.8 215.52,396 211.76,396 C204.28,396 198,401.72 198,411.48 C198,421.36 204.08,426.72 211.56,426.72 Z M225.76,426.16 L225.76,396.56 L235.48,396.56 C242.04,396.56 247.08,398.84 247.08,405.84 C247.08,412.6 242,415.64 235.64,415.64 L231.68,415.64 L231.68,426.16 L225.76,426.16 Z M231.68,410.96 L235.24,410.96 C239.32,410.96 241.28,409.24 241.28,405.84 C241.28,402.4 239.12,401.24 235.04,401.24 L231.68,401.24 L231.68,410.96 Z M263.8,426.72 C271.04,426.72 275.24,422.68 275.24,412.84 L275.24,396.56 L269.56,396.56 L269.56,413.36 C269.56,419.52 267.32,421.6 263.8,421.6 C260.32,421.6 258.2,419.52 258.2,413.36 L258.2,396.56 L252.28,396.56 L252.28,412.84 C252.28,422.68 256.6,426.72 263.8,426.72 Z"/>
+  </g>
+</svg>
