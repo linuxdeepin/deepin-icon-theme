@@ -73,7 +73,7 @@ Type=Fixed
 Size=24
 Context=Emblems
 Type=Scalable
-MinSize=12px
+MinSize=12
 MaxSize=128
 
 [devices/16]
@@ -118,11 +118,6 @@ MaxSize=512
 
 [mimetypes/16]
 Size=16
-Context=MimeTypes
-Type=Fixed
-
-[mimetypes/22]
-Size=22
 Context=MimeTypes
 Type=Fixed
 

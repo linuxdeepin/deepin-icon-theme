@@ -51,11 +51,6 @@ Size=16
 Context=MimeTypes
 Type=Fixed
 
-[mimetypes/22]
-Size=22
-Context=MimeTypes
-Type=Fixed
-
 [mimetypes/24]
 Size=24
 Context=MimeTypes
