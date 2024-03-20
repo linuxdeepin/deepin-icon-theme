@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>app/ide/24px</title>
+    <defs>
+        <filter x="-6.8%" y="-6.8%" width="113.6%" height="113.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="59.0850092%" y1="100%" x2="59.0850092%" y2="-35.7610059%" id="linearGradient-2">
+            <stop stop-color="#0056F5" offset="0%"></stop>
+            <stop stop-color="#B4DFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="19.5150785%" y1="4.05950478%" x2="88.28125%" y2="91.0619167%" id="linearGradient-3">
+            <stop stop-color="#6188FF" offset="0%"></stop>
+            <stop stop-color="#0065FA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-20.1731725%" x2="50%" y2="116.108818%" id="linearGradient-4">
+            <stop stop-color="#3480F8" offset="0%"></stop>
+            <stop stop-color="#CCE0FA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.0245068%" y1="0%" x2="42.0245068%" y2="112.774634%" id="linearGradient-5">
+            <stop stop-color="#CCE0FA" offset="0%"></stop>
+            <stop stop-color="#3480F8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="app/ide/24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(1, 1)">
+            <rect id="矩形" fill="url(#linearGradient-2)" x="0" y="0" width="22" height="22" rx="4.125"></rect>
+            <g id="编组-2" transform="translate(4, 3)">
+                <path d="M7.93026051,0.531577434 L13.0552605,3.46014886 C13.6394636,3.79397922 14,4.41524816 14,5.08810475 L14,10.9118952 C14,11.5847518 13.6394636,12.2060208 13.0552605,12.5398511 L7.93026051,15.4684226 C7.35382426,15.7978147 6.64617574,15.7978147 6.06973949,15.4684226 L0.944739491,12.5398511 C0.360536371,12.2060208 8.24011669e-17,11.5847518 0,10.9118952 L4.4408921e-16,5.08810475 C3.61688043e-16,4.41524816 0.360536371,3.79397922 0.944739491,3.46014886 L6.06973949,0.531577434 C6.64617574,0.202185289 7.35382426,0.202185289 7.93026051,0.531577434 Z" id="多边形" fill="url(#linearGradient-3)"></path>
+                <path d="M5.02151666,6.9609375 L5.02151666,14.1591382 C5.02151666,14.4044853 4.83302319,14.6058074 4.5929508,14.6261899 L0.944739491,12.5398511 C0.360536371,12.2060208 8.24011669e-17,11.5847518 0,10.9118952 L0,6.9609375 L5.02151666,6.9609375 Z" id="形状结合" fill="url(#linearGradient-4)"></path>
+                <path d="M9.40758146,1.37376524 L13.0552605,3.46014886 C13.6394636,3.79397922 14,4.41524816 14,5.08810475 L14,9.0390625 L8.97848334,9.0390625 L8.97848334,1.8408618 C8.97848334,1.59533343 9.16725548,1.39389515 9.40758146,1.37376524 Z" id="形状结合" fill="url(#linearGradient-5)"></path>
+                <path d="M14,5.890625 L14,10.9118952 C14,11.5847518 13.6394636,12.2060208 13.0552605,12.5398511 L7.93026051,15.4684226 C7.64234075,15.6329481 7.3216858,15.7152961 7.00099696,15.7154664 L7,10.1128298 C7,9.94368177 7.091129,9.78765294 7.23845592,9.70455151 L14,5.890625 Z M7.00099696,0.28453359 L7,5.85935248 C7,6.02797824 6.90942806,6.18360942 6.76281487,6.2669114 L0,10.109375 L4.4408921e-16,5.08810475 C3.61688043e-16,4.41524816 0.360536371,3.79397922 0.944739491,3.46014886 L6.06973949,0.531577434 C6.35825598,0.366710869 6.67964348,0.284362921 7.00099696,0.28453359 Z" id="形状结合" fill="#F2F8FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

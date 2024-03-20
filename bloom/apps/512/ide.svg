@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>app/ide/512px</title>
+    <defs>
+        <filter x="-7.7%" y="-5.9%" width="115.3%" height="115.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="59.0850092%" y1="100%" x2="59.0850092%" y2="-35.7610059%" id="linearGradient-2">
+            <stop stop-color="#0056F5" offset="0%"></stop>
+            <stop stop-color="#B4DFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.7204239%" y1="4.05950478%" x2="90.5348763%" y2="91.0619167%" id="linearGradient-3">
+            <stop stop-color="#6188FF" offset="0%"></stop>
+            <stop stop-color="#0065FA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-20.1731725%" x2="50%" y2="116.108818%" id="linearGradient-4">
+            <stop stop-color="#3480F8" offset="0%"></stop>
+            <stop stop-color="#CCE0FA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.0245068%" y1="0%" x2="42.0245068%" y2="112.774634%" id="linearGradient-5">
+            <stop stop-color="#CCE0FA" offset="0%"></stop>
+            <stop stop-color="#3480F8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="app/ide/512px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(34, 34)">
+            <rect id="矩形" fill="url(#linearGradient-2)" x="0" y="0" width="444" height="444" rx="88"></rect>
+            <g id="编组-2" transform="translate(79, 57)">
+                <path d="M162.988898,11.5320566 L265.988898,70.9551335 C278.371197,78.0987675 286,91.3073538 286,105.602557 L286,224.397443 C286,238.692646 278.371197,251.901232 265.988898,259.044866 L162.988898,318.467943 C150.618499,325.604712 135.381501,325.604712 123.011102,318.467943 L20.0111019,259.044866 C7.62880292,251.901232 -1.42108547e-14,238.692646 -1.42108547e-14,224.397443 L-1.42108547e-14,105.602557 C-1.42108547e-14,91.3073538 7.62880292,78.0987675 20.0111019,70.9551335 L123.011102,11.5320566 C135.226871,4.48449748 150.238022,4.396403 162.523676,11.2677732 L162.988898,11.5320566 Z" id="多边形" fill="url(#linearGradient-3)"></path>
+                <path d="M95,137 L95,289.582032 C95,293.719564 92.4871966,297.270199 88.9044145,298.791113 L20.0111019,259.044866 C7.62880292,251.901232 -1.42108547e-14,238.692646 -1.42108547e-14,224.397443 L-1.42108547e-14,137 L95,137 Z" id="路径" fill="url(#linearGradient-4)"></path>
+                <path d="M196.156053,30.6673792 L265.988898,70.9551335 C278.371197,78.0987675 286,91.3073538 286,105.602557 L286,192 L191,192 L191,39.4179683 C191,35.6525015 193.081198,32.3731245 196.156053,30.6673792 Z" id="路径" fill="url(#linearGradient-5)"></path>
+                <path d="M286,120 L286,224.397443 C286,237.800083 279.294109,250.247563 268.251979,257.637045 L162.093916,318.969154 C156.141836,322.203234 149.571433,323.82052 143,323.82052 L143,207.812414 C143,204.229599 144.916751,200.92056 148.02464,199.137981 L286,120 Z M143,6.17948006 L143,121.610374 C143,125.181961 141.095141,128.482414 138.00259,130.269132 L0,210 L0,105.602557 C0,91.3073538 7.62880292,78.0987675 20.0111019,70.9551335 L123.011102,11.5320566 C129.003014,8.07518426 135.667485,6.29273445 142.352974,6.18470719 L143,6.17948006 Z" id="形状" fill="#F2F8FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
