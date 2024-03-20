@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>app/ide/128px</title>
+    <defs>
+        <filter x="-8.9%" y="-7.1%" width="117.9%" height="117.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="59.0850092%" y1="100%" x2="59.0850092%" y2="-35.7610059%" id="linearGradient-2">
+            <stop stop-color="#0056F5" offset="0%"></stop>
+            <stop stop-color="#B4DFFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="112" height="112" rx="22"></rect>
+        <linearGradient x1="16.9136636%" y1="4.05950478%" x2="91.5479605%" y2="91.0619167%" id="linearGradient-5">
+            <stop stop-color="#6188FF" offset="0%"></stop>
+            <stop stop-color="#0065FA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-20.1731725%" x2="50%" y2="116.108818%" id="linearGradient-6">
+            <stop stop-color="#3480F8" offset="0%"></stop>
+            <stop stop-color="#CCE0FA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.0245068%" y1="0%" x2="42.0245068%" y2="112.774634%" id="linearGradient-7">
+            <stop stop-color="#CCE0FA" offset="0%"></stop>
+            <stop stop-color="#3480F8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="app/ide/128px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(8, 8)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="矩形" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+            <g id="编组-2" mask="url(#mask-4)">
+                <g transform="translate(20, 16.5077)">
+                    <path d="M40.9483862,1.31015109 L66.9483862,16.1157066 C70.0714488,17.8941173 72,21.2116351 72,24.8055556 L72,54.1790846 C72,57.7730051 70.0714488,61.0905228 66.9483862,62.8689335 L40.9483862,77.674489 C37.8807154,79.4213572 34.1192846,79.4213572 31.0516138,77.674489 L5.05161381,62.8689335 C1.9285512,61.0905228 0,57.7730051 0,54.1790846 L0,24.8055556 C0,21.2116351 1.9285512,17.8941173 5.05161381,16.1157066 L31.0516138,1.31015109 C34.0203275,-0.380366444 37.6387643,-0.434899268 40.6493956,1.14655262 L40.9483862,1.31015109 Z" id="多边形" fill="url(#linearGradient-5)"></path>
+                    <path d="M24,31.4923201 L24,70.135137 C24,71.3159574 23.1813402,72.3055696 22.0806333,72.5673607 L5.05161381,62.8689335 C1.9285512,61.0905228 0,57.7730051 0,54.1790846 L0,31.4923201 L24,31.4923201 Z" id="形状结合" fill="url(#linearGradient-6)"></path>
+                    <path d="M49.9193667,6.41727942 L66.9483862,16.1157066 C70.0714488,17.8941173 72,21.2116351 72,24.8055556 L72,47.4923201 L48,47.4923201 L48,8.84950314 C48,7.66868272 48.8186598,6.67907054 49.9193667,6.41727942 Z" id="形状结合" fill="url(#linearGradient-7)"></path>
+                    <path d="M72,27.4923201 L72,54.1790846 C72,56.9757655 70.8321688,59.6050711 68.8424004,61.4719904 L40.2168757,78.0521502 C38.880834,78.6737383 37.4406726,78.9845683 36.0004992,78.9846401 L36,49.6389 C36,48.7441649 36.478161,47.9176453 37.2538099,47.4716413 L72,27.4923201 Z M36.0004992,1.24434987e-08 L36,29.2000161 C36,30.0919414 35.5248124,30.9163102 34.7530017,31.3633438 L0,51.4923201 L0,24.8055556 C0,21.8075388 1.34203041,19.0018638 3.59998648,17.1215211 L31.6445899,0.998238945 C33.0196466,0.332672014 34.5100793,-7.42972525e-05 36.0004992,1.24434987e-08 Z" id="形状结合" fill="#F2F8FF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

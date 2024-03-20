@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>app/ide/64px</title>
+    <defs>
+        <filter x="-8.9%" y="-7.1%" width="117.9%" height="117.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="59.0850092%" y1="100%" x2="59.0850092%" y2="-35.7610059%" id="linearGradient-2">
+            <stop stop-color="#0056F5" offset="0%"></stop>
+            <stop stop-color="#B4DFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.419596%" y1="4.05950478%" x2="89.6568953%" y2="91.0619167%" id="linearGradient-3">
+            <stop stop-color="#6188FF" offset="0%"></stop>
+            <stop stop-color="#0065FA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-20.1731725%" x2="50%" y2="116.108818%" id="linearGradient-4">
+            <stop stop-color="#3480F8" offset="0%"></stop>
+            <stop stop-color="#CCE0FA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.0245068%" y1="0%" x2="42.0245068%" y2="112.774634%" id="linearGradient-5">
+            <stop stop-color="#CCE0FA" offset="0%"></stop>
+            <stop stop-color="#3480F8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="app/ide/64px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(4, 4)">
+            <rect id="矩形" fill="url(#linearGradient-2)" x="0" y="0" width="56" height="56" rx="11"></rect>
+            <g id="编组-2" transform="translate(10, 7.7885)">
+                <path d="M20.5193551,0.681105496 L33.5193551,8.26443883 C35.0554437,9.16049047 36,10.804998 36,12.5833333 L36,27.83963 C36,29.6179653 35.0554437,31.2624729 33.5193551,32.1585245 L20.5193551,39.7418578 C18.9625426,40.6499985 17.0374574,40.6499985 15.4806449,39.7418578 L2.48064487,32.1585245 C0.944556342,31.2624729 0,29.6179653 0,27.83963 L0,12.5833333 C0,10.804998 0.944556342,9.16049047 2.48064487,8.26443883 L15.4806449,0.681105496 C16.9633235,-0.183790372 18.7800362,-0.224975889 20.2945276,0.557548943 L20.5193551,0.681105496 Z" id="多边形" fill="url(#linearGradient-3)"></path>
+                <path d="M12,17.0161472 L12,35.8630493 C12,36.4865966 11.5434329,37.0035069 10.9463647,37.0977144 L2.48064487,32.1585245 C0.944556342,31.2624729 0,29.6179653 0,27.83963 L0,17.0161472 L12,17.0161472 Z" id="形状结合" fill="url(#linearGradient-4)"></path>
+                <path d="M24.9687117,3.27578293 L33.5193551,8.26443883 C35.0554437,9.16049047 36,10.804998 36,12.5833333 L36,23.3409086 L24,23.3409086 L24,4.49400649 C24,3.9003723 24.4138125,3.40338919 24.9687117,3.27578293 Z" id="形状结合" fill="url(#linearGradient-5)"></path>
+                <path d="M36,15.2114817 L36,27.83963 C36,29.6179653 35.0554437,31.2624729 33.5193551,32.1585245 L20.5193551,39.7418578 C19.7410977,40.1958413 18.8708074,40.4228765 18.0004994,40.4229633 L18,26.0963356 C18,25.645307 18.2429756,25.2292551 18.6358025,25.0076385 L36,15.2114817 Z M18.0004994,2.49101935e-08 L18,14.2551771 C18,14.7048128 17.7585099,15.1198042 17.3675865,15.3419554 L0,25.2114817 L0,12.5833333 C0,10.804998 0.944556342,9.16049047 2.48064487,8.26443883 L15.4806449,0.681105496 C16.2592,0.226948328 17.1298585,-8.68286311e-05 18.0004994,2.49101935e-08 Z" id="形状结合" fill="#F2F8FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
