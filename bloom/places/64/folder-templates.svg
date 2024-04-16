@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>folder-templates</title>
+    <defs>
+        <filter x="-8.9%" y="-8.3%" width="117.9%" height="120.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="26.3530556%" id="linearGradient-2">
+            <stop stop-color="#1FB0EA" offset="0%"></stop>
+            <stop stop-color="#2C7FE2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M31.2792793,3 C32.0434808,4.81770784 33.8230705,6 35.7948884,6 L49,6 C52.8659932,6 56,9.13400675 56,13 L56,41 C56,44.8659932 52.8659932,48 49,48 L7,48 C3.13400675,48 -4.92645439e-14,44.8659932 -4.97379915e-14,41 L-4.97379915e-14,7 C-5.02114391e-14,3.13400675 3.13400675,-2.7711538e-14 7,-2.84217094e-14 L26.7636702,-2.84217094e-14 C28.735488,-2.87839265e-14 30.5150778,1.18229216 31.2792793,3 Z" id="path-3"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="11.7957837%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CEF5FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="2.52252252" y="9" width="50.954955" height="20.75" rx="4.5"></rect>
+        <filter x="-5.9%" y="-14.5%" width="111.8%" height="128.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="56.4262458%" y1="0%" x2="56.4262458%" y2="115.461063%" id="linearGradient-8">
+            <stop stop-color="#5CCDF1" offset="0%"></stop>
+            <stop stop-color="#1881DC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="folder-templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="folder-64px" transform="translate(4, 11)">
+            <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                <g id="Rectangle" mask="url(#mask-4)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                </g>
+                <g id="Group" mask="url(#mask-4)" fill="url(#linearGradient-8)">
+                    <g transform="translate(0, 11.5)" id="Rectangle">
+                        <path d="M0,0.5 L56,0.5 L56,29.5 C56,33.3659932 52.8659932,36.5 49,36.5 L7,36.5 C3.13400675,36.5 4.73447626e-16,33.3659932 0,29.5 L0,0.5 L0,0.5 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="M35.4450036,29 C35.8359305,29 36.2114125,29.1526169 36.4914858,29.4253489 L41.5464823,34.3478436 C41.8364458,34.6302066 42,35.017763 42,35.4224946 L42,49 C42,49.5522847 41.5522847,50 41,50 L41,35 L37.75,35 C36.7835017,35 36,34.2164983 36,33.25 L36,30 L25,30 C24.4477153,30 24,30.4477153 24,31 L24,41 L23,41 L23,31.5 C23,30.1192881 24.1192881,29 25.5,29 Z M24,49 L24,50 L23,50 L23,49 L24,49 Z M27,49 L27,50 L26,50 L26,49 L27,49 Z M30,49 L30,50 L29,50 L29,49 L30,49 Z M33,49 L33,50 L32,50 L32,49 L33,49 Z M36,49 L36,50 L35,50 L35,49 L36,49 Z M39,49 L39,50 L38,50 L38,49 L39,49 Z M24,46 L24,47 L23,47 L23,46 L24,46 Z M24,43 L24,44 L23,44 L23,43 L24,43 Z" id="形状结合" fill="#FFFFFF"></path>
+    </g>
+</svg>
