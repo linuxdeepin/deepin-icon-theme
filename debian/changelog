@@ -1,3 +1,9 @@
+deepin-icon-theme (2024.04.16) unstable; urgency=medium
+
+  * release 2024.04.16
+
+ -- Mike Chen <chenke@deepin.org>  Mon, 22 Apr 2024 16:44:26 +0800
+
 deepin-icon-theme (2024.03.04) unstable; urgency=medium
 
   * fix #7050
