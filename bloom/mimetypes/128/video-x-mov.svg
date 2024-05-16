@@ -1,34 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
-  <defs>
-    <linearGradient id="video-x-mov-c" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#327DFF"/>
-      <stop offset="100%" stop-color="#1066FF"/>
-    </linearGradient>
-    <path id="video-x-mov-b" d="M58,0 L84,26 L84,95 C84,99.9705627 79.9705627,104 75,104 L9,104 C4.02943725,104 6.08718376e-16,99.9705627 0,95 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 L58,0 Z"/>
-    <filter id="video-x-mov-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
-      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0391387195   0 0 0 0 0.388542822   0 0 0 0 1  0 0 0 0.5 0"/>
-    </filter>
-    <linearGradient id="video-x-mov-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
-      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
-    </linearGradient>
-    <path id="video-x-mov-e" d="M58,0 L84,26 L67,26 C62.0294373,26 58,21.9705627 58,17 L58,0 Z"/>
-    <filter id="video-x-mov-d" width="142.3%" height="142.3%" x="-21.2%" y="-13.5%" filterUnits="objectBoundingBox">
-      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="translate(22 14)">
-      <use fill="#000" filter="url(#video-x-mov-a)" xlink:href="#video-x-mov-b"/>
-      <use fill="url(#video-x-mov-c)" xlink:href="#video-x-mov-b"/>
-      <use fill="#000" filter="url(#video-x-mov-d)" xlink:href="#video-x-mov-e"/>
-      <use fill="url(#video-x-mov-f)" xlink:href="#video-x-mov-e"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mimetypes/128/video-x-mov</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#327DFF" offset="0%"></stop>
+            <stop stop-color="#1066FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M92,105 C92,109.970563 87.9705627,114 83,114 L9,114 C4.02943725,114 6.08718376e-16,109.970563 0,105 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 L63.5,0 L92,28.5 L92,105 Z" id="path-2"></path>
+        <filter x="-12.5%" y="-8.3%" width="125.0%" height="120.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0391387195   0 0 0 0 0.388542822   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="50%" x2="7.99354867%" y2="88.8926673%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M63.5,0 L92,28.5 L72.5,28.5 C67.5294373,28.5 63.5,24.4705627 63.5,19.5 L63.5,0 L63.5,0 Z" id="path-5"></path>
+        <filter x="-12.3%" y="-8.8%" width="124.6%" height="124.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="mimetypes/128/video-x-mov" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(18, 7)">
+            <g id="蒙版">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="折角">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+        <path d="M66,91.0129496 C69.3170962,91.0129496 72,93.6243469 72,96.8576731 L72,99.1682261 C72,102.401087 69.3271815,105.01295 66,105.01295 C62.6829038,105.01295 60,102.401552 60,99.1682261 L60,96.8576731 C60,93.6248123 62.6728185,91.0129496 66,91.0129496 Z M46.0496242,91.0129496 L51.0496242,100.51295 L56.0496242,91.0129496 L58.0496242,91.0129496 L58.0496242,105.01295 L56.0496242,105.01295 L56.0496242,96.0129496 L52.0496242,103.01295 L50.0496242,103.01295 L46.0496242,96.0129496 L46.0496242,105.01295 L44.0496242,105.01295 L44.0496242,91.0129496 L46.0496242,91.0129496 Z M74.5999985,91.0129496 L78.5,102.01295 L82.4000015,91.0129496 L84.5,91.0129496 L79.5772736,105.01295 L77.5,105.01295 L72.5,91.0129496 L74.5999985,91.0129496 Z M66,93.0129496 C63.7789446,93.0129496 62,94.6892391 62,96.7751533 L62,99.2507458 C62,101.334959 63.7877878,103.01295 66,103.01295 C68.2210554,103.01295 70,101.33666 70,99.2507458 L70,96.7751533 C70,94.6909403 68.2122122,93.0129496 66,93.0129496 Z M64,36.5 C76.9786916,36.5 87.5,47.0213084 87.5,60 C87.5,72.9786916 76.9786916,83.5 64,83.5 C51.0213084,83.5 40.5,72.9786916 40.5,60 C40.5,47.0213084 51.0213084,36.5 64,36.5 Z M64,39.5 C52.6781626,39.5 43.5,48.6781626 43.5,60 C43.5,71.3218374 52.6781626,80.5 64,80.5 C75.3218374,80.5 84.5,71.3218374 84.5,60 C84.5,48.6781626 75.3218374,39.5 64,39.5 Z M57.0986667,46.1061394 L68.48,52.7108414 L79.5813333,59.2877692 C80.1226667,59.6071724 80.1226667,60.4209561 79.5813333,60.7375818 L68.4346667,67.2895129 L57.0986667,73.8942149 C56.5653333,74.2025084 56,73.7997826 56,73.1665311 L56,46.8338231 C56,46.1977942 56.5653333,45.7978459 57.0986667,46.1061394 Z" id="形状结合" fill="#FFFFFF"></path>
     </g>
-    <path fill="#FFF" d="M60,99.6552765 L60,97.3447235 C60,94.1118627 62.6728185,91.5 66,91.5 C69.3170962,91.5 72,94.1113973 72,97.3447235 L72,99.6552765 C72,102.888137 69.3271815,105.5 66,105.5 C62.6829038,105.5 60,102.888603 60,99.6552765 Z M66,93.5 C63.7789446,93.5 62,95.1762895 62,97.2622038 L62,99.7377962 C62,101.822009 63.7877878,103.5 66,103.5 C68.2210554,103.5 70,101.82371 70,99.7377962 L70,97.2622038 C70,95.1779907 68.2122122,93.5 66,93.5 Z M50.5,103.5 L46.5,96.5 L46.5,105.5 L44.5,105.5 L44.5,91.5 L45.5,91.5 L46.5,91.5 L51.5,101 L56.5,91.5 L57.5,91.5 L58.5,91.5 L58.5,105.5 L56.5,105.5 L56.5,96.5 L52.5,103.5 L51.5,103.5 L50.5,103.5 Z M72.5,91.5 L74.5999985,91.5 L78.5,102.5 L82.4000015,91.5 L84.5,91.5 L79.5772736,105.5 L77.5,105.5 L72.5,91.5 Z M64,83.5 C51.0213084,83.5 40.5,72.9786916 40.5,60 C40.5,47.0213084 51.0213084,36.5 64,36.5 C76.9786916,36.5 87.5,47.0213084 87.5,60 C87.5,72.9786916 76.9786916,83.5 64,83.5 Z M64,80.5 C75.3218374,80.5 84.5,71.3218374 84.5,60 C84.5,48.6781626 75.3218374,39.5 64,39.5 C52.6781626,39.5 43.5,48.6781626 43.5,60 C43.5,71.3218374 52.6781626,80.5 64,80.5 Z M79.5813333,60.7375818 L68.4346667,67.2895129 L57.0986667,73.8942149 C56.5653333,74.2025084 56,73.7997826 56,73.1665311 L56,59.9987884 L56,46.8338231 C56,46.1977942 56.5653333,45.7978459 57.0986667,46.1061394 L68.48,52.7108414 L79.5813333,59.2877692 C80.1226667,59.6071724 80.1226667,60.4209561 79.5813333,60.7375818 Z"/>
-  </g>
 </svg>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-videos</title>
+    <title>places/96/folder-videos</title>
     <defs>
         <filter x="-8.5%" y="-7.0%" width="117.1%" height="119.7%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -42,8 +42,8 @@
         </filter>
         <path d="M4.13120588,20.43519 C2.31352306,21.4791019 0.84,20.6233552 0.84,18.5193216 L0.84,3.23823991 C0.84,1.13622313 2.32178419,0.283204095 4.13120588,1.32237155 L17.479834,8.98861106 C19.2975169,10.032523 19.2892557,11.729783 17.479834,12.7689505 L4.13120588,20.43519 Z" id="path-12"></path>
     </defs>
-    <g id="folder-videos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-96px" transform="translate(7, 18)">
+    <g id="places/96/folder-videos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/folder/96px" transform="translate(7, 12)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -60,7 +60,7 @@
                 </g>
             </g>
         </g>
-        <g id="Group-2" transform="translate(29, 42)">
+        <g id="Group-2" transform="translate(29, 37)">
             <g id="Combined-Shape">
                 <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
                 <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>

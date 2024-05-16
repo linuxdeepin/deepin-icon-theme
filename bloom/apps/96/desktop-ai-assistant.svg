@@ -1,45 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
-  <defs>
-    <filter id="desktop-ai-assistant-a" width="127.3%" height="127.3%" x="-13.6%" y="-13.6%" filterUnits="objectBoundingBox">
-      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixOuter1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <radialGradient id="desktop-ai-assistant-c" cx="41.862%" cy="21.344%" r="63.627%" fx="41.862%" fy="21.344%">
-      <stop offset="0%" stop-color="#FFF"/>
-      <stop offset="100%" stop-color="#B6E6FF"/>
-    </radialGradient>
-    <circle id="desktop-ai-assistant-b" cx="44" cy="44" r="44"/>
-    <linearGradient id="desktop-ai-assistant-d" x1="0%" x2="50%" y1="14.5%" y2="100%">
-      <stop offset="0%" stop-color="#0709B6"/>
-      <stop offset="100%" stop-color="#0091A0"/>
-    </linearGradient>
-    <linearGradient id="desktop-ai-assistant-f" x1="100%" x2="37.123%" y1="100%" y2="100%">
-      <stop offset="0%" stop-color="#D4FF00"/>
-      <stop offset="100%" stop-color="#07F"/>
-    </linearGradient>
-    <linearGradient id="desktop-ai-assistant-g" x1="100%" x2="37.123%" y1="100%" y2="100%">
-      <stop offset="0%" stop-color="#D4FF00"/>
-      <stop offset="100%" stop-color="#07F"/>
-    </linearGradient>
-    <linearGradient id="desktop-ai-assistant-h" x1="100%" x2="37.123%" y1="100%" y2="100%">
-      <stop offset="0%" stop-color="#D4FF00"/>
-      <stop offset="100%" stop-color="#07F"/>
-    </linearGradient>
-  </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#desktop-ai-assistant-a)" transform="translate(4 4)">
-    <mask id="desktop-ai-assistant-e" fill="#fff">
-      <use xlink:href="#desktop-ai-assistant-b"/>
-    </mask>
-    <use fill="url(#desktop-ai-assistant-c)" xlink:href="#desktop-ai-assistant-b"/>
-    <path fill="url(#desktop-ai-assistant-d)" stroke="#FFF" stroke-opacity=".5" stroke-width="2" d="M44,21 C45.6568542,21 47,22.3431458 47,24 L47,64 C47,65.6568542 45.6568542,67 44,67 C42.3431458,67 41,65.6568542 41,64 L41,24 C41,22.3431458 42.3431458,21 44,21 Z M54,26 C55.6568542,26 57,27.3431458 57,29 L57,59 C57,60.6568542 55.6568542,62 54,62 C52.3431458,62 51,60.6568542 51,59 L51,29 C51,27.3431458 52.3431458,26 54,26 Z M34,29 C35.6568542,29 37,30.3431458 37,32 L37,56 C37,57.6568542 35.6568542,59 34,59 C32.3431458,59 31,57.6568542 31,56 L31,32 C31,30.3431458 32.3431458,29 34,29 Z M24,33 C25.6568542,33 27,34.3431458 27,36 L27,52 C27,53.6568542 25.6568542,55 24,55 C22.3431458,55 21,53.6568542 21,52 L21,36 C21,34.3431458 22.3431458,33 24,33 Z M64,36 C65.6568542,36 67,37.3431458 67,39 L67,50 C67,51.6568542 65.6568542,53 64,53 C62.3431458,53 61,51.6568542 61,50 L61,39 C61,37.3431458 62.3431458,36 64,36 Z" mask="url(#desktop-ai-assistant-e)"/>
-    <path fill="url(#desktop-ai-assistant-f)" fill-opacity=".5" d="M85.5071511,60.000514 C78.9284213,77.4088958 62.0806698,89.7911467 42.3349985,89.7911467 C32.5440895,89.7911467 23.4656865,86.7467459 15.9984297,81.5547579 C40.0661394,76.3816697 56.4026619,66.6346934 84.5110364,60.2232957 Z" mask="url(#desktop-ai-assistant-e)"/>
-    <path fill="url(#desktop-ai-assistant-g)" fill-opacity=".5" d="M6.95058791,61.6795427 C40.0171919,59.6516206 45.2875496,72.7028421 75.7887144,75.1560037 C67.4003115,84.0656755 55.5164863,89.625 42.3394789,89.625 C23.6119343,89.625 7.49647801,78.3957663 0.307427849,62.2773371 C2.42110451,62.0228865 4.63236942,61.8216268 6.95058791,61.6795427 Z" mask="url(#desktop-ai-assistant-e)"/>
-    <path fill="url(#desktop-ai-assistant-h)" fill-opacity=".5" d="M1.42060939,38.0248885 C37.0867519,37.1027053 51.1349303,62.0472736 77.4415104,72.9746956 C68.9991721,82.3524773 56.7522088,88.25 43.125,88.25 C17.6508659,88.25 -3,67.6411074 -3,42.21875 C-3,40.8844179 -2.94311019,39.5633462 -2.83161912,38.2578187 C-1.44422984,38.1405684 -0.0274423413,38.0622705 1.42060939,38.0248885 Z" mask="url(#desktop-ai-assistant-e)"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/96/desktop-ai-assistant</title>
+    <defs>
+        <filter x="-8.1%" y="-5.8%" width="116.3%" height="116.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="41.8617554%" cy="21.3439674%" fx="41.8617554%" fy="21.3439674%" r="63.6271182%" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#B6E6FF" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="100%" y1="100%" x2="37.1226293%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#D4FF00" offset="0%"></stop>
+            <stop stop-color="#0077FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="37.1226293%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#D4FF00" offset="0%"></stop>
+            <stop stop-color="#0077FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="37.1226293%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#D4FF00" offset="0%"></stop>
+            <stop stop-color="#0077FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="16.0954107%" x2="50%" y2="97.7530992%" id="linearGradient-6">
+            <stop stop-color="#0709B6" offset="0%"></stop>
+            <stop stop-color="#0091A0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="apps/96/desktop-ai-assistant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="路径-5" filter="url(#filter-1)" transform="translate(5, 5)">
+            <circle id="蒙版" fill="url(#radialGradient-2)" cx="43" cy="43" r="43"></circle>
+            <path d="M83.020535,58.7590056 C76.7339465,74.7111945 61.1852941,86 43,86 C34.2315824,86 26.0761541,83.3754806 19.27642,78.8691467 C40.8631404,73.6547965 56.5625501,64.7914078 82.590331,58.8545844 Z" id="形状结合" fill-opacity="0.5" fill="url(#linearGradient-3)"></path>
+            <path d="M41.7108,65.3430428 L42.5690454,65.6533526 C42.7120385,65.7052921 42.8550249,65.7573339 42.9980302,65.8094655 L44.172206,66.2389208 L45.3503775,66.6708852 C52.9839011,69.4672413 61.0649393,72.3252863 73.4167163,73.3937068 C65.6350772,81.1821549 54.8801726,86 43,86 C25.4870325,86 10.4193526,75.530479 3.71437213,60.5088486 C4.71858652,60.4186039 5.74441577,60.3419796 6.79262,60.2777349 C23.1532292,59.2743648 32.5509389,62.0482876 41.7108,65.3430428 Z" id="形状结合" fill-opacity="0.5" fill="url(#linearGradient-4)"></path>
+            <path d="M49.1049003,54.8831564 L50.388046,55.8107788 C51.2430843,56.4299801 52.0976914,57.0503382 52.9539859,57.6693587 L54.2399583,58.5965742 C60.827751,63.3315787 67.5772916,67.9143724 75.4459409,71.217819 C67.5637015,80.2750033 55.9504231,86 43,86 C19.2517558,86 0,66.7482442 0,43 C0,41.0308025 0.132368873,39.0925214 0.388694211,37.1935692 L1.38832282,37.1606865 C22.6502426,36.6109386 36.050911,45.4674898 49.1049003,54.8831564 Z" id="形状结合" fill-opacity="0.5" fill="url(#linearGradient-5)"></path>
+            <path d="M23,33 C24.1045695,33 25,33.8954305 25,35 L25,51 C25,52.1045695 24.1045695,53 23,53 C21.8954305,53 21,52.1045695 21,51 L21,35 C21,33.8954305 21.8954305,33 23,33 Z M43,21 C44.1045695,21 45,21.8954305 45,23 L45,62 C45,63.1045695 44.1045695,64 43,64 C41.8954305,64 41,63.1045695 41,62 L41,23 C41,21.8954305 41.8954305,21 43,21 Z M33,29 C34.1045695,29 35,29.8954305 35,31 L35,54 C35,55.1045695 34.1045695,56 33,56 C31.8954305,56 31,55.1045695 31,54 L31,31 C31,29.8954305 31.8954305,29 33,29 Z M63,36 C64.1045695,36 65,36.8954305 65,38 L65,49 C65,50.1045695 64.1045695,51 63,51 C61.8954305,51 61,50.1045695 61,49 L61,38 C61,36.8954305 61.8954305,36 63,36 Z M53,26 C54.1045695,26 55,26.8954305 55,28 L55,57 C55,58.1045695 54.1045695,59 53,59 C51.8954305,59 51,58.1045695 51,57 L51,28 C51,26.8954305 51.8954305,26 53,26 Z" id="形状结合" fill="url(#linearGradient-6)"></path>
+            <path d="M43,19 C45.209139,19 47,20.790861 47,23 L47,62 C47,64.209139 45.209139,66 43,66 C40.790861,66 39,64.209139 39,62 L39,23 C39,20.790861 40.790861,19 43,19 Z M43,21 C41.8954305,21 41,21.8954305 41,23 L41,62 C41,63.1045695 41.8954305,64 43,64 C44.1045695,64 45,63.1045695 45,62 L45,23 C45,21.8954305 44.1045695,21 43,21 Z M53,24 C55.209139,24 57,25.790861 57,28 L57,57 C57,59.209139 55.209139,61 53,61 C50.790861,61 49,59.209139 49,57 L49,28 C49,25.790861 50.790861,24 53,24 Z M53,26 C51.8954305,26 51,26.8954305 51,28 L51,57 C51,58.1045695 51.8954305,59 53,59 C54.1045695,59 55,58.1045695 55,57 L55,28 C55,26.8954305 54.1045695,26 53,26 Z M33,27 C35.209139,27 37,28.790861 37,31 L37,54 C37,56.209139 35.209139,58 33,58 C30.790861,58 29,56.209139 29,54 L29,31 C29,28.790861 30.790861,27 33,27 Z M33,29 C31.8954305,29 31,29.8954305 31,31 L31,54 C31,55.1045695 31.8954305,56 33,56 C34.1045695,56 35,55.1045695 35,54 L35,31 C35,29.8954305 34.1045695,29 33,29 Z M23,31 C25.209139,31 27,32.790861 27,35 L27,51 C27,53.209139 25.209139,55 23,55 C20.790861,55 19,53.209139 19,51 L19,35 C19,32.790861 20.790861,31 23,31 Z M63,34 C65.209139,34 67,35.790861 67,38 L67,49 C67,51.209139 65.209139,53 63,53 C60.790861,53 59,51.209139 59,49 L59,38 C59,35.790861 60.790861,34 63,34 Z M23,33 C21.8954305,33 21,33.8954305 21,35 L21,51 C21,52.1045695 21.8954305,53 23,53 C24.1045695,53 25,52.1045695 25,51 L25,35 C25,33.8954305 24.1045695,33 23,33 Z M63,36 C61.8954305,36 61,36.8954305 61,38 L61,49 C61,50.1045695 61.8954305,51 63,51 C64.1045695,51 65,50.1045695 65,49 L65,38 C65,36.8954305 64.1045695,36 63,36 Z" id="形状结合" fill-opacity="0.5" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+        <g id="Guide-96" transform="translate(3, 3)"></g>
+    </g>
 </svg>

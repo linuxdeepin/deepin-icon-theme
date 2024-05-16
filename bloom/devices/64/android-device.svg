@@ -1,10 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#C1B6AA" d="M17,7.65944953 C17,6.19067611 18.1945484,5 19.6622998,5 L44.3376993,5 C45.8080469,5 46.9999992,6.20357877 46.9999992,7.65944953 L47,56.3405505 C47,57.8093239 45.8054516,59 44.3377001,59 L19.6622999,59 C18.1919523,59 17,57.7964212 17,56.3405505 L17,7.65944953 Z"/>
-    <image width="36" height="60" x="14" y="3" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAA8CAYAAAAOhRhuAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAJKADAAQAAAABAAAAPAAAAAB6nj+/AAABaUlEQVRoBe2ZzXLCMAyEodCWKe//rv0N1ScscGEyyyFOL6uZJbJlspu1btpurrG9pps+77YXT0/dGzPftw0EFJ4iB8QoYSVkCg5Q61OJ4ImIXeCnoQ7FckjACV9xprDeCdxi8zswWkxQJAdccMKdt1GCeD4HOLB2wAl3auGnv641nLn9YDi5ttSSqtqJPr/90+j1hbsSXMo7HM088/4LfwmaObf+tgUpz+2QHVIOqLp7yA4pB1TdPWSHlAOq7h6yQ8oBVXcP2SHlgKq7h+yQckDV3UN2SDmg6u4hO6QcUHX3kB1SDqi6e8gOKQdU3T30qEPMrMB/OAZn8f8RwKjxEFg7XoMQ7gwmeQTzKvK3ljMIRvXIwBn4joGvhqkGZxSZe6IWl14CCBw11ONj+ejPwHvgI4Coqeb2HKgBMPZxAJEjBcGDKITAnTdShOUUT4QAourn1XK/1Q6IAqwTPeFcvpyM+zeVMCqZ/wJ/vTuWpPRWTwAAAABJRU5ErkJggg=="/>
-    <path fill="#F7EBDE" d="M18,7.33765623 C18,6.59888909 18.5977736,6 19.3316615,6 L44.6683385,6 C45.4037949,6 46,6.60196725 46,7.33765623 L46.0000001,56.662345 C46.0000001,57.4011122 45.4022265,58.0000013 44.6683386,58.0000013 L19.3316615,58.0000013 C18.5962051,58.0000013 18,57.398034 18,56.662345 L18,7.33765623 Z"/>
-    <polygon fill="#1A1A1A" points="19 11 45 11 45 53 19 53"/>
-    <circle cx="38" cy="8.333" r="1" fill="#1C1C1C"/>
-    <path stroke="#8A837B" stroke-linecap="round" d="M29.5 8.49999996L34.5 8.50000002M24.5 8.49999996L25.5 8.49999996"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>devices/64/android-device</title>
+    <defs>
+        <filter x="-14.7%" y="-6.7%" width="129.4%" height="116.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="devices/64/android-device" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(15, 2)">
+            <path d="M2.17636371,0 L31.8236363,0 C33.0256088,-2.20798764e-16 34,0.974391221 34,2.17636371 L34,57.8236363 C34,59.0256088 33.0256088,60 31.8236363,60 L2.17636371,60 C0.974391221,60 1.47199176e-16,59.0256088 0,57.8236363 L0,2.17636371 C-1.47199176e-16,0.974391221 0.974391221,2.20798764e-16 2.17636371,0 Z" id="Rectangle-154" fill="#C1B6AA"></path>
+            <path d="M2.45090914,1 L31.5490909,1 C32.3504059,1 33,1.64959415 33,2.45090914 L33,57.5490909 C33,58.3504059 32.3504059,59 31.5490909,59 L2.45090914,59 C1.64959415,59 1,58.3504059 1,57.5490909 L1,2.45090914 C1,1.64959415 1.64959415,1 2.45090914,1 Z" id="Rectangle-154" fill="#F7EBDE"></path>
+            <polygon id="Rectangle-135" fill="#1A1A1A" points="2 7 32 7 31.9999999 54 2 54"></polygon>
+            <circle id="Oval-21" fill="#1C1C1C" cx="22.25" cy="3.55488808" r="1"></circle>
+            <line x1="15" y1="3.55488808" x2="20" y2="3.55488808" id="Path-102" stroke="#8A837B" stroke-width="0.5" stroke-linecap="round"></line>
+            <line x1="11.75" y1="3.55488808" x2="12.75" y2="3.55488808" id="Path-102" stroke="#8A837B" stroke-width="0.5" stroke-linecap="round"></line>
+        </g>
+        <g id="Guide/64" transform="translate(2, 2)"></g>
+    </g>
 </svg>

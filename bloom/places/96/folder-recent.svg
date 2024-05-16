@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-recent</title>
+    <title>places/96/folder-recent</title>
     <defs>
         <filter x="-8.5%" y="-7.0%" width="117.1%" height="119.7%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -34,15 +34,15 @@
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
         </linearGradient>
-        <path d="M48,44.25 C57.1126984,44.25 64.5,51.6373016 64.5,60.75 C64.5,69.8626984 57.1126984,77.25 48,77.25 C38.8873016,77.25 31.5,69.8626984 31.5,60.75 C31.5,51.6373016 38.8873016,44.25 48,44.25 Z M48,46.5 C40.1299423,46.5 33.75,52.8799423 33.75,60.75 C33.75,68.6200577 40.1299423,75 48,75 C55.8700577,75 62.25,68.6200577 62.25,60.75 C62.25,52.8799423 55.8700577,46.5 48,46.5 Z M49,51 L49,60.0234375 L58,60.0234375 L58,63 L46,63 L46,51 L49,51 Z" id="path-10"></path>
-        <filter x="-39.4%" y="-33.3%" width="178.8%" height="178.8%" filterUnits="objectBoundingBox" id="filter-11">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+        <path d="M48,38.25 C57.1126984,38.25 64.5,45.6373016 64.5,54.75 C64.5,63.8626984 57.1126984,71.25 48,71.25 C38.8873016,71.25 31.5,63.8626984 31.5,54.75 C31.5,45.6373016 38.8873016,38.25 48,38.25 Z M48,40.5 C40.1299423,40.5 33.75,46.8799423 33.75,54.75 C33.75,62.6200577 40.1299423,69 48,69 C55.8700577,69 62.25,62.6200577 62.25,54.75 C62.25,46.8799423 55.8700577,40.5 48,40.5 Z M49,45 L49,54.0234375 L58,54.0234375 L58,57 L46,57 L46,45 L49,45 Z" id="path-10"></path>
+        <filter x="-78.8%" y="-66.7%" width="257.6%" height="257.6%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="folder-recent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-96px" transform="translate(7, 18)">
+    <g id="places/96/folder-recent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/folder/96px" transform="translate(7, 12)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>

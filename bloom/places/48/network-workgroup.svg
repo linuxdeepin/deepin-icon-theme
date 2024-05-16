@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>network-workgroup</title>
+    <title>places/48/network-workgroup</title>
     <defs>
         <filter x="-8.3%" y="-6.9%" width="116.7%" height="119.4%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -31,8 +31,8 @@
             <stop stop-color="#1881DC" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="network-workgroup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-48px" transform="translate(3, 8)">
+    <g id="places/48/network-workgroup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/48/folder" transform="translate(3, 6)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -49,7 +49,7 @@
                 </g>
             </g>
         </g>
-        <g id="Group" transform="translate(14, 21)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(14, 19)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
             <path d="M10,12.5 C15.2467051,12.5 19.5,10.9329966 19.5,9 C19.5,7.06700338 15.2467051,5.5 10,5.5 C4.75329488,5.5 0.5,7.06700338 0.5,9 C0.5,10.9329966 4.75329488,12.5 10,12.5 Z" id="Oval-22"></path>
             <path d="M14.5523826,0.710755875 C12.8483531,-0.323509599 9.42879315,2.54927358 6.91458167,7.1272967 C4.40037018,11.7053198 3.7435879,16.2549787 5.4476174,17.2892441 C7.15164689,18.3235096 10.5712068,15.4507264 13.0854183,10.8727033 C15.5996298,6.29468018 16.2564121,1.74502135 14.5523826,0.710755875 Z" id="Oval-22" transform="translate(10, 9) scale(1, -1) rotate(-360) translate(-10, -9)"></path>
             <path d="M13.0854183,10.8727033 C15.5996298,6.29468018 16.2564121,1.74502135 14.5523826,0.710755875 C12.8483531,-0.323509599 9.42879315,2.54927358 6.91458167,7.1272967 C4.40037018,11.7053198 3.7435879,16.2549787 5.4476174,17.2892441 C7.15164689,18.3235096 10.5712068,15.4507264 13.0854183,10.8727033 L13.0854183,10.8727033 Z" id="Oval-22"></path>

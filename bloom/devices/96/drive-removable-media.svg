@@ -1,75 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
-  <defs>
-    <filter id="drive-removable-media-96px-a" width="135.3%" height="130%" x="-17.6%" y="-15%" filterUnits="objectBoundingBox">
-      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixOuter1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="drive-removable-media-96px-b" x1="102.549%" x2="-2.652%" y1="57.682%" y2="57.682%">
-      <stop offset="0%" stop-color="#9B58FF"/>
-      <stop offset="4.571%" stop-color="#891EFF"/>
-      <stop offset="11.797%" stop-color="#A054FF"/>
-      <stop offset="85.095%" stop-color="#A664FF"/>
-      <stop offset="93.793%" stop-color="#8F36FB"/>
-      <stop offset="100%" stop-color="#9B58FF"/>
-    </linearGradient>
-    <linearGradient id="drive-removable-media-96px-c" x1="100%" x2="0%" y1="56.43%" y2="56.43%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
-      <stop offset="9.936%" stop-color="#FFF" stop-opacity=".9"/>
-      <stop offset="52.356%" stop-color="#FFF" stop-opacity=".7"/>
-      <stop offset="87.648%" stop-color="#FFF" stop-opacity=".9"/>
-      <stop offset="100%" stop-color="#FFF" stop-opacity=".5"/>
-    </linearGradient>
-    <rect id="drive-removable-media-96px-d" width="68" height="21" x="0" y="57" rx="6"/>
-    <filter id="drive-removable-media-96px-e" width="101.5%" height="104.8%" x="-.7%" y="-2.4%" filterUnits="objectBoundingBox">
-      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
-      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
-    </filter>
-    <radialGradient id="drive-removable-media-96px-f" cx="48.239%" cy="19.103%" r="78.654%" fx="48.239%" fy="19.103%" gradientTransform="matrix(0 1 -.7372 0 .623 -.291)">
-      <stop offset="0%" stop-color="#E6B3FF"/>
-      <stop offset="100%" stop-color="#72A3FF"/>
-    </radialGradient>
-    <path id="drive-removable-media-96px-g" d="M0,73 C0,69.1340068 3.14340248,66 7.00519134,66 L60.9948087,66 C64.863669,66 68,69.1418733 68,73 L68,73 C68,76.8659932 64.8565975,80 60.9948087,80 L7.00519134,80 C3.13633099,80 0,76.8581267 0,73 L0,73 Z"/>
-    <filter id="drive-removable-media-96px-h" width="101.5%" height="107.1%" x="-.7%" y="-3.6%" filterUnits="objectBoundingBox">
-      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
-      <feOffset in="shadowSpreadInner1" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0.239215686   0 0 0 0 0.611764706  0 0 0 0.2 0"/>
-    </filter>
-    <linearGradient id="drive-removable-media-96px-k" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#0174FF"/>
-      <stop offset="50.85%" stop-color="#01C2FF"/>
-      <stop offset="100%" stop-color="#0056FF"/>
-    </linearGradient>
-    <path id="drive-removable-media-96px-j" d="M21.974,0.5 C22.5262847,0.5 22.974,0.943716645 22.974,1.49980749 L22.974,4.50019251 C22.974,5.01292962 22.5912798,5.43551958 22.0913326,5.49327356 L21.974,5.5 C21.4217153,5.5 20.974,5.05628335 20.974,4.50019251 L20.974,1.49980749 C20.974,0.987070378 21.3567202,0.564480424 21.8566674,0.506726436 L21.974,0.5 Z M17.974,0.5 C18.5262847,0.5 18.974,0.943716645 18.974,1.49980749 L18.974,4.50019251 C18.974,5.01292962 18.5912798,5.43551958 18.0913326,5.49327356 L17.974,5.5 C17.4217153,5.5 16.974,5.05628335 16.974,4.50019251 L16.974,1.49980749 C16.974,0.987070378 17.3567202,0.564480424 17.8566674,0.506726436 L17.974,0.5 Z M13.974,0.5 C14.5262847,0.5 14.974,0.943716645 14.974,1.49980749 L14.974,4.50019251 C14.974,5.01292962 14.5912798,5.43551958 14.0913326,5.49327356 L13.974,5.5 C13.4217153,5.5 12.974,5.05628335 12.974,4.50019251 L12.974,1.49980749 C12.974,0.987070378 13.3567202,0.564480424 13.8566674,0.506726436 L13.974,0.5 Z M9.974,0.5 C10.5262847,0.5 10.974,0.943716645 10.974,1.49980749 L10.974,4.50019251 C10.974,5.01292962 10.5912798,5.43551958 10.0913326,5.49327356 L9.974,5.5 C9.42171525,5.5 8.974,5.05628335 8.974,4.50019251 L8.974,1.49980749 C8.974,0.987070378 9.35672018,0.564480424 9.85666744,0.506726436 L9.974,0.5 Z M5.974,0.5 C6.52628475,0.5 6.974,0.943716645 6.974,1.49980749 L6.974,4.50019251 C6.974,5.01292962 6.59127982,5.43551958 6.09133256,5.49327356 L5.974,5.5 C5.42171525,5.5 4.974,5.05628335 4.974,4.50019251 L4.974,1.49980749 C4.974,0.987070378 5.35672018,0.564480424 5.85666744,0.506726436 L5.974,0.5 Z M1.974,0.5 C2.52628475,0.5 2.974,0.943716645 2.974,1.49980749 L2.974,4.50019251 C2.974,5.01292962 2.59127982,5.43551958 2.09133256,5.49327356 L1.974,5.5 C1.42171525,5.5 0.974,5.05628335 0.974,4.50019251 L0.974,1.49980749 C0.974,0.987070378 1.35672018,0.564480424 1.85666744,0.506726436 L1.974,0.5 Z"/>
-    <filter id="drive-removable-media-96px-i" width="104.5%" height="140%" x="-2.3%" y="-10%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.226675725 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g filter="url(#drive-removable-media-96px-a)" transform="translate(14 8)">
-      <path fill="url(#drive-removable-media-96px-b)" d="M0,11.9931386 C0,5.36951103 5.36423345,0 12.0005049,0 L55.9994951,0 C62.6271909,0 68,5.3678643 68,11.9931386 L68,73 L0,73 L0,11.9931386 Z"/>
-      <use fill="url(#drive-removable-media-96px-c)" xlink:href="#drive-removable-media-96px-d"/>
-      <use fill="#000" filter="url(#drive-removable-media-96px-e)" xlink:href="#drive-removable-media-96px-d"/>
-      <use fill="url(#drive-removable-media-96px-f)" xlink:href="#drive-removable-media-96px-g"/>
-      <use fill="#000" filter="url(#drive-removable-media-96px-h)" xlink:href="#drive-removable-media-96px-g"/>
-      <g transform="translate(39 70)">
-        <use fill="#000" filter="url(#drive-removable-media-96px-i)" xlink:href="#drive-removable-media-96px-j"/>
-        <use fill="url(#drive-removable-media-96px-k)" xlink:href="#drive-removable-media-96px-j"/>
-      </g>
-      <path fill="#F076FF" stroke="#A50AFF" d="M8,75.5 C9.38071187,75.5 10.5,74.3807119 10.5,73 C10.5,71.6192881 9.38071187,70.5 8,70.5 C6.61928813,70.5 5.5,71.6192881 5.5,73 C5.5,74.3807119 6.61928813,75.5 8,75.5 Z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>devices/96/drive-removable-media</title>
+    <defs>
+        <filter x="-9.7%" y="-5.8%" width="119.4%" height="116.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="102.549264%" y1="57.6822305%" x2="-2.65228894%" y2="57.6822305%" id="linearGradient-2">
+            <stop stop-color="#9B58FF" offset="0%"></stop>
+            <stop stop-color="#891EFF" offset="4.57146722%"></stop>
+            <stop stop-color="#A054FF" offset="11.7968023%"></stop>
+            <stop stop-color="#A664FF" offset="85.0953982%"></stop>
+            <stop stop-color="#8F36FB" offset="93.7925209%"></stop>
+            <stop stop-color="#9B58FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="56.4295561%" x2="0%" y2="56.4295561%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.9" offset="9.93588454%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.7" offset="52.3560063%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.9" offset="87.6484117%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="48.2392027%" cy="19.1031265%" fx="48.2392027%" fy="19.1031265%" r="78.6539217%" gradientTransform="translate(0.4824, 0.191), scale(0.2222, 1), rotate(90), scale(1, 3.5807), translate(-0.4824, -0.191)" id="radialGradient-4">
+            <stop stop-color="#E6B3FF" offset="0%"></stop>
+            <stop stop-color="#72A3FF" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#0174FF" offset="0%"></stop>
+            <stop stop-color="#01C2FF" offset="50.8499801%"></stop>
+            <stop stop-color="#0056FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M65,75 C65.5522847,75 66,75.4477153 66,76 L66,79 C66,79.5522847 65.5522847,80 65,80 C64.4477153,80 64,79.5522847 64,79 L64,76 C64,75.4477153 64.4477153,75 65,75 Z M61,75 C61.5522847,75 62,75.4477153 62,76 L62,79 C62,79.5522847 61.5522847,80 61,80 C60.4477153,80 60,79.5522847 60,79 L60,76 C60,75.4477153 60.4477153,75 61,75 Z M57,75 C57.5522847,75 58,75.4477153 58,76 L58,79 C58,79.5522847 57.5522847,80 57,80 C56.4477153,80 56,79.5522847 56,79 L56,76 C56,75.4477153 56.4477153,75 57,75 Z M53,75 C53.5522847,75 54,75.4477153 54,76 L54,79 C54,79.5522847 53.5522847,80 53,80 C52.4477153,80 52,79.5522847 52,79 L52,76 C52,75.4477153 52.4477153,75 53,75 Z M49,75 C49.5522847,75 50,75.4477153 50,76 L50,79 C50,79.5522847 49.5522847,80 49,80 C48.4477153,80 48,79.5522847 48,79 L48,76 C48,75.4477153 48.4477153,75 49,75 Z M45,75 C45.5522847,75 46,75.4477153 46,76 L46,79 C46,79.5522847 45.5522847,80 45,80 C44.4477153,80 44,79.5522847 44,79 L44,76 C44,75.4477153 44.4477153,75 45,75 Z" id="path-6"></path>
+        <filter x="-2.3%" y="-10.0%" width="104.5%" height="140.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.226675725 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8.8125,80.5 C10.3658009,80.5 11.625,79.2408009 11.625,77.6875 C11.625,76.1341991 10.3658009,74.875 8.8125,74.875 C7.25919914,74.875 6,76.1341991 6,77.6875 C6,79.2408009 7.25919914,80.5 8.8125,80.5 Z" id="path-8"></path>
+        <filter x="-17.8%" y="-17.8%" width="135.6%" height="135.6%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="-2" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.607506793   0 0 0 0 0   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="devices/96/drive-removable-media" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" filter="url(#filter-1)" transform="translate(12, 5)">
+            <path d="M12,0 L60,0 C66.627417,-1.21743675e-15 72,5.372583 72,12 L72,78 L72,78 L0,78 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle-1" fill="url(#linearGradient-2)"></path>
+            <path d="M7.5,60 L64.5,60 C68.6421356,60 72,63.3578644 72,67.5 L72,77 L72,77 L0,77 L0,67.5 C-5.07265313e-16,63.3578644 3.35786438,60 7.5,60 Z" id="Rectangle-3" fill="url(#linearGradient-3)"></path>
+            <path d="M64.5,60 C68.6421356,60 72,63.3578644 72,67.5 L72,77 L0,77 L0,67.5 C0,63.3578644 3.35786438,60 7.5,60 L64.5,60 Z M64.5,61 L7.5,61 C3.91014913,61 1,63.9101491 1,67.5 L1,76 L71,76 L71,67.5 C71,63.9881894 68.2150038,61.1268494 64.7331341,61.004103 L64.5,61 Z" id="Rectangle-3" fill-opacity="0.5" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M8,70 L64,70 C68.418278,70 72,73.581722 72,78 C72,82.418278 68.418278,86 64,86 L8,86 C3.581722,86 5.41083001e-16,82.418278 0,78 C-5.41083001e-16,73.581722 3.581722,70 8,70 Z" id="Rectangle-1" fill="url(#radialGradient-4)"></path>
+            <path d="M64,70 C68.418278,70 72,73.581722 72,78 C72,82.418278 68.418278,86 64,86 L8,86 C3.581722,86 0,82.418278 0,78 C0,73.581722 3.581722,70 8,70 L64,70 Z M64,71 L8,71 C4.13400675,71 1,74.1340068 1,78 C1,81.8659932 4.13400675,85 8,85 L64,85 C67.8659932,85 71,81.8659932 71,78 C71,74.1340068 67.8659932,71 64,71 Z" id="Rectangle-1" fill-opacity="0.2" fill="#003D9C" fill-rule="nonzero"></path>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#F076FF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+            </g>
+            <path d="M8.8125,74.875 C10.3658009,74.875 11.625,76.1341991 11.625,77.6875 C11.625,79.2408009 10.3658009,80.5 8.8125,80.5 C7.25919914,80.5 6,79.2408009 6,77.6875 C6,76.1341991 7.25919914,74.875 8.8125,74.875 Z M8.8125,75.875 C7.81148389,75.875 7,76.6864839 7,77.6875 C7,78.6885161 7.81148389,79.5 8.8125,79.5 C9.81351611,79.5 10.625,78.6885161 10.625,77.6875 C10.625,76.6864839 9.81351611,75.875 8.8125,75.875 Z" id="Oval" fill="#A50AFF" fill-rule="nonzero"></path>
+        </g>
+        <path d="M35,44 L48,25 L61,44 L35,44 Z M35,47 L61,47 L61,50 L35,50 Z" id="形状结合" fill="#FFFFFF"></path>
     </g>
-    <g fill="#FFF" transform="translate(34 22)">
-      <polygon points="0 19 14 0 28 19"/>
-      <rect width="28" height="3" y="23"/>
-    </g>
-  </g>
 </svg>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>network-workgroup</title>
+    <title>places/32/network-workgroup</title>
     <defs>
         <filter x="-7.1%" y="-4.2%" width="114.3%" height="116.7%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -31,8 +31,8 @@
             <stop stop-color="#1881DC" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="network-workgroup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-32px" transform="translate(2, 5)">
+    <g id="places/32/network-workgroup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/32/folder" transform="translate(2, 4)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -49,7 +49,7 @@
                 </g>
             </g>
         </g>
-        <g id="编组" transform="translate(10.5, 14.5)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(10.5, 13.5)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
             <path d="M5.5,7 C8.53756612,7 11,6.1045695 11,5 C11,3.8954305 8.53756612,3 5.5,3 C2.46243388,3 0,3.8954305 0,5 C0,6.1045695 2.46243388,7 5.5,7 Z" id="Oval-22"></path>
             <path d="M7.32618608,5.99881569 C8.97487793,3.29360514 9.49379538,0.653413684 8.48522066,0.101783012 C7.47664594,-0.44984766 5.32250577,1.29597377 3.67381392,4.00118431 C2.02512207,6.70639486 1.50620462,9.34658632 2.51477934,9.89821699 C3.52335406,10.4498477 5.67749423,8.70402623 7.32618608,5.99881569 L7.32618608,5.99881569 Z" id="Oval-22"></path>
             <path d="M7.32618608,5.99881569 C8.97487793,3.29360514 9.49379538,0.653413684 8.48522066,0.101783012 C7.47664594,-0.44984766 5.32250577,1.29597377 3.67381392,4.00118431 C2.02512207,6.70639486 1.50620462,9.34658632 2.51477934,9.89821699 C3.52335406,10.4498477 5.67749423,8.70402623 7.32618608,5.99881569 L7.32618608,5.99881569 Z" id="Oval-22" transform="translate(5.5, 5) scale(1, -1) translate(-5.5, -5)"></path>

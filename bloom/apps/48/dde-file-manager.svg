@@ -1,51 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
-  <defs>
-    <filter id="dde-file-manager-a" width="135.7%" height="131.8%" x="-17.9%" y="-14.8%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixOuter1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="dde-file-manager-b" x1="50%" x2="50%" y1="0%" y2="37.968%">
-      <stop offset="0%" stop-color="#00B8FF"/>
-      <stop offset="100%" stop-color="#2E5DFF"/>
-    </linearGradient>
-    <path id="dde-file-manager-d" d="M3.34800408,12.5270291 C3.32881805,10.3133173 5.09601235,8.51773172 7.30885856,8.51646857 L34.2975461,8.50106268 C36.5042516,8.49980303 38.308673,10.2910108 38.3278793,12.5070616 L38.5326934,36.1388076 C38.5518794,38.3525193 36.7846851,40.148105 34.5718389,40.1493681 L7.58315134,40.164774 C5.37644579,40.1660336 3.57202441,38.3748259 3.55281812,36.158775 L3.34800408,12.5270291 Z"/>
-    <filter id="dde-file-manager-c" width="116.8%" height="118.9%" x="-8.4%" y="-9.5%" filterUnits="objectBoundingBox">
-      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-    </filter>
-    <rect id="dde-file-manager-f" width="34.65" height="31" x="4.2" y="10" rx="4"/>
-    <filter id="dde-file-manager-e" width="117.3%" height="119.4%" x="-8.7%" y="-9.7%" filterUnits="objectBoundingBox">
-      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-    </filter>
-    <radialGradient id="dde-file-manager-g" cx="50%" cy="25.527%" r="96.89%" fx="50%" fy="25.527%" gradientTransform="matrix(0 1 -.71429 0 .682 -.245)">
-      <stop offset="0%" stop-color="#48D5FF"/>
-      <stop offset="100%" stop-color="#0056FF"/>
-    </radialGradient>
-    <linearGradient id="dde-file-manager-h" x1="50%" x2="50%" y1="3.549%" y2="100%">
-      <stop offset="0%" stop-color="#3ABDFF"/>
-      <stop offset="100%" stop-color="#38B9FF"/>
-    </linearGradient>
-  </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#dde-file-manager-a)" transform="translate(3 1)">
-    <path fill="url(#dde-file-manager-b)" d="M0,14.4671348 L0,12.1757967 C0,9.96328264 1.65118731,7.48809899 3.68944246,6.64673631 L17.3532821,1.00649801 C19.390905,0.165396358 22.7047243,0.172395761 24.7412229,1.01646092 L38.3015017,6.6367734 C40.3441259,7.48337742 42,9.95743696 42,12.1757967 L42,14.4671348 L42,40.0017101 C42,42.2099046 40.2087482,44 37.9918888,44 L4.00811116,44 C1.79449249,44 0,42.219095 0,40.0017101 L0,14.4671348 Z"/>
-    <g transform="rotate(-8 20.94 24.333)">
-      <use fill="#000" filter="url(#dde-file-manager-c)" xlink:href="#dde-file-manager-d"/>
-      <use fill="#FF517F" xlink:href="#dde-file-manager-d"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/48/dde-file-manager</title>
+    <defs>
+        <filter x="-10.6%" y="-5.0%" width="120.9%" height="117.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="37.9679618%" id="linearGradient-2">
+            <stop stop-color="#00B8FF" offset="0%"></stop>
+            <stop stop-color="#2E5DFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M7.34577928,8.02116122 L34.3253936,8.00576051 C36.5218963,8.00450669 38.3084906,9.77467298 38.3275267,11.9710935 L38.5324846,35.6194373 C38.5516303,37.8284933 36.7763572,39.6348077 34.5673012,39.6539533 C34.5565071,39.6540469 34.5457126,39.6540968 34.5349182,39.6541029 L7.55530379,39.6695036 C5.35880109,39.6707574 3.57220687,37.9005912 3.5531707,35.7041706 L3.34821281,12.0558269 C3.32906714,9.84677084 5.10434024,8.04045646 7.31339628,8.02131079 C7.32419037,8.02121724 7.33498479,8.02116738 7.34577928,8.02116122 Z" id="path-3"></path>
+        <filter x="-8.4%" y="-9.5%" width="116.8%" height="118.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="4.2" y="9.50471373" width="34.65" height="31" rx="4"></rect>
+        <filter x="-8.7%" y="-9.7%" width="117.3%" height="119.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="50%" cy="25.5270769%" fx="50%" fy="25.5270769%" r="96.8900073%" gradientTransform="translate(0.5, 0.2553), scale(0.7143, 1), rotate(90), translate(-0.5, -0.2553)" id="radialGradient-7">
+            <stop stop-color="#48D5FF" offset="0%"></stop>
+            <stop stop-color="#0056FF" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="3.54949422%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#3ABDFF" offset="0%"></stop>
+            <stop stop-color="#38B9FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="apps/48/dde-file-manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-dde-filemanager" filter="url(#filter-1)" transform="translate(3, 1.4953)">
+            <path d="M0,14.64305 L0,11.1883152 C-1.99781946e-16,9.55697183 0.990675429,8.08908195 2.50355729,7.47877897 L19.543232,0.604901679 C20.5050881,0.216884847 21.5800539,0.217644735 22.5413605,0.607021041 L39.5016857,7.47678478 C41.0117928,8.08845223 42,9.55491948 42,11.1842017 L42,14.64305 L42,14.64305 L42,38.5047137 C42,40.7138527 40.209139,42.5047137 38,42.5047137 L4,42.5047137 C1.790861,42.5047137 2.705415e-16,40.7138527 0,38.5047137 L0,14.64305 L0,14.64305 Z" id="Rectangle-239" fill="url(#linearGradient-2)"></path>
+            <g id="Rectangle-241" transform="translate(20.9403, 23.8376) rotate(-368) translate(-20.9403, -23.8376)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FF517F" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <g id="Rectangle-241">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <path d="M0,13.5047137 L42,13.5047137 L42,39.5047137 C42,41.7138527 40.209139,43.5047137 38,43.5047137 L4,43.5047137 C1.790861,43.5047137 2.705415e-16,41.7138527 0,39.5047137 L0,13.5047137 L0,13.5047137 Z" id="Rectangle-239" fill="url(#radialGradient-7)"></path>
+            <polyline id="Path-1387" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="17.5 30.6297137 17.5 22.5047137 25.5 22.5047137 25.5 35.5047137"></polyline>
+            <circle id="Oval-231" stroke="url(#linearGradient-8)" fill="#FFFFFF" cx="21.5" cy="22.0047137" r="5"></circle>
+            <circle id="Oval-231" fill="#00BFFF" cx="21.5" cy="22.0047137" r="1.5"></circle>
+        </g>
+        <g id="Guide/48" transform="translate(1.5, 1.5)"></g>
     </g>
-    <use fill="#000" filter="url(#dde-file-manager-e)" xlink:href="#dde-file-manager-f"/>
-    <use fill="#FFF" xlink:href="#dde-file-manager-f"/>
-    <path fill="url(#dde-file-manager-g)" d="M0,14 L42,14 L42,40.0007252 C42,42.2094637 40.2087482,44 37.9918888,44 L4.00811116,44 C1.79449249,44 0,42.2132053 0,40.0007252 L0,14 Z"/>
-    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="17.5 31.125 17.5 23 25.5 23 25.5 36"/>
-    <circle cx="21.5" cy="22.5" r="5" fill="#FFF" stroke="url(#dde-file-manager-h)"/>
-    <circle cx="21.5" cy="22.5" r="1.5" fill="#00BFFF"/>
-  </g>
 </svg>

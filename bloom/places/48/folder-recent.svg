@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-recent</title>
+    <title>places/48/folder-recent</title>
     <defs>
         <filter x="-8.3%" y="-6.9%" width="116.7%" height="119.4%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -30,9 +30,19 @@
             <stop stop-color="#5CCDF1" offset="0%"></stop>
             <stop stop-color="#1881DC" offset="100%"></stop>
         </linearGradient>
+        <linearGradient x1="52.0842145%" y1="4.90831823%" x2="52.0842145%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M24,19.125 C28.5563492,19.125 32.25,22.8186508 32.25,27.375 C32.25,31.9313492 28.5563492,35.625 24,35.625 C19.4436508,35.625 15.75,31.9313492 15.75,27.375 C15.75,22.8186508 19.4436508,19.125 24,19.125 Z M24,20.25 C20.0649712,20.25 16.875,23.4399712 16.875,27.375 C16.875,31.3100288 20.0649712,34.5 24,34.5 C27.9350288,34.5 31.125,31.3100288 31.125,27.375 C31.125,23.4399712 27.9350288,20.25 24,20.25 Z M24,23 L24,27 L29,27 L29,28 L23,28 L23,23 L24,23 Z" id="path-10"></path>
+        <filter x="-157.6%" y="-133.3%" width="415.2%" height="415.2%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
-    <g id="folder-recent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-48px" transform="translate(3, 8)">
+    <g id="places/48/folder-recent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/48/folder" transform="translate(3, 6)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -49,6 +59,9 @@
                 </g>
             </g>
         </g>
-        <path d="M24,22.125 C28.5563492,22.125 32.25,25.8186508 32.25,30.375 C32.25,34.9313492 28.5563492,38.625 24,38.625 C19.4436508,38.625 15.75,34.9313492 15.75,30.375 C15.75,25.8186508 19.4436508,22.125 24,22.125 Z M24,23.25 C20.0649712,23.25 16.875,26.4399712 16.875,30.375 C16.875,34.3100288 20.0649712,37.5 24,37.5 C27.9350288,37.5 31.125,34.3100288 31.125,30.375 C31.125,26.4399712 27.9350288,23.25 24,23.25 Z M24,26 L24,30 L29,30 L29,31 L23,31 L23,26 L24,26 Z" id="形状结合" fill="#FFFFFF"></path>
+        <g id="形状结合">
+            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+            <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>
+        </g>
     </g>
 </svg>

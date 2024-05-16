@@ -1,39 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
-  <defs>
-    <linearGradient id="application-vnd.scribus-c" x1="50%" x2="50%" y1="0%" y2="99.203%">
-      <stop offset="0%" stop-color="#619FFF"/>
-      <stop offset="100%" stop-color="#0093E4"/>
-    </linearGradient>
-    <path id="application-vnd.scribus-b" d="M232,0 L336,104 L336,380 C336,399.882251 319.882251,416 300,416 L36,416 C16.117749,416 2.4348735e-15,399.882251 0,380 L0,36 C-2.4348735e-15,16.117749 16.117749,3.65231026e-15 36,0 L232,0 Z"/>
-    <filter id="application-vnd.scribus-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
-      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="14"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0156862745   0 0 0 0 0.580392157   0 0 0 0 0.898039216  0 0 0 0.5 0"/>
-    </filter>
-    <linearGradient id="application-vnd.scribus-f" x1="50%" x2="7.994%" y1="50%" y2="88.893%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
-      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
-    </linearGradient>
-    <path id="application-vnd.scribus-e" d="M232,0 L336,104 L268,104 C248.117749,104 232,87.882251 232,68 L232,0 Z"/>
-    <filter id="application-vnd.scribus-d" width="126.9%" height="126.9%" x="-13.5%" y="-9.6%" filterUnits="objectBoundingBox">
-      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
-    </filter>
-    <linearGradient id="application-vnd.scribus-g" x1="59.307%" x2="34.041%" y1="27.238%" y2="100%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#FFF"/>
-    </linearGradient>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="translate(88 56)">
-      <use fill="#000" filter="url(#application-vnd.scribus-a)" xlink:href="#application-vnd.scribus-b"/>
-      <use fill="url(#application-vnd.scribus-c)" xlink:href="#application-vnd.scribus-b"/>
-      <use fill="#000" filter="url(#application-vnd.scribus-d)" xlink:href="#application-vnd.scribus-e"/>
-      <use fill="url(#application-vnd.scribus-f)" xlink:href="#application-vnd.scribus-e"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mimetypes/512/application-vnd.scribus</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.2029139%" id="linearGradient-1">
+            <stop stop-color="#619FFF" offset="0%"></stop>
+            <stop stop-color="#0093E4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M368.153846,420 C368.153846,439.882251 352.036097,456 332.153846,456 L36.1538462,456 C16.2715952,456 0.153846154,439.882251 0.153846154,420 L0.153846154,36 C0.153846154,16.117749 16.2715952,3.65231026e-15 36.1538462,0 L254.153846,0 L368.153846,114 L368.153846,420 Z" id="path-2"></path>
+        <filter x="-12.5%" y="-8.3%" width="125.0%" height="120.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0156862745   0 0 0 0 0.580392157   0 0 0 0 0.898039216  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="50%" x2="7.99354867%" y2="88.8926673%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M254.153846,0 L368.153846,114 L290.153846,114 C270.271595,114 254.153846,97.882251 254.153846,78 L254.153846,0 L254.153846,0 Z" id="path-5"></path>
+        <filter x="-12.3%" y="-8.8%" width="124.6%" height="124.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="59.3066467%" y1="27.237768%" x2="34.0414915%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="mimetypes/512/application-vnd.scribus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(71.8462, 28)">
+            <g id="蒙版">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="折角">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+        <path d="M224.157284,59.5565748 C238.847788,88.6139487 253.53954,150.973641 160.000001,213.333333 C32.0000009,298.666667 224.000001,410.666667 224.000001,410.666667 C224.000001,410.666667 81.6002962,257.718833 420.91728,187.83357" id="Path-2" fill="url(#linearGradient-7)" opacity="0.64348181"></path>
+        <path d="M231.713542,415.272837 C241.324705,370.100368 254.299776,339.344644 270.638755,323.005666 C270.638755,323.005666 267.755406,282.638778 319.65569,217.763423 C319.65569,217.763423 332.630761,203.346677 338.397459,183.163233 C344.164157,172.590953 350.411414,170.66872 357.139229,177.396535 C361.94481,181.241 362.425369,186.046582 358.580903,191.81328 C354.736438,197.579979 349.450298,209.113375 342.722483,226.41347 C331.189086,278.313756 313.408433,312.913945 289.380524,330.214038 C278.808244,340.786317 274.963779,352.800271 277.847128,366.255902 L231.713542,415.272837 Z" id="Path" fill="#FFFFFF" transform="translate(296.2653, 294.7523) rotate(5) translate(-296.2653, -294.7523)"></path>
     </g>
-    <path fill="url(#application-vnd.scribus-g)" d="M224.157284,59.5565748 C238.847788,88.6139487 253.53954,150.973641 160.000001,213.333333 C32.000001,298.666667 224,410.666667 224,410.666667 C224,410.666667 81.6002962,257.718833 420.91728,187.83357" opacity=".643"/>
-    <path fill="#FFF" d="M231.713542,415.272837 C231.713542,415.272837 246.130287,347.514133 270.638755,323.005666 C270.638755,323.005666 267.755406,282.638778 319.65569,217.763423 C319.65569,217.763423 332.630761,203.346677 338.397459,183.163233 C347.047507,167.304813 357.139229,177.396535 357.139229,177.396535 C357.139229,177.396535 364.347601,183.163233 358.580903,191.81328 C352.814205,200.463328 342.722483,226.41347 342.722483,226.41347 C342.722483,226.41347 325.422388,304.263899 289.380524,330.214038 C273.522104,346.072456 277.847128,366.255902 277.847128,366.255902 L231.713542,415.272837 Z" transform="rotate(5 296.265 294.752)"/>
-  </g>
 </svg>

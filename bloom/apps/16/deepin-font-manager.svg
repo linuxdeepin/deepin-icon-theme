@@ -1,29 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
-  <defs>
-    <filter id="deepin-font-installer-a" width="157.1%" height="150%" x="-28.6%" y="-25%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixOuter1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="deepin-font-installer-c" x1="11.719%" x2="89.812%" y1="0%" y2="101%">
-      <stop offset="0%" stop-color="#FCE7FF"/>
-      <stop offset="100%" stop-color="#9A8FFF"/>
-    </linearGradient>
-    <path id="deepin-font-installer-b" d="M0,2.39536166 C0,1.07243995 1.0753102,0 2.39077847,0 L11.6092215,0 C12.929612,0 14,1.07464957 14,2.39536166 L14,13.6046383 C14,14.9275601 12.9246898,16 11.6092215,16 L2.39077847,16 C1.07038798,16 0,14.9253504 0,13.6046383 L0,2.39536166 Z"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g filter="url(#deepin-font-installer-a)" transform="translate(1)">
-      <mask id="deepin-font-installer-d" fill="#fff">
-        <use xlink:href="#deepin-font-installer-b"/>
-      </mask>
-      <use fill="url(#deepin-font-installer-c)" xlink:href="#deepin-font-installer-b"/>
-      <path fill="#FFF" stroke="#000" stroke-linejoin="round" stroke-opacity=".2" d="M14.5,12 L14.5,12.6071622 C14.5,14.2048324 13.2048324,15.5 11.6071622,15.5 L2.5,15.5 C1.94771525,15.5 1.5,15.0522847 1.5,14.5 C1.5,13.9477153 1.94771525,13.5 2.5,13.5 L12,13.5 C12.8284271,13.5 13.5,12.8284271 13.5,12 L14.5,12 Z" mask="url(#deepin-font-installer-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/16/deepin-font-manager</title>
+    <defs>
+        <linearGradient x1="13.2653061%" y1="0%" x2="88.2040802%" y2="100.999999%" id="linearGradient-1">
+            <stop stop-color="#FCE7FF" offset="0%"></stop>
+            <stop stop-color="#9A8FFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="apps/16/deepin-font-manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(2, 1)">
+            <path d="M2.39283776,0 L9.60716224,0 C10.92869,-2.42760719e-16 12,1.07130996 12,2.39283776 L12,11.6071622 C12,12.92869 10.92869,14 9.60716224,14 L2.39283776,14 C1.07130996,14 6.0592969e-16,12.92869 4.4408921e-16,11.6071622 L0,2.39283776 C-1.6184048e-16,1.07130996 1.07130996,6.86849929e-16 2.39283776,4.4408921e-16 Z" id="蒙版" fill="url(#linearGradient-1)"></path>
+            <path d="M12,11.6071622 C12,12.92869 10.92869,14 9.60716224,14 L2.5,14 C1.67157288,14 1,13.3284271 1,12.5 C1,11.6715729 1.67157288,11 2.5,11 L10,11 C10.5522847,11 11,10.5522847 11,10 C11,9.33311014 11.5003348,8.99977685 12.0005022,9.00000011 L12,10 L11.9945143,10.1492623 C11.9181651,11.1841222 11.0543618,12 10,12 L2.5,12 C2.22385763,12 2,12.2238576 2,12.5 C2,12.7761424 2.22385763,13 2.5,13 L9.60716224,13 C10.92869,13 12,11.92869 12,10.6071622 L12,11.6071622 Z" id="形状结合" fill-opacity="0.0988308566" fill="#000000"></path>
+            <path d="M2,12 C3.1045695,12 4,11.1045695 4,10 L4,2 L4,2 L3,2 L3,1 L10,1 L10,3 L9,3 C9,2.44771525 8.55228475,2 8,2 L6,2 L6,2 L6,6 C7.1045695,6 8,5.1045695 8,4 L8,4 L8,4 L8,9 C8,7.8954305 7.1045695,7 6,7 L6,7 L6,7 L6,10 C6,11.1045695 6.8954305,12 8,12 L8,12 L8,12 L2,12 Z" id="F" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M11.9945143,10.1492623 L12,10 L12,10.6071622 C12,11.92869 10.92869,13 9.60716224,13 L2.5,13 C2.22385763,13 2,12.7761424 2,12.5 C2,12.2238576 2.22385763,12 2.5,12 L10,12 C11.0543618,12 11.9181651,11.1841222 11.9945143,10.1492623 L11.9945143,10.1492623 Z" id="蒙版" fill="#FFFFFF"></path>
+        </g>
+        <g id="Guide/16" transform="translate(0.5, 0.5)"></g>
     </g>
-    <path fill="#000" fill-rule="nonzero" d="M3,12 C4.1045695,12 5,11.1045695 5,10 L5,2 L5,2 L4,2 L4,1 L11,1 L11,3 L10,3 C10,2.44771525 9.55228475,2 9,2 L7,2 L7,2 L7,6 C8.1045695,6 9,5.1045695 9,4 L9,4 L9,4 L9,9 C9,7.8954305 8.1045695,7 7,7 L7,7 L7,7 L7,10 C7,11.1045695 7.8954305,12 9,12 L9,12 L9,12 L3,12 Z"/>
-  </g>
 </svg>

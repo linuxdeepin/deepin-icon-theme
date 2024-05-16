@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-open</title>
+    <title>places/128/folder-open</title>
     <defs>
         <filter x="-9.0%" y="-8.3%" width="118.0%" height="120.8%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -36,8 +36,8 @@
             <stop stop-color="#1881DC" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="folder-open" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-2" filter="url(#filter-1)" transform="translate(9, 22)">
+    <g id="places/128/folder-open" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" filter="url(#filter-1)" transform="translate(9, 16)">
             <mask id="mask-4" fill="white">
                 <use xlink:href="#path-3"></use>
             </mask>

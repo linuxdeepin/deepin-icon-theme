@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-recent</title>
+    <title>places/64/folder-recent</title>
     <defs>
         <filter x="-8.9%" y="-8.3%" width="117.9%" height="120.8%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -31,8 +31,8 @@
             <stop stop-color="#1881DC" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="folder-recent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-64px" transform="translate(4, 11)">
+    <g id="places/64/folder-recent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/64/folder" transform="translate(4, 8)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -49,7 +49,6 @@
                 </g>
             </g>
         </g>
-        <path d="M32,30 C38.0751322,30 43,34.9248678 43,41 C43,47.0751322 38.0751322,52 32,52 C25.9248678,52 21,47.0751322 21,41 C21,34.9248678 25.9248678,30 32,30 Z M32,31 C26.4771525,31 22,35.4771525 22,41 C22,46.5228475 26.4771525,51 32,51 C37.5228475,51 42,46.5228475 42,41 C42,35.4771525 37.5228475,31 32,31 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
-        <polygon id="路径" fill="#FFFFFF" points="31 34 31 42 39 42 39 40 33 40 33 34"></polygon>
+        <path d="M32,26 C38.0751322,26 43,30.9248678 43,37 C43,43.0751322 38.0751322,48 32,48 C25.9248678,48 21,43.0751322 21,37 C21,30.9248678 25.9248678,26 32,26 Z M32,27 C26.4771525,27 22,31.4771525 22,37 C22,42.5228475 26.4771525,47 32,47 C37.5228475,47 42,42.5228475 42,37 C42,31.4771525 37.5228475,27 32,27 Z M33,30 L33,36 L39,36 L39,38 L31,38 L31,30 L33,30 Z" id="形状结合" fill="#FFFFFF" fill-rule="nonzero"></path>
     </g>
 </svg>

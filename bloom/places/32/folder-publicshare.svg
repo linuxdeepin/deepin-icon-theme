@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-publicshare</title>
+    <title>places/32/folder-publicshare</title>
     <defs>
         <filter x="-7.1%" y="-4.2%" width="114.3%" height="116.7%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -30,9 +30,19 @@
             <stop stop-color="#5CCDF1" offset="0%"></stop>
             <stop stop-color="#1881DC" offset="100%"></stop>
         </linearGradient>
+        <linearGradient x1="52.0842145%" y1="4.90831823%" x2="52.0842145%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M16,13 C17.6568542,13 19,14.3431458 19,16 C19,16.9251709 18.5812079,17.7525276 17.9228547,18.3028394 C19.8451663,18.9416562 21.25,20.5554381 21.25,22.6902174 C21.25,22.8613056 21.1111972,23 20.9399752,23 L11.1225248,23 C10.9513028,23 10.8125,22.8613056 10.8125,22.6902174 C10.8125,20.576241 12.2018404,18.9697362 14.098196,18.3178788 C13.4273386,17.7693167 13,16.9345635 13,16 C13,14.3431458 14.3431458,13 16,13 Z M16.0313792,19 C16.0194895,18.9999535 16.0097502,19 16,19 L15.9705,18.999 L15.953861,18.9995565 C13.5790747,18.9995565 12.1531819,20.0494681 11.8857698,21.9504269 L11.8792099,22 L20.2434797,22 L20.2368395,21.9490862 C19.9736252,20.0645906 18.3759705,19.0268801 16.0313792,19 Z M16,14 C14.8954305,14 14,14.8954305 14,16 C14,17.1045695 14.8954305,18 16,18 C17.1045695,18 18,17.1045695 18,16 C18,14.8954305 17.1045695,14 16,14 Z" id="path-10"></path>
+        <filter x="-249.1%" y="-220.0%" width="598.2%" height="620.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
-    <g id="folder-publicshare" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-32px" transform="translate(2, 5)">
+    <g id="places/32/folder-publicshare" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/32/folder" transform="translate(2, 4)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -49,6 +59,9 @@
                 </g>
             </g>
         </g>
-        <path d="M16,14 C17.6568542,14 19,15.3431458 19,17 C19,17.9251709 18.5812079,18.7525276 17.9228547,19.3028394 C19.8451663,19.9416562 21.25,21.5554381 21.25,23.6902174 C21.25,23.8613056 21.1111972,24 20.9399752,24 L11.1225248,24 C10.9513028,24 10.8125,23.8613056 10.8125,23.6902174 C10.8125,21.576241 12.2018404,19.9697362 14.098196,19.3178788 C13.4273386,18.7693167 13,17.9345635 13,17 C13,15.3431458 14.3431458,14 16,14 Z M16.0313792,20 C16.0194895,19.9999535 16.0097502,20 16,20 L15.9705,19.999 L15.953861,19.9995565 C13.5790747,19.9995565 12.1531819,21.0494681 11.8857698,22.9504269 L11.8792099,23 L20.2434797,23 L20.2368395,22.9490862 C19.9736252,21.0645906 18.3759705,20.0268801 16.0313792,20 Z M16,15 C14.8954305,15 14,15.8954305 14,17 C14,18.1045695 14.8954305,19 16,19 C17.1045695,19 18,18.1045695 18,17 C18,15.8954305 17.1045695,15 16,15 Z" id="形状结合" fill="#FFFFFF"></path>
+        <g id="形状结合">
+            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+            <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>
+        </g>
     </g>
 </svg>

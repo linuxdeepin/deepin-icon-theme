@@ -1,34 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
-  <defs>
-    <linearGradient id="vcalendar-c" x1="50%" x2="50%" y1="0%" y2="99.628%">
-      <stop offset="0%" stop-color="#EC5959"/>
-      <stop offset="100%" stop-color="#D13F3F"/>
-    </linearGradient>
-    <path id="vcalendar-b" d="M58,0 L84,26 L84,95 C84,99.9705627 79.9705627,104 75,104 L9,104 C4.02943725,104 6.08718376e-16,99.9705627 0,95 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 L58,0 Z"/>
-    <filter id="vcalendar-a" width="127.4%" height="122.1%" x="-13.7%" y="-9.1%" filterUnits="objectBoundingBox">
-      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.6622226   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
-    </filter>
-    <linearGradient id="vcalendar-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
-      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
-    </linearGradient>
-    <path id="vcalendar-e" d="M58,0 L84,26 L67,26 C62.0294373,26 58,21.9705627 58,17 L58,0 Z"/>
-    <filter id="vcalendar-d" width="142.3%" height="142.3%" x="-21.2%" y="-13.5%" filterUnits="objectBoundingBox">
-      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="translate(22 14)">
-      <use fill="#000" filter="url(#vcalendar-a)" xlink:href="#vcalendar-b"/>
-      <use fill="url(#vcalendar-c)" xlink:href="#vcalendar-b"/>
-      <use fill="#000" filter="url(#vcalendar-d)" xlink:href="#vcalendar-e"/>
-      <use fill="url(#vcalendar-f)" xlink:href="#vcalendar-e"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mimetypes/128/vcalendar</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.6278505%" id="linearGradient-1">
+            <stop stop-color="#EC5959" offset="0%"></stop>
+            <stop stop-color="#D13F3F" offset="100%"></stop>
+        </linearGradient>
+        <path d="M92,105 C92,109.970563 87.9705627,114 83,114 L9,114 C4.02943725,114 6.08718376e-16,109.970563 0,105 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 L63.5,0 L92,28.5 L92,105 Z" id="path-2"></path>
+        <filter x="-12.5%" y="-8.3%" width="125.0%" height="120.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.6622226   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="50%" x2="7.99354867%" y2="88.8926673%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M63.5,0 L92,28.5 L72.5,28.5 C67.5294373,28.5 63.5,24.4705627 63.5,19.5 L63.5,0 L63.5,0 Z" id="path-5"></path>
+        <filter x="-12.3%" y="-8.8%" width="124.6%" height="124.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="mimetypes/128/vcalendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(18, 7)">
+            <g id="蒙版">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="折角">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+        <path d="M50,54 L50,54.9983345 C50,56.642909 51.3431458,58 53,58 C54.6684055,58 56,56.6561086 56,54.9983345 L56,54 L72,54 L72,54.9983345 C72,56.642909 73.3431458,58 75,58 C76.6684055,58 78,56.6561086 78,54.9983345 L78,54 L80.0132046,54 C81.1104814,54 82,54.8892617 82,56.0017433 L82,85.9982567 C82,87.103789 81.1101074,88 80.0132046,88 L45.9867954,88 C44.8895186,88 44,87.1107383 44,85.9982567 L44,56.0017433 C44,54.896211 44.8898926,54 45.9867954,54 L50,54 Z M80,62 L46,62 L46,86 L80,86 L80,62 Z M66,76 L66,82 L60,82 L60,76 L66,76 Z M56,76 L56,82 L50,82 L50,76 L56,76 Z M76,76 L76,82 L70,82 L70,76 L76,76 Z M56,66 L56,72 L50,72 L50,66 L56,66 Z M66,66 L66,72 L60,72 L60,66 L66,66 Z M76,66 L76,72 L70,72 L70,66 L76,66 Z M53,50 C53.5522847,50 54,50.4477153 54,51 L54,55 C54,55.5522847 53.5522847,56 53,56 C52.4477153,56 52,55.5522847 52,55 L52,51 C52,50.4477153 52.4477153,50 53,50 Z M75,50 C75.5522847,50 76,50.4477153 76,51 L76,55 C76,55.5522847 75.5522847,56 75,56 C74.4477153,56 74,55.5522847 74,55 L74,51 C74,50.4477153 74.4477153,50 75,50 Z" id="形状结合" fill="#FFFFFF"></path>
     </g>
-    <path fill="#FFF" d="M50,66 L56,66 L56,72 L50,72 L50,66 Z M60,66 L66,66 L66,72 L60,72 L60,66 Z M70,66 L76,66 L76,72 L70,72 L70,66 Z M60,76 L66,76 L66,82 L60,82 L60,76 Z M50,76 L56,76 L56,82 L50,82 L50,76 Z M70,76 L76,76 L76,82 L70,82 L70,76 Z M52,50.990778 C52,50.4435864 52.4438648,50 53,50 C53.5522847,50 54,50.4509752 54,50.990778 L54,55.009222 C54,55.5564136 53.5561352,56 53,56 C52.4477153,56 52,55.5490248 52,55.009222 L52,50.990778 Z M74,50.990778 C74,50.4435864 74.4438648,50 75,50 C75.5522847,50 76,50.4509752 76,50.990778 L76,55.009222 C76,55.5564136 75.5561352,56 75,56 C74.4477153,56 74,55.5490248 74,55.009222 L74,50.990778 Z M72,54 L72,54.9983345 C72,56.642909 73.3431458,58 75,58 C76.6684055,58 78,56.6561086 78,54.9983345 L78,54 L80.0132046,54 C81.1104814,54 82,54.8892617 82,56.0017433 L82,85.9982567 C82,87.103789 81.1101074,88 80.0132046,88 L45.9867954,88 C44.8895186,88 44,87.1107383 44,85.9982567 L44,56.0017433 C44,54.896211 44.8898926,54 45.9867954,54 L50,54 L50,54.9983345 C50,56.642909 51.3431458,58 53,58 C54.6684055,58 56,56.6561086 56,54.9983345 L56,54 L72,54 Z M80,62 L46,62 L46,86 L80,86 L80,62 Z"/>
-  </g>
 </svg>

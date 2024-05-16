@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>user-home</title>
+    <title>places/128/user-home</title>
     <defs>
         <filter x="-9.0%" y="-8.3%" width="118.0%" height="120.8%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -46,8 +46,8 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42905776   0 0 0 0 0.968670281  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="user-home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-128px" transform="translate(9, 22)">
+    <g id="places/128/user-home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/folder/128px" transform="translate(9, 16)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -65,8 +65,7 @@
                 </g>
             </g>
         </g>
-        <path d="M46,94 L82,94 L82,95 C82,96.1045695 81.1045695,97 80,97 L48,97 C46.8954305,97 46,96.1045695 46,95 L46,94 L46,94 Z" id="Rectangle-3" fill-opacity="0.5" fill="#32A2FB"></path>
-        <g id="Shape" transform="translate(40, 54)">
+        <g id="Shape" transform="translate(40, 50)">
             <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
             <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-11"></use>
         </g>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-downloads</title>
+    <title>places/48/folder-downloads</title>
     <defs>
         <filter x="-8.3%" y="-6.9%" width="116.7%" height="119.4%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -47,8 +47,8 @@
             <stop stop-color="#790EED" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="folder-downloads" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-48px" transform="translate(3, 8)">
+    <g id="places/48/folder-downloads" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/48/folder" transform="translate(3, 6)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -65,7 +65,7 @@
                 </g>
             </g>
         </g>
-        <g id="编组" transform="translate(13, 19)">
+        <g id="编组" transform="translate(13, 17)">
             <g id="Combined-Shape">
                 <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
                 <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>

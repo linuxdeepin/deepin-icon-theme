@@ -1,44 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="multipart-encrypted-c" x1="50%" x2="50%" y1="0%" y2="98.947%">
-      <stop offset="0%" stop-color="#F7F7F7"/>
-      <stop offset="100%" stop-color="#F6F6F6"/>
-    </linearGradient>
-    <path id="multipart-encrypted-b" d="M15,0 L22,7 L22,22 C22,24.209139 20.209139,26 18,26 L4,26 C1.790861,26 2.705415e-16,24.209139 0,22 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L15,0 Z"/>
-    <filter id="multipart-encrypted-a" width="136.4%" height="130.8%" x="-18.2%" y="-11.5%" filterUnits="objectBoundingBox">
-      <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
-      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
-    </filter>
-    <linearGradient id="multipart-encrypted-f" x1="50%" x2="10.489%" y1="50%" y2="91.194%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
-      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
-    </linearGradient>
-    <path id="multipart-encrypted-e" d="M15,0 L22,7 L17.25,7 C16.0073593,7 15,5.99264069 15,4.75 L15,0 Z"/>
-    <filter id="multipart-encrypted-d" width="157.1%" height="157.1%" x="-28.6%" y="-14.3%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="translate(5 3)">
-      <use fill="#000" filter="url(#multipart-encrypted-a)" xlink:href="#multipart-encrypted-b"/>
-      <path fill="url(#multipart-encrypted-c)" stroke="#000" stroke-opacity=".1" stroke-width=".5" d="M15.1767767,-0.176776695 L22.1767767,6.8232233 L22.25,7 L22.25,22 C22.25,24.3472102 20.3472102,26.25 18,26.25 L4,26.25 C1.65278981,26.25 -0.25,24.3472102 -0.25,22 L-0.25,4 C-0.25,1.65278981 1.65278981,-0.25 4,-0.25 L15,-0.25 L15.1767767,-0.176776695 Z"/>
-      <use fill="#000" filter="url(#multipart-encrypted-d)" xlink:href="#multipart-encrypted-e"/>
-      <use fill="url(#multipart-encrypted-f)" xlink:href="#multipart-encrypted-e"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mimetypes/32/multipart-encrypted</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9468961%" id="linearGradient-1">
+            <stop stop-color="#F7F7F7" offset="0%"></stop>
+            <stop stop-color="#F6F6F6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22,25.4 C22,26.8359403 20.8359403,28 19.4,28 L2.6,28 C1.16405965,28 -2.68237235e-16,26.8359403 -4.4408921e-16,25.4 L4.4408921e-16,2.6 C2.68237235e-16,1.16405965 1.16405965,-1.80311247e-16 2.6,-4.4408921e-16 L15.1847826,0 L22,7 L22,25.4 Z" id="path-2"></path>
+        <filter x="-15.9%" y="-8.9%" width="131.8%" height="125.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="50%" x2="10.1820093%" y2="88.8926673%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.1847826,0 L22,7 L17.4347826,7 C16.1921419,7 15.1847826,5.99264069 15.1847826,4.75 L15.1847826,0 L15.1847826,0 Z" id="path-5"></path>
+        <filter x="-29.3%" y="-14.3%" width="158.7%" height="157.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="mimetypes/32/multipart-encrypted" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(5, 2)">
+            <g id="蒙版">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <path d="M15.3958176,-0.5 L15.5430328,-0.348793312 L22.3582502,6.65120669 L22.5,6.79679976 L22.5,25.4 C22.5,27.1120827 21.1120827,28.5 19.4,28.5 L2.6,28.5 C0.887917276,28.5 -0.5,27.1120827 -0.5,25.4 L-0.5,2.6 C-0.5,0.887917276 0.887917276,-0.5 2.6,-0.5 L15.3958176,-0.5 Z M15.1847826,0 L2.6,0 C1.16405965,0 0,1.16405965 0,2.6 L0,25.4 C0,26.8359403 1.16405965,28 2.6,28 L19.4,28 C20.8359403,28 22,26.8359403 22,25.4 L22,7 L15.1847826,0 Z" id="蒙版" fill-opacity="0.1" fill="#000000" fill-rule="nonzero"></path>
+            <g id="折角">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+        <path d="M15,11 L15,14 L16,14 L16,15 L13,15 L13,14 L14,14 L14,12 L13,12 L13,11 L15,11 Z M17.5,11 C18.3270255,11 19,11.7204196 19,12.6006662 L19,13.3993338 C19,14.2846706 18.3315334,15 17.5,15 C16.6729745,15 16,14.2795804 16,13.3993338 L16,12.6006662 C16,11.7153294 16.6684666,11 17.5,11 Z M17.5,12 C17.2221476,12 17,12.2971516 17,12.6672218 L17,13.3327782 C17,13.6986615 17.2251944,14 17.5,14 C17.7778524,14 18,13.7028484 18,13.3327782 L18,12.6672218 C18,12.3013385 17.7748056,12 17.5,12 Z M11,16 L9,16 L9,17 L10,17 L10,19 L9,19 L9,20 L12,20 L12,19 L11,19 L11,16 Z M11,21 L11,24 L12,24 L12,25 L9,25 L9,24 L10,24 L10,22 L9,22 L9,21 L11,21 Z M13.5,21 C14.3270255,21 15,21.7204196 15,22.6006662 L15,23.3993338 C15,24.2846706 14.3315334,25 13.5,25 C12.6729745,25 12,24.2795804 12,23.3993338 L12,22.6006662 C12,21.7153294 12.6684666,21 13.5,21 Z M13.5,22 C13.2221476,22 13,22.2971516 13,22.6672218 L13,23.3327782 C13,23.6986615 13.2251944,24 13.5,24 C13.7778524,24 14,23.7028484 14,23.3327782 L14,22.6672218 C14,22.3013385 13.7748056,22 13.5,22 Z M15,16 L15,19 L16,19 L16,20 L13,20 L13,19 L14,19 L14,17 L13,17 L13,16 L15,16 Z M17.5,16 C18.3270255,16 19,16.7204196 19,17.6006662 L19,18.3993338 C19,19.2846706 18.3315334,20 17.5,20 C16.6729745,20 16,19.2795804 16,18.3993338 L16,17.6006662 C16,16.7153294 16.6684666,16 17.5,16 Z M17.5,17 C17.2221476,17 17,17.2971516 17,17.6672218 L17,18.3327782 C17,18.6986615 17.2251944,19 17.5,19 C17.7778524,19 18,18.7028484 18,18.3327782 L18,17.6672218 C18,17.3013385 17.7748056,17 17.5,17 Z M22,16 L20,16 L20,17 L21,17 L21,19 L20,19 L20,20 L23,20 L23,19 L22,19 L22,16 Z M22,21 L20,21 L20,22 L21,22 L21,24 L20,24 L20,25 L23,25 L23,24 L22,24 L22,21 Z M10.5,12 C10.7748056,12 11,12.3013385 11,12.6672218 L11,13.3327782 C11,13.7028484 10.7778524,14 10.5,14 C10.2251944,14 10,13.6986615 10,13.3327782 L10,12.6672218 C10,12.2971516 10.2221476,12 10.5,12 Z M9,13.3993338 C9,14.2795804 9.6729745,15 10.5,15 C11.3315334,15 12,14.2846706 12,13.3993338 L12,12.6006662 C12,11.7204196 11.3270255,11 10.5,11 C9.66846656,11 9,11.7153294 9,12.6006662 L9,13.3993338 Z M17.5,22 C17.7748056,22 18,22.3013385 18,22.6672218 L18,23.3327782 C18,23.7028484 17.7778524,24 17.5,24 C17.2251944,24 17,23.6986615 17,23.3327782 L17,22.6672218 C17,22.2971516 17.2221476,22 17.5,22 Z M16,23.3993338 C16,24.2795804 16.6729745,25 17.5,25 C18.3315334,25 19,24.2846706 19,23.3993338 L19,22.6006662 C19,21.7204196 18.3270255,21 17.5,21 C16.6684666,21 16,21.7153294 16,22.6006662 L16,23.3993338 Z M21.5,12 C21.7748056,12 22,12.3013385 22,12.6672218 L22,13.3327782 C22,13.7028484 21.7778524,14 21.5,14 C21.2251944,14 21,13.6986615 21,13.3327782 L21,12.6672218 C21,12.2971516 21.2221476,12 21.5,12 Z M20,13.3993338 C20,14.2795804 20.6729745,15 21.5,15 C22.3315334,15 23,14.2846706 23,13.3993338 L23,12.6006662 C23,11.7204196 22.3270255,11 21.5,11 C20.6684666,11 20,11.7153294 20,12.6006662 L20,13.3993338 Z" id="形状结合" fill="#6E79E0"></path>
     </g>
-    <g fill="#6E79E0" transform="translate(9 11)">
-      <polygon points="6 0 4 0 4 1 5 1 5 3 4 3 4 4 7 4 7 3 6 3"/>
-      <polygon points="2 5 0 5 0 6 1 6 1 8 0 8 0 9 3 9 3 8 2 8"/>
-      <polygon points="2 10 0 10 0 11 1 11 1 13 0 13 0 14 3 14 3 13 2 13"/>
-      <polygon points="6 5 4 5 4 6 5 6 5 8 4 8 4 9 7 9 7 8 6 8"/>
-      <polygon points="13 5 11 5 11 6 12 6 12 8 11 8 11 9 14 9 14 8 13 8"/>
-      <polygon points="13 10 11 10 11 11 12 11 12 13 11 13 11 14 14 14 14 13 13 13"/>
-      <path fill-rule="nonzero" d="M1.5 1C1.77480558 1 2 1.30133846 2 1.66722182L2 2.33277818C2 2.70284844 1.7778524 3 1.5 3 1.22519442 3 1 2.69866154 1 2.33277818L1 1.66722182C1 1.29715156 1.2221476 1 1.5 1zM0 2.39933381C0 3.27958039.672974497 4 1.5 4 2.33153344 4 3 3.28467062 3 2.39933381L3 1.60066619C3 .720419611 2.3270255 0 1.5 0 .668466565 0 0 .715329379 0 1.60066619L0 2.39933381zM8.5 1C8.77480558 1 9 1.30133846 9 1.66722182L9 2.33277818C9 2.70284844 8.7778524 3 8.5 3 8.22519442 3 8 2.69866154 8 2.33277818L8 1.66722182C8 1.29715156 8.2221476 1 8.5 1zM7 2.39933381C7 3.27958039 7.6729745 4 8.5 4 9.33153344 4 10 3.28467062 10 2.39933381L10 1.60066619C10 .720419611 9.3270255 0 8.5 0 7.66846656 0 7 .715329379 7 1.60066619L7 2.39933381zM8.5 6C8.77480558 6 9 6.30133846 9 6.66722182L9 7.33277818C9 7.70284844 8.7778524 8 8.5 8 8.22519442 8 8 7.69866154 8 7.33277818L8 6.66722182C8 6.29715156 8.2221476 6 8.5 6zM7 7.39933381C7 8.27958039 7.6729745 9 8.5 9 9.33153344 9 10 8.28467062 10 7.39933381L10 6.60066619C10 5.72041961 9.3270255 5 8.5 5 7.66846656 5 7 5.71532938 7 6.60066619L7 7.39933381zM8.5 11C8.77480558 11 9 11.3013385 9 11.6672218L9 12.3327782C9 12.7028484 8.7778524 13 8.5 13 8.22519442 13 8 12.6986615 8 12.3327782L8 11.6672218C8 11.2971516 8.2221476 11 8.5 11zM7 12.3993338C7 13.2795804 7.6729745 14 8.5 14 9.33153344 14 10 13.2846706 10 12.3993338L10 11.6006662C10 10.7204196 9.3270255 10 8.5 10 7.66846656 10 7 10.7153294 7 11.6006662L7 12.3993338zM4.5 11C4.77480558 11 5 11.3013385 5 11.6672218L5 12.3327782C5 12.7028484 4.7778524 13 4.5 13 4.22519442 13 4 12.6986615 4 12.3327782L4 11.6672218C4 11.2971516 4.2221476 11 4.5 11zM3 12.3993338C3 13.2795804 3.6729745 14 4.5 14 5.33153344 14 6 13.2846706 6 12.3993338L6 11.6006662C6 10.7204196 5.3270255 10 4.5 10 3.66846656 10 3 10.7153294 3 11.6006662L3 12.3993338zM12.5 1C12.7748056 1 13 1.30133846 13 1.66722182L13 2.33277818C13 2.70284844 12.7778524 3 12.5 3 12.2251944 3 12 2.69866154 12 2.33277818L12 1.66722182C12 1.29715156 12.2221476 1 12.5 1zM11 2.39933381C11 3.27958039 11.6729745 4 12.5 4 13.3315334 4 14 3.28467062 14 2.39933381L14 1.60066619C14 .720419611 13.3270255 0 12.5 0 11.6684666 0 11 .715329379 11 1.60066619L11 2.39933381z"/>
-    </g>
-  </g>
 </svg>

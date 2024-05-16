@@ -1,26 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
-  <defs>
-    <filter id="user-trash-empty-opened-256px-a" width="126.5%" height="126.5%" x="-13.2%" y="-13.2%" filterUnits="objectBoundingBox">
-      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
-      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixOuter1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <path id="user-trash-empty-opened-256px-b" d="M9.33732361,0 L194.662676,0 C199.069909,2.74311824e-15 202.642676,3.5727677 202.642676,7.98 C202.642676,8.39634062 202.610094,8.8120428 202.545227,9.2232992 L175.818093,178.674057 C173.517825,193.257818 160.948499,204 146.184443,204 L57.8155565,204 C43.0515013,204 30.4821748,193.257818 28.1819069,178.674057 L1.45477281,9.2232992 C0.768117617,4.86988661 3.74061181,0.784104391 8.0940244,0.0974492014 C8.50528081,0.0325825393 8.92098298,3.62919421e-15 9.33732361,0 Z"/>
-    <filter id="user-trash-empty-opened-256px-c" width="156.3%" height="158.1%" x="-28.2%" y="-29%" filterUnits="objectBoundingBox">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="15"/>
-    </filter>
-    <path id="user-trash-empty-opened-256px-e" d="M194.306803,-5.32907052e-14 C198.714036,-5.05475869e-14 202.286803,3.5727677 202.286803,7.98 C202.286803,8.39634062 202.254221,8.8120428 202.189354,9.2232992 L202.147787,9.48918038 C201.449584,5.79444999 198.204533,3 194.306803,3 L194.306803,3 L8.98145051,3 C8.56510989,3 8.14940771,3.03258254 7.73815131,3.0974492 C4.31907963,3.63673264 1.75178271,6.27265744 1.13991442,9.48821835 L1.09889971,9.2232992 C0.412244525,4.86988661 3.38473871,0.784104391 7.73815131,0.0974492014 C8.14940771,0.0325825393 8.56510989,-4.9661511e-14 8.98145051,-5.32907052e-14 L194.306803,-5.32907052e-14 Z"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#user-trash-empty-opened-256px-a)" transform="translate(26 26)">
-    <mask id="user-trash-empty-opened-256px-d" fill="#fff">
-      <use xlink:href="#user-trash-empty-opened-256px-b"/>
-    </mask>
-    <use fill="#FFF" fill-opacity=".8" xlink:href="#user-trash-empty-opened-256px-b"/>
-    <path fill="#2D4688" fill-opacity=".3" d="M33.8373236,0 L170.162676,0 C174.569909,3.63129666e-15 178.142676,3.5727677 178.142676,7.98 C178.142676,8.39634062 178.110094,8.8120428 178.045227,9.2232992 L159.046767,129.674057 C156.746499,144.257818 144.177172,155 129.413117,155 L74.5868831,155 C59.8228278,155 47.2535014,144.257818 44.9532335,129.674057 L25.9547728,9.2232992 C25.2681176,4.86988661 28.2406118,0.784104391 32.5940244,0.0974492014 C33.0052808,0.0325825393 33.420983,4.51737263e-15 33.8373236,0 Z" filter="url(#user-trash-empty-opened-256px-c)" mask="url(#user-trash-empty-opened-256px-d)"/>
-    <use fill="#FFF" fill-opacity=".8" xlink:href="#user-trash-empty-opened-256px-e"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>places/256/user-trash-empty-opened</title>
+    <defs>
+        <filter x="-7.2%" y="-6.0%" width="114.4%" height="115.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M10.0696627,0 L205.930337,1.77635684e-15 C210.683235,1.7788948e-14 214.53622,3.85298477 214.53622,8.60588235 C214.53622,9.05487714 214.501082,9.50318341 214.431127,9.94669522 L186.23866,188.687709 C183.757978,204.415294 170.202822,216 154.280802,216 L61.7191979,216 C45.7971775,216 32.2420215,204.415294 29.7613404,188.687709 L1.56887263,9.94669522 C0.828362136,5.2518385 4.03399312,0.845602774 8.72884985,0.105092276 C9.17236165,0.0351380325 9.62066792,1.85883584e-15 10.0696627,1.77635684e-15 Z" id="path-2"></path>
+        <filter x="-20.9%" y="-21.5%" width="141.7%" height="143.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="24" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="21.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-26" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner2"></feGaussianBlur>
+            <feOffset dx="0" dy="3" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="places/256/user-trash-empty-opened" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(20, 20)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <g id="蒙版">
+                <use fill-opacity="0.8" fill="#BFC7DC" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+        <g id="Guide/256" transform="translate(8.0533, 8)"></g>
+    </g>
 </svg>

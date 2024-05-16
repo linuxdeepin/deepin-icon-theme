@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-remote</title>
+    <title>places/48/folder-remote</title>
     <defs>
         <filter x="-8.3%" y="-6.9%" width="116.7%" height="119.4%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -31,8 +31,8 @@
             <stop stop-color="#1881DC" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="folder-remote" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-48px" transform="translate(3, 8)">
+    <g id="places/48/folder-remote" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/48/folder" transform="translate(3, 6)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -49,7 +49,7 @@
                 </g>
             </g>
         </g>
-        <g id="Group" transform="translate(14, 22)">
+        <g id="Group" transform="translate(14, 21)">
             <path d="M11.1073074,12.4226405 C10.5308922,11.8462253 9.58126513,11.8612988 8.98625592,12.456308 C8.39124671,13.0513172 8.37617326,14.0009443 8.95258843,14.5773595 C9.52900361,15.1537747 10.4786307,15.1387012 11.0736399,14.543692 C11.6686491,13.9486828 11.6837226,12.9990557 11.1073074,12.4226405 Z" id="Path" fill="#FFFFFF"></path>
             <path d="M19.4866536,3.92509072 C16.9005539,1.79670345 13.5766301,0.516764323 9.95073707,0.516764323 C6.3583277,0.516764323 3.06233615,1.77317317 0.486653646,3.86634376" id="Oval-53" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
             <path d="M16.995931,6.99899209 C15.0710449,5.45505906 12.6188826,4.53011068 9.94850216,4.53011068 C7.32179183,4.53011068 4.90622073,5.4250541 2.99593099,6.92374384" id="Oval-53" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
