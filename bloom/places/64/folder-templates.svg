@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-templates</title>
+    <title>places/64/folder-templates</title>
     <defs>
         <filter x="-8.9%" y="-8.3%" width="117.9%" height="120.8%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -30,9 +30,19 @@
             <stop stop-color="#5CCDF1" offset="0%"></stop>
             <stop stop-color="#1881DC" offset="100%"></stop>
         </linearGradient>
+        <linearGradient x1="52.0842145%" y1="4.90831823%" x2="52.0842145%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M35.4450036,26 C35.8359305,26 36.2114125,26.1526169 36.4914858,26.4253489 L41.5464823,31.3478436 C41.8364458,31.6302066 42,32.017763 42,32.4224946 L42,46 C42,46.5522847 41.5522847,47 41,47 L41,32 L37.75,32 C36.7835017,32 36,31.2164983 36,30.25 L36,27 L25,27 C24.4477153,27 24,27.4477153 24,28 L24,38 L23,38 L23,28.5 C23,27.1192881 24.1192881,26 25.5,26 Z M24,46 L24,47 L23,47 L23,46 L24,46 Z M27,46 L27,47 L26,47 L26,46 L27,46 Z M30,46 L30,47 L29,47 L29,46 L30,46 Z M33,46 L33,47 L32,47 L32,46 L33,46 Z M36,46 L36,47 L35,47 L35,46 L36,46 Z M39,46 L39,47 L38,47 L38,46 L39,46 Z M24,43 L24,44 L23,44 L23,43 L24,43 Z M24,40 L24,41 L23,41 L23,40 L24,40 Z" id="path-10"></path>
+        <filter x="-136.8%" y="-104.8%" width="373.7%" height="347.6%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
-    <g id="folder-templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-64px" transform="translate(4, 11)">
+    <g id="places/64/folder-templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/64/folder" transform="translate(4, 8)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -49,6 +59,9 @@
                 </g>
             </g>
         </g>
-        <path d="M35.4450036,29 C35.8359305,29 36.2114125,29.1526169 36.4914858,29.4253489 L41.5464823,34.3478436 C41.8364458,34.6302066 42,35.017763 42,35.4224946 L42,49 C42,49.5522847 41.5522847,50 41,50 L41,35 L37.75,35 C36.7835017,35 36,34.2164983 36,33.25 L36,30 L25,30 C24.4477153,30 24,30.4477153 24,31 L24,41 L23,41 L23,31.5 C23,30.1192881 24.1192881,29 25.5,29 Z M24,49 L24,50 L23,50 L23,49 L24,49 Z M27,49 L27,50 L26,50 L26,49 L27,49 Z M30,49 L30,50 L29,50 L29,49 L30,49 Z M33,49 L33,50 L32,50 L32,49 L33,49 Z M36,49 L36,50 L35,50 L35,49 L36,49 Z M39,49 L39,50 L38,50 L38,49 L39,49 Z M24,46 L24,47 L23,47 L23,46 L24,46 Z M24,43 L24,44 L23,44 L23,43 L24,43 Z" id="形状结合" fill="#FFFFFF"></path>
+        <g id="形状结合">
+            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+            <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>
+        </g>
     </g>
 </svg>

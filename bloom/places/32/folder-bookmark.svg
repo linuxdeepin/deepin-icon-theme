@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-bookmark</title>
+    <title>places/32/folder-bookmark</title>
     <defs>
         <filter x="-7.1%" y="-4.2%" width="114.3%" height="116.7%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -34,15 +34,9 @@
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
         </linearGradient>
-        <polygon id="path-10" points="8 11 16 11 16 27 12 23.64 8 27"></polygon>
-        <filter x="-162.5%" y="-68.8%" width="425.0%" height="262.5%" filterUnits="objectBoundingBox" id="filter-11">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
     </defs>
-    <g id="folder-bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-32px" transform="translate(2, 5)">
+    <g id="places/32/folder-bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/32/folder" transform="translate(2, 4)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -59,9 +53,6 @@
                 </g>
             </g>
         </g>
-        <g id="Rectangle">
-            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
-            <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>
-        </g>
+        <polygon id="Rectangle" fill="url(#linearGradient-9)" points="8 10 16 10 16 26 12 22.64 8 26"></polygon>
     </g>
 </svg>

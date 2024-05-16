@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-desktop</title>
+    <title>places/64/folder-desktop</title>
     <defs>
         <filter x="-8.9%" y="-8.3%" width="117.9%" height="120.8%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -35,9 +35,9 @@
             <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
         </linearGradient>
         <path d="M2,0 L24,0 C25.1045695,-2.16501571e-15 26,0.8954305 26,2 L26,16 C26,17.1045695 25.1045695,18 24,18 L2,18 C0.8954305,18 5.69786896e-14,17.1045695 5.68434189e-14,16 L5.68434189e-14,2 C5.67081481e-14,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="path-10"></path>
-        <filter x="-25.0%" y="-30.6%" width="150.0%" height="172.2%" filterUnits="objectBoundingBox" id="filter-11">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+        <filter x="-100.0%" y="-122.2%" width="300.0%" height="388.9%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <linearGradient x1="0.25781251%" y1="49.7500002%" x2="100%" y2="49.7500002%" id="linearGradient-12">
@@ -66,8 +66,8 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.292599978 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="folder-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-64px" transform="translate(4, 11)">
+    <g id="places/64/folder-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/64/folder" transform="translate(4, 8)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -84,7 +84,7 @@
                 </g>
             </g>
         </g>
-        <g id="Group" transform="translate(19, 31)">
+        <g id="Group" transform="translate(19, 28)">
             <g id="Combined-Shape">
                 <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
                 <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>

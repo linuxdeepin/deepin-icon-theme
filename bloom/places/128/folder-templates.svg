@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-templates</title>
+    <title>places/128/folder-templates</title>
     <defs>
         <filter x="-9.0%" y="-8.3%" width="118.0%" height="120.8%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -39,15 +39,15 @@
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
         </linearGradient>
-        <path d="M70.7385719,59 C71.6091513,59 72.4367956,59.3781791 73.0066321,60.0363546 L82.2680601,70.7335383 C82.7401551,71.2788199 83,71.9759308 83,72.6971837 L83,100 C83,101.656854 81.6568542,103 80,103 L80,75 L74.5,75 C72.5670034,75 71,73.4329966 71,71.5 L71,62 L49,62 C47.8954305,62 47,62.8954305 47,64 L47,85 L44,85 L44,64 C44,61.2385763 46.2385763,59 49,59 Z M53,100 L53,103 L50,103 L50,100 L53,100 Z M47,100 L47,103 L44,103 L44,100 L47,100 Z M59,100 L59,103 L56,103 L56,100 L59,100 Z M65,100 L65,103 L62,103 L62,100 L65,100 Z M71,100 L71,103 L68,103 L68,100 L71,100 Z M77,100 L77,103 L74,103 L74,100 L77,100 Z M47,94 L47,97 L44,97 L44,94 L47,94 Z M47,88 L47,91 L44,91 L44,88 L47,88 Z" id="path-11"></path>
-        <filter x="-33.3%" y="-25.0%" width="166.7%" height="159.1%" filterUnits="objectBoundingBox" id="filter-12">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+        <path d="M70.7385719,54 C71.6091513,54 72.4367956,54.3781791 73.0066321,55.0363546 L82.2680601,65.7335383 C82.7401551,66.2788199 83,66.9759308 83,67.6971837 L83,95 C83,96.6568542 81.6568542,98 80,98 L80,70 L74.5,70 C72.5670034,70 71,68.4329966 71,66.5 L71,57 L49,57 C47.8954305,57 47,57.8954305 47,59 L47,80 L44,80 L44,59 C44,56.2385763 46.2385763,54 49,54 Z M53,95 L53,98 L50,98 L50,95 L53,95 Z M47,95 L47,98 L44,98 L44,95 L47,95 Z M59,95 L59,98 L56,98 L56,95 L59,95 Z M65,95 L65,98 L62,98 L62,95 L65,95 Z M71,95 L71,98 L68,98 L68,95 L71,95 Z M77,95 L77,98 L74,98 L74,95 L77,95 Z M47,89 L47,92 L44,92 L44,89 L47,89 Z M47,83 L47,86 L44,86 L44,83 L47,83 Z" id="path-11"></path>
+        <filter x="-66.7%" y="-50.0%" width="233.3%" height="218.2%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="folder-templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-128px" transform="translate(9, 22)">
+    <g id="places/128/folder-templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/folder/128px" transform="translate(9, 16)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>

@@ -1,45 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
-  <defs>
-    <filter id="deepin-launcher-48px-b" width="129.5%" height="129.5%" x="-14.8%" y="-14.8%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixOuter1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="deepin-launcher-48px-a" x1="36.374%" x2="36.374%" y1="10.403%" y2="93.072%">
-      <stop offset="0%" stop-color="#FFF"/>
-      <stop offset="100%" stop-color="#C6D3D5"/>
-    </linearGradient>
-    <linearGradient id="deepin-launcher-48px-c" x1="100%" x2="0%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#ECD935"/>
-      <stop offset="100%" stop-color="#3BCAB9"/>
-    </linearGradient>
-    <linearGradient id="deepin-launcher-48px-d" x1="0%" x2="100%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#00B8E8"/>
-      <stop offset="100%" stop-color="#4B5EFF"/>
-    </linearGradient>
-    <linearGradient id="deepin-launcher-48px-e" x1="0%" x2="100%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFC823"/>
-      <stop offset="100%" stop-color="#FF2F78"/>
-    </linearGradient>
-    <linearGradient id="deepin-launcher-48px-f" x1="81.903%" x2="0%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#DE00C0"/>
-      <stop offset="100%" stop-color="#8720FF"/>
-    </linearGradient>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g fill="url(#deepin-launcher-48px-a)" filter="url(#deepin-launcher-48px-b)" transform="translate(2 2)">
-      <circle cx="22" cy="22" r="22"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>places/48/deepin-launcher</title>
+    <defs>
+        <filter x="-8.0%" y="-5.7%" width="115.9%" height="115.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="36.374%" y1="10.403%" x2="36.374%" y2="93.072%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#C6D3D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#ECD935" offset="0%"></stop>
+            <stop stop-color="#3BCAB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#00B8E8" offset="0%"></stop>
+            <stop stop-color="#4B5EFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFC823" offset="0%"></stop>
+            <stop stop-color="#FF2F78" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="81.903%" y1="0%" x2="0%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#DE00C0" offset="0%"></stop>
+            <stop stop-color="#8720FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="places/48/deepin-launcher" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="deepin-launcher" filter="url(#filter-1)" transform="translate(2, 2)" fill-rule="nonzero">
+            <g id="编组" fill="url(#linearGradient-2)">
+                <circle id="椭圆形" cx="22" cy="22" r="22"></circle>
+            </g>
+            <g id="编组" transform="translate(7.1749, 7.1755)">
+                <path d="M3.79855892,10.451211 L8.48276945,10.451211 C9.58733895,10.451211 10.4827694,11.3466415 10.4827694,12.451211 L10.4827694,17.1354216 C10.4827694,18.2399911 9.58733895,19.1354216 8.48276945,19.1354216 L3.79855892,19.1354216 C2.69398942,19.1354216 1.79855892,18.2399911 1.79855892,17.1354216 L1.79855892,12.451211 C1.79855892,11.3466415 2.69398942,10.451211 3.79855892,10.451211 Z" id="路径" fill="url(#linearGradient-3)" transform="translate(6.1407, 14.7933) rotate(-45) translate(-6.1407, -14.7933)"></path>
+                <path d="M12.4519181,19.1039182 L17.1361287,19.1039182 C18.2406982,19.1039182 19.1361287,19.9993487 19.1361287,21.1039182 L19.1361287,25.7881287 C19.1361287,26.8926982 18.2406982,27.7881287 17.1361287,27.7881287 L12.4519181,27.7881287 C11.3473486,27.7881287 10.4519181,26.8926982 10.4519181,25.7881287 L10.4519181,21.1039182 C10.4519181,19.9993487 11.3473486,19.1039182 12.4519181,19.1039182 Z" id="路径" fill="url(#linearGradient-4)" transform="translate(14.794, 23.446) rotate(-45) translate(-14.794, -23.446)"></path>
+                <path d="M12.4515589,1.79855892 L17.1357695,1.79855892 C18.240339,1.79855892 19.1357695,2.69398942 19.1357695,3.79855892 L19.1357695,8.48276945 C19.1357695,9.58733895 18.240339,10.4827694 17.1357695,10.4827694 L12.4515589,10.4827694 C11.3469894,10.4827694 10.4515589,9.58733895 10.4515589,8.48276945 L10.4515589,3.79855892 C10.4515589,2.69398942 11.3469894,1.79855892 12.4515589,1.79855892 Z" id="路径" fill="url(#linearGradient-5)" transform="translate(14.7937, 6.1407) rotate(-45) translate(-14.7937, -6.1407)"></path>
+                <path d="M21.1039182,10.4508518 L25.7881287,10.4508518 C26.8926982,10.4508518 27.7881287,11.3462823 27.7881287,12.4508518 L27.7881287,17.1350624 C27.7881287,18.2396319 26.8926982,19.1350624 25.7881287,19.1350624 L21.1039182,19.1350624 C19.9993487,19.1350624 19.1039182,18.2396319 19.1039182,17.1350624 L19.1039182,12.4508518 C19.1039182,11.3462823 19.9993487,10.4508518 21.1039182,10.4508518 Z" id="路径" fill="url(#linearGradient-6)" transform="translate(23.446, 14.793) rotate(-45) translate(-23.446, -14.793)"></path>
+            </g>
+        </g>
+        <g id="Guide/48" transform="translate(1.5, 1.5)"></g>
     </g>
-    <g transform="translate(9 9)">
-      <path fill="url(#deepin-launcher-48px-c)" d="M3.97368421,10.6264382 L8.65789474,10.6264382 C9.76246424,10.6264382 10.6578947,11.5218687 10.6578947,12.6264382 L10.6578947,17.3106488 C10.6578947,18.4152183 9.76246424,19.3106488 8.65789474,19.3106488 L3.97368421,19.3106488 C2.86911471,19.3106488 1.97368421,18.4152183 1.97368421,17.3106488 L1.97368421,12.6264382 C1.97368421,11.5218687 2.86911471,10.6264382 3.97368421,10.6264382 Z" transform="rotate(-45 6.316 14.969)"/>
-      <path fill="url(#deepin-launcher-48px-d)" d="M12.6264382,19.2791923 L17.3106488,19.2791923 C18.4152183,19.2791923 19.3106488,20.1746228 19.3106488,21.2791923 L19.3106488,25.9634028 C19.3106488,27.0679723 18.4152183,27.9634028 17.3106488,27.9634028 L12.6264382,27.9634028 C11.5218687,27.9634028 10.6264382,27.0679723 10.6264382,25.9634028 L10.6264382,21.2791923 C10.6264382,20.1746228 11.5218687,19.2791923 12.6264382,19.2791923 Z" transform="rotate(-45 14.969 23.621)"/>
-      <path fill="url(#deepin-launcher-48px-e)" d="M12.6264382,1.97368421 L17.3106488,1.97368421 C18.4152183,1.97368421 19.3106488,2.86911471 19.3106488,3.97368421 L19.3106488,8.65789474 C19.3106488,9.76246424 18.4152183,10.6578947 17.3106488,10.6578947 L12.6264382,10.6578947 C11.5218687,10.6578947 10.6264382,9.76246424 10.6264382,8.65789474 L10.6264382,3.97368421 C10.6264382,2.86911471 11.5218687,1.97368421 12.6264382,1.97368421 Z" transform="rotate(-45 14.969 6.316)"/>
-      <path fill="url(#deepin-launcher-48px-f)" d="M21.2791923,10.6264382 L25.9634028,10.6264382 C27.0679723,10.6264382 27.9634028,11.5218687 27.9634028,12.6264382 L27.9634028,17.3106488 C27.9634028,18.4152183 27.0679723,19.3106488 25.9634028,19.3106488 L21.2791923,19.3106488 C20.1746228,19.3106488 19.2791923,18.4152183 19.2791923,17.3106488 L19.2791923,12.6264382 C19.2791923,11.5218687 20.1746228,10.6264382 21.2791923,10.6264382 Z" transform="rotate(-45 23.621 14.969)"/>
-    </g>
-  </g>
 </svg>

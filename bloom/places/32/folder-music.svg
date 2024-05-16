@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-music</title>
+    <title>places/32/folder-music</title>
     <defs>
         <filter x="-7.1%" y="-4.2%" width="114.3%" height="116.7%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -35,9 +35,9 @@
             <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
         </linearGradient>
         <path d="M6,0 C9.3137085,0 12,2.6862915 12,6 C12,9.3137085 9.3137085,12 6,12 C2.6862915,12 0,9.3137085 0,6 C0,2.6862915 2.6862915,0 6,0 Z M6,1 C3.23857625,1 1,3.23857625 1,6 C1,8.76142375 3.23857625,11 6,11 C8.76142375,11 11,8.76142375 11,6 C11,3.23857625 8.76142375,1 6,1 Z" id="path-10"></path>
-        <filter x="-12.5%" y="-12.5%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-11">
-            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+        <filter x="-216.7%" y="-183.3%" width="533.3%" height="533.3%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <linearGradient x1="35.7688031%" y1="0%" x2="18.7697677%" y2="100%" id="linearGradient-12">
@@ -45,8 +45,8 @@
             <stop stop-color="#9600F1" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="folder-music" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-32px" transform="translate(2, 5)">
+    <g id="places/32/folder-music" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/32/folder" transform="translate(2, 4)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -63,7 +63,7 @@
                 </g>
             </g>
         </g>
-        <g id="Group-3" transform="translate(10, 14)">
+        <g id="Group-3" transform="translate(10, 13)">
             <g id="Group-2">
                 <g id="Combined-Shape">
                     <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>

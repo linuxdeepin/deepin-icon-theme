@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-music</title>
+    <title>places/24/folder-music</title>
     <defs>
         <filter x="-6.8%" y="-8.3%" width="113.6%" height="116.7%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -30,7 +30,7 @@
             <stop stop-color="#1881DC" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="folder-music" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="places/24/folder-music" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="folder-24px" transform="translate(1, 3)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <path d="M13,1 C13.306433,1.61286606 13.9328289,2 14.618034,2 L19.4144144,2 C20.8423939,2 22,3.1576061 22,4.58558559 L22,15.4144144 C22,16.8423939 20.8423939,18 19.4144144,18 L2.58558559,18 C1.1576061,18 -4.15695087e-14,16.8423939 -4.17443857e-14,15.4144144 L-4.26325641e-14,2.58558559 C-4.28074412e-14,1.1576061 1.1576061,-3.2600286e-14 2.58558559,-3.28626015e-14 L11.381966,-3.19744231e-14 C12.0671711,-3.21002932e-14 12.693567,0.387133935 13,1 Z" id="Mask" fill="url(#linearGradient-2)"></path>

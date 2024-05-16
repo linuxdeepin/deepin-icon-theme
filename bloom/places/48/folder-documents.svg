@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-documents</title>
+    <title>places/48/folder-documents</title>
     <defs>
         <filter x="-8.3%" y="-6.9%" width="116.7%" height="119.4%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -34,7 +34,7 @@
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
         </linearGradient>
-        <path d="M16,0.946902655 C17.1045695,0.946902655 18,1.84233316 18,2.94690265 L18,20.9469027 C18,22.0514722 17.1045695,22.9469027 16,22.9469027 L2,22.9469027 C0.8954305,22.9469027 -4.5461208e-13,22.0514722 -4.54747351e-13,20.9469027 L-4.54747351e-13,2.94690265 C-4.54882622e-13,1.84233316 0.8954305,0.946902655 2,0.946902655 L16,0.946902655 Z M16,18.9469027 L2,18.9469027 L2,19.9469027 L16,19.9469027 L16,18.9469027 Z M10,16.9469027 L2,16.9469027 L2,17.9469027 L10,17.9469027 L10,16.9469027 Z M16,14.9469027 L2,14.9469027 L2,15.9469027 L16,15.9469027 L16,14.9469027 Z M16,12.9469027 L2,12.9469027 L2,13.9469027 L16,13.9469027 L16,12.9469027 Z M16,10.9469027 L2,10.9469027 L2,11.9469027 L16,11.9469027 L16,10.9469027 Z M16,8.94690265 L11,8.94690265 L11,9.94690265 L16,9.94690265 L16,8.94690265 Z M16,6.94690265 L11,6.94690265 L11,7.94690265 L16,7.94690265 L16,6.94690265 Z M16,4.94690265 L11,4.94690265 L11,5.94690265 L16,5.94690265 L16,4.94690265 Z M16,2.94690265 L11,2.94690265 L11,3.94690265 L16,3.94690265 L16,2.94690265 Z" id="path-10"></path>
+        <path d="M16,0 C17.1045695,-2.02906125e-16 18,0.8954305 18,2 L18,20 C18,21.1045695 17.1045695,22 16,22 L2,22 C0.8954305,22 1.3527075e-16,21.1045695 0,20 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L16,0 Z M16,18 L2,18 L2,19 L16,19 L16,18 Z M10,16 L2,16 L2,17 L10,17 L10,16 Z M16,14 L2,14 L2,15 L16,15 L16,14 Z M16,12 L2,12 L2,13 L16,13 L16,12 Z M16,10 L2,10 L2,11 L16,11 L16,10 Z M16,8 L11,8 L11,9 L16,9 L16,8 Z M16,6 L11,6 L11,7 L16,7 L16,6 Z M16,4 L11,4 L11,5 L16,5 L16,4 Z M16,2 L11,2 L11,3 L16,3 L16,2 Z" id="path-10"></path>
         <filter x="-19.4%" y="-11.4%" width="138.9%" height="131.8%" filterUnits="objectBoundingBox" id="filter-11">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
@@ -80,8 +80,8 @@
             <stop stop-color="#0A0A0A" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="folder-documents" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-48px" transform="translate(3, 8)">
+    <g id="places/48/folder-documents" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/48/folder" transform="translate(3, 6)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
@@ -98,15 +98,15 @@
                 </g>
             </g>
         </g>
-        <g id="Group-2" transform="translate(13, 18)">
+        <g id="Group-2" transform="translate(13, 16)">
             <g id="Group" transform="translate(0, 0.0531)">
                 <g id="Combined-Shape">
                     <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
                     <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>
                 </g>
-                <polygon id="Path" fill="url(#radialGradient-12)" points="2 2.94690265 10 2.94690265 10 9.94690265 2 9.94690265"></polygon>
-                <path d="M8.9914611,8.15690026 C9.35930161,8.15690026 9.65749526,7.85256954 9.65749526,7.47715857 C9.65749526,7.10174761 9.35930161,6.79741689 8.9914611,6.79741689 C8.62362059,6.79741689 8.32542694,7.10174761 8.32542694,7.47715857 C8.32542694,7.85256954 8.62362059,8.15690026 8.9914611,8.15690026 Z" id="Oval" fill="#FF5151"></path>
-                <path d="M2,9.94690265 L9,9.94690265 L7.27492834,7.91933001 C7.1891108,7.81846389 7.03952384,7.80202131 6.93384564,7.88183826 L5.88121619,8.67687139 C5.77103926,8.76008615 5.61426432,8.73822899 5.53104956,8.62805206 C5.52606567,8.62145336 5.52141225,8.61461144 5.51710647,8.60755154 L4.48278495,6.91164473 C4.41089231,6.79376724 4.25705323,6.75648916 4.13917575,6.8283818 C4.10861933,6.84701795 4.08242064,6.87199788 4.06235111,6.90163257 L2,9.94690265 L2,9.94690265 Z" id="Path" fill="url(#linearGradient-13)"></path>
+                <polygon id="Path" fill="url(#radialGradient-12)" points="2 2 10 2 10 9 2 9"></polygon>
+                <path d="M8.9914611,7.20999761 C9.35930161,7.20999761 9.65749526,6.90566689 9.65749526,6.53025592 C9.65749526,6.15484495 9.35930161,5.85051423 8.9914611,5.85051423 C8.62362059,5.85051423 8.32542694,6.15484495 8.32542694,6.53025592 C8.32542694,6.90566689 8.62362059,7.20999761 8.9914611,7.20999761 Z" id="Oval" fill="#FF5151"></path>
+                <path d="M2,9 L9,9 L7.27492834,6.97242736 C7.1891108,6.87156123 7.03952384,6.85511866 6.93384564,6.9349356 L5.88121619,7.72996873 C5.77103926,7.81318349 5.61426432,7.79132634 5.53104956,7.68114941 C5.52606567,7.67455071 5.52141225,7.66770879 5.51710647,7.66064889 L4.48278495,5.96474207 C4.41089231,5.84686459 4.25705323,5.80958651 4.13917575,5.88147915 C4.10861933,5.90011529 4.08242064,5.92509522 4.06235111,5.95472991 L2,9 L2,9 Z" id="Path" fill="url(#linearGradient-13)"></path>
             </g>
             <g id="编组" transform="translate(20, 0)">
                 <polygon id="Rectangle" fill="url(#linearGradient-14)" points="0 3 2 3 2 21 0 21"></polygon>

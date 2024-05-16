@@ -1,45 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
-  <defs>
-    <filter id="desktop-ai-assistant-a" width="127.1%" height="127.1%" x="-13.6%" y="-13.6%" filterUnits="objectBoundingBox">
-      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixOuter1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <radialGradient id="desktop-ai-assistant-c" cx="41.862%" cy="21.344%" r="63.627%" fx="41.862%" fy="21.344%">
-      <stop offset="0%" stop-color="#FFF"/>
-      <stop offset="100%" stop-color="#B6E6FF"/>
-    </radialGradient>
-    <circle id="desktop-ai-assistant-b" cx="59" cy="59" r="59"/>
-    <linearGradient id="desktop-ai-assistant-d" x1="0%" x2="50%" y1="18.933%" y2="93.757%">
-      <stop offset="0%" stop-color="#0709B6"/>
-      <stop offset="100%" stop-color="#0091A0"/>
-    </linearGradient>
-    <linearGradient id="desktop-ai-assistant-f" x1="100%" x2="37.123%" y1="100%" y2="100%">
-      <stop offset="0%" stop-color="#D4FF00"/>
-      <stop offset="100%" stop-color="#07F"/>
-    </linearGradient>
-    <linearGradient id="desktop-ai-assistant-g" x1="100%" x2="37.123%" y1="100%" y2="100%">
-      <stop offset="0%" stop-color="#D4FF00"/>
-      <stop offset="100%" stop-color="#07F"/>
-    </linearGradient>
-    <linearGradient id="desktop-ai-assistant-h" x1="100%" x2="37.123%" y1="100%" y2="100%">
-      <stop offset="0%" stop-color="#D4FF00"/>
-      <stop offset="100%" stop-color="#07F"/>
-    </linearGradient>
-  </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#desktop-ai-assistant-a)" transform="translate(5 5)">
-    <mask id="desktop-ai-assistant-e" fill="#fff">
-      <use xlink:href="#desktop-ai-assistant-b"/>
-    </mask>
-    <use fill="url(#desktop-ai-assistant-c)" xlink:href="#desktop-ai-assistant-b"/>
-    <path fill="url(#desktop-ai-assistant-d)" stroke="#FFF" stroke-opacity=".5" stroke-width="3" d="M59,28.5 C61.4852814,28.5 63.5,30.5147186 63.5,33 L63.5,85 C63.5,87.4852814 61.4852814,89.5 59,89.5 C56.5147186,89.5 54.5,87.4852814 54.5,85 L54.5,33 C54.5,30.5147186 56.5147186,28.5 59,28.5 Z M73,35.5 C75.4852814,35.5 77.5,37.5147186 77.5,40 L77.5,78 C77.5,80.4852814 75.4852814,82.5 73,82.5 C70.5147186,82.5 68.5,80.4852814 68.5,78 L68.5,40 C68.5,37.5147186 70.5147186,35.5 73,35.5 Z M45,39.5 C47.4852814,39.5 49.5,41.5147186 49.5,44 L49.5,74 C49.5,76.4852814 47.4852814,78.5 45,78.5 C42.5147186,78.5 40.5,76.4852814 40.5,74 L40.5,44 C40.5,41.5147186 42.5147186,39.5 45,39.5 Z M31,44.5 C33.4852814,44.5 35.5,46.5147186 35.5,49 L35.5,69 C35.5,71.4852814 33.4852814,73.5 31,73.5 C28.5147186,73.5 26.5,71.4852814 26.5,69 L26.5,49 C26.5,46.5147186 28.5147186,44.5 31,44.5 Z M87,47.5 C89.4852814,47.5 91.5,49.5147186 91.5,52 L91.5,66 C91.5,68.4852814 89.4852814,70.5 87,70.5 C84.5147186,70.5 82.5,68.4852814 82.5,66 L82.5,52 C82.5,49.5147186 84.5147186,47.5 87,47.5 Z" mask="url(#desktop-ai-assistant-e)"/>
-    <path fill="url(#desktop-ai-assistant-f)" fill-opacity=".5" d="M114.140573,79.7789852 C105.368979,102.990251 82.9052649,119.5 56.5776385,119.5 C43.5236767,119.5 31.4196381,115.441162 21.4635487,108.519077 C53.5530423,101.62037 75.3349956,88.6246211 112.812356,80.0761986 Z" mask="url(#desktop-ai-assistant-e)"/>
-    <path fill="url(#desktop-ai-assistant-g)" fill-opacity=".5" d="M9.26745055,82.2393903 C53.3564303,79.5354834 60.383455,96.9372605 101.052102,100.208044 C89.8669341,112.087636 74.0218998,119.5 56.4526385,119.5 C31.4828805,119.5 9.99582271,104.52805 0.410250885,83.0372277 C3.22779616,82.6972132 6.17631267,82.4288468 9.26745055,82.2393903 Z" mask="url(#desktop-ai-assistant-e)"/>
-    <path fill="url(#desktop-ai-assistant-h)" fill-opacity=".5" d="M0.971784352,52.5331846 C48.5267714,51.3036037 67.2576483,84.5632138 102.333274,99.1330473 C91.0778393,111.636008 74.7479761,119.5 56.5776385,119.5 C22.6121264,119.5 -4.92236151,92.0214765 -4.92236151,58.125 C-4.92236151,56.3458617 -4.84650596,54.5844044 -4.69784642,52.8436734 C-2.8485624,52.6874555 -0.959238039,52.5830348 0.971784352,52.5331846 Z" mask="url(#desktop-ai-assistant-e)"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/128/desktop-ai-assistant</title>
+    <defs>
+        <filter x="-8.6%" y="-6.9%" width="117.2%" height="117.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="41.8617554%" cy="21.3439674%" fx="41.8617554%" fy="21.3439674%" r="63.6271182%" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#B6E6FF" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-3" cx="58" cy="58" r="58"></circle>
+        <linearGradient x1="0%" y1="18.9329842%" x2="50%" y2="93.7565036%" id="linearGradient-5">
+            <stop stop-color="#0709B6" offset="0%"></stop>
+            <stop stop-color="#0091A0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="37.1226293%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#D4FF00" offset="0%"></stop>
+            <stop stop-color="#0077FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="37.1226293%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#D4FF00" offset="0%"></stop>
+            <stop stop-color="#0077FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="37.1226293%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#D4FF00" offset="0%"></stop>
+            <stop stop-color="#0077FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="apps/128/desktop-ai-assistant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="路径-5" filter="url(#filter-1)" transform="translate(6, 6)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="蒙版" fill="url(#radialGradient-2)" xlink:href="#path-3"></use>
+            <path d="M30,45 C31.6568542,45 33,46.3431458 33,48 L33,68 C33,69.6568542 31.6568542,71 30,71 C28.3431458,71 27,69.6568542 27,68 L27,48 C27,46.3431458 28.3431458,45 30,45 Z M58,29 C59.6568542,29 61,30.3431458 61,32 L61,84 C61,85.6568542 59.6568542,87 58,87 C56.3431458,87 55,85.6568542 55,84 L55,32 C55,30.3431458 56.3431458,29 58,29 Z M44,40 C45.6568542,40 47,41.3431458 47,43 L47,73 C47,74.6568542 45.6568542,76 44,76 C42.3431458,76 41,74.6568542 41,73 L41,43 C41,41.3431458 42.3431458,40 44,40 Z M86,48 C87.6568542,48 89,49.3431458 89,51 L89,65 C89,66.6568542 87.6568542,68 86,68 C84.3431458,68 83,66.6568542 83,65 L83,51 C83,49.3431458 84.3431458,48 86,48 Z M72,36 C73.6568542,36 75,37.3431458 75,39 L75,77 C75,78.6568542 73.6568542,80 72,80 C70.3431458,80 69,78.6568542 69,77 L69,39 C69,37.3431458 70.3431458,36 72,36 Z" id="形状结合" fill="url(#linearGradient-5)" mask="url(#mask-4)"></path>
+            <path d="M58,26 C61.2383969,26 63.8775718,28.5655749 63.9958615,31.7750617 L64,32 L64,84 C64,87.3137085 61.3137085,90 58,90 C54.7616031,90 52.1224282,87.4344251 52.0041385,84.2249383 L52,84 L52,32 C52,28.6862915 54.6862915,26 58,26 Z M58,29 C56.4023191,29 55.0963391,30.24892 55.0050927,31.8237272 L55,32 L55,84 C55,85.5976809 56.24892,86.9036609 57.8237272,86.9949073 L58,87 L58.1762728,86.9949073 C59.6927538,86.9070404 60.9070404,85.6927538 60.9949073,84.1762728 L61,84 L61,32 C61,30.3431458 59.6568542,29 58,29 Z M72,33 C75.2383969,33 77.8775718,35.5655749 77.9958615,38.7750617 L78,39 L78,77 C78,80.3137085 75.3137085,83 72,83 C68.7616031,83 66.1224282,80.4344251 66.0041385,77.2249383 L66,77 L66,39 C66,35.6862915 68.6862915,33 72,33 Z M72,36 C70.4023191,36 69.0963391,37.24892 69.0050927,38.8237272 L69,39 L69,77 C69,78.5976809 70.24892,79.9036609 71.8237272,79.9949073 L72,80 L72.1762728,79.9949073 C73.6927538,79.9070404 74.9070404,78.6927538 74.9949073,77.1762728 L75,77 L75,39 C75,37.3431458 73.6568542,36 72,36 Z M44,37 C47.2383969,37 49.8775718,39.5655749 49.9958615,42.7750617 L50,43 L50,73 C50,76.3137085 47.3137085,79 44,79 C40.7616031,79 38.1224282,76.4344251 38.0041385,73.2249383 L38,73 L38,43 C38,39.6862915 40.6862915,37 44,37 Z M44,40 C42.4023191,40 41.0963391,41.24892 41.0050927,42.8237272 L41,43 L41,73 C41,74.5976809 42.24892,75.9036609 43.8237272,75.9949073 L44,76 L44.1762728,75.9949073 C45.6927538,75.9070404 46.9070404,74.6927538 46.9949073,73.1762728 L47,73 L47,43 C47,41.3431458 45.6568542,40 44,40 Z M30,42 C33.2383969,42 35.8775718,44.5655749 35.9958615,47.7750617 L36,48 L36,68 C36,71.3137085 33.3137085,74 30,74 C26.7616031,74 24.1224282,71.4344251 24.0041385,68.2249383 L24,68 L24,48 C24,44.6862915 26.6862915,42 30,42 Z M30,45 C28.4023191,45 27.0963391,46.24892 27.0050927,47.8237272 L27,48 L27,68 C27,69.5976809 28.24892,70.9036609 29.8237272,70.9949073 L30,71 L30.1762728,70.9949073 C31.6927538,70.9070404 32.9070404,69.6927538 32.9949073,68.1762728 L33,68 L33,48 C33,46.3431458 31.6568542,45 30,45 Z M86,45 C89.2383969,45 91.8775718,47.5655749 91.9958615,50.7750617 L92,51 L92,65 C92,68.3137085 89.3137085,71 86,71 C82.7616031,71 80.1224282,68.4344251 80.0041385,65.2249383 L80,65 L80,51 C80,47.6862915 82.6862915,45 86,45 Z M86,48 C84.4023191,48 83.0963391,49.24892 83.0050927,50.8237272 L83,51 L83,65 C83,66.5976809 84.24892,67.9036609 85.8237272,67.9949073 L86,68 L86.1762728,67.9949073 C87.6927538,67.9070404 88.9070404,66.6927538 88.9949073,65.1762728 L89,65 L89,51 C89,49.3431458 87.6568542,48 86,48 Z" id="形状结合" fill-opacity="0.5" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-4)"></path>
+            <path d="M113.140573,78.7789852 C104.368979,101.990251 81.9052649,118.5 55.5776385,118.5 C42.5236767,118.5 30.4196381,114.441162 20.4635487,107.519077 C52.5530423,100.62037 74.3349956,87.6246211 111.812356,79.0761986 Z" id="形状结合" fill-opacity="0.5" fill="url(#linearGradient-6)" mask="url(#mask-4)"></path>
+            <path d="M8.26745055,81.2393903 C52.3564303,78.5354834 59.383455,95.9372605 100.052102,99.2080438 C88.8669341,111.087636 73.0218998,118.5 55.4526385,118.5 C30.4828805,118.5 8.99582271,103.52805 -0.589749115,82.0372277 C2.22779616,81.6972132 5.17631267,81.4288468 8.26745055,81.2393903 Z" id="形状结合" fill-opacity="0.5" fill="url(#linearGradient-7)" mask="url(#mask-4)"></path>
+            <path d="M-0.0282156477,51.5331846 C47.5267714,50.3036037 66.2576483,83.5632138 101.333274,98.1330473 C90.0778393,110.636008 73.7479761,118.5 55.5776385,118.5 C21.6121264,118.5 -5.92236151,91.0214765 -5.92236151,57.125 C-5.92236151,55.3458617 -5.84650596,53.5844044 -5.69784642,51.8436734 C-3.8485624,51.6874555 -1.95923804,51.5830348 -0.0282156477,51.5331846 Z" id="形状结合" fill-opacity="0.5" fill="url(#linearGradient-8)" mask="url(#mask-4)"></path>
+        </g>
+        <g id="Guide-128" transform="translate(4, 4)"></g>
+    </g>
 </svg>

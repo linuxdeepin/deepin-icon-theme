@@ -1,19 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
-  <defs>
-    <linearGradient id="video-x-msvideo-c" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#327DFF"/>
-      <stop offset="100%" stop-color="#1066FF"/>
-    </linearGradient>
-    <path id="video-x-msvideo-b" d="M4.0085302,15 C2.8992496,15 2,14.1029399 2,12.9941413 L2,3.00585866 C2,1.89805351 2.90195036,1 4.0085302,1 L11.9914698,1 C13.1007504,1 14,1.89706013 14,3.00585866 L14,12.9941413 C14,14.1019465 13.0980496,15 11.9914698,15 L4.0085302,15 Z"/>
-    <filter id="video-x-msvideo-a" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0391387195   0 0 0 0 0.388542822   0 0 0 0 1  0 0 0 0.5 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <use fill="#000" filter="url(#video-x-msvideo-a)" xlink:href="#video-x-msvideo-b"/>
-    <use fill="url(#video-x-msvideo-c)" xlink:href="#video-x-msvideo-b"/>
-    <path fill="#FFF" d="M9.30000019 12.5L10.5000002 9 11.5 9 9.70000019 14 8.90000019 14 7 9 8.10000019 9 9.30000019 12.5zM13 9L13 14 12 14 12 9 13 9zM6.625 13L4.375 13 4 14 3 14 5 9 6 9 8 14 7 14 6.625 13zM6.25 12L5.5 10 4.75 12 6.25 12z"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mimetypes/16/video-x-msvideo</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#327DFF" offset="0%"></stop>
+            <stop stop-color="#1066FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="mimetypes/16/video-x-msvideo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,13 L2,3 C2,1.8954305 2.8954305,1 4,1 L12,1 C13.1045695,1 14,1.8954305 14,3 L14,13 C14,14.1045695 13.1045695,15 12,15 L4,15 C2.8954305,15 2,14.1045695 2,13 Z" id="path14361" fill="url(#linearGradient-1)"></path>
+        <path d="M8.10000019,9 L9.30000019,12.5 L10.5,9 L11.5,9 L9.70000019,14 L8.90000019,14 L7,9 L8.10000019,9 Z M13,9 L13,14 L12,14 L12,9 L13,9 Z M6,9 L8,14 L7,14 L6.625,13 L4.375,13 L4,14 L3,14 L5,9 L6,9 Z M5.5,10 L4.75,12 L6.25,12 L5.5,10 Z" id="形状结合" fill="#FFFFFF"></path>
+    </g>
 </svg>

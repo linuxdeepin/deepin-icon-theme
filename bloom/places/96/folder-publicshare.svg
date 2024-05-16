@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>folder-publicshare</title>
+    <title>places/96/folder-publicshare</title>
     <defs>
         <filter x="-8.5%" y="-7.0%" width="117.1%" height="119.7%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -34,15 +34,15 @@
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
         </linearGradient>
-        <path d="M48.09375,44.0625 C53.3231962,44.0625 57.5625,48.3018038 57.5625,53.53125 C57.5625,56.8269174 55.8787799,59.7293309 53.3246089,61.4252214 C59.3183666,63.0413756 63.75,67.5034098 63.75,74.0706522 C63.75,74.5839168 63.3335916,75 62.8199257,75 L33.3675743,75 C32.8539084,75 32.4375,74.5839168 32.4375,74.0706522 C32.4375,67.517243 36.8881323,63.0506636 42.8686921,61.4278743 C40.3111684,59.7335497 38.625,56.8293127 38.625,53.53125 C38.625,48.3018038 42.8643038,44.0625 48.09375,44.0625 Z M48.09375,63.0608108 C40.9693909,63.0608108 35.6704397,67.1484042 34.8682034,72.8512808 L34.8485237,73 L61.3397513,73 L61.3198306,72.8472587 C60.5301876,67.1937718 55.3600784,63.1427815 48.3263045,63.0621412 L48.09375,63.0608108 Z M48.09375,46.3908811 C44.1502332,46.3908811 40.9533811,49.5877332 40.9533811,53.53125 C40.9533811,57.4747668 44.1502332,60.6716189 48.09375,60.6716189 C52.0372668,60.6716189 55.2341189,57.4747668 55.2341189,53.53125 C55.2341189,49.5877332 52.0372668,46.3908811 48.09375,46.3908811 Z" id="path-10"></path>
-        <filter x="-41.5%" y="-35.6%" width="183.0%" height="184.0%" filterUnits="objectBoundingBox" id="filter-11">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+        <path d="M48.09375,40.0625 C53.3231962,40.0625 57.5625,44.3018038 57.5625,49.53125 C57.5625,52.8269174 55.8787799,55.7293309 53.3246089,57.4252214 C59.3183666,59.0413756 63.75,63.5034098 63.75,70.0706522 C63.75,70.5839168 63.3335916,71 62.8199257,71 L33.3675743,71 C32.8539084,71 32.4375,70.5839168 32.4375,70.0706522 C32.4375,63.517243 36.8881323,59.0506636 42.8686921,57.4278743 C40.3111684,55.7335497 38.625,52.8293127 38.625,49.53125 C38.625,44.3018038 42.8643038,40.0625 48.09375,40.0625 Z M48.09375,59.0608108 C40.9693909,59.0608108 35.6704397,63.1484042 34.8682034,68.8512808 L34.8485237,69 L61.3397513,69 L61.3198306,68.8472587 C60.5301876,63.1937718 55.3600784,59.1427815 48.3263045,59.0621412 L48.09375,59.0608108 Z M48.09375,42.3908811 C44.1502332,42.3908811 40.9533811,45.5877332 40.9533811,49.53125 C40.9533811,53.4747668 44.1502332,56.6716189 48.09375,56.6716189 C52.0372668,56.6716189 55.2341189,53.4747668 55.2341189,49.53125 C55.2341189,45.5877332 52.0372668,42.3908811 48.09375,42.3908811 Z" id="path-10"></path>
+        <filter x="-83.0%" y="-71.1%" width="266.1%" height="268.1%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.42745098   0 0 0 0 0.968627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="folder-publicshare" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-96px" transform="translate(7, 18)">
+    <g id="places/96/folder-publicshare" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="places/folder/96px" transform="translate(7, 12)">
             <g id="Group-2" filter="url(#filter-1)" transform="translate(0, 0)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>

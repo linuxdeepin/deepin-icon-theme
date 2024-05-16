@@ -1,19 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
-  <defs>
-    <linearGradient id="text-x-chdr-c" x1="50%" x2="50%" y1="0%" y2="99.628%">
-      <stop offset="0%" stop-color="#FF4BB4"/>
-      <stop offset="98.915%" stop-color="#F6237B"/>
-    </linearGradient>
-    <path id="text-x-chdr-b" d="M4.0085302,15 C2.8992496,15 2,14.1029399 2,12.9941413 L2,3.00585866 C2,1.89805351 2.90195036,1 4.0085302,1 L11.9914698,1 C13.1007504,1 14,1.89706013 14,3.00585866 L14,12.9941413 C14,14.1019465 13.0980496,15 11.9914698,15 L4.0085302,15 Z"/>
-    <filter id="text-x-chdr-a" width="133.3%" height="128.6%" x="-16.7%" y="-7.1%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.920884284   0 0 0 0 0.0193547135   0 0 0 0 0.46292854  0 0 0 0.5 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <use fill="#000" filter="url(#text-x-chdr-a)" xlink:href="#text-x-chdr-b"/>
-    <use fill="url(#text-x-chdr-c)" xlink:href="#text-x-chdr-b"/>
-    <path fill="#FFF" d="M8,8 L8,12 L7,12 L7,3 L8,3 L8,7 L10.0010434,7 C10.5527519,7 11,7.44371665 11,7.99980749 L11,12 L10,12 L10,8.49047852 C10,8.21959471 9.78596497,8 9.49531555,8 L8,8 Z M6,11 L6,12 L5,12 L5,11 L6,11 Z"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mimetypes/16/text-x-chdr</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.6278505%" id="linearGradient-1">
+            <stop stop-color="#FF4BB4" offset="0%"></stop>
+            <stop stop-color="#F6237B" offset="98.9152238%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="mimetypes/16/text-x-chdr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,13 L2,3 C2,1.8954305 2.8954305,1 4,1 L12,1 C13.1045695,1 14,1.8954305 14,3 L14,13 C14,14.1045695 13.1045695,15 12,15 L4,15 C2.8954305,15 2,14.1045695 2,13 Z" id="path14361" fill="url(#linearGradient-1)"></path>
+        <path d="M8,8 L8,12 L7,12 L7,3 L8,3 L8,7 L10,7 C10.5522847,7 11,7.44771525 11,8 L11,12 L11,12 L10,12 L10,8.5 C10,8.22385763 9.77614237,8 9.5,8 L8,8 L8,8 Z M6,11 L6,12 L5,12 L5,11 L6,11 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+    </g>
 </svg>

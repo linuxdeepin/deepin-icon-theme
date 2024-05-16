@@ -1,79 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
-  <defs>
-    <linearGradient id="camera-c" x1="0%" x2="100%" y1="50%" y2="50%">
-      <stop offset="0%" stop-color="#BBB"/>
-      <stop offset="23.101%" stop-color="#BBB"/>
-      <stop offset="100%" stop-color="#858585"/>
-    </linearGradient>
-    <rect id="camera-b" width="4" height="2" x="3" y="5" rx="1"/>
-    <filter id="camera-a" width="350%" height="600%" x="-125%" y="-200%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-    </filter>
-    <linearGradient id="camera-d" x1="0%" x2="100%" y1="50%" y2="50%">
-      <stop offset="0%" stop-color="#8D959E"/>
-      <stop offset="4.366%" stop-color="#ABB5C0"/>
-      <stop offset="9.102%" stop-color="#9BA4AD"/>
-      <stop offset="100%" stop-color="#7E8A97"/>
-    </linearGradient>
-    <circle id="camera-e" cx="15.5" cy="12.5" r="5.5"/>
-    <filter id="camera-f" width="104.5%" height="104.5%" x="-2.3%" y="-2.3%" filterUnits="objectBoundingBox">
-      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.874509804   0 0 0 0 0.894117647   0 0 0 0 0.909803922  0 0 0 1 0"/>
-      <feOffset dy="-.5" in="SourceAlpha" result="shadowOffsetInner2"/>
-      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
-      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.419607843   0 0 0 0 0.466666667   0 0 0 0 0.517647059  0 0 0 1 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixInner1"/>
-        <feMergeNode in="shadowMatrixInner2"/>
-      </feMerge>
-    </filter>
-    <circle id="camera-g" cx="15.5" cy="12.5" r="4.5"/>
-    <filter id="camera-h" width="105.6%" height="105.6%" x="-2.8%" y="-2.8%" filterUnits="objectBoundingBox">
-      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
-    </filter>
-    <circle id="camera-i" cx="15.5" cy="12.5" r="3.5"/>
-    <filter id="camera-j" width="107.1%" height="107.1%" x="-3.6%" y="-3.6%" filterUnits="objectBoundingBox">
-      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.603921569   0 0 0 0 0.603921569   0 0 0 0 0.603921569  0 0 0 1 0"/>
-      <feOffset dy="-.5" in="SourceAlpha" result="shadowOffsetInner2"/>
-      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
-      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixInner1"/>
-        <feMergeNode in="shadowMatrixInner2"/>
-      </feMerge>
-    </filter>
-    <radialGradient id="camera-k" cx="50%" cy="0%" r="100%" fx="50%" fy="0%">
-      <stop offset="0%" stop-color="#FFF"/>
-      <stop offset="100%" stop-color="#3DDF23"/>
-    </radialGradient>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <image width="22" height="16" x="1" y="4" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFqADAAQAAAABAAAAEAAAAACTYcb6AAAAc0lEQVQ4Ee2UwQqAIBBE0wrC///XLpXNs1oi6LBkNwfGVdGnLLqhOxQUBpmIsryckbFbgPAkz4/dSWPgXpVLAR3lTV69hJf1veZjVAO8FpSzYAXAv6iBLa0tFS0VlgHr8CooGvzvWoKVr+p2L5lfDyjVbQcroA8kxnLvkQAAAABJRU5ErkJggg=="/>
-    <use fill="#000" filter="url(#camera-a)" xlink:href="#camera-b"/>
-    <use fill="url(#camera-c)" xlink:href="#camera-b"/>
-    <path fill="url(#camera-d)" d="M2,7.4912653 C2,6.66766222 2.66543579,6 3.5032506,6 L20.4967494,6 C21.3269718,6 22,6.66254437 22,7.4912653 L22,17.5087347 C22,18.3323378 21.3345642,19 20.4967494,19 L3.5032506,19 C2.67302822,19 2,18.3374556 2,17.5087347 L2,7.4912653 Z"/>
-    <use fill="#CDD1D5" xlink:href="#camera-e"/>
-    <use fill="#000" filter="url(#camera-f)" xlink:href="#camera-e"/>
-    <use fill="#EAEDF0" xlink:href="#camera-g"/>
-    <use fill="#000" filter="url(#camera-h)" xlink:href="#camera-g"/>
-    <use fill="#B3B4B5" xlink:href="#camera-i"/>
-    <use fill="#000" filter="url(#camera-j)" xlink:href="#camera-i"/>
-    <path fill="#E8EEFF" d="M6,7.5 C6,7.22385763 6.21505737,7 6.49047852,7 L9.50952148,7 C9.78040529,7 10,7.23193359 10,7.5 L10,7.5 C10,7.77614237 9.78494263,8 9.50952148,8 L6.49047852,8 C6.21959471,8 6,7.76806641 6,7.5 L6,7.5 Z"/>
-    <path fill="#758393" d="M6,8.5 C6,8.22385763 6.21505737,8 6.49047852,8 L9.50952148,8 C9.78040529,8 10,8.23193359 10,8.5 L10,8.5 C10,8.77614237 9.78494263,9 9.50952148,9 L6.49047852,9 C6.21959471,9 6,8.76806641 6,8.5 L6,8.5 Z"/>
-    <rect width="5" height="4" x="13" y="10.5" fill="#696567" rx="2"/>
-    <circle cx="20.5" cy="7.5" r="1" fill="url(#camera-k)"/>
-    <g transform="translate(14 11)">
-      <circle cx="1.5" cy="1.5" r="1.2" fill="#434343"/>
-      <circle cx="1.5" cy="1.5" r="1" fill="#2E2E2E"/>
-      <circle cx="1.5" cy="1.5" r="1" fill="#000"/>
-      <circle cx="1.5" cy="1.5" r="1.5" fill="#7ED321" opacity=".3"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>devices/24/camera</title>
+    <defs>
+        <filter x="-6.8%" y="-9.0%" width="113.6%" height="117.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#BBBBBB" offset="0%"></stop>
+            <stop stop-color="#BBBBBB" offset="23.1006856%"></stop>
+            <stop stop-color="#858585" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#8D959E" offset="0%"></stop>
+            <stop stop-color="#ABB5C0" offset="4.36645508%"></stop>
+            <stop stop-color="#9BA4AD" offset="9.1015625%"></stop>
+            <stop stop-color="#7E8A97" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.269052934%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="devices/24/camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" filter="url(#filter-1)" transform="translate(1, 3.2815)">
+            <path d="M3.69864372,0 C4.90808413,-2.22170598e-16 5.88852929,0.980445165 5.88852929,2.18988557 L5.88852929,2.18988557 L5.88852929,2.18988557 L1.50875815,2.18988557 C1.50875815,0.980445165 2.48920332,2.22170598e-16 3.69864372,0 Z" id="Rectangle-157" fill="url(#linearGradient-2)"></path>
+            <path d="M1.8770448,1.71847799 L20.1229552,1.71847799 C21.1596184,1.71847799 22,2.55885957 22,3.59552279 L22,14.8414332 C22,15.8780964 21.1596184,16.718478 20.1229552,16.718478 L1.8770448,16.718478 C0.840381581,16.718478 -3.17134581e-16,15.8780964 -4.4408921e-16,14.8414332 L0,3.59552279 C-1.26954629e-16,2.55885957 0.840381581,1.71847799 1.8770448,1.71847799 Z" id="Rectangle-145" fill="url(#linearGradient-3)"></path>
+            <circle id="Oval-23" fill="#CDD1D5" cx="14.5820275" cy="9.48493766" r="5.83969485"></circle>
+            <path d="M20.9778837,9.40151366 C20.9778837,13.0874273 17.9898604,16.1588746 14.3039468,16.2144899 C10.6180332,16.1588746 7.6300098,13.0874273 7.6300098,9.40151366 C7.6300098,9.35505447 7.63048452,9.30870615 7.63142937,9.2624733 C7.70544591,12.8841971 10.6644924,15.7973699 14.3039468,15.7973699 C17.9434012,15.7973699 20.9024476,12.8841971 20.9764642,9.2624733 C20.977409,9.30870615 20.9778837,9.35505447 20.9778837,9.40151366 Z" id="Combined-Shape" fill="#6B7784"></path>
+            <circle id="Oval-23" fill="#CDD1D5" cx="14.3039468" cy="9.20685695" r="6.67393697"></circle>
+            <path d="M14.3039468,2.53291998 C17.9898604,2.53291998 20.9778837,5.52094334 20.9778837,9.20685695 C20.9778837,9.25324373 20.9774105,9.29951998 20.9764686,9.34568113 L20.9778837,9.48493766 C20.9778837,5.79902405 17.9898604,2.81100069 14.3039468,2.81100069 C10.6644199,2.81100069 7.70532816,5.72428946 7.63142496,9.34611347 L7.6300098,9.20685695 C7.6300098,5.52094334 10.6180332,2.53291998 14.3039468,2.53291998 Z" id="Combined-Shape" fill="#DFE4E8"></path>
+            <circle id="Oval-23" fill="#ADACAC" cx="14.3039468" cy="9.20685695" r="5.41475279"></circle>
+            <circle id="Oval-23" fill="#868686" cx="14.3039468" cy="9.20685695" r="5.15731081"></circle>
+            <circle id="Oval-23" fill="#EAEDF0" cx="14.3039468" cy="9.20685695" r="4.87249533"></circle>
+            <path d="M19.1753483,9.31113722 C19.1760763,9.27646499 19.1764421,9.24170369 19.1764421,9.20685695 C19.1764421,6.51585209 16.9949516,4.33436162 14.3039468,4.33436162 C11.6129419,4.33436162 9.43145144,6.51585209 9.43145144,9.20685695 C9.43145144,9.24170369 9.43181725,9.27646499 9.43254522,9.31113722 C9.4880346,6.6682807 11.6477886,4.54292215 14.3039468,4.54292215 C16.9601049,4.54292215 19.1198589,6.6682807 19.1753483,9.31113722 L19.1753483,9.31113722 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <circle id="Oval-23" fill="#B3B4B5" cx="14.3039468" cy="9.20685695" r="3.61504919"></circle>
+            <path d="M17.9175208,9.31113722 C17.918502,9.2764969 17.918996,9.2417346 17.918996,9.20685695 C17.918996,7.21032041 16.3004833,5.59180776 14.3039468,5.59180776 C12.3074102,5.59180776 10.6888976,7.21032041 10.6888976,9.20685695 C10.6888976,9.2417346 10.6893915,9.2764969 10.6903727,9.31113722 C10.7455608,7.36282701 12.3422879,5.80036829 14.3039468,5.80036829 C16.2656057,5.80036829 17.8623328,7.36282701 17.9175208,9.31113722 L17.9175208,9.31113722 Z" id="Combined-Shape" fill="#9A9A9A"></path>
+            <path d="M17.9175208,12.8566662 C17.918502,12.8220259 17.918996,12.7872636 17.918996,12.752386 C17.918996,10.7558494 16.3004833,9.13733677 14.3039468,9.13733677 C12.3074102,9.13733677 10.6888976,10.7558494 10.6888976,12.752386 C10.6888976,12.7872636 10.6893915,12.8220259 10.6903727,12.8566662 C10.7455608,10.908356 12.3422879,9.3458973 14.3039468,9.3458973 C16.2656057,9.3458973 17.8623328,10.908356 17.9175208,12.8566662 L17.9175208,12.8566662 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(14.3039, 10.997) scale(1, -1) translate(-14.3039, -10.997)"></path>
+            <rect id="Rectangle-156" fill="#E8EEFF" x="3.25" y="4.09347799" width="4.5" height="1" rx="0.5"></rect>
+            <rect id="Rectangle-158" fill="#615A5E" x="12" y="7.71847799" width="5" height="3" rx="1.5"></rect>
+            <circle id="Oval-29" fill="#2AAB14" cx="20.3834862" cy="3.60700663" r="1"></circle>
+            <circle id="Oval-29" fill="#3DDF23" cx="20.3834862" cy="3.60700663" r="1"></circle>
+            <ellipse id="Oval-29" fill="url(#linearGradient-4)" cx="20.3834862" cy="3.53401036" rx="1" ry="1"></ellipse>
+            <g id="Group" transform="translate(13.0919, 7.7987)">
+                <circle id="Oval-28" fill="#434343" cx="1.40814125" cy="1.40814125" r="1.126513"></circle>
+                <circle id="Oval-28" fill="#2E2E2E" cx="1.40814125" cy="1.40814125" r="1"></circle>
+                <circle id="Oval-28" fill="#000000" cx="1.40814125" cy="1.40814125" r="1"></circle>
+                <path d="M1.40814125,2.8162825 C2.18583618,2.8162825 2.8162825,2.18583618 2.8162825,1.40814125 C2.8162825,0.630446311 2.18583618,0 1.40814125,0 C0.630446311,0 0,0.630446311 0,1.40814125 C0,2.18583618 0.630446311,2.8162825 1.40814125,2.8162825 Z" id="Oval-28" fill="#7ED321" opacity="0.255946828"></path>
+            </g>
+        </g>
+        <g id="Guide/24" transform="translate(0.5, 0.5)"></g>
     </g>
-  </g>
 </svg>

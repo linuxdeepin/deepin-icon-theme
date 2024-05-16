@@ -1,24 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
-  <defs>
-    <linearGradient id="deepin-movie-a" x1="50%" x2="50%" y1="2.375%" y2="100%">
-      <stop offset="0%" stop-color="#3E3E3E"/>
-      <stop offset="100%" stop-color="#0F0F0F"/>
-    </linearGradient>
-    <linearGradient id="deepin-movie-b" x1="40.768%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#B0FAFF"/>
-      <stop offset="100%" stop-color="#0D96C2"/>
-    </linearGradient>
-    <path id="deepin-movie-c" d="M1.64560294,9.77759498 C0.736761531,10.2995509 0,9.87167759 0,8.81966081 L0,1.17911995 C0,0.128111566 0.740892095,-0.298397953 1.64560294,0.221185777 L8.31991702,4.05430553 C9.22875843,4.57626148 9.22462787,5.4248915 8.31991702,5.94447523 L1.64560294,9.77759498 Z"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <circle cx="8" cy="8" r="7.5" fill="url(#deepin-movie-a)" stroke="url(#deepin-movie-b)"/>
-    <g transform="translate(4 3)">
-      <mask id="deepin-movie-d" fill="#fff">
-        <use xlink:href="#deepin-movie-c"/>
-      </mask>
-      <use fill="#FF006B" xlink:href="#deepin-movie-c"/>
-      <rect width="3" height="10" fill="#1473FF" mask="url(#deepin-movie-d)"/>
-      <rect width="3" height="10" x="3" fill="#FFB600" mask="url(#deepin-movie-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/16/deepin-movie</title>
+    <defs>
+        <linearGradient x1="50%" y1="2.37536127%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3E3E3E" offset="0%"></stop>
+            <stop stop-color="#0F0F0F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="40.7675756%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#B0FAFF" offset="0%"></stop>
+            <stop stop-color="#0D96C2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="apps/16/deepin-movie" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7-movie" transform="translate(0.5, 0.5)">
+            <circle id="Oval" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)" cx="7.5" cy="7.5" r="7"></circle>
+            <g id="Group" transform="translate(4.5, 3)">
+                <path d="M1.46275817,8.79983548 C0.654899139,9.26959584 0,8.88450983 0,7.93769472 L0,1.06120796 C0,0.11530041 0.658570752,-0.268558157 1.46275817,0.199067199 L7.3954818,3.64887498 C8.20334083,4.11863533 8.19966922,4.88240235 7.3954818,5.35002771 L1.46275817,8.79983548 Z" id="Mask" fill="#FF006B"></path>
+                <path d="M1.46275817,8.79983548 C0.654899139,9.26959584 0,8.88450983 0,7.93769472 L0,1.06120796 C0,0.11530041 0.658570752,-0.268558157 1.46275817,0.199067199 L7.3954818,3.64887498 C8.20334083,4.11863533 8.19966922,4.88240235 7.3954818,5.35002771 L1.46275817,8.79983548 Z" id="Mask" fill="#FF006B"></path>
+                <path d="M1.46275817,0.199067199 L3,1.093 L3,7.905 L1.46275817,8.79983548 C0.654899139,9.26959584 0,8.88450983 0,7.93769472 L0,1.06120796 C0,0.11530041 0.658570752,-0.268558157 1.46275817,0.199067199 Z" id="形状结合" fill="#1473FF"></path>
+                <path d="M3,1.0935 L6,2.8375 L6,6.1605 L3,7.9055 L3,1.0935 Z" id="形状结合" fill="#FFB600"></path>
+            </g>
+        </g>
+        <g id="Guide/16" transform="translate(0.5, 0.5)"></g>
     </g>
-  </g>
 </svg>

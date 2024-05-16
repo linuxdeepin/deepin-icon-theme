@@ -1,23 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <defs>
-    <filter id="deepin-terminal-a" width="123.5%" height="125.7%" x="-11.7%" y="-12.9%" filterUnits="objectBoundingBox">
-      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
-      <feMerge>
-        <feMergeNode in="shadowMatrixOuter1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <radialGradient id="deepin-terminal-b" cx="50%" cy="0%" r="100%" fx="50%" fy="0%" gradientTransform="matrix(0 1 -.91304 0 .5 -.5)">
-      <stop offset="0%" stop-color="#FF774D"/>
-      <stop offset="100%" stop-color="#BA0E55"/>
-    </radialGradient>
-  </defs>
-  <g fill="none" fill-rule="evenodd" filter="url(#deepin-terminal-a)" transform="translate(26 46)">
-    <rect width="460" height="420" fill="url(#deepin-terminal-b)" rx="64"/>
-    <path fill="#FFF0F0" fill-rule="nonzero" d="M146.712413,145.691982 L67.9535477,191.634653 C62.2289247,194.974017 60.2952898,202.321829 63.6346532,208.046452 C66.9740166,213.771075 74.3218293,215.70471 80.0464523,212.365347 L176.046452,156.365347 C183.984516,151.73481 183.984516,140.26519 176.046452,135.634653 L80.0464523,79.6346532 C74.3218293,76.2952898 66.9740166,78.2289247 63.6346532,83.9535477 C60.2952898,89.6781707 62.2289247,97.0259834 67.9535477,100.365347 L146.712413,145.691982 Z"/>
-    <path fill="#FFF0F0" d="M271.090909,258 C277.115834,258 284,251.731986 284,244 C284,236.268014 277.115834,230 271.090909,230 L164.909091,230 C158.884166,230 152,236.268014 152,244 C152,251.731986 158.884166,258 164.909091,258 L271.090909,258 Z"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/512/deepin-terminal</title>
+    <defs>
+        <filter x="-7.6%" y="-6.4%" width="115.3%" height="116.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.5, 0), scale(0.914, 1), rotate(90), translate(-0.5, -0)" id="radialGradient-2">
+            <stop stop-color="#FF774D" offset="0%"></stop>
+            <stop stop-color="#BA0E55" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="apps/512/deepin-terminal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" filter="url(#filter-1)" transform="translate(34.7619, 54)">
+            <rect id="Rectangle-245" fill="url(#radialGradient-2)" x="0.238095238" y="-5.68434189e-14" width="442" height="404" rx="64"></rect>
+            <path d="M141.321935,140.141811 L64.9318745,184.334285 C59.4253324,187.546435 57.5653598,194.614331 60.7775093,200.120873 C63.9896589,205.627415 71.057555,207.487388 76.5640971,204.275238 L169.538488,150.408572 C177.174149,145.954436 177.174149,134.921754 169.538488,130.467619 L76.5640971,76.6009521 C71.057555,73.3888026 63.9896589,75.2487752 60.7775093,80.7553173 C57.5653598,86.2618594 59.4253324,93.3297555 64.9318745,96.541905 L141.321935,140.141811 Z" id="Path-4" fill="#FFF0F0" fill-rule="nonzero"></path>
+            <path d="M260.817985,248 C266.614693,248 273.238095,241.955844 273.238095,234.5 C273.238095,227.044156 266.614693,221 260.817985,221 L158.658205,221 C152.861498,221 146.238095,227.044156 146.238095,234.5 C146.238095,241.955844 152.861498,248 158.658205,248 L260.817985,248 Z" id="Path" fill="#FFF0F0"></path>
+        </g>
+        <g id="Guide-512" transform="translate(15, 15)"></g>
+    </g>
 </svg>

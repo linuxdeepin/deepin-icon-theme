@@ -1,34 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
-  <defs>
-    <linearGradient id="application-x-msdownload-c" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#9BAAC1"/>
-      <stop offset="100%" stop-color="#779DB2"/>
-    </linearGradient>
-    <path id="application-x-msdownload-b" d="M21,0 L32,11 L32,34.5 C32,36.9852814 29.9852814,39 27.5,39 L4.5,39 C2.01471863,39 3.04359188e-16,36.9852814 0,34.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,2.23289562e-15 4.5,1.77635684e-15 L21,0 Z"/>
-    <filter id="application-x-msdownload-a" width="131.2%" height="125.6%" x="-15.6%" y="-10.3%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.474509804   0 0 0 0 0.619607843   0 0 0 0 0.701960784  0 0 0 0.5 0"/>
-    </filter>
-    <linearGradient id="application-x-msdownload-f" x1="50%" x2="12.223%" y1="50%" y2="88.513%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
-      <stop offset="100%" stop-color="#FFF" stop-opacity=".3"/>
-    </linearGradient>
-    <path id="application-x-msdownload-e" d="M21,0 L32,11 L25.5,11 C23.0147186,11 21,8.98528137 21,6.5 L21,0 Z"/>
-    <filter id="application-x-msdownload-d" width="163.6%" height="163.6%" x="-31.8%" y="-22.7%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="translate(8 5)">
-      <use fill="#000" filter="url(#application-x-msdownload-a)" xlink:href="#application-x-msdownload-b"/>
-      <use fill="url(#application-x-msdownload-c)" xlink:href="#application-x-msdownload-b"/>
-      <use fill="#000" filter="url(#application-x-msdownload-d)" xlink:href="#application-x-msdownload-e"/>
-      <use fill="url(#application-x-msdownload-f)" xlink:href="#application-x-msdownload-e"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mimetypes/48/application-x-msdownload</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9BAAC1" offset="0%"></stop>
+            <stop stop-color="#779DB2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M34,38.4 C34,40.3882251 32.3882251,42 30.4,42 L3.6,42 C1.6117749,42 -2.00601859e-16,40.3882251 -4.4408921e-16,38.4 L0,3.6 C-2.4348735e-16,1.6117749 1.6117749,1.25340945e-15 3.6,8.8817842e-16 L23.4673913,0 L34,10.5 L34,38.4 Z" id="path-2"></path>
+        <filter x="-14.7%" y="-9.5%" width="129.4%" height="123.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.474509804   0 0 0 0 0.619607843   0 0 0 0 0.701960784  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="50%" x2="7.99354867%" y2="88.6522186%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M23.4673913,0 L34,10.5 L26.8423913,10.5 C24.9784303,10.5 23.4673913,8.98896103 23.4673913,7.125 L23.4673913,0 L23.4673913,0 Z" id="path-5"></path>
+        <filter x="-19.0%" y="-9.5%" width="138.0%" height="138.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="mimetypes/48/application-x-msdownload" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(7, 3)">
+            <g id="蒙版">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="折角">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+        <path d="M22,18 L22,25 L15,25 L15,18 L22,18 Z M21,19 L16,19 L16,24 L21,24 L21,19 Z M22,29 L22,36 L15,36 L15,29 L22,29 Z M21,30 L16,30 L16,35 L21,35 L21,30 Z M33,18 L33,25 L26,25 L26,18 L33,18 Z M32,19 L27,19 L27,24 L32,24 L32,19 Z M33,29 L33,36 L26,36 L26,29 L33,29 Z M32,30 L27,30 L27,35 L32,35 L32,30 Z" id="形状结合" fill="#FFFFFF" fill-rule="nonzero"></path>
     </g>
-    <path fill="#FFF" d="M21.8255463,16.5007163 C20.8685961,16.5153605 19.7269287,16.7629789 18.3129634,17.3428942 L16.4601723,23.723033 C17.9592262,23.1092144 19.1357816,22.82208 20.1271544,22.8298138 C21.6304065,22.8408192 22.6821941,23.4616608 23.6654704,24.1186016 L25.5311277,17.7639834 C24.5102555,17.0792368 23.4204632,16.4763091 21.8255463,16.5007163 L21.8255463,16.5007163 Z M26.5089896,18.4402782 L24.6561989,24.820417 C26.2850967,25.915714 28.2513527,26.8177425 31.861497,25.2159855 L33.7142877,18.8486073 C29.9488108,20.3917778 28.1390872,19.5293302 26.5089896,18.4402782 L26.5089896,18.4402782 Z M19.6510901,24.0548001 C18.6949571,24.0778675 17.5606167,24.3213006 16.1513742,24.8969785 L16.1256394,24.8969785 L14.2857153,31.2515967 C18.0586888,29.7045598 19.8432512,30.5952044 21.4781464,31.685446 L23.3566707,25.2797869 C22.3386095,24.5942972 21.2446442,24.0163542 19.6510889,24.0548001 L19.6510901,24.0548001 Z M24.3474003,25.8922803 L22.4817431,32.234138 C24.1136394,33.3315171 25.9311321,34.2138349 29.6999074,32.6679877 L31.4883652,26.4792531 C27.6485206,27.7812382 25.9810963,26.9822248 24.3474003,25.8922803 L24.3474003,25.8922803 Z"/>
-  </g>
 </svg>
