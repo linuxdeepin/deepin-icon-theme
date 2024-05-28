@@ -1,3 +1,9 @@
+# 2024.05.28
+
+托盘图标24尺寸新增飞行模式、勿扰模式、护眼模式关闭图标
+
+新增input-keyboard-symbolic和input-keyboard-symbolic-dark
+
 # 2024.05.16
 
 修正应用、文件夹、文件类型图标大小不一的问题
