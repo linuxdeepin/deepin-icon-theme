@@ -14,7 +14,6 @@ Package: deepin-icon-theme
 Architecture: all
 Depends:
  ${misc:Depends},
- papirus-icon-theme,
 Conflicts: deepin-cursor-theme
 Description: Deepin Icons
  This package is DeepinIconTheme 
