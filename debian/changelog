@@ -1,3 +1,10 @@
+deepin-icon-theme (2024.06.21) unstable; urgency=medium
+
+  * chore: remove  papirus-icon-theme dependency
+  * release 2024.06.21
+
+ -- Zhang kun <zhangkun2@uniontech.com>  Fri, 21 Jun 2024 17:09:55 +0800
+
 deepin-icon-theme (2024.05.28) unstable; urgency=medium
 
   * release 2024.05.28
