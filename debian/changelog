@@ -1,3 +1,9 @@
+deepin-icon-theme (2024.07.10) unstable; urgency=medium
+
+  * Fix: some app icons are small on high-res screen
+
+ -- Yutao Meng <mengyutao@deepin.org>  Wed, 10 Jul 2024 11:17:03 +0800
+
 deepin-icon-theme (2024.07.02) unstable; urgency=medium
 
   * Revert "chore: remove papirus-icon-theme dependency"
