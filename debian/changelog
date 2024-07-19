@@ -1,3 +1,10 @@
+deepin-icon-theme (2024.07.19) unstable; urgency=medium
+
+  * chore: update tray icons
+  * release 2024.07.19
+
+ -- Yingzhen zhao  <zhaoyingzhen@uniontech.com>  Fri, 19 Jul 2024 16:58:03 +0800
+
 deepin-icon-theme (2024.07.10) unstable; urgency=medium
 
   * Fix: some app icons are small on high-res screen
