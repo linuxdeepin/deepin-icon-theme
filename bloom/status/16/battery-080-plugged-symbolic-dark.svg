@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>battery-080-plugged-symbolic</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M6.27924078,5 L4.61257411,10 L7,10 L7,11 L3,11 L3,5 L6.27924078,5 Z M9,5 L12,5 L12,11 L9.72075922,11 L11.3874259,6 L9,6 L9,5 Z" id="path-1"></path>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="battery-080-plugged-symbolic">
-            <g id="Combined-Shape">
-                <use fill="#3ACB00" fill-rule="evenodd" xlink:href="#path-1"></use>
-                <path stroke="#5DF61F" stroke-width="1" d="M5.58552784,5.5 L3.5,5.5 L3.5,10.5 L4.26571764,10.5 L3.91886117,10.5 L5.58552784,5.5 Z M11.5,7.24341649 L10.4144722,10.5 L11.5,10.5 L11.5,7.24341649 Z"></path>
-            </g>
-            <path d="M9.05409255,13 L9.38742589,12 L14,12 L14,9.5 C14,9.22385763 14.2238576,9 14.5,9 L15,9 L15,7 L14.5,7 C14.2238576,7 14,6.77614237 14,6.5 L14,4 L9,4 L9,3 L14.5,3 C14.7761424,3 15,3.22385763 15,3.5 L15,6 L15.5,6 C15.7761424,6 16,6.22385763 16,6.5 L16,9.5 C16,9.77614237 15.7761424,10 15.5,10 L15,10 L15,12.5 C15,12.7761424 14.7761424,13 14.5,13 L9.05409255,13 Z M7,13 L1.5,13 C1.22385763,13 1,12.7761424 1,12.5 L1,3.5 C1,3.22385763 1.22385763,3 1.5,3 L6.94590745,3 L6.61257411,4 L2,4 L2,12 L7,12 L7,13 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
-            <polygon id="Fill-252" fill="#FFFFFF" points="10 7 8 13 8 9 6 9 8 3 8 7"></polygon>
-        </g>
+    <title>battery-080-plugged-symbolic-dark</title>
+    <g id="battery-080-plugged-symbolic-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,5 L5.432,4.99987656 L3.55699953,10 L7,10 L7,10.9998766 L2,11 L2,5 Z M8,4.99987656 L8,7 L11,7 L9.5,10.9998766 L8,10.9998766 L8,9 L5,9 L6.5,4.99987656 L8,4.99987656 Z M11,9.84687656 L11,11 L10.568,10.9998766 L11,9.84687656 Z M11,5.99987656 L9,6 L9,4.99987656 L11,5 L11,5.99987656 Z" id="形状" fill="#000000"></path>
+        <path d="M8,7 L11,7 L8,15 L8,9 L5,9 L8,1 L8,7 Z M6.182,2.99971583 L5.807,3.99971583 L2,4 C1.44771525,4 1,4.44771525 1,5 L1,11 C1,11.5522847 1.44771525,12 2,12 L7,11.9997158 L7,12.9997158 L2,13 C0.8954305,13 0,12.1045695 0,11 L0,5 C0,3.8954305 0.8954305,3 2,3 L6.182,2.99971583 Z M9,2.99971583 L13,3 C14.1045695,3 15,3.8954305 15,5 L15,6 L16,6 L16,10 L15,10 L15,11 C15,12.1045695 14.1045695,13 13,13 L9.818,12.9997158 L10.193,11.9997158 L13,12 C13.5522847,12 14,11.5522847 14,11 L14,5 C14,4.44771525 13.5522847,4 13,4 L9,3.99971583 L9,2.99971583 Z" id="形状" fill="#000000" fill-rule="nonzero"></path>
     </g>
 </svg>
