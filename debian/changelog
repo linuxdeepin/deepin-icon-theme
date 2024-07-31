@@ -1,3 +1,9 @@
+deepin-icon-theme (2024.07.31) unstable; urgency=medium
+
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Wed, 31 Jul 2024 15:08:54 +0800
+
 deepin-icon-theme (2024.07.19) unstable; urgency=medium
 
   * chore: update tray icons
