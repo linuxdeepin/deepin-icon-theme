@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/32/ai-meeting-assistant</title>
+    <defs>
+        <filter x="-7.7%" y="-3.8%" width="115.4%" height="115.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="-11.1498121%" y1="109.40338%" x2="86.8674645%" y2="7.44270869%" id="linearGradient-2">
+            <stop stop-color="#0079FF" offset="0%"></stop>
+            <stop stop-color="#F419B0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.8373047%" y1="76.9443594%" x2="-7.1267487%" y2="124.836031%" id="linearGradient-3">
+            <stop stop-color="#09F7FE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00FFEC" stop-opacity="0.184848599" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.0141399%" y1="-20.0955691%" x2="50%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#FFD300" offset="0%"></stop>
+            <stop stop-color="#FFD000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="102.842133%" y1="0%" x2="66.4185609%" y2="44.4317658%" id="linearGradient-5">
+            <stop stop-color="#FF3B8A" offset="0%"></stop>
+            <stop stop-color="#FF3D98" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.31831837,0 L20.6816816,0 C23.6189078,-5.39559687e-16 26,2.38109224 26,5.31831837 L26,20.6816816 C26,23.6189078 23.6189078,26 20.6816816,26 L5.31831837,26 C2.38109224,26 3.59706458e-16,23.6189078 0,20.6816816 L0,5.31831837 C-3.59706458e-16,2.38109224 2.38109224,5.39559687e-16 5.31831837,0 Z" id="path-6"></path>
+        <linearGradient x1="12.7079621%" y1="-23.7287619%" x2="12.7079621%" y2="94.608616%" id="linearGradient-7">
+            <stop stop-color="#FFE7F4" offset="0%"></stop>
+            <stop stop-color="#F9F9FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M21.5,6 C21.7761424,6 22,6.22385763 22,6.5 C22,6.77614237 21.7761424,7 21.5,7 L21,7 L21,15.4361148 C21,16.3276335 20.9071744,16.6509198 20.7328673,16.9768457 C20.5585602,17.3027716 20.3027716,17.5585602 19.9768457,17.7328673 C19.6509198,17.9071744 19.3276335,18 18.4361148,18 L13.926,18 L15.8636762,20.1258304 C16.0580106,20.3389971 16.042744,20.6693419 15.8295774,20.8636762 C15.6164107,21.0580106 15.2860659,21.042744 15.0917316,20.8295774 L13,18.5344032 L10.9082684,20.8295774 C10.7139341,21.042744 10.3835893,21.0580106 10.1704226,20.8636762 C9.95725599,20.6693419 9.9419894,20.3389971 10.1363238,20.1258304 L12.073,18 L7.5638852,18 C6.67236646,18 6.34908022,17.9071744 6.0231543,17.7328673 C5.69722837,17.5585602 5.4414398,17.3027716 5.2671327,16.9768457 C5.09282561,16.6509198 5,16.3276335 5,15.4361148 L5,6.999 L4.5,7 C4.22385763,7 4,6.77614237 4,6.5 C4,6.22385763 4.22385763,6 4.5,6 L21.5,6 Z M20,7 L6,7 L6,15.4361148 C6,16.0377984 6.03216661,16.2590692 6.12067797,16.4488939 L6.1489459,16.5052468 C6.2300532,16.6569043 6.3430957,16.7699468 6.49475316,16.8510541 C6.70048072,16.9610784 6.90203328,17 7.5638852,17 L18.4361148,17 C19.0979667,17 19.2995193,16.9610784 19.5052468,16.8510541 C19.6569043,16.7699468 19.7699468,16.6569043 19.8510541,16.5052468 C19.9610784,16.2995193 20,16.0979667 20,15.4361148 L20,7 Z M12.5,9 C12.7761424,9 13,9.22385763 13,9.5 L13,14.5 C13,14.7761424 12.7761424,15 12.5,15 C12.2238576,15 12,14.7761424 12,14.5 L12,9.5 C12,9.22385763 12.2238576,9 12.5,9 Z M14.5,10 C14.7761424,10 15,10.2238576 15,10.5 L15,13.5 C15,13.7761424 14.7761424,14 14.5,14 C14.2238576,14 14,13.7761424 14,13.5 L14,10.5 C14,10.2238576 14.2238576,10 14.5,10 Z M8.5,11 C8.77614237,11 9,11.2238576 9,11.5 L9,12.5 C9,12.7761424 8.77614237,13 8.5,13 C8.22385763,13 8,12.7761424 8,12.5 L8,11.5 C8,11.2238576 8.22385763,11 8.5,11 Z M10.5,10 C10.7761424,10 11,10.2238576 11,10.5 L11,12.5 C11,12.7761424 10.7761424,13 10.5,13 C10.2238576,13 10,12.7761424 10,12.5 L10,10.5 C10,10.2238576 10.2238576,10 10.5,10 Z M16.5,11 C16.7761424,11 17,11.2238576 17,11.5 L17,12.5 C17,12.7761424 16.7761424,13 16.5,13 C16.2238576,13 16,12.7761424 16,12.5 L16,11.5 C16,11.2238576 16.2238576,11 16.5,11 Z" id="path-8"></path>
+        <filter x="-11.1%" y="-6.7%" width="122.2%" height="126.7%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.0350400191   0 0 0 0 0.298035553  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="apps/32/ai-meeting-assistant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(3, 3)" fill-rule="nonzero">
+            <g id="矩形">
+                <use fill="url(#linearGradient-2)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-3)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-4)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+            </g>
+            <g id="形状结合">
+                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+            </g>
+        </g>
+    </g>
+</svg>

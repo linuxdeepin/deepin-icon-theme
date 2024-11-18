@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/16/deepin-license-activator</title>
+    <defs>
+        <radialGradient cx="50%" cy="-3.49693965%" fx="50%" fy="-3.49693965%" r="98.2374469%" gradientTransform="translate(0.5, -0.035), rotate(90), scale(1, 1.04), translate(-0.5, 0.035)" id="radialGradient-1">
+            <stop stop-color="#96DEE8" offset="0%"></stop>
+            <stop stop-color="#3265A6" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="2.15954502%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#5F96AC" offset="0%"></stop>
+            <stop stop-color="#09425A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="apps/16/deepin-license-activator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(0.7838, 0.7838)" fill-rule="nonzero">
+            <circle id="椭圆形" fill="url(#radialGradient-1)" cx="7.21624999" cy="7.21624999" r="7"></circle>
+            <path d="M7.21624999,-0.783750007 C11.634528,-0.783750007 15.21625,2.79797199 15.21625,7.21624999 C15.21625,11.634528 11.634528,15.21625 7.21624999,15.21625 C2.79797199,15.21625 -0.783750007,11.634528 -0.783750007,7.21624999 C-0.783750007,2.79797199 2.79797199,-0.783750007 7.21624999,-0.783750007 Z M7.21624999,0.216249993 C3.35025674,0.216249993 0.216249993,3.35025674 0.216249993,7.21624999 C0.216249993,11.0822432 3.35025674,14.21625 7.21624999,14.21625 C11.0822432,14.21625 14.21625,11.0822432 14.21625,7.21624999 C14.21625,3.35025674 11.0822432,0.216249993 7.21624999,0.216249993 Z" id="椭圆形" fill="url(#linearGradient-2)"></path>
+            <path d="M11.21625,4.21624999 L11.21625,8.21624999 C11.21625,10.425389 9.42538899,12.21625 7.21624999,12.21625 C5.00711099,12.21625 3.21624999,10.425389 3.21624999,8.21624999 L3.21624999,4.21624999 C3.21624999,3.66396524 3.66396524,3.21624999 4.21624999,3.21624999 C4.76853474,3.21624999 5.21624999,3.66396524 5.21624999,4.21624999 L5.21624999,8.21624999 C5.21624999,9.32081949 6.11168049,10.21625 7.21624999,10.21625 C8.32081949,10.21625 9.21624999,9.32081949 9.21624999,8.21624999 L9.21624999,4.21624999 C9.21624999,3.66396524 9.66396524,3.21624999 10.21625,3.21624999 C10.7685347,3.21624999 11.21625,3.66396524 11.21625,4.21624999 Z" id="路径-25" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>

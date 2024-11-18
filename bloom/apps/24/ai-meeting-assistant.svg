@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/24/ai-meeting-assistant</title>
+    <defs>
+        <filter x="-7.5%" y="-7.5%" width="115.0%" height="115.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="-11.1498121%" y1="109.40338%" x2="86.8674645%" y2="7.44270869%" id="linearGradient-2">
+            <stop stop-color="#0079FF" offset="0%"></stop>
+            <stop stop-color="#F419B0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.8373047%" y1="76.9443594%" x2="-7.1267487%" y2="124.836031%" id="linearGradient-3">
+            <stop stop-color="#09F7FE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00FFEC" stop-opacity="0.184848599" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.0141399%" y1="-20.0955691%" x2="50%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#FFD300" offset="0%"></stop>
+            <stop stop-color="#FFD000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="102.842133%" y1="0%" x2="66.4185609%" y2="44.4317658%" id="linearGradient-5">
+            <stop stop-color="#FF3B8A" offset="0%"></stop>
+            <stop stop-color="#FF3D98" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4.14414406,0 L15.8558559,0 C18.1446035,-4.20436107e-16 20,1.85539649 20,4.14414406 L20,15.8558559 C20,18.1446035 18.1446035,20 15.8558559,20 L4.14414406,20 C1.85539649,20 2.80290738e-16,18.1446035 0,15.8558559 L0,4.14414406 C-2.80290738e-16,1.85539649 1.85539649,4.20436107e-16 4.14414406,0 Z" id="path-6"></path>
+        <linearGradient x1="12.7079621%" y1="-23.7287619%" x2="12.7079621%" y2="94.608616%" id="linearGradient-7">
+            <stop stop-color="#FFE7F4" offset="0%"></stop>
+            <stop stop-color="#F9F9FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.5,1.37772765e-15 C15.7761424,1.39463649e-15 16,0.223857625 16,0.5 C16,0.776142375 15.7761424,1 15.5,1 L15,1 L15,8.0770861 C15,8.74572515 14.9303808,8.98818983 14.7996505,9.23263428 C14.6689202,9.47707872 14.4770787,9.66892015 14.2326343,9.79965047 C13.9881898,9.93038079 13.7457252,10 13.0770861,10 L9.32,10 L10.8636762,11.6939162 C11.0580106,11.9070828 11.042744,12.2374276 10.8295774,12.431762 C10.6164107,12.6260963 10.2860659,12.6108297 10.0917316,12.3976631 L8,10.1024889 L5.90826844,12.3976631 C5.71393409,12.6108297 5.38358927,12.6260963 5.17042263,12.431762 C4.95725599,12.2374276 4.9419894,11.9070828 5.13632375,11.6939162 L6.679,10 L2.9229139,10 C2.25427485,10 2.01181017,9.93038079 1.76736572,9.79965047 C1.52292128,9.66892015 1.33107985,9.47707872 1.20034953,9.23263428 C1.06961921,8.98818983 1,8.74572515 1,8.0770861 L1,0.999 L0.5,1 C0.223857625,1 0,0.776142375 0,0.5 C0,0.223857625 0.223857625,-1.39463649e-15 0.5,-1.37772765e-15 L15.5,1.37772765e-15 Z M14,1 L2,1 L2.00082586,8.21761294 C2.00473484,8.51779084 2.02290254,8.63172636 2.06341073,8.72288524 L2.08216273,8.76103542 C2.11969325,8.83121139 2.16878861,8.88030675 2.23896458,8.91783727 C2.35209111,8.978338 2.46426614,9 2.9229139,9 L13.0770861,9 C13.5357339,9 13.6479089,8.978338 13.7610354,8.91783727 C13.8312114,8.88030675 13.8803068,8.83121139 13.9178373,8.76103542 C13.978338,8.64790889 14,8.53573386 14,8.0770861 L14,1 Z M6.5,2 C6.77614237,2 7,2.22385763 7,2.5 L7,6.5 C7,6.77614237 6.77614237,7 6.5,7 C6.22385763,7 6,6.77614237 6,6.5 L6,2.5 C6,2.22385763 6.22385763,2 6.5,2 Z M8.5,3 C8.77614237,3 9,3.22385763 9,3.5 L9,6.5 C9,6.77614237 8.77614237,7 8.5,7 C8.22385763,7 8,6.77614237 8,6.5 L8,3.5 C8,3.22385763 8.22385763,3 8.5,3 Z M4.5,4 C4.77614237,4 5,4.22385763 5,4.5 L5,5.5 C5,5.77614237 4.77614237,6 4.5,6 C4.22385763,6 4,5.77614237 4,5.5 L4,4.5 C4,4.22385763 4.22385763,4 4.5,4 Z M10.5,4 C10.7761424,4 11,4.22385763 11,4.5 L11,5.5 C11,5.77614237 10.7761424,6 10.5,6 C10.2238576,6 10,5.77614237 10,5.5 L10,4.5 C10,4.22385763 10.2238576,4 10.5,4 Z" id="path-8"></path>
+        <filter x="-12.5%" y="-8.0%" width="125.0%" height="131.8%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.0350400191   0 0 0 0 0.298035553  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="apps/24/ai-meeting-assistant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" filter="url(#filter-1)" transform="translate(2, 2)" fill-rule="nonzero">
+            <g id="矩形">
+                <use fill="url(#linearGradient-2)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-3)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-4)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+            </g>
+            <g id="形状结合" transform="translate(2, 4)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+            </g>
+        </g>
+    </g>
+</svg>
