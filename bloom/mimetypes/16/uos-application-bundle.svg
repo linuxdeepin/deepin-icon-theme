@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mimetypes/16/uos-application-bundle</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4987F6" offset="0%"></stop>
+            <stop stop-color="#0651E6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="mimetypes/16/uos-application-bundle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,13 L2,3 C2,1.8954305 2.8954305,1 4,1 L12,1 C13.1045695,1 14,1.8954305 14,3 L14,13 C14,14.1045695 13.1045695,15 12,15 L4,15 C2.8954305,15 2,14.1045695 2,13 Z" id="path14361" fill="url(#linearGradient-1)"></path>
+        <g id="编组-2" transform="translate(4, 3.3709)">
+            <polygon id="路径-10" fill="#B2CBFA" points="8 2.36128541 6 3.28534446 6 5.77332523 4 6.62166551 4 9.16119625 8 7.14362461"></polygon>
+            <polygon id="路径-11" fill="#FFFFFF" points="6 5.77332523 4 4.86502127 4 2.44370697 6 3.28534446"></polygon>
+            <polygon id="路径-12" fill="#7AA7F7" points="8 2.36128541 6 1.47426365 4 2.44370697 6 3.28534446"></polygon>
+            <polygon id="路径-13" fill="#FFFFFF" points="4 9.16119625 2 8.15446 2 5.75163118 4 6.62166551"></polygon>
+            <polygon id="路径-14" fill="#467FEF" points="2 5.75163118 4 4.86502127 6 5.77332523 4 6.62166551"></polygon>
+            <polygon id="矩形" fill="#FFFFFF" points="1.13686838e-13 1.62424211 2 2.69632588 2 7.63613068 -5.67323966e-14 6.46038103"></polygon>
+            <polygon id="路径-8" fill="#7AA6F7" points="2 2.69632588 6 0.852268455 3.97475962 0 -2.84772206e-14 1.62424211"></polygon>
+            <polygon id="路径-9" fill="#B2CBFA" points="2 2.69632588 2 7.63613068 4 6.62166551 4 4.24302608 6 3.28534446 6 0.852268455"></polygon>
+        </g>
+    </g>
+</svg>

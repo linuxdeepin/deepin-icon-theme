@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/48/ai-meeting-assistant</title>
+    <defs>
+        <filter x="-8.8%" y="-6.2%" width="117.5%" height="117.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="-11.1498121%" y1="109.40338%" x2="86.8674645%" y2="7.44270869%" id="linearGradient-2">
+            <stop stop-color="#0079FF" offset="0%"></stop>
+            <stop stop-color="#F419B0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.8373047%" y1="76.9443594%" x2="-7.1267487%" y2="124.836031%" id="linearGradient-3">
+            <stop stop-color="#09F7FE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00FFEC" stop-opacity="0.184848599" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.0141399%" y1="-20.0955691%" x2="50%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#FFD300" offset="0%"></stop>
+            <stop stop-color="#FFD000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="102.842133%" y1="0%" x2="66.4185609%" y2="44.4317658%" id="linearGradient-5">
+            <stop stop-color="#FF3B8A" offset="0%"></stop>
+            <stop stop-color="#FF3D98" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8.28828812,0 L31.7117119,0 C36.289207,-8.40872214e-16 40,3.71079299 40,8.28828812 L40,31.7117119 C40,36.289207 36.289207,40 31.7117119,40 L8.28828812,40 C3.71079299,40 5.60581476e-16,36.289207 0,31.7117119 L0,8.28828812 C-5.60581476e-16,3.71079299 3.71079299,8.40872214e-16 8.28828812,0 Z" id="path-6"></path>
+        <linearGradient x1="12.7079621%" y1="-23.7287619%" x2="12.7079621%" y2="94.608616%" id="linearGradient-7">
+            <stop stop-color="#FFE7F4" offset="0%"></stop>
+            <stop stop-color="#F9F9FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M35,9 C35.5522847,9 36,9.44771525 36,10 C36,10.5522847 35.5522847,11 35,11 L34,11 L34,24.1541722 C34,25.4914503 33.8607616,25.9763797 33.5993009,26.4652686 C33.3378403,26.9541574 32.9541574,27.3378403 32.4652686,27.5993009 C31.9763797,27.8607616 31.4914503,28 30.1541722,28 L21.852,28 L25.7273525,32.2516609 C26.1160212,32.6779942 26.085488,33.3386838 25.6591547,33.7273525 C25.2328215,34.1160212 24.5721318,34.085488 24.1834631,33.6591547 L20,29.0698064 L15.8165369,33.6591547 C15.4278682,34.085488 14.7671785,34.1160212 14.3408453,33.7273525 C13.914512,33.3386838 13.8839788,32.6779942 14.2726475,32.2516609 L18.147,28 L9.8458278,28 C8.50854969,28 8.02362033,27.8607616 7.53473144,27.5993009 C7.04584256,27.3378403 6.66215969,26.9541574 6.40069906,26.4652686 C6.13923842,25.9763797 6,25.4914503 6,24.1541722 L6,10.999 L5,11 C4.44771525,11 4,10.5522847 4,10 C4,9.44771525 4.44771525,9 5,9 L35,9 Z M32,11 L8,11 L8.00067564,24.3403824 C8.00613085,25.044824 8.04521875,25.2766271 8.13957299,25.4733639 L8.16432545,25.5220708 C8.23938649,25.6624228 8.33757722,25.7606135 8.47792916,25.8356745 C8.70418221,25.956676 8.92853228,26 9.8458278,26 L30.1541722,26 C31.0714677,26 31.2958178,25.956676 31.5220708,25.8356745 C31.6624228,25.7606135 31.7606135,25.6624228 31.8356745,25.5220708 C31.956676,25.2958178 32,25.0714677 32,24.1541722 L32,11 Z M20,15 C20.5522847,15 21,15.4477153 21,16 L21,21 C21,21.5522847 20.5522847,22 20,22 C19.4477153,22 19,21.5522847 19,21 L19,16 C19,15.4477153 19.4477153,15 20,15 Z M16,17 C16.5522847,17 17,17.4477153 17,18 L17,20 C17,20.5522847 16.5522847,21 16,21 C15.4477153,21 15,20.5522847 15,20 L15,18 C15,17.4477153 15.4477153,17 16,17 Z M24,17 C24.5522847,17 25,17.4477153 25,18 L25,20 C25,20.5522847 24.5522847,21 24,21 C23.4477153,21 23,20.5522847 23,20 L23,18 C23,17.4477153 23.4477153,17 24,17 Z M12,17 C12.5522847,17 13,17.4477153 13,18 L13,19 C13,19.5522847 12.5522847,20 12,20 C11.4477153,20 11,19.5522847 11,19 L11,18 C11,17.4477153 11.4477153,17 12,17 Z M28,18 C28.5522847,18 29,18.4477153 29,19 C29,19.5522847 28.5522847,20 28,20 C27.4477153,20 27,19.5522847 27,19 C27,18.4477153 27.4477153,18 28,18 Z" id="path-8"></path>
+        <filter x="-10.9%" y="-10.0%" width="121.9%" height="128.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.0350400191   0 0 0 0 0.298035553  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="apps/48/ai-meeting-assistant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(4, 4)" fill-rule="nonzero">
+            <g id="矩形">
+                <use fill="url(#linearGradient-2)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-3)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-4)" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+            </g>
+            <g id="形状结合">
+                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+            </g>
+        </g>
+    </g>
+</svg>

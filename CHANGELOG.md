@@ -1,3 +1,15 @@
+# 2024.11.18
+本次更新了bloom和bloom-dark主题中的光标文件（调整了大小）
+请替换对应目录中的文件
+/usr/share/icons/bloom
+/usr/share/icons/bloom-dark
+
+应用图标更新UOS ai、ai会议助手、授权管理（授权名称变动，加入快捷方式）
+2个商店图标，1个文件类型
+/usr/share/icons/bloom/apps、mimetypes
+原来的“Vintage” 主题修改为“vintage” 主题（社区版和专业版主题名称不统一）
+vintage新增授权管理图标
+请修改文件夹名并替换vintage theme文件
 # 2024.10.29
 更新光标主题
 

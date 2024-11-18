@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/128/deepin-license-activator</title>
+    <defs>
+        <filter x="-8.5%" y="-6.8%" width="116.9%" height="116.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="50%" cy="-3.49693965%" fx="50%" fy="-3.49693965%" r="98.2374469%" gradientTransform="translate(0.5, -0.035), rotate(90), scale(1, 1.04), translate(-0.5, 0.035)" id="radialGradient-2">
+            <stop stop-color="#96DEE8" offset="0%"></stop>
+            <stop stop-color="#3265A6" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-3" cx="59" cy="59" r="59"></circle>
+        <filter x="-1.3%" y="-1.3%" width="102.5%" height="102.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.138057255 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.379124781 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="2.15954502%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#5F96AC" offset="0%"></stop>
+            <stop stop-color="#09425A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#000000" stop-opacity="0.202565013" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.298855441" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.4434277%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.477448577" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="apps/128/deepin-license-activator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(5, 5)" fill-rule="nonzero">
+            <g id="椭圆形">
+                <use fill="url(#radialGradient-2)" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            </g>
+            <path d="M59,0 C91.5848002,0 118,26.4151998 118,59 C118,91.5848002 91.5848002,118 59,118 C26.4151998,118 0,91.5848002 0,59 C0,26.4151998 26.4151998,0 59,0 Z M59,1 C26.9674845,1 1,26.9674845 1,59 C1,91.0325155 26.9674845,117 59,117 C91.0325155,117 117,91.0325155 117,59 C117,26.9674845 91.0325155,1 59,1 Z" id="椭圆形" fill="url(#linearGradient-5)"></path>
+            <path d="M80,37.5 L80,64.5 C80,76.3490183 70.8490183,85.8181818 59,85.8181818 C47.1509817,85.8181818 38,76.3490183 38,64.5 L38,37.5 C38,34.5377454 35.4622546,32 32.5,32 C29.5377454,32 27,34.5377454 27,37.5 L27,64.5 C27,82.2735274 41.2264726,96.5454545 59,96.5454545 C76.7735274,96.5454545 91,82.2735274 91,64.5 L91,37.5 C91,34.5377454 88.4622546,32 85.5,32 C82.5377454,32 80,34.5377454 80,37.5 Z" id="路径" fill="url(#linearGradient-6)"></path>
+            <path d="M85.5,31 C89.0145393,31 92,33.9854607 92,37.5 L92,64.5 C92,82.8341112 77.3175312,97.5454545 59,97.5454545 C40.6824688,97.5454545 26,82.8341112 26,64.5 L26,37.5 C26,33.9854607 28.9854607,31 32.5,31 C36.0145393,31 39,33.9854607 39,37.5 L39,64.5 C39,75.8638754 47.7692241,84.8181818 59,84.8181818 C70.2307759,84.8181818 79,75.8638754 79,64.5 L79,37.5 C79,33.9854607 81.9854607,31 85.5,31 Z M85.5,32 C82.5377454,32 80,34.5377454 80,37.5 L80,64.5 C80,76.3490183 70.8490183,85.8181818 59,85.8181818 C47.1509817,85.8181818 38,76.3490183 38,64.5 L38,37.5 C38,34.5377454 35.4622546,32 32.5,32 C29.5377454,32 27,34.5377454 27,37.5 L27,64.5 C27,82.2735274 41.2264726,96.5454545 59,96.5454545 C76.7735274,96.5454545 91,82.2735274 91,64.5 L91,37.5 C91,34.5377454 88.4622546,32 85.5,32 Z" id="路径" fill="url(#linearGradient-7)"></path>
+            <path d="M85.5,32 C88.4622546,32 91,34.5377454 91,37.5 L91,64.5 C91,82.2735274 76.7735274,96.5454545 59,96.5454545 C41.2264726,96.5454545 27,82.2735274 27,64.5 L27,37.5 C27,34.5377454 29.5377454,32 32.5,32 C35.4622546,32 38,34.5377454 38,37.5 L38,64.5 C38,76.3490183 47.1509817,85.8181818 59,85.8181818 C70.8490183,85.8181818 80,76.3490183 80,64.5 L80,37.5 C80,34.5377454 82.5377454,32 85.5,32 Z M85.5,33 C83.0900302,33 81,35.0900302 81,37.5 L81,64.5 C81,76.9592033 71.3448031,86.8181818 59,86.8181818 C46.6551969,86.8181818 37,76.9592033 37,64.5 L37,37.5 C37,35.0900302 34.9099698,33 32.5,33 C30.0900302,33 28,35.0900302 28,37.5 L28,64.5 C28,81.7304203 41.7879188,95.5454545 59,95.5454545 C76.2120812,95.5454545 90,81.7304203 90,64.5 L90,37.5 C90,35.0900302 87.9099698,33 85.5,33 Z" id="路径" fill="url(#linearGradient-8)"></path>
+        </g>
+    </g>
+</svg>

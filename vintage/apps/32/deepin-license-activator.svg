@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/32/deepin-license-activator</title>
+    <defs>
+        <filter x="-6.7%" y="-3.3%" width="113.3%" height="113.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="50%" cy="-3.49693965%" fx="50%" fy="-3.49693965%" r="98.2374469%" gradientTransform="translate(0.5, -0.035), rotate(90), scale(1, 1.04), translate(-0.5, 0.035)" id="radialGradient-2">
+            <stop stop-color="#96DEE8" offset="0%"></stop>
+            <stop stop-color="#3265A6" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-3" cx="15" cy="15" r="15"></circle>
+        <filter x="-3.3%" y="-3.3%" width="106.7%" height="106.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.138057255 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.379124781 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="2.15954502%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#5F96AC" offset="0%"></stop>
+            <stop stop-color="#09425A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#000000" stop-opacity="0.202565013" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.298855441" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.4434277%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.477448577" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="apps/32/deepin-license-activator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" filter="url(#filter-1)" transform="translate(1, 1)" fill-rule="nonzero">
+            <g id="椭圆形">
+                <use fill="url(#radialGradient-2)" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            </g>
+            <path d="M15,0 C23.2842712,0 30,6.71572875 30,15 C30,23.2842712 23.2842712,30 15,30 C6.71572875,30 0,23.2842712 0,15 C0,6.71572875 6.71572875,0 15,0 Z M15,1 C7.2680135,1 1,7.2680135 1,15 C1,22.7319865 7.2680135,29 15,29 C22.7319865,29 29,22.7319865 29,15 C29,7.2680135 22.7319865,1 15,1 Z" id="椭圆形" fill="url(#linearGradient-5)"></path>
+            <path d="M20,9.5 L20,16 C20,18.9622546 17.75,21 15,21 C12.25,21 10,18.9622546 10,16 L10,9.5 C10,8.75943636 9.24056364,8 8.5,8 C7.75943636,8 7,8.75943636 7,9.5 L7,16 C7,20.4433819 10.5566181,24 15,24 C19.4433819,24 23,20.4433819 23,16 L23,9.5 C23,8.75943636 22.2405636,8 21.5,8 C20.7594364,8 20,8.75943636 20,9.5 Z" id="路径" fill="url(#linearGradient-6)"></path>
+            <path d="M21.5,7 C22.7928484,7 24,8.20715161 24,9.5 L24,16 C24,20.9956666 19.9956666,25 15,25 C10.0043334,25 6,20.9956666 6,16 L6,9.5 C6,8.20715161 7.20715161,7 8.5,7 C9.79284839,7 11,8.20715161 11,9.5 L11,16 C11,18.3300198 12.7203459,20 15,20 C17.2796541,20 19,18.3300198 19,16 L19,9.5 C19,8.20715161 20.2071516,7 21.5,7 Z M21.5,8 C20.7594364,8 20,8.75943636 20,9.5 L20,16 C20,18.9622546 17.75,21 15,21 C12.25,21 10,18.9622546 10,16 L10,9.5 C10,8.75943636 9.24056364,8 8.5,8 C7.75943636,8 7,8.75943636 7,9.5 L7,16 C7,20.4433819 10.5566181,24 15,24 C19.4433819,24 23,20.4433819 23,16 L23,9.5 C23,8.75943636 22.2405636,8 21.5,8 Z" id="路径" fill="url(#linearGradient-7)"></path>
+            <path d="M21.5,8 C22.2405636,8 23,8.75943636 23,9.5 L23,16 C23,20.4433819 19.4433819,24 15,24 C10.5566181,24 7,20.4433819 7,16 L7,9.5 C7,8.75943636 7.75943636,8 8.5,8 C9.24056364,8 10,8.75943636 10,9.5 L10,16 C10,18.9622546 12.25,21 15,21 C17.75,21 20,18.9622546 20,16 L20,9.5 C20,8.75943636 20.7594364,8 21.5,8 Z M21.5,9 C21.3117211,9 21,9.31172111 21,9.5 L21,16 C21,19.4481069 18.3711432,22 15,22 C11.6288568,22 9,19.4481069 9,16 L9,9.5 C9,9.31172111 8.68827889,9 8.5,9 C8.31172111,9 8,9.31172111 8,9.5 L8,16 C8,19.8910971 11.1089029,23 15,23 C18.8910971,23 22,19.8910971 22,16 L22,9.5 C22,9.31172111 21.6882789,9 21.5,9 Z" id="路径" fill="url(#linearGradient-8)"></path>
+        </g>
+    </g>
+</svg>

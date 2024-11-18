@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mimetypes/64/uos-application-bundle</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4987F6" offset="0%"></stop>
+            <stop stop-color="#0651E6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M46,51.5 C46,53.9852814 43.9852814,56 41.5,56 L4.5,56 C2.01471863,56 3.04359188e-16,53.9852814 0,51.5 L0,4.5 C-3.04359188e-16,2.01471863 2.01471863,4.56538782e-16 4.5,0 L32,0 L46,14 L46,51.5 Z" id="path-2"></path>
+        <filter x="-14.1%" y="-9.8%" width="128.3%" height="123.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.22745098   0 0 0 0 0.494117647   0 0 0 0 0.960784314  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="50%" x2="7.99354867%" y2="88.8926673%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M32,0 L46,14 L36.5,14 C34.0147186,14 32,11.9852814 32,9.5 L32,0 L32,0 Z" id="path-5"></path>
+        <filter x="-14.3%" y="-7.1%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="mimetypes/64/uos-application-bundle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(9, 4)">
+            <g id="蒙版">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g transform="translate(11, 17.75)">
+                <polygon id="路径-10" fill="#B2CBFA" points="23 6.77283654 17 9.39903846 17 16.0336538 12 18.602918 12 25.375 23 20.0592591"></polygon>
+                <polygon id="路径-11" fill="#FFFFFF" points="17 16.0336538 12 13.5456731 12 6.93349425 17 9.39903846"></polygon>
+                <polygon id="路径-12" fill="#7AA7F7" points="23 6.77283654 17 4.14663462 12 6.93349425 17 9.39903846"></polygon>
+                <polygon id="路径-13" fill="#FFFFFF" points="12 25.375 6 22.6682692 6 16.0336538 12 18.602918"></polygon>
+                <polygon id="路径-14" fill="#467FEF" points="6 16.0336538 12 13.5456731 17 16.0336538 12 18.602918"></polygon>
+                <polygon id="矩形" fill="#FFFFFF" points="2.27318164e-13 5.25240385 6 7.74038462 6 21.2860577 2.27318164e-13 18.5216346"></polygon>
+                <polygon id="路径-8" fill="#7AA6F7" points="6 7.74038462 17 2.48798077 11.9326923 0 2.04706622e-13 5.25240385"></polygon>
+                <polygon id="路径-9" fill="#B2CBFA" points="6 7.74038462 6 21.2860577 12 18.602918 12 11.8870192 17 9.39903846 17 2.48798077"></polygon>
+            </g>
+            <g id="折角">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>
