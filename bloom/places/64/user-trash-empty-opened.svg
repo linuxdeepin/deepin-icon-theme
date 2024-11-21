@@ -11,31 +11,28 @@
                 <feMergeNode in="SourceGraphic"></feMergeNode>
             </feMerge>
         </filter>
-        <path d="M2.47164448,0 L51.5283555,-8.8817842e-16 C52.6949758,-1.1024831e-15 53.6407085,0.945732626 53.6407085,2.11235294 C53.6407085,2.22256075 53.6320837,2.33259956 53.6149131,2.44146155 L46.5400835,47.296074 C45.931189,51.1564814 42.6040144,54 38.6958821,54 L15.3041179,54 C11.3959856,54 8.06881099,51.1564814 7.45991654,47.296074 L0.385086919,2.44146155 C0.203325252,1.28908763 0.990161949,0.207557045 2.14253587,0.0257953769 C2.25139786,0.0086247898 2.36143667,1.79660169e-15 2.47164448,1.77635684e-15 Z" id="path-2"></path>
-        <filter x="-20.6%" y="-21.3%" width="141.3%" height="142.6%" filterUnits="objectBoundingBox" id="filter-4">
-            <feMorphology radius="6" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
-            <feGaussianBlur stdDeviation="5.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="0" dy="-6" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+        <radialGradient cx="50%" cy="33.5196055%" fx="50%" fy="33.5196055%" r="66.4803945%" id="radialGradient-2">
+            <stop stop-color="#B8C6E3" stop-opacity="0.798295455" offset="0%"></stop>
+            <stop stop-color="#BCC9E5" stop-opacity="0.808877585" offset="17.6611632%"></stop>
+            <stop stop-color="#BFCAE5" stop-opacity="0.814572356" offset="29.8956866%"></stop>
+            <stop stop-color="#E8EBF2" stop-opacity="0.921209162" offset="100%"></stop>
+        </radialGradient>
+        <path d="M2.47164448,0 L51.5283555,-8.8817842e-16 C52.6949758,-1.1024831e-15 53.6407085,0.945732626 53.6407085,2.11235294 C53.6407085,2.22256075 53.6320837,2.33259956 53.6149131,2.44146155 L46.5400835,47.296074 C45.931189,51.1564814 42.6040144,54 38.6958821,54 L15.3041179,54 C11.3959856,54 8.06881099,51.1564814 7.45991654,47.296074 L0.385086919,2.44146155 C0.203325252,1.28908763 0.990161949,0.207557045 2.14253587,0.0257953769 C2.25139786,0.0086247898 2.36143667,3.12886932e-15 2.47164448,3.10862447e-15 Z" id="path-3"></path>
+        <filter x="-1.2%" y="-1.9%" width="102.4%" height="103.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner2"></feGaussianBlur>
-            <feOffset dx="0" dy="1" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
-            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
-            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
-                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
-            </feMerge>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.6 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
     </defs>
     <g id="places/64/user-trash-empty-opened" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="编组" filter="url(#filter-1)" transform="translate(5, 5)">
-            <mask id="mask-3" fill="white">
-                <use xlink:href="#path-2"></use>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
             </mask>
             <g id="蒙版">
-                <use fill-opacity="0.8" fill="#BFC7DC" fill-rule="evenodd" xlink:href="#path-2"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                <use fill="url(#radialGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
             </g>
         </g>
         <g id="Guide/64" transform="translate(2, 2)"></g>
