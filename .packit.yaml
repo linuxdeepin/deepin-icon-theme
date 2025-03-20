@@ -4,7 +4,7 @@
 specfile_path: rpm/deepin-icon-theme.spec
 
 # add or remove files that should be synced
-synced_files:
+files_to_sync:
     - rpm/deepin-icon-theme.spec
     - .packit.yaml
 
