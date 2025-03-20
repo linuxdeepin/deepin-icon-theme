@@ -1,3 +1,13 @@
+deepin-icon-theme (2025.03.20) unstable; urgency=medium
+
+  * chore: remove the status icon of deepin-home
+  * 更新部分电源托盘图标、添加云盘图标
+  * update trash icons for faster rendering
+  * update bloom and bloom dark cursor theme and several AI icons
+  * update cursor theme of bloom
+
+ -- zhangkun <zhangkun2@uniontech.com>  Thu, 20 Mar 2025 17:51:16 +0800
+
 deepin-icon-theme (2024.07.31) unstable; urgency=medium
 
   * UNRELEASED
