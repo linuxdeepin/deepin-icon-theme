@@ -1,3 +1,9 @@
+deepin-icon-theme (2025.03.28) unstable; urgency=medium
+
+  * chore: update bloom theme
+
+ -- YeShanShan <yeshanshan@uniontech.com>  Tue, 13 May 2025 20:59:54 +0800
+
 deepin-icon-theme (2025.03.27) unstable; urgency=medium
 
   * chore: remove unnecessary quotation marks from the Name field
