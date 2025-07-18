@@ -1,3 +1,9 @@
+deepin-icon-theme (2025.07.18) unstable; urgency=medium
+
+  * chore: remove obsolete merge_icons_dstore.py script
+
+ -- zhangkun <zhangkun2@uniontech.com>  Fri, 18 Jul 2025 11:08:14 +0800
+
 deepin-icon-theme (2025.05.13) unstable; urgency=medium
 
   * chore: update bloom theme
