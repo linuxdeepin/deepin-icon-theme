@@ -1,3 +1,10 @@
+deepin-icon-theme (2025.8.14) unstable; urgency=medium
+
+  * fix: update battery and shutdown icons. #110
+  * chore: modify org.deepin.browser.svg
+
+ -- wujiangyu <wujiangyu@uniontech.com>  Thu, 14 Aug 2025 16:51:57 +0800
+
 deepin-icon-theme (2025.07.18) unstable; urgency=medium
 
   * chore: remove obsolete merge_icons_dstore.py script
