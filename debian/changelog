@@ -1,3 +1,9 @@
+deepin-icon-theme (2025.8.28) unstable; urgency=medium
+
+  * chore: update icons
+
+ -- zhangkun <zhangkun2@uniontech.com>  Thu, 28 Aug 2025 14:35:04 +0200
+
 deepin-icon-theme (2025.8.14) unstable; urgency=medium
 
   * fix: update battery and shutdown icons. #110
