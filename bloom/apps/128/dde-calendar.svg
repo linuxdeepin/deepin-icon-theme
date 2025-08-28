@@ -2,8 +2,8 @@
 <svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>apps/128/dde-calendar</title>
     <defs>
-        <filter x="-9.6%" y="-7.5%" width="119.6%" height="120.6%" filterUnits="objectBoundingBox" id="filter-1">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+        <filter x="-9.6%" y="-7.5%" width="119.6%" height="120.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-0.278346202" dy="1.98053614" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
             <feMerge>
@@ -33,27 +33,36 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="apps/128/dde-calendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组-2" filter="url(#filter-1)" transform="translate(64, 64) rotate(-8) translate(-64, -64)translate(10.5, 10.5)">
+    <g id="apps/128/dde-calendar" stroke="none" fill="none">
+        <g id="编组-2" filter="url(#filter-1)" stroke-width="1" fill-rule="evenodd" transform="translate(64, 64) rotate(-8) translate(-64, -64)translate(10.5, 10.5)">
             <g id="编组" transform="translate(-0, -0)">
-                <rect id="矩形备份-2" fill="#FFFFFF" x="1.72084399e-12" y="-2.62384722e-13" width="107" height="107" rx="19.5"></rect>
+                <rect id="矩形备份-2" fill="#FFFFFF" x="2.14474681e-12" y="4.71161729e-13" width="107" height="107" rx="19.5"></rect>
                 <path d="M107,73 L107,87.5 C107,98.2695526 98.2695526,107 87.5,107 L77,107 C87.25,105.75 94.4583333,101.791667 98.625,95.125 C102.791667,88.4583333 105.583333,81.0833333 107,73 Z" id="形状结合" fill-opacity="0.39" fill="url(#radialGradient-2)"></path>
-                <text id="MARCH" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="17.5" font-weight="400" fill="#E06164">
-                    <tspan x="23" y="26">MARCH</tspan>
-                </text>
+                <g id="MARCH" transform="translate(23, 6)" fill="#E06164" fill-rule="nonzero">
+                    <path d="M1.6975,20 L3.5175,20 L3.5175,13.63 C3.5175,12.475 3.36,10.8125 3.2725,9.64 L3.3425,9.64 L4.3575,12.615 L6.615,18.7575 L7.875,18.7575 L10.115,12.615 L11.1475,9.64 L11.2175,9.64 C11.1125,10.8125 10.955,12.475 10.955,13.63 L10.955,20 L12.845,20 L12.845,7.1025 L10.5,7.1025 L8.1725,13.63 C7.875,14.4875 7.63,15.3625 7.3325,16.22 L7.245,16.22 C6.9475,15.3625 6.685,14.4875 6.3875,13.63 L4.025,7.1025 L1.6975,7.1025 L1.6975,20 Z" id="路径"></path>
+                    <path d="M18.69,13 C19.11,11.6 19.5125,10.1825 19.88,8.7125 L19.9675,8.7125 C20.3525,10.165 20.7375,11.6 21.175,13 L21.6825,14.7325 L18.165,14.7325 L18.69,13 Z M14.525,20 L16.59,20 L17.6925,16.325 L22.1725,16.325 L23.2575,20 L25.41,20 L21.14,7.1025 L18.795,7.1025 L14.525,20 Z" id="形状"></path>
+                    <path d="M27.1075,20 L29.1375,20 L29.1375,14.8025 L31.22,14.8025 L34.1425,20 L36.435,20 L33.285,14.54 C34.9125,14.0325 35.98,12.8425 35.98,10.8475 C35.98,8.065 33.985,7.1025 31.325,7.1025 L27.1075,7.1025 L27.1075,20 Z M29.1375,13.175 L29.1375,8.7475 L31.08,8.7475 C32.9525,8.7475 33.9675,9.29 33.9675,10.8475 C33.9675,12.405 32.9525,13.175 31.08,13.175 L29.1375,13.175 Z" id="形状"></path>
+                    <path d="M43.61,20.2275 C45.2725,20.2275 46.585,19.5625 47.6175,18.3725 L46.5325,17.095 C45.7625,17.935 44.87,18.46 43.68,18.46 C41.405,18.46 39.97,16.5875 39.97,13.525 C39.97,10.4975 41.51,8.6425 43.7325,8.6425 C44.7825,8.6425 45.5875,9.115 46.2525,9.7975 L47.355,8.5025 C46.5675,7.645 45.3075,6.875 43.6975,6.875 C40.4425,6.875 37.8875,9.395 37.8875,13.595 C37.8875,17.8125 40.3725,20.2275 43.61,20.2275 Z" id="路径"></path>
+                    <polygon id="路径" points="49.8925 20 51.9225 20 51.9225 14.1375 57.435 14.1375 57.435 20 59.465 20 59.465 7.1025 57.435 7.1025 57.435 12.37 51.9225 12.37 51.9225 7.1025 49.8925 7.1025"></polygon>
+                </g>
                 <g id="27" fill-rule="nonzero">
                     <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
                     <use fill="#2D394F" xlink:href="#path-3"></use>
                 </g>
             </g>
-            <text id="MONDAY" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="10" font-weight="400" fill="#2D394F">
-                <tspan x="32.25" y="93">MONDAY</tspan>
-            </text>
+            <g id="MONDAY" transform="translate(32.25, 81)" fill="#2D394F" fill-rule="nonzero">
+                <path d="M0.97,12 L2.01,12 L2.01,8.36 C2.01,7.7 1.92,6.75 1.87,6.08 L1.91,6.08 L2.49,7.78 L3.78,11.29 L4.5,11.29 L5.78,7.78 L6.37,6.08 L6.41,6.08 C6.35,6.75 6.26,7.7 6.26,8.36 L6.26,12 L7.34,12 L7.34,4.63 L6,4.63 L4.67,8.36 C4.5,8.85 4.36,9.35 4.19,9.84 L4.14,9.84 C3.97,9.35 3.82,8.85 3.65,8.36 L2.3,4.63 L0.97,4.63 L0.97,12 Z" id="路径"></path>
+                <path d="M12.07,12.13 C13.96,12.13 15.28,10.66 15.28,8.29 C15.28,5.92 13.96,4.5 12.07,4.5 C10.18,4.5 8.87,5.92 8.87,8.29 C8.87,10.66 10.18,12.13 12.07,12.13 Z M12.07,11.12 C10.85,11.12 10.06,10.01 10.06,8.29 C10.06,6.56 10.85,5.51 12.07,5.51 C13.29,5.51 14.09,6.56 14.09,8.29 C14.09,10.01 13.29,11.12 12.07,11.12 Z" id="形状"></path>
+                <path d="M16.81,12 L17.91,12 L17.91,8.53 C17.91,7.73 17.82,6.88 17.76,6.12 L17.81,6.12 L18.58,7.66 L21.02,12 L22.21,12 L22.21,4.63 L21.11,4.63 L21.11,8.07 C21.11,8.87 21.2,9.76 21.26,10.52 L21.21,10.52 L20.44,8.96 L18,4.63 L16.81,4.63 L16.81,12 Z" id="路径"></path>
+                <path d="M24.15,12 L26.12,12 C28.32,12 29.61,10.68 29.61,8.29 C29.61,5.89 28.32,4.63 26.06,4.63 L24.15,4.63 L24.15,12 Z M25.31,11.05 L25.31,5.58 L25.98,5.58 C27.56,5.58 28.41,6.45 28.41,8.29 C28.41,10.12 27.56,11.05 25.98,11.05 L25.31,11.05 Z" id="形状"></path>
+                <path d="M32.55,8 C32.79,7.2 33.02,6.39 33.23,5.55 L33.28,5.55 C33.5,6.38 33.72,7.2 33.97,8 L34.26,8.99 L32.25,8.99 L32.55,8 Z M30.17,12 L31.35,12 L31.98,9.9 L34.54,9.9 L35.16,12 L36.39,12 L33.95,4.63 L32.61,4.63 L30.17,12 Z" id="形状"></path>
+                <path d="M38.57,12 L39.73,12 L39.73,9.21 L41.95,4.63 L40.74,4.63 L39.88,6.59 C39.66,7.14 39.42,7.65 39.18,8.21 L39.14,8.21 C38.89,7.65 38.68,7.14 38.45,6.59 L37.6,4.63 L36.36,4.63 L38.57,9.21 L38.57,12 Z" id="路径"></path>
+            </g>
             <g id="路径-11">
                 <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
                 <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
             </g>
         </g>
-        <g id="Guide-128" transform="translate(4, 4)"></g>
+        <g id="Guide-128"></g>
     </g>
 </svg>
